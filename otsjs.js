@@ -352,7 +352,7 @@ function request() {
 // const text = await response.text();
 
 // console.log(text);
-  fetch("http://qbook.pythonanywhere.com?pid=9447", {
+  fetch("https://qbook.pythonanywhere.com?pid=9447", {
     method: "GET",
     // headers: {
     //   "accept": "*/*",
@@ -393,7 +393,7 @@ async function sendRequest(url, data, method) {
   var pid="MISLEN"
   console.log(pid)
   var data = data;
-  var url="http://qbook.pythonanywhere.com?pid="+pid
+  var url="https://qbook.pythonanywhere.com?pid="+pid
   var response = await fetch(url, {
     method: 'GET',
   //   headers: {
