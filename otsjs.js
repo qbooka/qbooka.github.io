@@ -398,7 +398,7 @@ async function sendRequest(url, data, method) {
     method: 'GET',
     headers: {
    
-       'mode': "no-cors",
+       'mode': "cors",
      
   
   },
