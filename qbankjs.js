@@ -3,7 +3,7 @@ async function sendRequest(url, data, method) {
     var pid = "MTEN"
     console.log(pid)
     var data = data;
-    var url = "http://qbook.pythonanywhere.com?pid=" + pid
+    var url = "https://qbook.pythonanywhere.com?pid=" + pid
     var response = await fetch(url, {
         method: 'GET',
 
@@ -21,7 +21,7 @@ var existOption = false
 
 function QuestionAnswer(paper_id) {
 
-    var url = "https://learning.motion.ac.in/motioneducation/api/user/cpsQuestionDetailsBySubTopic";
+    var url = "";
     var method = "Post"
     var data = '{"paper_id":9447}';
     (async () => {
