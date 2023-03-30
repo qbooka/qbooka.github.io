@@ -190,7 +190,7 @@ function forwardTo(data1, data2) {
 
 
 function testInstruction(subject, topicName, subTopicName) {
-    document.getElementById('navbar').style.display = "none"
+
     document.getElementById('subSUbTopicInner').style.display = "none"
     document.getElementById('instructionInner').style.display = "block"
     document.getElementById('subjectVIsibility').style.display = "none"
