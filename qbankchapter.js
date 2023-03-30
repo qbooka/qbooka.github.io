@@ -38,7 +38,7 @@ function Start() {
     var data = '{"course_id":44,"class_id":3}';
 
     xhr.send(data);
-    document.getElementById('startButton').style.display = "none";
+//     document.getElementById('startButton').style.display = "none";
 
 }
 function aler() {
