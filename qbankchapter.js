@@ -1,6 +1,6 @@
 
 function Start() {
-    var url = "https://learning.motion.ac.in/motioneducation/api/user/UserSubjectOTS";
+    var url = "https://qbook.pythonanywhere.com/mrequest?data=";
 
     var xhr = new XMLHttpRequest();
     xhr.open("POST", url);
