@@ -4,8 +4,6 @@ function Start() {
 
     var xhr = new XMLHttpRequest();
     xhr.open("POST", url);
-    xhr.setRequestHeader("authorization", "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMTc0NjQsImV4cGlyZXNfYXQiOiIyMDIyLTEwLTA2IDA1OjUwOjUxIn0.zEUKKiuoB0JqLbfYGofAftUkHjvr4Fpm-hbUGRbbnV0");
-    xhr.setRequestHeader("content-type", "application/json");
     xhr.onreadystatechange = function () {
         if (xhr.readyState === 4) {
             console.log(xhr.status);
