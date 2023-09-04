@@ -472,7 +472,7 @@ function showLectureNAme(e) {
     <div class="overlayText">
         <p id="vtitle"></p>
       </div>`
-      document.querySelector("#light").insertAdjacentHTML("afterBegin", n)
+      document.querySelector("#light").insertAdjacentHTML("afterBegin", vg)
     document.querySelector("#vtitle").innerHTML = "";
     var t = atob_utf8(e);
     let n = `<h5 class="lecHead">${t}</h5>\n     `;
@@ -544,3 +544,4 @@ function playM3u8(e) {
         document.title = "MyM3U8player"
     }
 }
+
