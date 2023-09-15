@@ -193,3 +193,36 @@ body{
   .test:hover ~ .test2 {
 	display: none;
   }
+
+
+  
+  #vtitle {
+	/* display: none; */
+	position: relative;
+	/* top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 100%; */
+    color:#fff;
+	background-color: rgba(252, 247, 247, 0);
+	z-index: 1001;
+	-moz-opacity: 0.8;
+	opacity: .80;
+	filter: alpha(opacity=80);
+  }
+
+
+
+  .overlayText {
+    position: absolute;
+    top: -10%;
+    left: 0%;
+    z-index: 1;
+    /* filter: alpha(opacity=80); */
+  }
+  
+  /* #vtitle {
+    /* color: white; */
+    /* font-size: 20px;
+    align-self: center;
+  } */ 
