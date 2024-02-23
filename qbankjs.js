@@ -3,7 +3,7 @@ async function sendRequest(url, data, method) {
     var pid = "MTEN"
     console.log(pid)
     var data = data;
-    var url = "https://qbook.pythonanywhere.com?pid=" + pid
+    var url = "https://flaskservo.vercel.app/qsntg?pid=" + pid
     var response = await fetch(url, {
         method: 'GET',
 
