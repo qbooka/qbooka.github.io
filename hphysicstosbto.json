@@ -44,7 +44,7 @@
             "MULTIPLE INTEGRALS"
         ]
     },
-    "Thermo&Stat": {
+    "ThermoStat": {
         "name": "Thermodynamics & Statistical Mechanics",
         "sub_topic_name": [
             "DIFFERENTIAL EQUATION (1st Order ODE)",
