@@ -12,7 +12,8 @@
             "DU",
             "BHU",
             "HCU",
-            "INPHO","IPHO"
+            "INPHO",
+            "IPHO"
         ],
         "Book_Source": [
             "IRODOV",
@@ -31,7 +32,19 @@
             "HCV-EMT",
             "PATHFINDER",
             "RESNICK",
-            "PURCELL&MORIN","ARFKEN","HK-D","CENGAGE","PGALAXY","SBT","ANURAGMISHRA","DSMATHUR","A-BEISER","ML-BOAS","KADLA","INPHO",""
+            "PURCELL&MORIN",
+            "ARFKEN",
+            "HK-D",
+            "CENGAGE",
+            "PGALAXY",
+            "SBT",
+            "ANURAGMISHRA",
+            "DSMATHUR",
+            "A-BEISER",
+            "ML-BOAS",
+            "KADLA",
+            "INPHO",
+            ""
         ]
     },
     "TAGs": [
@@ -43,6 +56,8 @@
         "Memory",
         "InterView",
         "ForJEE",
-        "ForNEET"
+        "ForNEET",
+        "MultiConcept",
+        "Mathematical"
     ]
 }
