@@ -1,0 +1,6 @@
+{
+    "sources":{
+        "Exam_Source":["IIT-JAM","CSIR-NET","CUETPG","JEST","TIFR","GATE-PHY","DU","BHU","HCU"],
+        "Book_Source":["IRODOV","KROTOV","GRIFFITH-EMT","GRIFFITH-QM","LIMSERIES"]
+    }
+}
