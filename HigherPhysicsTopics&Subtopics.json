@@ -27,5 +27,30 @@
             "DIFFERENTIAL EQUATION (2nd Order ODE)",
             "MULTIPLE INTEGRALS"
         ]
+    },
+    "EMT": {
+        "name": "Electro Magnetic Theory",
+        "sub_topic_name": [
+            "DIFFERENTIAL EQUATION (1st Order ODE)",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS"
+        ]
+    },
+    "Wave&Osci": {
+        "name": "Waves & oscillation",
+        "sub_topic_name": [
+            "DIFFERENTIAL EQUATION (1st Order ODE)",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS"
+        ]
+    },
+    "Thermo&Stat": {
+        "name": "Thermodynamics & Statistical Mechanics",
+        "sub_topic_name": [
+            "DIFFERENTIAL EQUATION (1st Order ODE)",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS"
+        ]
     }
+    
 }
