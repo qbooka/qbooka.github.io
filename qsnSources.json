@@ -11,7 +11,8 @@
             "GATE-PHY",
             "DU",
             "BHU",
-            "HCU"
+            "HCU",
+            "INPHO","IPHO"
         ],
         "Book_Source": [
             "IRODOV",
@@ -30,7 +31,7 @@
             "HCV-EMT",
             "PATHFINDER",
             "RESNICK",
-            "PURCELL&MORIN","ARFKEN","HK-D","CENGAGE","PGALAXY","SBT","ANURAGMISHRA","DSMATHUR","A-BEISER","ML-BOAS"
+            "PURCELL&MORIN","ARFKEN","HK-D","CENGAGE","PGALAXY","SBT","ANURAGMISHRA","DSMATHUR","A-BEISER","ML-BOAS","KADLA","INPHO",""
         ]
     },
     "TAGs": [
