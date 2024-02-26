@@ -83,6 +83,14 @@
             "DIFFERENTIAL EQUATION (2nd Order ODE)",
             "MULTIPLE INTEGRALS"
         ]
+    },
+    "Nuclear&Particle": {
+        "name": "Nuclear & Particle Physics",
+        "sub_topic_name": [
+            "DIFFERENTIAL EQUATION (1st Order ODE)",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS"
+        ]
     }
     
 }
