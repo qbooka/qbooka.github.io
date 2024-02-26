@@ -1,0 +1,19 @@
+{
+    "Quantum": {
+        "name": "Quantum Mechanics",
+        "sub_topic_name": [
+            "COMPTON EFFECT",
+            "BLACK BODY RADIATION",
+            "WAVE PARTICLE DUALITY",
+            "UNCERTAINTY PRINCIPLE",
+            "CONCEPT OF WAVE FUNCTION",
+            "1-D INFINITE POTENTIAL WELL",
+            "2-D INFINITE POTENTIAL WELL",
+            "3-D INFINITE POTENTIAL WELL",
+            "1-D LINEAR HARMONIC OSCILLATOR",
+            "2-D HARMONIC OSCILLATOR",
+            "3-D HARMONIC OSCILLATOR",
+            "OPERATOR FORMALISM"
+        ]
+    }
+}
