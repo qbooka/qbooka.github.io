@@ -51,6 +51,38 @@
             "DIFFERENTIAL EQUATION (2nd Order ODE)",
             "MULTIPLE INTEGRALS"
         ]
+    },
+    "Electronics": {
+        "name": "Electronics",
+        "sub_topic_name": [
+            "DIFFERENTIAL EQUATION (1st Order ODE)",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS"
+        ]
+    },
+    "ATMOL": {
+        "name": "Atomic & Molecular Physics",
+        "sub_topic_name": [
+            "DIFFERENTIAL EQUATION (1st Order ODE)",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS"
+        ]
+    },
+    "SSP": {
+        "name": "Condensed Matter Physics",
+        "sub_topic_name": [
+            "DIFFERENTIAL EQUATION (1st Order ODE)",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS"
+        ]
+    },
+    "CM": {
+        "name": "Classical Mechanics",
+        "sub_topic_name": [
+            "DIFFERENTIAL EQUATION (1st Order ODE)",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS"
+        ]
     }
     
 }
