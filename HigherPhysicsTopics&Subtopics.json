@@ -2,6 +2,7 @@
     "Quantum": {
         "name": "Quantum Mechanics",
         "sub_topic_name": [
+            "PHOTONS & PHOTOELECTRIC EFFECT",
             "COMPTON EFFECT",
             "BLACK BODY RADIATION",
             "WAVE PARTICLE DUALITY",
@@ -13,7 +14,10 @@
             "1-D LINEAR HARMONIC OSCILLATOR",
             "2-D HARMONIC OSCILLATOR",
             "3-D HARMONIC OSCILLATOR",
-            "OPERATOR FORMALISM"
+            "OPERATOR FORMALISM",
+            "STEP & BARRIER POTENTIAL",
+            "HYDROGEN ATOM",
+            "ANGULAR MOMENTUM ALGEBRA",
         ]
     }
 }
