@@ -192,6 +192,57 @@
             "subject": "PHYSICS",
             "topic_name": "MP",
             "toughness": "HARD"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "leanthy",
+                "calculative",
+                "MultiConcept",
+                "CAN BE MULTIPLE"
+            ],
+            "added_By": "sai",
+            "date": "3/1/2024, 12:16:45 AM",
+            "ocrQuestion": "Which of following functions does not satisfy Laplace's equation i.e. \\( \\frac{\\partial^{2} u}{\\partial x^{2}}+\\frac{\\partial^{2} u}{\\partial y^{2}}=0 \\) ?\n(a) \\( u=x^{3}-3 x y^{2} \\)\n(b) \\( u=\\sin x \\cosh y \\)\n(c) \\( u=y^{3}+x y^{2} \\)\n(d) \\( u=\\frac{1}{2} \\ln \\left(x^{2}+y^{2}\\right) \\)",
+            "onlyq_text": "<p>Which of following functions does not satisfy Laplace's equation i.e. \\( \\frac{\\partial^{2} u}{\\partial x^{2}}+\\frac{\\partial^{2} u}{\\partial y^{2}}=0 \\) ?</p>",
+            "option": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( u=x^{3}-3 x y^{2} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( u=\\sin x \\cosh y \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( u=y^{3}+x y^{2} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( u=\\frac{1}{2} \\ln \\left(x^{2}+y^{2}\\right) \\)</p>"
+                }
+            ],
+            "option_hindi": [],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "PARTIAL DIFFERENTIATION",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "HARD"
         }
     ]
 }
