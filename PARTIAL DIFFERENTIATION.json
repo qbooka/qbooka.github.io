@@ -1,0 +1,197 @@
+{
+    "questions": [
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast"
+            ],
+            "added_By": "sai",
+            "date": "2/29/2024, 11:41:37 PM",
+            "ocrQuestion": "If \\( u=\\ln \\left(x^{2}+y^{2}\\right) \\), then \\( \\frac{\\partial u}{\\partial y} \\) is\n(a) \\( \\frac{2 y}{x^{2}+y^{2}} \\)\n(b) \\( \\frac{y}{x^{2}+y^{2}} \\)\n(c) \\( \\frac{2 x}{x^{2}+y^{2}} \\)\n(d) \\( \\frac{x}{x^{2}+y^{2}} \\)",
+            "onlyq_text": "<p>If \\( u=\\ln \\left(x^{2}+y^{2}\\right) \\), then \\( \\frac{\\partial u}{\\partial y} \\) is</p>",
+            "option": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{2 y}{x^{2}+y^{2}} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{y}{x^{2}+y^{2}} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\frac{2 x}{x^{2}+y^{2}} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{x}{x^{2}+y^{2}} \\)</p>"
+                }
+            ],
+            "option_hindi": [],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "PARTIAL DIFFERENTIATION",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "leanthy",
+                "calculative"
+            ],
+            "added_By": "sai",
+            "date": "2/29/2024, 11:47:50 PM",
+            "ocrQuestion": "If \\( z=e^{a x+b y} \\cdot f(a x-b y) \\), then \\( b \\frac{\\partial z}{\\partial x}+a \\frac{\\partial z}{\\partial y} \\) will be\n(a) \\( a b z \\)\n(b) \\( 2 a b z \\)\n(c) \\( 4 a b z \\)\n(d) \\( 8 a b z \\)",
+            "onlyq_text": "<p>If \\( z=e^{a x+b y} \\cdot f(a x-b y) \\), then \\( b \\frac{\\partial z}{\\partial x}+a \\frac{\\partial z}{\\partial y} \\) will be</p>",
+            "option": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( a b z \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 2 a b z \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 4 a b z \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 8 a b z \\)</p>"
+                }
+            ],
+            "option_hindi": [],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "PARTIAL DIFFERENTIATION",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual"
+            ],
+            "added_By": "sai",
+            "date": "2/29/2024, 11:51:03 PM",
+            "ocrQuestion": "If \\( u=x^{y} \\), then \\( \\frac{\\partial^{2} u}{\\partial x \\partial y} \\) is\n(a) \\( x^{y-1}[y \\ln x+1] \\)\n(b) \\( x^{y}[y \\ln x+1] \\)\n(c) \\( x^{y-1}[x \\ln y+1] \\)\n(d) \\( x^{y}[x \\ln y+1] \\)",
+            "onlyq_text": "<p>If \\( u=x^{y} \\), then \\( \\frac{\\partial^{2} u}{\\partial x \\partial y} \\) is</p>",
+            "option": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( x^{y-1}[y \\ln x+1] \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( x^{y}[y \\ln x+1] \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( x^{y-1}[x \\ln y+1] \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( x^{y}[x \\ln y+1] \\)</p>"
+                }
+            ],
+            "option_hindi": [],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "PARTIAL DIFFERENTIATION",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "leanthy",
+                "calculative"
+            ],
+            "added_By": "sai",
+            "date": "3/1/2024, 12:07:24 AM",
+            "ocrQuestion": "If \\( u=y^{n} \\exp \\left(-\\frac{x^{2}}{4 y}\\right) \\), then the value of \\( n \\) for which \\( \\frac{1}{x^{2}} \\frac{\\partial}{\\partial x}\\left(x^{2} \\frac{\\partial u}{\\partial x}\\right)=\\frac{\\partial u}{\\partial y} \\), is\n(a) 2\n(b) -2\n(c) \\( 3 / 2 \\)\n(d) \\( -3 / 2 \\)",
+            "onlyq_text": "<p>If \\( u=y^{n} \\exp \\left(-\\frac{x^{2}}{4 y}\\right) \\), then the value of \\( n \\) for which \\( \\frac{1}{x^{2}} \\frac{\\partial}{\\partial x}\\left(x^{2} \\frac{\\partial u}{\\partial x}\\right)=\\frac{\\partial u}{\\partial y} \\), is</p>",
+            "option": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) 2</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) -2</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 3 / 2 \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( -3 / 2 \\)</p>"
+                }
+            ],
+            "option_hindi": [],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "PARTIAL DIFFERENTIATION",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "HARD"
+        }
+    ]
+}
