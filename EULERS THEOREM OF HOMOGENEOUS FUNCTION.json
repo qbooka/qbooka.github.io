@@ -10,7 +10,7 @@
             "date": "3/1/2024, 4:22:10 PM",
             "ocrQuestion": "Question: If \\( \\ln u=\\frac{x^{3}+y^{3}}{3 x+4 y} \\), then \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) is equal to\n(a) \\( 2 u \\ln u \\)\n(b) \\( u \\ln u \\)\n(c) \\( \\frac{2}{u} \\ln u \\)\n(d) \\( \\frac{1}{u} \\ln u \\)",
             "onlyq_text": "<p>Question: If \\( \\ln u=\\frac{x^{3}+y^{3}}{3 x+4 y} \\), then \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) is equal to</p>",
-            "option": [
+            "options": [
                 {
                     "is_correct": 1,
                     "lang_id": 1,
@@ -58,7 +58,7 @@
             "date": "3/1/2024, 4:26:05 PM",
             "ocrQuestion": "If \\( u(x, y)=x^{4} \\tan ^{-1}\\left(\\frac{y}{x}\\right)+\\left(\\frac{x^{5}+y^{5}}{x+y}\\right) \\), then \\( x \\frac{\\partial v}{\\partial x}+y \\frac{\\partial v}{\\partial y} \\) is.\n1. \\( 4 \\mathrm{u} \\)\n2. \\( 12 \\mathrm{u} \\)\n3. \\( -4 \\mathrm{u} \\)\n4. \\( -12 \\mathrm{u} \\)",
             "onlyq_text": "<p>If \\( u(x, y)=x^{4} \\tan ^{-1}\\left(\\frac{y}{x}\\right)+\\left(\\frac{x^{5}+y^{5}}{x+y}\\right) \\), then \\( x \\frac{\\partial v}{\\partial x}+y \\frac{\\partial v}{\\partial y} \\) is.</p>",
-            "option": [
+            "options": [
                 {
                     "is_correct": 1,
                     "lang_id": 1,
@@ -106,7 +106,7 @@
             "date": "3/1/2024, 4:28:23 PM",
             "ocrQuestion": "If \\( u=\\sin ^{-1}\\left(\\frac{x}{y}\\right)+\\tan ^{-1}\\left(\\frac{y}{x}\\right) \\), then the value of \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) is\n1. U\n2. \\( 2 \\mathrm{u} \\)\n3. \\( 3 \\mathrm{u} \\)\n4. 0",
             "onlyq_text": "<p>If \\( u=\\sin ^{-1}\\left(\\frac{x}{y}\\right)+\\tan ^{-1}\\left(\\frac{y}{x}\\right) \\), then the value of \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) is</p>",
-            "option": [
+            "options": [
                 {
                     "is_correct": 4,
                     "lang_id": 1,
@@ -155,7 +155,7 @@
             "date": "3/1/2024, 5:06:54 PM",
             "ocrQuestion": "If \\( u=\\sin ^{-1}\\left(\\frac{x+y}{\\sqrt{x}+\\sqrt{y}}\\right) \\) then by Euler's theorem, \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) equals to\n1. \\( \\frac{1}{2} \\sin u \\)\n2. \\( \\frac{1}{2} \\tan u \\)\n3. \\( x+y \\)\n4. \\( \\sin x+\\sin y \\)",
             "onlyq_text": "<p>If \\( u=\\sin ^{-1}\\left(\\frac{x+y}{\\sqrt{x}+\\sqrt{y}}\\right) \\) then by Euler's theorem, \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) equals to</p>",
-            "option": [
+            "options": [
                 {
                     "is_correct": 2,
                     "lang_id": 1,
@@ -203,7 +203,7 @@
             "date": "3/1/2024, 5:11:36 PM",
             "ocrQuestion": "If \\( u=x^{n-1} y f\\left(\\frac{y}{x}\\right) \\) then \\( \\frac{x \\partial^{2} u}{\\partial x^{2}}+\\frac{y \\partial^{2} u}{\\partial y \\partial x} \\) is equal to\n1. \\( (n-1) \\frac{\\partial u}{\\partial x} \\)\n2. \\( (n-1) \\frac{\\partial u}{\\partial y} \\)\n3. nu\n4. \\( n(n-1) u \\)",
             "onlyq_text": "<p>If \\( u=x^{n-1} y f\\left(\\frac{y}{x}\\right) \\) then \\( \\frac{x \\partial^{2} u}{\\partial x^{2}}+\\frac{y \\partial^{2} u}{\\partial y \\partial x} \\) is equal to</p>",
-            "option": [
+            "options": [
                 {
                     "is_correct": 1,
                     "lang_id": 1,
@@ -251,7 +251,7 @@
             "date": "3/1/2024, 5:13:17 PM",
             "ocrQuestion": "If \\( u=\\tan ^{-1}\\left(\\frac{y^{3}-x^{3}}{x^{2}+y^{2}+x y}\\right) \\) the value of \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) at \\( \\mathrm{x}=1 \\) and \\( \\mathrm{y}=3 \\) is\n1. 0.6\n2. 0.4\n3. 0.8\n4. 1.2",
             "onlyq_text": "<p>If \\( u=\\tan ^{-1}\\left(\\frac{y^{3}-x^{3}}{x^{2}+y^{2}+x y}\\right) \\) the value of \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) at \\( \\mathrm{x}=1 \\) and \\( \\mathrm{y}=3 \\) is</p>",
-            "option": [
+            "options": [
                 {
                     "is_correct": 2,
                     "lang_id": 1,
