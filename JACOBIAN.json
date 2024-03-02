@@ -1011,8 +1011,8 @@
             "added_By": "sai",
             "concept_html": "",
             "date": "3/2/2024, 11:24:10 AM",
-            "ocrQuestion": "9. If \\( x=u v, y=\\frac{1}{v} \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is\na) \\( \\frac{1}{v} \\)\nb) \\( -\\frac{1}{v} \\)\nc) \\( \\frac{2}{v} \\)\nd) \\( \\frac{-2}{v} \\)",
-            "onlyq_text": "<p>9. If \\( x=u v, y=\\frac{1}{v} \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is</p>",
+            "ocrQuestion": "If \\( x=u v, y=\\frac{1}{v} \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is\na) \\( \\frac{1}{v} \\)\nb) \\( -\\frac{1}{v} \\)\nc) \\( \\frac{2}{v} \\)\nd) \\( \\frac{-2}{v} \\)",
+            "onlyq_text": "<p>If \\( x=u v, y=\\frac{1}{v} \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is</p>",
             "option_hindi": [],
             "options": [
                 {
