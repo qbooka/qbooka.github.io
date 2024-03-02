@@ -210,12 +210,12 @@
                 {
                     "is_correct": 3,
                     "lang_id": 1,
-                    "option": "<p>b) \\( \\frac{e^{2} x}{2} \\)</p>"
+                    "option": "<p>b) \\( \\frac{e^{2x} }{2} \\)</p>"
                 },
                 {
                     "is_correct": 3,
                     "lang_id": 1,
-                    "option": "<p>c) \\( \\frac{-e^{2} x}{2} \\)</p>"
+                    "option": "<p>c) \\( \\frac{-e^{2x} }{2} \\)</p>"
                 },
                 {
                     "is_correct": 3,
