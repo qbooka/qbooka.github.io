@@ -964,27 +964,27 @@
             "added_By": "sai",
             "concept_html": "",
             "date": "3/2/2024, 11:23:26 AM",
-            "ocrQuestion": "8. If \\( x=\\sin \\vartheta \\cos \\varphi \\quad \\) and \\( y=\\sin \\vartheta \\sin \\varphi \\) then \\( \\frac{\\partial(x, y)}{\\partial(\\vartheta, \\varphi)} \\) is\na) \\( \\sin \\vartheta \\cos \\varphi \\)\nb) \\( \\sin \\varphi \\cos \\vartheta \\)\nc) \\( \\sin \\vartheta-\\cos \\varphi \\)\nd) \\( \\sin \\vartheta \\cos \\vartheta \\)",
-            "onlyq_text": "<p>8. If \\( x=\\sin \\vartheta \\cos \\varphi \\quad \\) and \\( y=\\sin \\vartheta \\sin \\varphi \\) then \\( \\frac{\\partial(x, y)}{\\partial(\\vartheta, \\varphi)} \\) is</p>",
+            "ocrQuestion": "If \\( x=\\sin \\vartheta \\cos \\varphi \\quad \\) and \\( y=\\sin \\vartheta \\sin \\varphi \\) then \\( \\frac{\\partial(x, y)}{\\partial(\\vartheta, \\varphi)} \\) is\na) \\( \\sin \\vartheta \\cos \\varphi \\)\nb) \\( \\sin \\varphi \\cos \\vartheta \\)\nc) \\( \\sin \\vartheta-\\cos \\varphi \\)\nd) \\( \\sin \\vartheta \\cos \\vartheta \\)",
+            "onlyq_text": "<p>If \\( x=\\sin \\vartheta \\cos \\varphi \\quad \\) and \\( y=\\sin \\vartheta \\sin \\varphi \\) then \\( \\frac{\\partial(x, y)}{\\partial(\\vartheta, \\varphi)} \\) is</p>",
             "option_hindi": [],
             "options": [
                 {
-                    "is_correct": null,
+                    "is_correct": 4,
                     "lang_id": 1,
                     "option": "<p>a) \\( \\sin \\vartheta \\cos \\varphi \\)</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 4,
                     "lang_id": 1,
                     "option": "<p>b) \\( \\sin \\varphi \\cos \\vartheta \\)</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 4,
                     "lang_id": 1,
                     "option": "<p>c) \\( \\sin \\vartheta-\\cos \\varphi \\)</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 4,
                     "lang_id": 1,
                     "option": "<p>d) \\( \\sin \\vartheta \\cos \\vartheta \\)</p>"
                 }
@@ -1016,22 +1016,22 @@
             "option_hindi": [],
             "options": [
                 {
-                    "is_correct": null,
+                    "is_correct": 2,
                     "lang_id": 1,
                     "option": "<p>a) \\( \\frac{1}{v} \\)</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 2,
                     "lang_id": 1,
                     "option": "<p>b) \\( -\\frac{1}{v} \\)</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 2,
                     "lang_id": 1,
                     "option": "<p>c) \\( \\frac{2}{v} \\)</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 2,
                     "lang_id": 1,
                     "option": "<p>d) \\( \\frac{-2}{v} \\)</p>"
                 }
