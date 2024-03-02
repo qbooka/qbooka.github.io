@@ -10,6 +10,7 @@
             "date": "3/1/2024, 10:38:43 PM",
             "ocrQuestion": "The jacobian of \\( p, q, r \\) w.r.t \\( x, y, z \\) given \\( p=x+y+z, q=y+z, r=z \\) is\na) 0\nb) 1\nc) 2\nd) -1",
             "onlyq_text": "<p>The jacobian of \\( p, q, r \\) w.r.t \\( x, y, z \\) given \\( p=x+y+z, q=y+z, r=z \\) is</p>",
+            "option_hindi": [],
             "options": [
                 {
                     "is_correct": 2,
@@ -32,7 +33,6 @@
                     "option": "<p>d) -1</p>"
                 }
             ],
-            "option_hindi": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -59,6 +59,7 @@
             "date": "3/1/2024, 10:46:11 PM",
             "ocrQuestion": "Given \\( u=\\frac{y z}{x}, v=\\frac{z x}{y}, w=\\frac{x y}{z} \\) then the value of \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\) is\na) 4\nb) -4\nc) 0\nd) 1",
             "onlyq_text": "<p>Given \\( u=\\frac{y z}{x}, v=\\frac{z x}{y}, w=\\frac{x y}{z} \\) then the value of \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\) is</p>",
+            "option_hindi": [],
             "options": [
                 {
                     "is_correct": 1,
@@ -81,7 +82,6 @@
                     "option": "<p>d) 1</p>"
                 }
             ],
-            "option_hindi": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -106,6 +106,7 @@
             "date": "3/1/2024, 10:53:26 PM",
             "ocrQuestion": "If \\( \\mathrm{u}=\\mathrm{x}+3 \\mathrm{y}^{2}-\\mathrm{z}^{3}, \\mathrm{v}=4 \\mathrm{x}^{2} \\mathrm{yz}, \\mathrm{w}=2 \\mathrm{z}^{2}-\\mathrm{xy} \\) then \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\) at \\( (1,1,1) \\).\na) -184\nb) -90\nc) 20\nd) 40",
             "onlyq_text": "<p>If \\( \\mathrm{u}=\\mathrm{x}+3 \\mathrm{y}^{2}-\\mathrm{z}^{3}, \\mathrm{v}=4 \\mathrm{x}^{2} \\mathrm{yz}, \\mathrm{w}=2 \\mathrm{z}^{2}-\\mathrm{xy} \\) then \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\) at \\( (1,1,1) \\).</p>",
+            "option_hindi": [],
             "options": [
                 {
                     "is_correct": 1,
@@ -128,7 +129,6 @@
                     "option": "<p>d) 40</p>"
                 }
             ],
-            "option_hindi": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -153,6 +153,7 @@
             "date": "3/1/2024, 10:55:51 PM",
             "ocrQuestion": "If \\( \\mathrm{x}=\\mathrm{r} \\cos \\theta, \\mathrm{y}=\\mathrm{r} \\sin \\theta \\) then the value of \\( \\frac{\\partial(x, y)}{\\partial(r, \\theta)} \\) is\na) 1\nb) 0\nc) \\( r \\)\nd) \\( \\frac{1}{r} \\)",
             "onlyq_text": "<p>If \\( \\mathrm{x}=\\mathrm{r} \\cos \\theta, \\mathrm{y}=\\mathrm{r} \\sin \\theta \\) then the value of \\( \\frac{\\partial(x, y)}{\\partial(r, \\theta)} \\) is</p>",
+            "option_hindi": [],
             "options": [
                 {
                     "is_correct": 3,
@@ -175,7 +176,6 @@
                     "option": "<p>d) \\( \\frac{1}{r} \\)</p>"
                 }
             ],
-            "option_hindi": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -201,6 +201,7 @@
             "date": "3/1/2024, 11:01:55 PM",
             "ocrQuestion": "If \\( \\mathrm{u}+\\mathrm{v}=\\mathrm{e}^{\\mathrm{x}} \\cos \\mathrm{y} \\) and \\( \\mathrm{u}-\\mathrm{v}=\\mathrm{e}^{\\mathrm{x}} \\sin \\mathrm{y} \\) the value of \\( J\\left(\\frac{u, v}{x, y}\\right) \\) is\na) \\( e^{2 x} \\)\nb) \\( \\frac{e^{2} x}{2} \\)\nc) \\( \\frac{-e^{2} x}{2} \\)\nd) 0",
             "onlyq_text": "<p>If \\( \\mathrm{u}+\\mathrm{v}=\\mathrm{e}^{\\mathrm{x}} \\cos \\mathrm{y} \\) and \\( \\mathrm{u}-\\mathrm{v}=\\mathrm{e}^{\\mathrm{x}} \\sin \\mathrm{y} \\) the value of \\( J\\left(\\frac{u, v}{x, y}\\right) \\) is</p>",
+            "option_hindi": [],
             "options": [
                 {
                     "is_correct": 3,
@@ -223,7 +224,6 @@
                     "option": "<p>d) 0</p>"
                 }
             ],
-            "option_hindi": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -249,6 +249,7 @@
             "date": "3/1/2024, 11:04:07 PM",
             "ocrQuestion": "Which among the following is the definition of Jacobian of \\( u \\) and \\( v \\) w.r.t \\( x \\) and \\( y \\) ?\na) \\( J\\left(\\frac{x, y}{u, v}\\right) \\)\nb) \\( J\\left(\\frac{u, v}{x, y}\\right) \\)\nc) \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)\nd) \\( \\frac{\\partial(u, x)}{\\partial(v, y)} \\)",
             "onlyq_text": "<p>Which among the following is the definition of Jacobian of \\( u \\) and \\( v \\) w.r.t \\( x \\) and \\( y \\) ?</p>",
+            "option_hindi": [],
             "options": [
                 {
                     "is_correct": 2,
@@ -271,7 +272,6 @@
                     "option": "<p>d) \\( \\frac{\\partial(u, x)}{\\partial(v, y)} \\)</p>"
                 }
             ],
-            "option_hindi": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -296,6 +296,7 @@
             "date": "3/1/2024, 11:06:46 PM",
             "ocrQuestion": "Compute the Jacobian, \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\), of the coordinate transformation \\( x=u^{2}-v^{4} \\), \\( y=u v \\).\n(a) \\( 2 u^{2}+4 v^{4} \\)\n(b) \\( x u-y v \\)\n(c) \\( 3 u^{2}+7 v^{6} \\)\n(d) \\( 2 u^{2} \\)",
             "onlyq_text": "<p>Compute the Jacobian, \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\), of the coordinate transformation \\( x=u^{2}-v^{4} \\), \\( y=u v \\).",
+            "option_hindi": [],
             "options": [
                 {
                     "is_correct": 1,
@@ -318,7 +319,6 @@
                     "option": "<p>(d) \\( 2 u^{2} \\)</p>"
                 }
             ],
-            "option_hindi": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -344,6 +344,7 @@
             "date": "3/1/2024, 11:09:26 PM",
             "ocrQuestion": "If \\( u \\) and \\( v \\) are continuous and differentiable functions of two independent variables \\( x \\) and \\( y \\), then Jacobian of \\( u, v \\) with respect to \\( \\mathrm{x}, \\mathrm{y} \\) is\nA. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)\nB. \\( \\frac{\\partial(u, y)}{\\partial(x, y)} \\)\nC. \\( \\frac{\\partial(x, v)}{\\partial(x, y)} \\)\nD. \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)",
             "onlyq_text": "<p>If \\( u \\) and \\( v \\) are continuous and differentiable functions of two independent variables \\( x \\) and \\( y \\), then Jacobian of \\( u, v \\) with respect to \\( \\mathrm{x}, \\mathrm{y} \\) is</p>",
+            "option_hindi": [],
             "options": [
                 {
                     "is_correct": 1,
@@ -366,7 +367,6 @@
                     "option": "<p>D. \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)</p>"
                 }
             ],
-            "option_hindi": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -391,6 +391,7 @@
             "date": "3/1/2024, 11:10:56 PM",
             "ocrQuestion": "If \\( u v, w \\) are continuous and differentiable functions of three independent variables \\( x, y, z \\) then Jacobian of \\( u, v, w \\) with respect to \\( \\mathrm{x} \\), \\( y, z \\) is\nE. \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\)\nF. \\( \\frac{\\partial(u, y, w)}{\\partial(x, y, z)} \\)\nG. \\( \\frac{\\partial(x, v, z)}{\\partial(x, y, w)} \\)\nH. \\( \\frac{\\partial(x, y, z)}{\\partial(u, v, w)} \\)",
             "onlyq_text": "<p>If \\( u v, w \\) are continuous and differentiable functions of three independent variables \\( x, y, z \\) then Jacobian of \\( u, v, w \\) with respect to \\( \\mathrm{x} \\), \\( y, z \\) is</p>",
+            "option_hindi": [],
             "options": [
                 {
                     "is_correct": 1,
@@ -413,7 +414,6 @@
                     "option": "<p>D. \\( \\frac{\\partial(x, y, z)}{\\partial(u, v, w)} \\)</p>"
                 }
             ],
-            "option_hindi": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -438,6 +438,7 @@
             "date": "3/1/2024, 11:12:08 PM",
             "ocrQuestion": "Let \\( u \\) and \\( v \\) are functions of two independent variables \\( x \\) and \\( y \\). If Jacobian of \\( u, v \\) with respect to \\( \\mathrm{x}, \\mathrm{y} \\) is \\( \\mathrm{J} \\), then \\( \\mathrm{J} \\) ' is\nA. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)\nB. \\( \\frac{\\partial(u, y)}{\\partial(x, y)} \\)\nC. \\( \\frac{\\partial(x, v)}{\\partial(x, y)} \\)\nD. \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)",
             "onlyq_text": "<p>Let \\( u \\) and \\( v \\) are functions of two independent variables \\( x \\) and \\( y \\). If Jacobian of \\( u, v \\) with respect to \\( \\mathrm{x}, \\mathrm{y} \\) is \\( \\mathrm{J} \\), then \\( \\mathrm{J} \\) ' is</p>",
+            "option_hindi": [],
             "options": [
                 {
                     "is_correct": 1,
@@ -460,7 +461,6 @@
                     "option": "<p>D. \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)</p>"
                 }
             ],
-            "option_hindi": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -487,6 +487,7 @@
             "date": "3/1/2024, 11:14:40 PM",
             "ocrQuestion": "If \\( x=r \\cos \\theta \\) and \\( y=r \\sin \\theta \\), then JJ' is equal to\nA. 2\nB. -1\nC. 1\nD. \\( \\frac{1}{2} \\)",
             "onlyq_text": "<p>If \\( x=r \\cos \\theta \\) and \\( y=r \\sin \\theta \\), then JJ' is equal to</p>",
+            "option_hindi": [],
             "options": [
                 {
                     "is_correct": 3,
@@ -509,7 +510,6 @@
                     "option": "<p>D. \\( \\frac{1}{2} \\)</p>"
                 }
             ],
-            "option_hindi": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -536,6 +536,7 @@
             "date": "3/1/2024, 11:16:41 PM",
             "ocrQuestion": "If \\( u=f_{1}(x, y), v=f_{2}(x, y) \\) and \\( x=\\Phi_{1}(r, \\theta), y=\\Phi_{1}(r, \\theta) \\) then \\( \\frac{\\partial(u, v)}{\\partial(r, \\theta)} \\)\nis equal to\nA. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\cdot \\frac{\\partial(u, y)}{\\partial(x, y)} \\)\nB. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\cdot \\frac{\\partial(r, \\theta)}{\\partial(x, y)} \\)\nC. \\( \\frac{\\partial(u, v)}{\\partial(r, \\theta)} \\cdot \\frac{\\partial(r, \\theta)}{\\partial(x, y)} \\)\nD. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\cdot \\frac{\\partial(x, y)}{\\partial(r, \\theta)} \\)",
             "onlyq_text": "<p>If \\( u=f_{1}(x, y), v=f_{2}(x, y) \\) and \\( x=\\Phi_{1}(r, \\theta), y=\\Phi_{1}(r, \\theta) \\) then \\( \\frac{\\partial(u, v)}{\\partial(r, \\theta)} \\)is equal to</p>",
+            "option_hindi": [],
             "options": [
                 {
                     "is_correct": 4,
@@ -558,7 +559,6 @@
                     "option": "<p>D. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\cdot \\frac{\\partial(x, y)}{\\partial(r, \\theta)} \\)</p>"
                 }
             ],
-            "option_hindi": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -585,6 +585,7 @@
             "date": "3/2/2024, 1:11:10 AM",
             "ocrQuestion": "If \\( f_{1}(x, y, u, v)=0 \\) and \\( f_{2}(x, y, u, v)=0 \\) are two implicit functions then \\( \\frac{\\partial(x, y)}{\\partial(u, v)}= \\)\na) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}\\right) \\)\nb) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}\\right) \\)\nc) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}\\right) \\)\nd) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}\\right) \\)",
             "onlyq_text": "<p>If \\( f_{1}(x, y, u, v)=0 \\) and \\( f_{2}(x, y, u, v)=0 \\) are two implicit functions then \\( \\frac{\\partial(x, y)}{\\partial(u, v)}= \\)</p>",
+            "option_hindi": [],
             "options": [
                 {
                     "is_correct": 1,
@@ -607,7 +608,6 @@
                     "option": "<p>d) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}\\right) \\)</p>"
                 }
             ],
-            "option_hindi": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -634,6 +634,7 @@
             "date": "3/2/2024, 1:12:36 AM",
             "ocrQuestion": "If \\( f_{1}(x, y, z, u, v, w)=0, f_{2}(x, y, z, u, v, w)=0 \\) and \\( f_{3}(x, y, z, u, v, w)=0 \\) are three implicit functions then \\( \\frac{\\partial x}{\\partial w}= \\) a) \\( -\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial\\left(w_{1}, z\\right)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(x, y, z)}}\\right) \\)\nb) \\( -\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial\\left(w_{1}, z\\right)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(u, v, w)}}\\right) \\)\nc) - \\( \\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(x, v, w)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(u, v, w)}}\\right) \\)\nd) \\( -\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(x, y, z)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(u, v, w)}}\\right) \\)",
             "onlyq_text": "<p>If \\( f_{1}(x, y, z, u, v, w)=0, f_{2}(x, y, z, u, v, w)=0 \\) and \\( f_{3}(x, y, z, u, v, w)=0 \\) are three implicit functions then \\( \\frac{\\partial x}{\\partial w}= \\) </p>",
+            "option_hindi": [],
             "options": [
                 {
                     "is_correct": 1,
@@ -656,7 +657,6 @@
                     "option": "<p>d) \\( -\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(x, y, z)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(u, v, w)}}\\right) \\)</p>"
                 }
             ],
-            "option_hindi": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -670,6 +670,198 @@
             "subject": "PHYSICS",
             "topic_name": "MP",
             "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/2/2024, 10:53:24 AM",
+            "ocrQuestion": "1. If \\( u=x^{2}-y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)\na) \\( 4\\left(x^{2}+y^{2}\\right) \\)\nb) \\( 2\\left(x^{2}+y^{2}\\right) \\)\nc) \\( 4\\left(x^{2}-y^{2}\\right) \\)\nd) \\( 2\\left(x^{2}-y^{2}\\right) \\)",
+            "onlyq_text": "<p>1. If \\( u=x^{2}-y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)</p>",
+            "option": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>a) \\( 4\\left(x^{2}+y^{2}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>b) \\( 2\\left(x^{2}+y^{2}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>c) \\( 4\\left(x^{2}-y^{2}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>d) \\( 2\\left(x^{2}-y^{2}\\right) \\)</p>"
+                }
+            ],
+            "option_hindi": [],
+            "options": [],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "JACOBIAN",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/2/2024, 10:54:28 AM",
+            "ocrQuestion": "2. If \\( \\mathrm{u}=x^{2}+y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)\na) \\( 4\\left(x^{2}-y^{2}\\right) \\)\nb) \\( 4\\left(x^{2}+y^{2}\\right) \\)\nc) \\( 2\\left(x^{2}+y^{2}\\right) \\)\nd) \\( 2\\left(x^{2}-y^{2}\\right) \\)",
+            "onlyq_text": "<p>2. If \\( \\mathrm{u}=x^{2}+y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)</p>",
+            "option": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>a) \\( 4\\left(x^{2}-y^{2}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>b) \\( 4\\left(x^{2}+y^{2}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>c) \\( 2\\left(x^{2}+y^{2}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>d) \\( 2\\left(x^{2}-y^{2}\\right) \\)</p>"
+                }
+            ],
+            "option_hindi": [],
+            "options": [],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "JACOBIAN",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/2/2024, 10:58:12 AM",
+            "ocrQuestion": "3. If \\( x=u+v \\quad \\) and \\( y=u v \\quad \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)\na) \\( u+v \\)\nb) \\( u-v \\)\nc) \\( v-u \\)\nd) \\( 2 u+v \\)",
+            "onlyq_text": "<p>3. If \\( x=u+v \\quad \\) and \\( y=u v \\quad \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)</p>",
+            "option": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>a) \\( u+v \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>b) \\( u-v \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>c) \\( v-u \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>d) \\( 2 u+v \\)</p>"
+                }
+            ],
+            "option_hindi": [],
+            "options": [],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "JACOBIAN",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/2/2024, 10:58:57 AM",
+            "ocrQuestion": "5. If \\( u=x+2 y, v=x^{2}+y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\) is\na) \\( 2-4 x \\)\nb) \\( 1-4 x \\)\nc) \\( 2+4 x \\)\nd) \\( 1+4 x \\)",
+            "onlyq_text": "<p>5. If \\( u=x+2 y, v=x^{2}+y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\) is</p>",
+            "option": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>a) \\( 2-4 x \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>b) \\( 1-4 x \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>c) \\( 2+4 x \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>d) \\( 1+4 x \\)</p>"
+                }
+            ],
+            "option_hindi": [],
+            "options": [],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "JACOBIAN",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "EASY"
         }
     ]
 }
