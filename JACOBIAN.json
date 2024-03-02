@@ -679,9 +679,9 @@
             "added_By": "sai",
             "concept_html": "",
             "date": "3/2/2024, 10:53:24 AM",
-            "ocrQuestion": "1. If \\( u=x^{2}-y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)\na) \\( 4\\left(x^{2}+y^{2}\\right) \\)\nb) \\( 2\\left(x^{2}+y^{2}\\right) \\)\nc) \\( 4\\left(x^{2}-y^{2}\\right) \\)\nd) \\( 2\\left(x^{2}-y^{2}\\right) \\)",
-            "onlyq_text": "<p>1. If \\( u=x^{2}-y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)</p>",
-            "option": [
+            "ocrQuestion": "If \\( u=x^{2}-y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)\na) \\( 4\\left(x^{2}+y^{2}\\right) \\)\nb) \\( 2\\left(x^{2}+y^{2}\\right) \\)\nc) \\( 4\\left(x^{2}-y^{2}\\right) \\)\nd) \\( 2\\left(x^{2}-y^{2}\\right) \\)",
+            "onlyq_text": "<p>If \\( u=x^{2}-y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)</p>",
+            "options": [
                 {
                     "is_correct": 1,
                     "lang_id": 1,
@@ -704,7 +704,7 @@
                 }
             ],
             "option_hindi": [],
-            "options": [],
+         
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -727,9 +727,9 @@
             "added_By": "sai",
             "concept_html": "",
             "date": "3/2/2024, 10:54:28 AM",
-            "ocrQuestion": "2. If \\( \\mathrm{u}=x^{2}+y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)\na) \\( 4\\left(x^{2}-y^{2}\\right) \\)\nb) \\( 4\\left(x^{2}+y^{2}\\right) \\)\nc) \\( 2\\left(x^{2}+y^{2}\\right) \\)\nd) \\( 2\\left(x^{2}-y^{2}\\right) \\)",
-            "onlyq_text": "<p>2. If \\( \\mathrm{u}=x^{2}+y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)</p>",
-            "option": [
+            "ocrQuestion": "If \\( \\mathrm{u}=x^{2}+y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)\na) \\( 4\\left(x^{2}-y^{2}\\right) \\)\nb) \\( 4\\left(x^{2}+y^{2}\\right) \\)\nc) \\( 2\\left(x^{2}+y^{2}\\right) \\)\nd) \\( 2\\left(x^{2}-y^{2}\\right) \\)",
+            "onlyq_text": "<p>If \\( \\mathrm{u}=x^{2}+y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)</p>",
+            "options": [
                 {
                     "is_correct": 1,
                     "lang_id": 1,
@@ -752,7 +752,6 @@
                 }
             ],
             "option_hindi": [],
-            "options": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -775,9 +774,9 @@
             "added_By": "sai",
             "concept_html": "",
             "date": "3/2/2024, 10:58:12 AM",
-            "ocrQuestion": "3. If \\( x=u+v \\quad \\) and \\( y=u v \\quad \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)\na) \\( u+v \\)\nb) \\( u-v \\)\nc) \\( v-u \\)\nd) \\( 2 u+v \\)",
-            "onlyq_text": "<p>3. If \\( x=u+v \\quad \\) and \\( y=u v \\quad \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)</p>",
-            "option": [
+            "ocrQuestion": "If \\( x=u+v \\quad \\) and \\( y=u v \\quad \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)\na) \\( u+v \\)\nb) \\( u-v \\)\nc) \\( v-u \\)\nd) \\( 2 u+v \\)",
+            "onlyq_text": "<p>If \\( x=u+v \\quad \\) and \\( y=u v \\quad \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)</p>",
+            "options": [
                 {
                     "is_correct": 2,
                     "lang_id": 1,
@@ -800,7 +799,6 @@
                 }
             ],
             "option_hindi": [],
-            "options": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -823,9 +821,9 @@
             "added_By": "sai",
             "concept_html": "",
             "date": "3/2/2024, 10:58:57 AM",
-            "ocrQuestion": "5. If \\( u=x+2 y, v=x^{2}+y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\) is\na) \\( 2-4 x \\)\nb) \\( 1-4 x \\)\nc) \\( 2+4 x \\)\nd) \\( 1+4 x \\)",
-            "onlyq_text": "<p>5. If \\( u=x+2 y, v=x^{2}+y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\) is</p>",
-            "option": [
+            "ocrQuestion": "If \\( u=x+2 y, v=x^{2}+y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\) is\na) \\( 2-4 x \\)\nb) \\( 1-4 x \\)\nc) \\( 2+4 x \\)\nd) \\( 1+4 x \\)",
+            "onlyq_text": "<p>If \\( u=x+2 y, v=x^{2}+y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\) is</p>",
+            "options": [
                 {
                     "is_correct": 2,
                     "lang_id": 1,
@@ -848,7 +846,6 @@
                 }
             ],
             "option_hindi": [],
-            "options": [],
             "optype": 1,
             "q_text_hindi": "",
             "qid": "",
@@ -862,6 +859,103 @@
             "subject": "PHYSICS",
             "topic_name": "MP",
             "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "MultiConcept",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/2/2024, 11:11:33 AM",
+            "ocrQuestion": "If \\( x=e^{v} \\sec u, y=e^{v} \\tan u \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is\na) \\( -e^{2 v} \\) secu\nb) \\( e^{-2 v} \\operatorname{secu} \\)\nc) \\( -e^{2 v} \\tan u \\)\nd) \\( e^{2 v} \\mathrm{secu} \\)",
+            "onlyq_text": "<p>If \\( x=e^{v} \\sec u, y=e^{v} \\tan u \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is</p>",
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>a) \\( -e^{2 v} \\) secu</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>b) \\( e^{-2 v} \\operatorname{secu} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>c) \\( -e^{2 v} \\tan u \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>d) \\( e^{2 v} \\mathrm{secu} \\)</p>"
+                }
+            ],
+            "option_hindi": [],
+
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "JACOBIAN",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/2/2024, 11:13:58 AM",
+            "ocrQuestion": "If \\( x=u \\cos v \\) and \\( y=u \\sin v \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is\na) \\( -\\mathrm{u} \\)\nb) \\( u \\)\nc) 1\nd) -1",
+            "onlyq_text": "<p>If \\( x=u \\cos v \\) and \\( y=u \\sin v \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is</p>",
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>a) \\( -\\mathrm{u} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>b) \\( u \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>c) 1</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>d) -1</p>"
+                }
+            ],
+            "option_hindi": [],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "JACOBIAN",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "MEDIUM"
         }
     ]
 }
