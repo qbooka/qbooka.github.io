@@ -295,7 +295,7 @@
             "concept_html": "",
             "date": "3/1/2024, 11:06:46 PM",
             "ocrQuestion": "Compute the Jacobian, \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\), of the coordinate transformation \\( x=u^{2}-v^{4} \\), \\( y=u v \\).\n(a) \\( 2 u^{2}+4 v^{4} \\)\n(b) \\( x u-y v \\)\n(c) \\( 3 u^{2}+7 v^{6} \\)\n(d) \\( 2 u^{2} \\)",
-            "onlyq_text": "<p>Compute the Jacobian, \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\), of the coordinate transformation \\( x=u^{2}-v^{4} \\), \\( y=u v \\).(a) \\( 2 u^{2}+4 v^{4} \\)</p>",
+            "onlyq_text": "<p>Compute the Jacobian, \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\), of the coordinate transformation \\( x=u^{2}-v^{4} \\), \\( y=u v \\).",
             "options": [
                 {
                     "is_correct": 1,
