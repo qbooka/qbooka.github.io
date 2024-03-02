@@ -49,9 +49,9 @@
     "ThermoStat": {
         "name": "Thermodynamics & Statistical Mechanics",
         "sub_topic_name": [
-            "DIFFERENTIAL EQUATION (1st Order ODE)",
-            "DIFFERENTIAL EQUATION (2nd Order ODE)",
-            "MULTIPLE INTEGRALS"
+            "GAS LAWS",
+            "LAWS OF THERMODYNAMICS",
+            "ENTROPY","HEAT-ENGINE"
         ]
     },
     "Electronics": {
