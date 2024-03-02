@@ -391,7 +391,7 @@
             "date": "3/1/2024, 11:10:56 PM",
             "ocrQuestion": "If \\( u v, w \\) are continuous and differentiable functions of three independent variables \\( x, y, z \\) then Jacobian of \\( u, v, w \\) with respect to \\( \\mathrm{x} \\), \\( y, z \\) is\nE. \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\)\nF. \\( \\frac{\\partial(u, y, w)}{\\partial(x, y, z)} \\)\nG. \\( \\frac{\\partial(x, v, z)}{\\partial(x, y, w)} \\)\nH. \\( \\frac{\\partial(x, y, z)}{\\partial(u, v, w)} \\)",
             "onlyq_text": "<p>If \\( u v, w \\) are continuous and differentiable functions of three independent variables \\( x, y, z \\) then Jacobian of \\( u, v, w \\) with respect to \\( \\mathrm{x} \\), \\( y, z \\) is</p>",
-            "option": [
+            "options": [
                 {
                     "is_correct": 1,
                     "lang_id": 1,
