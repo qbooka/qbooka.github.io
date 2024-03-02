@@ -15,22 +15,22 @@
             "option_hindi": [],
             "options": [
                 {
-                    "is_correct": null,
+                    "is_correct": 2,
                     "lang_id": 1,
                     "option": "<p>(A) has a period \\( T=2 \\pi \\)</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 2,
                     "lang_id": 1,
                     "option": "<p>(B) satisfies \\( f(t+T)=f(t) \\)</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 2,
                     "lang_id": 1,
                     "option": "<p>(C) satisfies \\( f(t+T)=-f(t) \\)</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 2,
                     "lang_id": 1,
                     "option": "<p>(D) has a period \\( T=\\pi \\)</p>"
                 }
@@ -63,22 +63,22 @@
             "option_hindi": [],
             "options": [
                 {
-                    "is_correct": null,
+                    "is_correct": 1,
                     "lang_id": 1,
                     "option": "<p>(A) \\( t^{2} \\)</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 1,
                     "lang_id": 1,
                     "option": "<p>(B) \\( t^{2}-4 t \\)</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 1,
                     "lang_id": 1,
                     "option": "<p>(C) \\( \\sin (2 t)+3 t \\)</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 1,
                     "lang_id": 1,
                     "option": "<p>(D) \\( t^{3}+6 \\)</p>"
                 }
@@ -97,101 +97,7 @@
             "topic_name": "MP",
             "toughness": "EASY"
         },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "calculative"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 2:39:27 PM",
-            "ocrQuestion": "For the given periodic function \\( f(t)=\\left\\{\\begin{array}{l}2 t \\text { for } 0 \\leq t \\leq 2 \\\\ 4 \\text { for } 2 \\leq t \\leq 6(=T)\\end{array}\\right. \\). The coefficient \\( b_{1} \\) of the continuous Fourier series associated with the given function \\( f(t) \\) can be computed as\n(A) -75.6800\n(B) -7.5680\n(C) -6.8968\n(D) -0.7468",
-            "onlyq_text": "<p>For the given periodic function \\( f(t)=\\left\\{\\begin{array}{l}2 t \\text { for } 0 \\leq t \\leq 2 \\\\ 4 \\text { for } 2 \\leq t \\leq 6(=T)\\end{array}\\right. \\). The coefficient \\( b_{1} \\) of the continuous Fourier series associated with the given function \\( f(t) \\) can be computed as</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>(A) -75.6800</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>(B) -7.5680</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>(C) -6.8968</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>(D) -0.7468</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "SolutionThe correct answer is (A).Since if we replace \\\" \\( t \\) \\\" by \\\" \\( -t \\) \\\", then the function value remains the same!",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "FOURIER SERIES",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "calculative"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 2:45:52 PM",
-            "ocrQuestion": "For the given periodic function \\( f(t)=\\left\\{\\begin{array}{l}2 t \\text { for } 0 \\leq t \\leq 2 \\\\ 4 \\text { for } 2 \\leq t \\leq 6\\end{array}\\right. \\) with a period \\( T=6 \\). The Fourier coefficient \\( a_{1} \\) can be computed as\n(A) -9.2642\n(B) -8.1275\n(C) -0.9119\n(D) -0.5116",
-            "onlyq_text": "<p>For the given periodic function \\( f(t)=\\left\\{\\begin{array}{l}2 t \\text { for } 0 \\leq t \\leq 2 \\\\ 4 \\text { for } 2 \\leq t \\leq 6\\end{array}\\right. \\) with a period \\( T=6 \\). The Fourier coefficient \\( a_{1} \\) can be computed as</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>(A) -9.2642</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>(B) -8.1275</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>(C) -0.9119</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>(D) -0.5116</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "SolutionThe correct answer is \\( (C) \\).The coefficient \\( a_{1} \\) of the continuous Fourier series associated with the above given function \\( f(t) \\) can be computed from Eq.(3), with \\( k=1 \\) and \\( T=6 \\) as following:\\[\\begin{array}{l}w_{0}=\\left(\\frac{2 \\pi}{T}\\right)=\\left(\\frac{2 \\times 3.1416}{6}\\right)=1.0472 \\\\a_{1} \\times\\left(\\frac{T}{2}\\right)=\\int_{0}^{2}((2 t) \\cos (1.0472 t)) d t+\\int_{2}^{6}((4) \\cos (1.0472 t)) d t \\\\a_{1}=-0.9119\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "FOURIER SERIES",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
-        },
+     
         {
             "QCount": "",
             "Tags": [
@@ -205,22 +111,22 @@
             "option_hindi": [],
             "options": [
                 {
-                    "is_correct": null,
+                    "is_correct": 1,
                     "lang_id": 1,
                     "option": "<p>A) even</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 1,
                     "lang_id": 1,
                     "option": "<p>B) odd</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 1,
                     "lang_id": 1,
                     "option": "<p>C) prime</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 1,
                     "lang_id": 1,
                     "option": "<p>D) aliasing</p>"
                 }
@@ -252,206 +158,24 @@
             "option_hindi": [],
             "options": [
                 {
-                    "is_correct": null,
+                    "is_correct": 2,
                     "lang_id": 1,
                     "option": "<p>a) \\( a_{n} \\)</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 2,
                     "lang_id": 1,
                     "option": "<p>b) \\( b_{n} \\)</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 2,
                     "lang_id": 1,
                     "option": "<p>c) \\( a_{0} \\)</p>"
                 },
                 {
-                    "is_correct": null,
+                    "is_correct": 2,
                     "lang_id": 1,
                     "option": "<p>d) nothing is zero</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "FOURIER SERIES",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 3:01:19 PM",
-            "ocrQuestion": "4. If the function \\( f(x) \\) is even, then which of the following is zero?\na) \\( a_{n} \\)\nb) \\( b_{n} \\)\nc) \\( a_{0} \\)\nd) nothing is zero",
-            "onlyq_text": "<p>4. If the function \\( f(x) \\) is even, then which of the following is zero?</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>a) \\( a_{n} \\)</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>b) \\( b_{n} \\)</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>c) \\( a_{0} \\)</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>d) nothing is zero</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Answer: b \nExplanation: Since \\( b_{n} \\) includes \\( \\sin (n x) \\) term which is an odd function, odd times even function is always odd. So, the integral gives zero as the result.",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "FOURIER SERIES",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 3:14:57 PM",
-            "ocrQuestion": "Answer: b\nExplanation: Since \\( b_{n} \\) includes \\( \\sin (n x) \\) term which is an odd function, odd times even function is always odd. So, the integral gives zero as the result.",
-            "onlyq_text": "<p></p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>undefined</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>undefined</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>Answer: b</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>Explanation: Since \\( b_{n} \\) includes \\( \\sin (n x) \\) term which is an odd function, odd times even function is always odd. So, the integral gives zero as the result.</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "FOURIER SERIES",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [],
-            "added_By": "sai",
-            "concept_html": "Answer: bExplanation: Since \\( b_{n} \\) includes \\( \\sin (n x) \\) term which is an odd function, odd times even function is always odd. So, the integral gives zero as the result.",
-            "date": "3/2/2024, 3:16:01 PM",
-            "ocrQuestion": "Answer: b\nExplanation: Since \\( b_{n} \\) includes \\( \\sin (n x) \\) term which is an odd function, odd times even function is always odd. So, the integral gives zero as the result.",
-            "onlyq_text": "<p></p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>undefined</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>undefined</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>Answer: b</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>Explanation: Since \\( b_{n} \\) includes \\( \\sin (n x) \\) term which is an odd function, odd times even function is always odd. So, the integral gives zero as the result.</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "FOURIER SERIES",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [],
-            "added_By": "sai",
-            "concept_html": "Answer: bExplanation: Since \\( b_{n} \\) includes \\( \\sin (n x) \\) term which is an odd function, odd times even function is always odd. So, the integral gives zero as the result.",
-            "date": "3/2/2024, 3:18:37 PM",
-            "ocrQuestion": "Answer: b\nExplanation: Since \\( b_{n} \\) includes \\( \\sin (n x) \\) term which is an odd function, odd times even function is always odd. So, the integral gives zero as the result.",
-            "onlyq_text": "<p></p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>undefined</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>undefined</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>Answer: b</p>"
-                },
-                {
-                    "is_correct": null,
-                    "lang_id": 1,
-                    "option": "<p>Explanation: Since \\( b_{n} \\) includes \\( \\sin (n x) \\) term which is an odd function, odd times even function is always odd. So, the integral gives zero as the result.</p>"
                 }
             ],
             "optype": 1,
@@ -468,5 +192,6 @@
             "topic_name": "MP",
             "toughness": "EASY"
         }
+        
     ]
 }
