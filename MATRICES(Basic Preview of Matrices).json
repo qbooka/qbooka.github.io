@@ -468,6 +468,57 @@
             "subject": "PHYSICS",
             "topic_name": "MP",
             "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 10:59:49 PM",
+            "ocrQuestion": "If \\( A \\) is an antisymmetric matrix and \\( A^{T} \\) be the transpose of this matrix, then which one of the following relations does not hold good?\n(a) \\( A^{T}=-A \\)\n(b) \\( A A^{T}=A^{T} A \\)\n(c) \\( A^{2} \\) is an antisymmetric matrix\n(d) \\( A^{2} \\) is a symmetric matrix",
+            "onlyq_text": "<p>If \\( A \\) is an antisymmetric matrix and \\( A^{T} \\) be the transpose of this matrix, then which one of the following relations does not hold good?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( A^{T}=-A \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( A A^{T}=A^{T} A \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( A^{2} \\) is an antisymmetric matrix</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( A^{2} \\) is a symmetric matrix</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "MATRICES(Basic Preview of Matrices)",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "MEDIUM"
         }
     ]
 }
