@@ -52,6 +52,422 @@
             "subject": "PHYSICS",
             "topic_name": "MP",
             "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "MultiConcept",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 10:05:38 PM",
+            "ocrQuestion": "If \\( A=\\left[\\begin{array}{ll}1 & \\alpha \\\\ 0 & 1\\end{array}\\right] \\) (where \\( \\left.\\alpha>0\\right) \\), the sum of the following infinite series, will be\n\\[\n\\operatorname{Trace}(A)+\\operatorname{Trace}\\left(\\frac{A}{2}\\right)+\\operatorname{Trace}\\left(\\frac{A^{2}}{2^{2}}\\right)+\\operatorname{Trace}\\left(\\frac{A^{3}}{2^{3}}\\right)+\\ldots \\ldots \\ldots . .\n\\]\n(a) 2\n(b) -2\n(c) 4\n(d) 8",
+            "onlyq_text": "<p>If \\( A=\\left[\\begin{array}{ll}1 & \\alpha \\\\ 0 & 1\\end{array}\\right] \\) (where \\( \\left.\\alpha>0\\right) \\), the sum of the following infinite series, will be\\[\\operatorname{Trace}(A)+\\operatorname{Trace}\\left(\\frac{A}{2}\\right)+\\operatorname{Trace}\\left(\\frac{A^{2}}{2^{2}}\\right)+\\operatorname{Trace}\\left(\\frac{A^{3}}{2^{3}}\\right)+\\ldots \\ldots \\ldots . .\\]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) 2</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) -2</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) 4</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) 8</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "MATRICES(Basic Preview of Matrices)",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 10:13:00 PM",
+            "ocrQuestion": "Consider the following matrix:\n\\[\nA=\\left[\\begin{array}{cc}\n4 & -1 \\\\\n12 & -3\n\\end{array}\\right]\n\\]\n\nThe matrix \\( A^{100} \\) will be\n(a) \\( \\left[\\begin{array}{cc}4 & -100 \\\\ 12 & -3\\end{array}\\right] \\)\n(b) \\( \\left[\\begin{array}{cc}4 & -1 \\\\ 12 & -3\\end{array}\\right] \\)\n(c) \\( \\left[\\begin{array}{cc}400 & -100 \\\\ 1200 & -300\\end{array}\\right] \\)\n(d) \\( \\left[\\begin{array}{cc}400 & -1 \\\\ 12 & -300\\end{array}\\right] \\)",
+            "onlyq_text": "<p>Consider the following matrix:\\[A=\\left[\\begin{array}{cc}4 & -1 \\\\12 & -3\\end{array}\\right]\\]The matrix \\( A^{100} \\) will be</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\left[\\begin{array}{cc}4 & -100 \\\\ 12 & -3\\end{array}\\right] \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\left[\\begin{array}{cc}4 & -1 \\\\ 12 & -3\\end{array}\\right] \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\left[\\begin{array}{cc}400 & -100 \\\\ 1200 & -300\\end{array}\\right] \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\left[\\begin{array}{cc}400 & -1 \\\\ 12 & -300\\end{array}\\right] \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "MATRICES(Basic Preview of Matrices)",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 10:15:10 PM",
+            "ocrQuestion": "Consider the following matrix:\n\\[\nA=\\left[\\begin{array}{cc}\n4 & -1 \\\\\n15 & -4\n\\end{array}\\right]\n\\]\n\nThe matrix \\( A^{100} \\) will be\n(a) \\( \\left[\\begin{array}{cc}4 & -1 \\\\ 15 & -4\\end{array}\\right] \\)\n(b) \\( \\left[\\begin{array}{cc}400 & -100 \\\\ 1500 & -400\\end{array}\\right] \\)\n(c) \\( \\left[\\begin{array}{cc}4 & -100 \\\\ 15 & -4\\end{array}\\right] \\)\n(d) \\( \\left[\\begin{array}{ll}1 & 0 \\\\ 0 & 1\\end{array}\\right] \\)",
+            "onlyq_text": "<p>Consider the following matrix:\\[A=\\left[\\begin{array}{cc}4 & -1 \\\\15 & -4\\end{array}\\right]\\]The matrix \\( A^{100} \\) will be</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\left[\\begin{array}{cc}4 & -1 \\\\ 15 & -4\\end{array}\\right] \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\left[\\begin{array}{cc}400 & -100 \\\\ 1500 & -400\\end{array}\\right] \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\left[\\begin{array}{cc}4 & -100 \\\\ 15 & -4\\end{array}\\right] \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\left[\\begin{array}{ll}1 & 0 \\\\ 0 & 1\\end{array}\\right] \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "MATRICES(Basic Preview of Matrices)",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 10:26:03 PM",
+            "ocrQuestion": "The matrix \\( A \\), defined by \\( A=\\left(\\begin{array}{ccc}1 & 0 & 0 \\\\ 0 & a & b \\\\ 0 & -b & a\\end{array}\\right) \\) is orthogonal if\n(a) \\( a=1, b=-1 \\)\n(b) \\( a=1 / \\sqrt{2}, b=-1 / \\sqrt{2} \\)\n(c) \\( a=1 / \\sqrt{2}, b=-i / \\sqrt{2} \\)\n(d) \\( a=1, b=1 \\)",
+            "onlyq_text": "<p>The matrix \\( A \\), defined by \\( A=\\left(\\begin{array}{ccc}1 & 0 & 0 \\\\ 0 & a & b \\\\ 0 & -b & a\\end{array}\\right) \\) is orthogonal if</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( a=1, b=-1 \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( a=1 / \\sqrt{2}, b=-1 / \\sqrt{2} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( a=1 / \\sqrt{2}, b=-i / \\sqrt{2} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( a=1, b=1 \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "MATRICES(Basic Preview of Matrices)",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 10:30:53 PM",
+            "ocrQuestion": "Which of the following statements is true for the matrix \\( \\left(\\begin{array}{cc}a b & b^{2} \\\\ -a^{2} & -a b\\end{array}\\right) \\) ?\n(a) It is a idempotent matrix\n(b) It is a nilpotent matrix of order 2\n(c) It is an involutary matrix\n(d) It is a periodic matrix of order 2",
+            "onlyq_text": "<p>Which of the following statements is true for the matrix \\( \\left(\\begin{array}{cc}a b & b^{2} \\\\ -a^{2} & -a b\\end{array}\\right) \\) ?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) It is a idempotent matrix</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) It is a nilpotent matrix of order 2</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) It is an involutary matrix</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) It is a periodic matrix of order 2</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "MATRICES(Basic Preview of Matrices)",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 10:40:47 PM",
+            "ocrQuestion": "Consider the matrix \\( B=\\left[\\begin{array}{cc}0 & -1 \\\\ 1 & 0\\end{array}\\right] \\), then \\( B^{1023} \\) equals\n(a) \\( \\left[\\begin{array}{rr}-1 & 0 \\\\ 0 & -1\\end{array}\\right] \\)\n(b) \\( \\left[\\begin{array}{cc}0 & 1 \\\\ -1 & 0\\end{array}\\right] \\)\n(c) \\( \\left[\\begin{array}{ll}1 & 0 \\\\ 0 & 1\\end{array}\\right] \\)\n(d) \\( \\left[\\begin{array}{rr}-1 & 0 \\\\ 0 & 1\\end{array}\\right] \\)",
+            "onlyq_text": "<p>Consider the matrix \\( B=\\left[\\begin{array}{cc}0 & -1 \\\\ 1 & 0\\end{array}\\right] \\), then \\( B^{1023} \\) equals</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\left[\\begin{array}{rr}-1 & 0 \\\\ 0 & -1\\end{array}\\right] \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\left[\\begin{array}{cc}0 & 1 \\\\ -1 & 0\\end{array}\\right] \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\left[\\begin{array}{ll}1 & 0 \\\\ 0 & 1\\end{array}\\right] \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\left[\\begin{array}{rr}-1 & 0 \\\\ 0 & 1\\end{array}\\right] \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "MATRICES(Basic Preview of Matrices)",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 10:43:14 PM",
+            "ocrQuestion": "If \\( A=\\left[\\begin{array}{ll}3 & -4 \\\\ 1 & -1\\end{array}\\right] \\), then \\( A^{n} \\) is equal to\n(a) \\( \\left[\\begin{array}{cc}1-2 n & -4 n \\\\ -n & 1+2 n\\end{array}\\right] \\)\n(b) \\( \\left[\\begin{array}{cc}1-2 n & 4 n \\\\ n & 1-2 n\\end{array}\\right] \\)\n(c) \\( \\left[\\begin{array}{cc}1+2 n & 4 n \\\\ n & 1+2 n\\end{array}\\right] \\)\n(d) \\( \\left[\\begin{array}{cc}1+2 n & -4 n \\\\ n & 1-2 n\\end{array}\\right] \\)",
+            "onlyq_text": "<p>If \\( A=\\left[\\begin{array}{ll}3 & -4 \\\\ 1 & -1\\end{array}\\right] \\), then \\( A^{n} \\) is equal to</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\left[\\begin{array}{cc}1-2 n & -4 n \\\\ -n & 1+2 n\\end{array}\\right] \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\left[\\begin{array}{cc}1-2 n & 4 n \\\\ n & 1-2 n\\end{array}\\right] \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\left[\\begin{array}{cc}1+2 n & 4 n \\\\ n & 1+2 n\\end{array}\\right] \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\left[\\begin{array}{cc}1+2 n & -4 n \\\\ n & 1-2 n\\end{array}\\right] \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "MATRICES(Basic Preview of Matrices)",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "calculative",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 10:56:19 PM",
+            "ocrQuestion": "If \\( A=\\left[\\begin{array}{rr}1 & 2 \\\\ -2 & 1\\end{array}\\right] \\), then the scalar's ' \\( a \\) ' and ' \\( b \\) ' such that \\( I+a A+b A^{2}=O \\), here \\( I= \\) unit matrix and \\( 0= \\) null matrix.\n(a) \\( a=\\frac{2}{5}, b=-\\frac{1}{5} \\)\n(b) \\( a=-\\frac{2}{5}, b=-\\frac{1}{5} \\)\n(c) \\( a=-\\frac{2}{5}, b=\\frac{1}{5} \\)\n(d) \\( a=\\frac{2}{5}, b=\\frac{1}{5} \\)",
+            "onlyq_text": "<p>If \\( A=\\left[\\begin{array}{rr}1 & 2 \\\\ -2 & 1\\end{array}\\right] \\), then the scalar's ' \\( a \\) ' and ' \\( b \\) ' such that \\( I+a A+b A^{2}=O \\), here \\( I= \\) unit matrix and \\( 0= \\) null matrix.</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( a=\\frac{2}{5}, b=-\\frac{1}{5} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( a=-\\frac{2}{5}, b=-\\frac{1}{5} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( a=-\\frac{2}{5}, b=\\frac{1}{5} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( a=\\frac{2}{5}, b=\\frac{1}{5} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "MATRICES(Basic Preview of Matrices)",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "MEDIUM"
         }
     ]
 }
