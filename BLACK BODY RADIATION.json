@@ -1349,12 +1349,12 @@
                 {
                     "is_correct": 3,
                     "lang_id": 1,
-                    "option": "<p>(c) \\( r_{R}>r_{w} \\) and \\( T_{R}<T_{W} \\)</p>"
+                    "option": "<p>(c) \\( r_{R}>r_{w} \\) and \\( T_{R} < T_{W} \\)</p>"
                 },
                 {
                     "is_correct": 3,
                     "lang_id": 1,
-                    "option": "<p>(d) \\( r_{R}<r_{w} \\) and \\( T_{R}<T_{W} \\)</p>"
+                    "option": "<p>(d) \\( r_{R} < r_{w} \\) and \\( T_{R} < T_{W} \\)</p>"
                 }
             ],
             "optype": 1,
