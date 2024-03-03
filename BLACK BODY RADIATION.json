@@ -1165,6 +1165,213 @@
             "subject": "PHYSICS",
             "topic_name": "Quantum",
             "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 8:01:57 PM",
+            "ocrQuestion": "When the temperature of a blackbody is doubled, the maximum value of its spectral energy density, with respect to that at initial temperature, would become\n(a) \\( 1 / 16 \\) times\n(b) 8 times\n(c) 16 times\n(d) 32 times",
+            "onlyq_text": "<p>When the temperature of a blackbody is doubled, the maximum value of its spectral energy density, with respect to that at initial temperature, would become</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 1 / 16 \\) times</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) 8 times</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) 16 times</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) 32 times</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "Quantum",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 8:05:48 PM",
+            "ocrQuestion": "The black body spectrum of an object \\( O_{1} \\) is such that its radiant intensity (i.e. intensity per unit wavelength interval) is maximum at a wavelength of \\( 200 \\mathrm{~nm} \\). Another object \\( O_{2} \\) has the maximum radiant intensity at \\( 600 \\mathrm{~nm} \\). The ratio of power emitted per unit area by \\( O_{1} \\) to that of \\( O_{2} \\) is:\n(a) \\( \\frac{1}{81} \\)\n(b) \\( \\frac{1}{9} \\)\n(c) 9\n(d) 81",
+            "onlyq_text": "<p>The black body spectrum of an object \\( O_{1} \\) is such that its radiant intensity (i.e. intensity per unit wavelength interval) is maximum at a wavelength of \\( 200 \\mathrm{~nm} \\). Another object \\( O_{2} \\) has the maximum radiant intensity at \\( 600 \\mathrm{~nm} \\). The ratio of power emitted per unit area by \\( O_{1} \\) to that of \\( O_{2} \\) is:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{1}{81} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{1}{9} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) 9</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) 81</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "Quantum",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 8:08:36 PM",
+            "ocrQuestion": "A blackbody at a temperature of \\( 6000 \\mathrm{~K} \\) emits radiation whose intensity spectrum peaks at \\( 600 \\mathrm{~nm} \\). If the temperature is reduced to \\( 300 \\mathrm{~K} \\), the spectrum will peak at\n(a) \\( 12 \\mathrm{~nm} \\)\n(b) \\( 120 \\mu \\mathrm{m} \\)\n(c) \\( 120 \\mathrm{~nm} \\)\n(d) \\( 12 \\mu \\mathrm{m} \\)",
+            "onlyq_text": "<p>A blackbody at a temperature of \\( 6000 \\mathrm{~K} \\) emits radiation whose intensity spectrum peaks at \\( 600 \\mathrm{~nm} \\). If the temperature is reduced to \\( 300 \\mathrm{~K} \\), the spectrum will peak at</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 12 \\mathrm{~nm} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 120 \\mu \\mathrm{m} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 120 \\mathrm{~nm} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 12 \\mu \\mathrm{m} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "Quantum",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 8:14:59 PM",
+            "ocrQuestion": "A red star having radius \\( r_{R} \\) at a temperature \\( T_{R} \\) and \\( a \\) white star having radius \\( r_{w} \\) at a temperature \\( T_{W} \\), radiate the same total power. If these stars radiate as perfect black bodies, then\n(a) \\( r_{R}>r_{w} \\) and \\( T_{R}>T_{W} \\)\n(b) \\( r_{R}<r_{w} \\) and \\( T_{R}>T_{W} \\)\n(c) \\( r_{R}>r_{w} \\) and \\( T_{R}<T_{W} \\)\n(d) \\( r_{R}<r_{w} \\) and \\( T_{R}<T_{W} \\)",
+            "onlyq_text": "<p>A red star having radius \\( r_{R} \\) at a temperature \\( T_{R} \\) and \\( a \\) white star having radius \\( r_{w} \\) at a temperature \\( T_{W} \\), radiate the same total power. If these stars radiate as perfect black bodies, then</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( r_{R}>r_{w} \\) and \\( T_{R}>T_{W} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( r_{R}<r_{w} \\) and \\( T_{R}>T_{W} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( r_{R}>r_{w} \\) and \\( T_{R}<T_{W} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( r_{R}<r_{w} \\) and \\( T_{R}<T_{W} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "Quantum",
+            "toughness": "EASY"
         }
     ]
 }
