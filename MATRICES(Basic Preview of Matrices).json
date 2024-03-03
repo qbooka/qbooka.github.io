@@ -1,0 +1,57 @@
+{
+    "questions": [
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "MultiConcept",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "We know\\[\\begin{array}{l}\\mathrm{AA}^{-1}=\\mathrm{I} \\\\\\Rightarrow\\left|\\mathrm{AA}^{-1}\\right|=|\\mathrm{I}| \\\\\\Rightarrow|\\mathrm{A}|\\left|\\mathrm{A}^{-1}\\right|=1 \\\\\\Rightarrow\\left|\\mathrm{A}^{-1}\\right|=\\frac{1}{|\\mathrm{~A}|} \\\\\\Rightarrow\\left|\\mathrm{A}^{-1}\\right|=|\\mathrm{A}|^{-1}\\end{array}\\]Properties of determinants:- For a \\( n \\times n \\) matrix \\( A, \\operatorname{det}(k A)=k^{n} \\operatorname{det}(A) \\).",
+            "date": "3/3/2024, 9:47:47 PM",
+            "ocrQuestion": "Let \\( A \\) be a \\( 3 \\times 3 \\) matrix such that \\( \\operatorname{det}(A)=-2 \\), then \\( \\operatorname{det}\\left(-2 A^{-1}\\right) \\) is equal to\n(a) 4\n(b) -4\n(c) 8\n(d) -2",
+            "onlyq_text": "<p>Let \\( A \\) be a \\( 3 \\times 3 \\) matrix such that \\( \\operatorname{det}(A)=-2 \\), then \\( \\operatorname{det}\\left(-2 A^{-1}\\right) \\) is equal to</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) 4</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) -4</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) 8</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) -2</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "MATRICES(Basic Preview of Matrices)",
+            "subject": "PHYSICS",
+            "topic_name": "MP",
+            "toughness": "MEDIUM"
+        }
+    ]
+}
