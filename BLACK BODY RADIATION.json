@@ -1372,6 +1372,212 @@
             "subject": "PHYSICS",
             "topic_name": "Quantum",
             "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 9:00:11 PM",
+            "ocrQuestion": "A filament, assumed to be a black body. is emitting radiation at a temperature \\( T \\). If the power to the filament is doubled then the temperature will\n(a) Increase by \\( 2^{\\frac{1}{4}} \\)\n(b) Increase by \\( 2^{\\frac{1}{2}} \\)\n(c) Increase by 2\n(d) Increase by 4",
+            "onlyq_text": "<p>A filament, assumed to be a black body. is emitting radiation at a temperature \\( T \\). If the power to the filament is doubled then the temperature will</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) Increase by \\( 2^{\\frac{1}{4}} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) Increase by \\( 2^{\\frac{1}{2}} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) Increase by 2</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) Increase by 4</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "Quantum",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 9:01:26 PM",
+            "ocrQuestion": "Assume that a planet and the star is orbits can both be thought of as perfect black bodies. The surface temperature of the star is \\( T_{s} \\) and that of the planet is \\( T_{p} \\). Suppose there is another starplanet system identical in all respects but except for the two temperatures. If the surface temperature of the other star is \\( T / 2 \\) the surface temperature of its planet is\n(a) \\( T_{p} \\)\n(b) \\( \\frac{3 T_{p}}{2} \\)\n(c) \\( \\frac{T_{p}}{2} \\)\n(d) \\( \\frac{T_{p}}{16} \\)",
+            "onlyq_text": "<p>Assume that a planet and the star is orbits can both be thought of as perfect black bodies. The surface temperature of the star is \\( T_{s} \\) and that of the planet is \\( T_{p} \\). Suppose there is another starplanet system identical in all respects but except for the two temperatures. If the surface temperature of the other star is \\( T / 2 \\) the surface temperature of its planet is</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( T_{p} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{3 T_{p}}{2} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\frac{T_{p}}{2} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{T_{p}}{16} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "Quantum",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Veriety"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 9:04:57 PM",
+            "ocrQuestion": "An athelete dissipates all the energy in a diet of \\( 2000 \\mathrm{kcal} \\). per day. If he were to release this energy at a steady rate, its magnitude can be compared to the out put energy of an electric bulb of the following wattage\n(a) 300 Watts\n(b) 200 Watts\n(c) 100 Watts\n(d) 40 Watts",
+            "onlyq_text": "<p>An athelete dissipates all the energy in a diet of \\( 2000 \\mathrm{kcal} \\). per day. If he were to release this energy at a steady rate, its magnitude can be compared to the out put energy of an electric bulb of the following wattage</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) 300 Watts</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) 200 Watts</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) 100 Watts</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) 40 Watts</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "Quantum",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "calculative",
+                "ForJEE",
+                "ForNEET",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 9:10:39 PM",
+            "ocrQuestion": "The power per unit area emitted by a surface of a blackbody (in \\( \\mathrm{Wm}^{-2} \\) ) at temperature \\( 230 \\mathrm{~K} \\) is about\n(a) 112.67\n(b) 128.67\n(c) 158.67\n(d) 178.67",
+            "onlyq_text": "<p>The power per unit area emitted by a surface of a blackbody (in \\( \\mathrm{Wm}^{-2} \\) ) at temperature \\( 230 \\mathrm{~K} \\) is about</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) 112.67</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) 128.67</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) 158.67</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) 178.67</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "Quantum",
+            "toughness": "EASY"
         }
     ]
 }
