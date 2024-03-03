@@ -33,7 +33,7 @@
     "EMT": {
         "name": "Electro Magnetic Theory",
         "sub_topic_name": [
-            "DIFFERENTIAL EQUATION (1st Order ODE)",
+            "magnetism",
             "DIFFERENTIAL EQUATION (2nd Order ODE)",
             "MULTIPLE INTEGRALS"
         ]
