@@ -1,99 +1,238 @@
 {
     "Quantum": {
-        "name": "Quantum Mechanics",
-        "sub_topic_name": [
-            "PHOTONS & PHOTOELECTRIC EFFECT",
-            "COMPTON EFFECT",
-            "BLACK BODY RADIATION",
-            "WAVE PARTICLE DUALITY",
-            "UNCERTAINTY PRINCIPLE",
-            "CONCEPT OF WAVE FUNCTION",
-            "1-D INFINITE POTENTIAL WELL",
-            "2-D INFINITE POTENTIAL WELL",
-            "3-D INFINITE POTENTIAL WELL",
-            "1-D LINEAR HARMONIC OSCILLATOR",
-            "2-D HARMONIC OSCILLATOR",
-            "3-D HARMONIC OSCILLATOR",
-            "OPERATOR FORMALISM",
-            "STEP & BARRIER POTENTIAL",
-            "HYDROGEN ATOM",
-            "ANGULAR MOMENTUM ALGEBRA"
+        "branch_name": "Quantum Mechanics",
+        "topics": [
+            {
+                "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)": {
+                    "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+                    "sub_topic_name": [
+                        "PHOTONS & PHOTOELECTRIC EFFECT",
+                        "COMPTON EFFECT",
+                        "BLACK BODY RADIATION",
+                        "WAVE PARTICLE DUALITY",
+                        "UNCERTAINTY PRINCIPLE"
+                    ]
+                }
+            },
+            {
+                "WAVE FUNCTION": {
+                    "topic_name": "WAVE FUNCTION",
+                    "sub_topic_name": [
+                        "CONCEPT OF WAVE FUNCTION"
+                    ]
+                }
+            },
+            {
+                "POTENTIAL BOXES": {
+                    "topic_name": "POTENTIAL BOXES",
+                    "sub_topic_name": [
+                        "1-D INFINITE POTENTIAL WELL",
+                        "2-D INFINITE POTENTIAL WELL",
+                        "3-D INFINITE POTENTIAL WELL"
+                    ]
+                }
+            },
+            {
+                "HARMONIC OSCILLATORS": {
+                    "topic_name": "HARMONIC OSCILLATORS",
+                    "sub_topic_name": [
+                        "1-D LINEAR HARMONIC OSCILLATOR",
+                        "2-D HARMONIC OSCILLATOR",
+                        "3-D HARMONIC OSCILLATOR"
+                    ]
+                }
+            },
+            {
+                "OPERATOR FORMALISM": {
+                    "topic_name": "OPERATOR FORMALISM",
+                    "sub_topic_name": [
+                        "1-D LINEAR HARMONIC OSCILLATOR",
+                        "2-D HARMONIC OSCILLATOR",
+                        "3-D HARMONIC OSCILLATOR"
+                    ]
+                }
+            },
+            {
+                "STEP & BARRIER POTENTIAL": {
+                    "topic_name": "STEP & BARRIER POTENTIAL",
+                    "sub_topic_name": [
+                        "STEP & BARRIER POTENTIAL"
+                    ]
+                }
+            },
+            {
+                "ANGULAR MOMENTUM": {
+                    "topic_name": "ANGULAR MOMENTUM",
+                    "sub_topic_name": [
+                        "ANGULAR MOMENTUM ALGEBRA"
+                    ]
+                }
+            }
         ]
     },
     "MP": {
-        "name": "Mathematical Physics",
-        "sub_topic_name": [
-            "DIFFERENTIAL EQUATION (1st Order ODE)",
-            "DIFFERENTIAL EQUATION (2nd Order ODE)",
-            "MULTIPLE INTEGRALS",
-            "PARTIAL DIFFERENTIATION","EULERS THEOREM OF HOMOGENEOUS FUNCTION",
-            "JACOBIAN","FOURIER SERIES","MATRICES(Basic Preview of Matrices)","COMPLEX ANALYSIS (Basic Preview of Complex Numbers)"
+        "branch_name": "Mathematical Physics",
+        "topics": [
+            {
+                "PARTIAL DIFFERENTIATION": [
+                    "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
+                    "JACOBIAN"
+                ]
+            },
+            {
+                "MATRICES": []
+            },
+            {
+                "MATRICES": {
+                    "topic_name": "MATRICES",
+                    "sub_topic_name": [
+                        "MATRICES(Basic Preview of Matrices)"
+                    ]
+                }
+            },
+            {
+                "COMPLEX ANALYSIS": {
+                    "topic_name": "COMPLEX ANALYSIS",
+                    "sub_topic_name": [
+                        "Basic Preview of Complex Numbers"
+                    ]
+                }
+            },
+            {
+                "ORDINARY DIFFERENTIAL EQUATION": {
+                    "topic_name": "ORDINARY DIFFERENTIAL EQUATION",
+                    "sub_topic_name": [
+                        "DIFFERENTIAL EQUATION (1st Order ODE)",
+                        "DIFFERENTIAL EQUATION (2nd Order ODE)"
+                    ]
+                }
+            }
         ]
     },
     "EMT": {
-        "name": "Electro Magnetic Theory",
-        "sub_topic_name": [
-            "magnetism",
-            "DIFFERENTIAL EQUATION (2nd Order ODE)",
-            "MULTIPLE INTEGRALS"
+        "branch_name": "Electro Magnetic Theory",
+        "topics": [
+            {
+                "ELECTROSTATICS": {
+                    "topic_name": "ELECTROSTATICS",
+                    "sub_topic_name": [
+                        "DIFFERENTIAL EQUATION (1st Order ODE)",
+                        "DIFFERENTIAL EQUATION (2nd Order ODE)"
+                    ]
+                }
+            }
         ]
     },
     "Wave&Osci": {
-        "name": "Waves & oscillation",
-        "sub_topic_name": [
-            "DIFFERENTIAL EQUATION (1st Order ODE)",
-            "DIFFERENTIAL EQUATION (2nd Order ODE)",
-            "MULTIPLE INTEGRALS"
+        "branch_name": "Waves & oscillation",
+        "topics": [
+            {
+                "ELECTROSTATICS": {
+                    "topic_name": "ELECTROSTATICS",
+                    "sub_topic_name": [
+                        "DIFFERENTIAL EQUATION (1st Order ODE)",
+                        "DIFFERENTIAL EQUATION (2nd Order ODE)"
+                    ]
+                }
+            }
         ]
     },
     "ThermoStat": {
-        "name": "Thermodynamics & Statistical Mechanics",
-        "sub_topic_name": [
-            "GAS LAWS",
-            "LAWS OF THERMODYNAMICS",
-            "ENTROPY","HEAT-ENGINE"
+        "branch_name": "Thermodynamics & Statistical Mechanics",
+        "topics": [
+            {
+                "ELECTROSTATICS": {
+                    "topic_name": "ELECTROSTATICS",
+                    "sub_topic_name": [
+                        "GAS LAWS",
+                        "LAWS OF THERMODYNAMICS",
+                        "ENTROPY",
+                        "HEAT-ENGINE"
+                    ]
+                }
+            }
+           
         ]
     },
     "Electronics": {
-        "name": "Electronics",
-        "sub_topic_name": [
-            "DIFFERENTIAL EQUATION (1st Order ODE)",
-            "DIFFERENTIAL EQUATION (2nd Order ODE)",
-            "MULTIPLE INTEGRALS"
+        "branch_name": "Electronics",
+        "topics": [
+            {
+                "ELECTROSTATICS": {
+                    "topic_name": "ELECTROSTATICS",
+                    "sub_topic_name": [
+                        "GAS LAWS",
+                        "LAWS OF THERMODYNAMICS",
+                        "ENTROPY",
+                        "HEAT-ENGINE"
+                    ]
+                }
+            }
         ]
     },
     "ATMOL": {
-        "name": "Atomic & Molecular Physics",
-        "sub_topic_name": [
-            "DIFFERENTIAL EQUATION (1st Order ODE)",
-            "DIFFERENTIAL EQUATION (2nd Order ODE)",
-            "MULTIPLE INTEGRALS"
+        "branch_name": "Atomic & Molecular Physics",
+        "topics": [
+            {
+                "ELECTROSTATICS": {
+                    "topic_name": "ELECTROSTATICS",
+                    "sub_topic_name": [
+                        "GAS LAWS",
+                        "LAWS OF THERMODYNAMICS",
+                        "ENTROPY",
+                        "HEAT-ENGINE"
+                    ]
+                }
+            }
         ]
     },
     "SSP": {
-        "name": "Condensed Matter Physics",
-        "sub_topic_name": [
-            "DIFFERENTIAL EQUATION (1st Order ODE)",
-            "DIFFERENTIAL EQUATION (2nd Order ODE)",
-            "MULTIPLE INTEGRALS"
+        "branch_name": "Condensed Matter Physics",
+        "topics": [
+            {
+                "ELECTROSTATICS": {
+                    "topic_name": "ELECTROSTATICS",
+                    "sub_topic_name": [
+                        "GAS LAWS",
+                        "LAWS OF THERMODYNAMICS",
+                        "ENTROPY",
+                        "HEAT-ENGINE"
+                    ]
+                }
+            }
         ]
     },
     "CM": {
-        "name": "Classical Mechanics",
-        "sub_topic_name": [
-            "MOMENT OF INERTIA",
-            "DIFFERENTIAL EQUATION (2nd Order ODE)",
-            
-            "MULTIPLE INTEGRALS"
+        "branch_name": "Classical Mechanics",
+        "topics": [
+            {
+                "SPECIAL THEORY OF RELATIVITY": {
+                    "topic_name": "SPECIAL THEORY OF RELATIVITY",
+                    "sub_topic_name": [
+                        "GAS LAWS",
+                        "LAWS OF THERMODYNAMICS",
+                        "ENTROPY",
+                        "HEAT-ENGINE"
+                    ]
+                }
+            }
         ]
     },
     "NPP": {
-        "name": "Nuclear & Particle Physics",
-        "sub_topic_name": [
-            "DIFFERENTIAL EQUATION (1st Order ODE)",
-            "DIFFERENTIAL EQUATION (2nd Order ODE)",
-            "MULTIPLE INTEGRALS"
+        "branch_name": "Nuclear & Particle Physics",
+        "topics": [
+            {
+                "ELECTROSTATICS": {
+                    "topic_name": "ELECTROSTATICS",
+                    "sub_topic_name": [
+                        "GAS LAWS",
+                        "LAWS OF THERMODYNAMICS",
+                        "ENTROPY",
+                        "HEAT-ENGINE"
+                    ]
+                }
+            }
         ]
     }
-    
+   
 }

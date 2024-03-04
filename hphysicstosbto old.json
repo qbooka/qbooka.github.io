@@ -1,0 +1,125 @@
+{
+    "Quantum": {
+        "name": "Quantum Mechanics",
+        "sub_topic_name": [
+            "PHOTONS & PHOTOELECTRIC EFFECT",
+            "COMPTON EFFECT",
+            "BLACK BODY RADIATION",
+            "WAVE PARTICLE DUALITY",
+            "UNCERTAINTY PRINCIPLE",
+            "CONCEPT OF WAVE FUNCTION",
+            "1-D INFINITE POTENTIAL WELL",
+            "2-D INFINITE POTENTIAL WELL",
+            "3-D INFINITE POTENTIAL WELL",
+            "1-D LINEAR HARMONIC OSCILLATOR",
+            "2-D HARMONIC OSCILLATOR",
+            "3-D HARMONIC OSCILLATOR",
+            "OPERATOR FORMALISM",
+            "STEP & BARRIER POTENTIAL",
+            "HYDROGEN ATOM",
+            "ANGULAR MOMENTUM ALGEBRA"
+        ]
+    },
+    "MP": {
+        "name": "Mathematical Physics",
+        "sub_topic_name": [
+            "DIFFERENTIAL EQUATION (1st Order ODE)",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS",
+            {
+                "PARTIAL DIFFERENTIATION": [
+                    "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
+                    "JACOBIAN"
+                ]
+            },
+            {
+                "MATRICES": [
+                    "MATRICES(Basic Preview of Matrices)"
+                ]
+            },
+            "FOURIER SERIES",
+            {
+                "COMPLEX ANALYSIS": [
+                    "Basic Preview of Complex Numbers"
+                ]
+            }
+        ]
+    },
+    "EMT": {
+        "name": "Electro Magnetic Theory",
+        "sub_topic_name": [
+            "magnetism",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS"
+        ]
+    },
+    "Wave&Osci": {
+        "name": "Waves & oscillation",
+        "sub_topic_name": [
+            "DIFFERENTIAL EQUATION (1st Order ODE)",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS"
+        ]
+    },
+    "ThermoStat": {
+        "name": "Thermodynamics & Statistical Mechanics",
+        "sub_topic_name": [
+            "GAS LAWS",
+            "LAWS OF THERMODYNAMICS",
+            "ENTROPY",
+            "HEAT-ENGINE"
+        ]
+    },
+    "Electronics": {
+        "name": "Electronics",
+        "sub_topic_name": [
+            "DIFFERENTIAL EQUATION (1st Order ODE)",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS"
+        ]
+    },
+    "ATMOL": {
+        "name": "Atomic & Molecular Physics",
+        "sub_topic_name": [
+            "DIFFERENTIAL EQUATION (1st Order ODE)",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS"
+        ]
+    },
+    "SSP": {
+        "name": "Condensed Matter Physics",
+        "sub_topic_name": [
+            "DIFFERENTIAL EQUATION (1st Order ODE)",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS"
+        ]
+    },
+    "CM": {
+        "name": "Classical Mechanics",
+        "sub_topic_name": [
+            "MOMENT OF INERTIA",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS"
+        ]
+    },
+    "NPP": {
+        "name": "Nuclear & Particle Physics",
+        "sub_topic_name": [
+            "DIFFERENTIAL EQUATION (1st Order ODE)",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS"
+        ]
+    },
+    "DEMO": {
+        "name": [
+            {
+                "sai": "sai"
+            }
+        ],
+        "sub_topic_name": [
+            "DIFFERENTIAL EQUATION (1st Order ODE)",
+            "DIFFERENTIAL EQUATION (2nd Order ODE)",
+            "MULTIPLE INTEGRALS"
+        ]
+    }
+}
