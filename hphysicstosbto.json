@@ -151,7 +151,6 @@
                     ]
                 }
             }
-           
         ]
     },
     "Electronics": {
@@ -204,19 +203,17 @@
     },
     "CM": {
         "branch_name": "Classical Mechanics",
-        "topics": [
-            {
-                "SPECIAL THEORY OF RELATIVITY": {
-                    "topic_name": "SPECIAL THEORY OF RELATIVITY",
-                    "sub_topic_name": [
-                        "GAS LAWS",
-                        "LAWS OF THERMODYNAMICS",
-                        "ENTROPY",
-                        "HEAT-ENGINE"
-                    ]
-                }
+        "topics": {
+            "SPECIAL THEORY OF RELATIVITY": {
+                "topic_name": "SPECIAL THEORY OF RELATIVITY",
+                "sub_topic_name": [
+                    "GAS LAWS",
+                    "LAWS OF THERMODYNAMICS",
+                    "ENTROPY",
+                    "HEAT-ENGINE"
+                ]
             }
-        ]
+        }
     },
     "NPP": {
         "branch_name": "Nuclear & Particle Physics",
@@ -234,5 +231,4 @@
             }
         ]
     }
-   
 }
