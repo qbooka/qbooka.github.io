@@ -1,205 +1,171 @@
 {
     "Quantum": {
         "branch_name": "Quantum Mechanics",
-        "topics": [
-            {
-                "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)": {
-                    "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
-                    "sub_topic_name": [
-                        "PHOTONS & PHOTOELECTRIC EFFECT",
-                        "COMPTON EFFECT",
-                        "BLACK BODY RADIATION",
-                        "WAVE PARTICLE DUALITY",
-                        "UNCERTAINTY PRINCIPLE"
-                    ]
-                }
+        "topics": {
+            "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)": {
+                "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+                "sub_topic_name": [
+                    "PHOTONS & PHOTOELECTRIC EFFECT",
+                    "COMPTON EFFECT",
+                    "BLACK BODY RADIATION",
+                    "WAVE PARTICLE DUALITY",
+                    "UNCERTAINTY PRINCIPLE"
+                ]
             },
-            {
-                "WAVE FUNCTION": {
-                    "topic_name": "WAVE FUNCTION",
-                    "sub_topic_name": [
-                        "CONCEPT OF WAVE FUNCTION"
-                    ]
-                }
+            "WAVE FUNCTION": {
+                "topic_name": "WAVE FUNCTION",
+                "sub_topic_name": [
+                    "CONCEPT OF WAVE FUNCTION"
+                ]
             },
-            {
-                "POTENTIAL BOXES": {
-                    "topic_name": "POTENTIAL BOXES",
-                    "sub_topic_name": [
-                        "1-D INFINITE POTENTIAL WELL",
-                        "2-D INFINITE POTENTIAL WELL",
-                        "3-D INFINITE POTENTIAL WELL"
-                    ]
-                }
+            "POTENTIAL BOXES": {
+                "topic_name": "POTENTIAL BOXES",
+                "sub_topic_name": [
+                    "1-D INFINITE POTENTIAL WELL",
+                    "2-D INFINITE POTENTIAL WELL",
+                    "3-D INFINITE POTENTIAL WELL"
+                ]
             },
-            {
-                "HARMONIC OSCILLATORS": {
-                    "topic_name": "HARMONIC OSCILLATORS",
-                    "sub_topic_name": [
-                        "1-D LINEAR HARMONIC OSCILLATOR",
-                        "2-D HARMONIC OSCILLATOR",
-                        "3-D HARMONIC OSCILLATOR"
-                    ]
-                }
+            "HARMONIC OSCILLATORS": {
+                "topic_name": "HARMONIC OSCILLATORS",
+                "sub_topic_name": [
+                    "1-D LINEAR HARMONIC OSCILLATOR",
+                    "2-D HARMONIC OSCILLATOR",
+                    "3-D HARMONIC OSCILLATOR"
+                ]
             },
-            {
-                "OPERATOR FORMALISM": {
-                    "topic_name": "OPERATOR FORMALISM",
-                    "sub_topic_name": [
-                        "1-D LINEAR HARMONIC OSCILLATOR",
-                        "2-D HARMONIC OSCILLATOR",
-                        "3-D HARMONIC OSCILLATOR"
-                    ]
-                }
+            "OPERATOR FORMALISM": {
+                "topic_name": "OPERATOR FORMALISM",
+                "sub_topic_name": [
+                    "1-D LINEAR HARMONIC OSCILLATOR",
+                    "2-D HARMONIC OSCILLATOR",
+                    "3-D HARMONIC OSCILLATOR"
+                ]
             },
-            {
-                "STEP & BARRIER POTENTIAL": {
-                    "topic_name": "STEP & BARRIER POTENTIAL",
-                    "sub_topic_name": [
-                        "STEP & BARRIER POTENTIAL"
-                    ]
-                }
+            "STEP & BARRIER POTENTIAL": {
+                "topic_name": "STEP & BARRIER POTENTIAL",
+                "sub_topic_name": [
+                    "STEP & BARRIER POTENTIAL"
+                ]
             },
-            {
-                "ANGULAR MOMENTUM": {
-                    "topic_name": "ANGULAR MOMENTUM",
-                    "sub_topic_name": [
-                        "ANGULAR MOMENTUM ALGEBRA"
-                    ]
-                }
+            "ANGULAR MOMENTUM": {
+                "topic_name": "ANGULAR MOMENTUM",
+                "sub_topic_name": [
+                    "ANGULAR MOMENTUM ALGEBRA"
+                ]
             }
-        ]
+        }
     },
     "MP": {
         "branch_name": "Mathematical Physics",
-        "topics": [
-            {
-                "PARTIAL DIFFERENTIATION": [
+        "topics": {
+            "PARTIAL DIFFERENTIATION": {
+                "topic_name": "PARTIAL DIFFERENTIATION",
+                "sub_topic_name": [
                     "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
                     "JACOBIAN"
                 ]
             },
-            {
-                "MATRICES": []
+            "MATRICES": {
+                "topic_name": "MATRICES",
+                "sub_topic_name": [
+                    "MATRICES(Basic Preview of Matrices)"
+                ]
             },
-            {
-                "MATRICES": {
-                    "topic_name": "MATRICES",
-                    "sub_topic_name": [
-                        "MATRICES(Basic Preview of Matrices)"
-                    ]
-                }
+            "COMPLEX ANALYSIS": {
+                "topic_name": "COMPLEX ANALYSIS",
+                "sub_topic_name": [
+                    "Basic Preview of Complex Numbers"
+                ]
             },
-            {
-                "COMPLEX ANALYSIS": {
-                    "topic_name": "COMPLEX ANALYSIS",
-                    "sub_topic_name": [
-                        "Basic Preview of Complex Numbers"
-                    ]
-                }
-            },
-            {
-                "ORDINARY DIFFERENTIAL EQUATION": {
-                    "topic_name": "ORDINARY DIFFERENTIAL EQUATION",
-                    "sub_topic_name": [
-                        "DIFFERENTIAL EQUATION (1st Order ODE)",
-                        "DIFFERENTIAL EQUATION (2nd Order ODE)"
-                    ]
-                }
+            "ORDINARY DIFFERENTIAL EQUATION": {
+                "topic_name": "ORDINARY DIFFERENTIAL EQUATION",
+                "sub_topic_name": [
+                    "DIFFERENTIAL EQUATION (1st Order ODE)",
+                    "DIFFERENTIAL EQUATION (2nd Order ODE)"
+                ]
             }
-        ]
+        }
     },
     "EMT": {
         "branch_name": "Electro Magnetic Theory",
-        "topics": [
-            {
-                "ELECTROSTATICS": {
-                    "topic_name": "ELECTROSTATICS",
-                    "sub_topic_name": [
-                        "DIFFERENTIAL EQUATION (1st Order ODE)",
-                        "DIFFERENTIAL EQUATION (2nd Order ODE)"
-                    ]
-                }
+        "topics": {
+            "ELECTROSTATICS": {
+                "topic_name": "ELECTROSTATICS",
+                "sub_topic_name": [
+                    "DIFFERENTIAL EQUATION (1st Order ODE)",
+                    "DIFFERENTIAL EQUATION (2nd Order ODE)"
+                ]
             }
-        ]
+        }
     },
     "Wave&Osci": {
         "branch_name": "Waves & oscillation",
-        "topics": [
-            {
-                "ELECTROSTATICS": {
-                    "topic_name": "ELECTROSTATICS",
-                    "sub_topic_name": [
-                        "DIFFERENTIAL EQUATION (1st Order ODE)",
-                        "DIFFERENTIAL EQUATION (2nd Order ODE)"
-                    ]
-                }
+        "topics": {
+            "ELECTROSTATICS": {
+                "topic_name": "ELECTROSTATICS",
+                "sub_topic_name": [
+                    "DIFFERENTIAL EQUATION (1st Order ODE)",
+                    "DIFFERENTIAL EQUATION (2nd Order ODE)"
+                ]
             }
-        ]
+        }
     },
     "ThermoStat": {
         "branch_name": "Thermodynamics & Statistical Mechanics",
-        "topics": [
-            {
-                "ELECTROSTATICS": {
-                    "topic_name": "ELECTROSTATICS",
-                    "sub_topic_name": [
-                        "GAS LAWS",
-                        "LAWS OF THERMODYNAMICS",
-                        "ENTROPY",
-                        "HEAT-ENGINE"
-                    ]
-                }
+        "topics": {
+            "ELECTROSTATICS": {
+                "topic_name": "ELECTROSTATICS",
+                "sub_topic_name": [
+                    "GAS LAWS",
+                    "LAWS OF THERMODYNAMICS",
+                    "ENTROPY",
+                    "HEAT-ENGINE"
+                ]
             }
-        ]
+        }
     },
     "Electronics": {
         "branch_name": "Electronics",
-        "topics": [
-            {
-                "ELECTROSTATICS": {
-                    "topic_name": "ELECTROSTATICS",
-                    "sub_topic_name": [
-                        "GAS LAWS",
-                        "LAWS OF THERMODYNAMICS",
-                        "ENTROPY",
-                        "HEAT-ENGINE"
-                    ]
-                }
+        "topics": {
+            "ELECTROSTATICS": {
+                "topic_name": "ELECTROSTATICS",
+                "sub_topic_name": [
+                    "GAS LAWS",
+                    "LAWS OF THERMODYNAMICS",
+                    "ENTROPY",
+                    "HEAT-ENGINE"
+                ]
             }
-        ]
+        }
     },
     "ATMOL": {
         "branch_name": "Atomic & Molecular Physics",
-        "topics": [
-            {
-                "ELECTROSTATICS": {
-                    "topic_name": "ELECTROSTATICS",
-                    "sub_topic_name": [
-                        "GAS LAWS",
-                        "LAWS OF THERMODYNAMICS",
-                        "ENTROPY",
-                        "HEAT-ENGINE"
-                    ]
-                }
+        "topics": {
+            "ELECTROSTATICS": {
+                "topic_name": "ELECTROSTATICS",
+                "sub_topic_name": [
+                    "GAS LAWS",
+                    "LAWS OF THERMODYNAMICS",
+                    "ENTROPY",
+                    "HEAT-ENGINE"
+                ]
             }
-        ]
+        }
     },
     "SSP": {
         "branch_name": "Condensed Matter Physics",
-        "topics": [
-            {
-                "ELECTROSTATICS": {
-                    "topic_name": "ELECTROSTATICS",
-                    "sub_topic_name": [
-                        "GAS LAWS",
-                        "LAWS OF THERMODYNAMICS",
-                        "ENTROPY",
-                        "HEAT-ENGINE"
-                    ]
-                }
+        "topics": {
+            "ELECTROSTATICS": {
+                "topic_name": "ELECTROSTATICS",
+                "sub_topic_name": [
+                    "GAS LAWS",
+                    "LAWS OF THERMODYNAMICS",
+                    "ENTROPY",
+                    "HEAT-ENGINE"
+                ]
             }
-        ]
+        }
     },
     "CM": {
         "branch_name": "Classical Mechanics",
@@ -217,18 +183,16 @@
     },
     "NPP": {
         "branch_name": "Nuclear & Particle Physics",
-        "topics": [
-            {
-                "ELECTROSTATICS": {
-                    "topic_name": "ELECTROSTATICS",
-                    "sub_topic_name": [
-                        "GAS LAWS",
-                        "LAWS OF THERMODYNAMICS",
-                        "ENTROPY",
-                        "HEAT-ENGINE"
-                    ]
-                }
+        "topics": {
+            "ELECTROSTATICS": {
+                "topic_name": "ELECTROSTATICS",
+                "sub_topic_name": [
+                    "GAS LAWS",
+                    "LAWS OF THERMODYNAMICS",
+                    "ENTROPY",
+                    "HEAT-ENGINE"
+                ]
             }
-        ]
+        }
     }
 }
