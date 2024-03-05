@@ -1,0 +1,492 @@
+{
+    "questions": [
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Nuclear & Particle Physics",
+            "concept_html": "",
+            "date": "3/5/2024, 9:21:49 PM",
+            "ocrQuestion": "The repulsive force between the positively charged protons does not throw then apart, because\n(a) nuclear force is stronger\n(b) neutrons exist between protons\n(c) coulombian force does not act at small distances\n(d) due to reasons other the mentioned above",
+            "onlyq_text": "<p>The repulsive force between the positively charged protons does not throw then apart, because</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) nuclear force is stronger</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) neutrons exist between protons</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) coulombian force does not act at small distances</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) due to reasons other the mentioned above</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+            "subject": "PHYSICS",
+            "topic_name": "NUCLEAR PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Nuclear & Particle Physics",
+            "concept_html": "",
+            "date": "3/5/2024, 9:23:13 PM",
+            "ocrQuestion": "The approximate ratio of nuclear densities of \\( { }_{26} \\mathrm{Fe}^{56} \\) and \\( { }_{92} U^{238} \\) is\n(a) 0\n(b) \\( \\infty \\)\n(c) 1\n(d) None of these",
+            "onlyq_text": "<p>The approximate ratio of nuclear densities of \\( { }_{26} \\mathrm{Fe}^{56} \\) and \\( { }_{92} U^{238} \\) is</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) 0</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\infty \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) 1</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) None of these</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+            "subject": "PHYSICS",
+            "topic_name": "NUCLEAR PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Nuclear & Particle Physics",
+            "concept_html": "",
+            "date": "3/5/2024, 9:37:45 PM",
+            "ocrQuestion": "Which of the following is the alpha particle?\n(a) \\( { }_{+1}^{0} e \\)\n(b) \\( { }_{-1}^{0} e \\)\n(c) \\( { }_{1}^{1} H \\)\n(d) \\( { }_{2}^{4} \\mathrm{He} \\)",
+            "onlyq_text": "<p>Which of the following is the alpha particle?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( { }_{+1}^{0} e \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( { }_{-1}^{0} e \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( { }_{1}^{1} H \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( { }_{2}^{4} \\mathrm{He} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+            "subject": "PHYSICS",
+            "topic_name": "NUCLEAR PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Nuclear & Particle Physics",
+            "concept_html": "",
+            "date": "3/5/2024, 9:39:23 PM",
+            "ocrQuestion": "Which of the following is the \\( \\beta^{+} \\)particle\n(a) \\( { }_{+1}^{0} \\mathrm{e} \\)\n(b) \\( { }_{-1}^{0} e \\)\n(c) \\( { }_{0}^{1} n \\)\n(d) \\( { }_{1}^{1} \\mathrm{H} \\)",
+            "onlyq_text": "<p>Which of the following is the \\( \\beta^{+} \\)particle</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( { }_{+1}^{0} \\mathrm{e} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( { }_{-1}^{0} e \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( { }_{0}^{1} n \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( { }_{1}^{1} \\mathrm{H} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+            "subject": "PHYSICS",
+            "topic_name": "NUCLEAR PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Nuclear & Particle Physics",
+            "concept_html": "",
+            "date": "3/5/2024, 9:39:58 PM",
+            "ocrQuestion": "Which of the following is the \\( \\beta^{-} \\)particle?\n(a) \\( { }_{+1}^{0} e \\)\n(b) \\( { }_{-1}^{0} e \\)\n(c) \\( { }_{0}^{1} n \\)\n(d) \\( { }_{1}^{1} H \\)",
+            "onlyq_text": "<p>Which of the following is the \\( \\beta^{-} \\)particle?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( { }_{+1}^{0} e \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( { }_{-1}^{0} e \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( { }_{0}^{1} n \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( { }_{1}^{1} H \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+            "subject": "PHYSICS",
+            "topic_name": "NUCLEAR PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Nuclear & Particle Physics",
+            "concept_html": "",
+            "date": "3/5/2024, 9:41:40 PM",
+            "ocrQuestion": "The nuclei \\( C_{6}^{13} \\) and \\( N_{7}^{14} \\) can be described as\n[BHU-2019]\n(a) Isobars\n(b) Isotopes of nitrogen\n(c) Isotopes of carbon\n(d) isotones",
+            "onlyq_text": "<p>The nuclei \\( C_{6}^{13} \\) and \\( N_{7}^{14} \\) can be described as[BHU-2019]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) Isobars</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) Isotopes of nitrogen</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) Isotopes of carbon</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) isotones</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "BHU"
+                ]
+            },
+            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+            "subject": "PHYSICS",
+            "topic_name": "NUCLEAR PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Nuclear & Particle Physics",
+            "concept_html": "",
+            "date": "3/5/2024, 9:44:26 PM",
+            "ocrQuestion": "Two spherical nuclie have mass numbers 216 and 64 with their radii \\( R_{1} \\) and \\( R_{2} \\) respectively. The ratio \\( \\frac{R_{1}}{R_{2}} \\) is:\n[IIT JAM 2009]\n(a) 1.0\n(b) 1.5\n(c) 2.0\n(d) 2.5",
+            "onlyq_text": "<p>Two spherical nuclie have mass numbers 216 and 64 with their radii \\( R_{1} \\) and \\( R_{2} \\) respectively. The ratio \\( \\frac{R_{1}}{R_{2}} \\) is:[IIT JAM 2009]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) 1.0</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) 1.5</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) 2.0</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) 2.5</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "IIT-JAM"
+                ]
+            },
+            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+            "subject": "PHYSICS",
+            "topic_name": "NUCLEAR PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "ForJEE",
+                "ForNEET",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Nuclear & Particle Physics",
+            "concept_html": "",
+            "date": "3/5/2024, 9:48:14 PM",
+            "ocrQuestion": "The volume of a nucleus in an atom is proportional to the\n[GATE 2004]\n(a) mass number\n(b) Proton Number\n(c) neutron number\n(d) electron number",
+            "onlyq_text": "<p>The volume of a nucleus in an atom is proportional to the[GATE 2004]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) mass number</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) Proton Number</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) neutron number</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) electron number</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                  
+                    "GATE-PHY"
+                ]
+            },
+            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+            "subject": "PHYSICS",
+            "topic_name": "NUCLEAR PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Veriety",
+                "Practice",
+                "TEST"
+            ],
+            "added_By": "sai",
+            "branch": "Nuclear & Particle Physics",
+            "concept_html": "",
+            "date": "3/5/2024, 9:50:37 PM",
+            "ocrQuestion": "The intrinsic electric dipole moment of a nucleus \\( { }_{Z}^{A} X \\)\n[NET Dec. 2013]\n(a) increases with \\( Z \\), but independent of \\( A \\)\n(b) decreases with \\( Z \\), but independent of \\( A \\)\n(c) is always zero\n(d) increases with \\( Z \\) and \\( A \\)",
+            "onlyq_text": "<p>The intrinsic electric dipole moment of a nucleus \\( { }_{Z}^{A} X \\)[NET Dec. 2013]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) increases with \\( Z \\), but independent of \\( A \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) decreases with \\( Z \\), but independent of \\( A \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) is always zero</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) increases with \\( Z \\) and \\( A \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "CSIR-NET"
+                ]
+            },
+            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+            "subject": "PHYSICS",
+            "topic_name": "NUCLEAR PHYSICS",
+            "toughness": "EASY"
+        }
+    ]
+}
