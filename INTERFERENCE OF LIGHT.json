@@ -1,0 +1,377 @@
+{
+    "questions": [
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/5/2024, 3:57:36 PM",
+            "ocrQuestion": "If two waves represented by \\( y_{1}=4 \\sin \\omega t \\) and \\( y_{2}=3 \\sin \\left(\\omega t+\\frac{\\pi}{3}\\right) \\) interfere at a point, the amplitude of the resulting wave will be about\n(a) 7\n(b) 6\n(c) 5\n(d) 3",
+            "onlyq_text": "<p>If two waves represented by \\( y_{1}=4 \\sin \\omega t \\) and \\( y_{2}=3 \\sin \\left(\\omega t+\\frac{\\pi}{3}\\right) \\) interfere at a point, the amplitude of the resulting wave will be about</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) 7</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) 6</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) 5</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) 3</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Superposition of Waves",
+            "subject": "PHYSICS",
+            "topic_name": "INTERFERENCE OF LIGHT",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/5/2024, 3:59:25 PM",
+            "ocrQuestion": "Two interfering waves having intensities \\( x \\) and \\( y \\) meets a point with time difference \\( 3 T / 2 \\). What will be the resultant intensity at that point\n(a) \\( (\\sqrt{x}+\\sqrt{y}) \\)\n(b) \\( (\\sqrt{x}+\\sqrt{y}+\\sqrt{x y}) \\)\n(c) \\( x+y-2 \\sqrt{x y} \\)\n(d) \\( \\frac{x+y}{2 x y} \\)",
+            "onlyq_text": "<p>Two interfering waves having intensities \\( x \\) and \\( y \\) meets a point with time difference \\( 3 T / 2 \\). What will be the resultant intensity at that point</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( (\\sqrt{x}+\\sqrt{y}) \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( (\\sqrt{x}+\\sqrt{y}+\\sqrt{x y}) \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( x+y-2 \\sqrt{x y} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{x+y}{2 x y} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Superposition of Waves",
+            "subject": "PHYSICS",
+            "topic_name": "INTERFERENCE OF LIGHT",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "calculative",
+                "MultiConcept",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/5/2024, 4:03:46 PM",
+            "ocrQuestion": "In the Young's double slit experiment, calculate \\( I / I_{\\max } \\). where \\( I \\) represents the intensity at a point where the path difference is \\( \\lambda / 5 \\).\n(a) 0.65\n(b) 0.25\n(c) 0.15\n(d) 0.5",
+            "onlyq_text": "<p>In the Young's double slit experiment, calculate \\( I / I_{\\max } \\). where \\( I \\) represents the intensity at a point where the path difference is \\( \\lambda / 5 \\).</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) 0.65</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) 0.25</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) 0.15</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) 0.5</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Young's Double slit experiment",
+            "subject": "PHYSICS",
+            "topic_name": "INTERFERENCE OF LIGHT",
+            "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/5/2024, 4:08:22 PM",
+            "ocrQuestion": "In a double slit experiment instead of taking slits of equal widths, one slit is made twice as wide as the other. Then in the interference pattern.\n(a) the intensities of both the maxima and minima increase.\n(b) the intensity of maxima increases and the minima have zero intensity.\n(c) the intensity of maxima decreases and that of minima increases.\n(d) the intensity of maxima decreases and the minima have zero intensity.",
+            "onlyq_text": "<p>In a double slit experiment instead of taking slits of equal widths, one slit is made twice as wide as the other. Then in the interference pattern.</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) the intensities of both the maxima and minima increase.</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) the intensity of maxima increases and the minima have zero intensity.</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) the intensity of maxima decreases and that of minima increases.</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) the intensity of maxima decreases and the minima have zero intensity.</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Case 1: When slit are of equal width, if \\( \\mathrm{I}_{\\mathrm{O}} \\) is intensity of light then,\\[\\begin{array}{l}I_{\\max }=I_{0}+I_{0}+2 \\sqrt{I_{0} I_{0}}=4 I_{0} \\\\I_{\\min }=I_{o}+I_{o}-2 \\sqrt{I_{0} I_{o}}=0 \\\\\\end{array}\\]Case 2: When slit are of unequal width, intensity from one slit would increase to twice then,\\[\\begin{array}{l}\\mathrm{I}_{\\text {newmax }}=2 \\mathrm{I}_{\\mathrm{o}}+\\mathrm{I}_{\\mathrm{o}}+2 \\sqrt{2 \\mathrm{I}_{\\mathrm{o}} \\mathrm{I}_{\\mathrm{o}}}=5.83 \\mathrm{I}_{\\mathrm{o}} \\\\\\mathrm{I}_{\\text {newmin }}=2 \\mathrm{I}_{\\mathrm{o}}+\\mathrm{I}_{\\mathrm{o}}-2 \\sqrt{2 \\mathrm{I}_{\\mathrm{o}} \\mathrm{I}_{\\mathrm{o}}}=0.17 \\mathrm{I}_{\\mathrm{o}}\\end{array}\\]Therefore, intensities of both the maxima and the minima increase",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Young's Double slit experiment",
+            "subject": "PHYSICS",
+            "topic_name": "INTERFERENCE OF LIGHT",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "calculative",
+                "Mathematical",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/5/2024, 4:24:41 PM",
+            "ocrQuestion": "In Young's double slit experiment, one of the slit is wider than other, so that amplitude of the light from one slit is double of that from other slit. If \\( I_{m} \\) be the maximum intensity, the resultant intensity \\( I \\) when they interfere at phase difference \\( \\phi \\) is given by:\n(a) \\( \\frac{I_{m}}{9}(4+5 \\cos \\phi) \\)\n(b) \\( \\frac{I_{m}}{3}\\left(1+2 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)\n(c) \\( \\frac{I_{m}}{5}\\left(1+4 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)\n(d) \\( \\frac{I_{m}}{9}\\left(1+8 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)",
+            "onlyq_text": "<p>In Young's double slit experiment, one of the slit is wider than other, so that amplitude of the light from one slit is double of that from other slit. If \\( I_{m} \\) be the maximum intensity, the resultant intensity \\( I \\) when they interfere at phase difference \\( \\phi \\) is given by:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{I_{m}}{9}(4+5 \\cos \\phi) \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{I_{m}}{3}\\left(1+2 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\frac{I_{m}}{5}\\left(1+4 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{I_{m}}{9}\\left(1+8 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Solution:We know that, Intensity \\( \\propto \\) Amplitude \\( ^{2} \\)Given : \\( A_{1}=2 A_{2} \\)\\[\\begin{array}{l}\\therefore I_{1}=4 I_{2} \\\\I_{\\max }=\\left(\\sqrt{I_{1}}+\\sqrt{I_{2}}\\right)^{2}=\\left(3 \\sqrt{I_{2}}\\right)^{2}=9 I_{2}=I_{m} \\\\I=I_{1}+I_{2}+2 \\sqrt{I_{1} I_{2}} \\cos \\phi=4 I_{2}+I_{2}+2 \\sqrt{4 I_{2} \\cdot I_{2}} \\cos \\phi=5 I_{2}+4 I_{2} \\cos \\phi \\\\\\quad=\\frac{I_{m}}{9}(5+4 \\cos \\phi) \\quad\\left[\\because I_{0}=\\frac{I_{m}}{9}\\right] \\\\\\quad=\\frac{I_{m}}{9}[1+4(1+\\cos \\phi)] \\\\\\quad=\\frac{I_{m}}{9}\\left(1+8 \\cos ^{2} \\frac{\\phi}{2}\\right) \\quad\\left[\\because \\cos \\phi=2 \\cos ^{2} \\frac{\\phi}{2}-1\\right]\\end{array}\\]",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Young's Double slit experiment",
+            "subject": "PHYSICS",
+            "topic_name": "INTERFERENCE OF LIGHT",
+            "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/5/2024, 4:30:38 PM",
+            "ocrQuestion": "An interference is observed due to two coherent sources \\( A \\) and \\( B \\) separated by a distance \\( 4 \\lambda \\) along \\( Y \\)-axis where \\( \\lambda \\) is the wavelength of source. Adetector \\( D \\) is moved along the positive \\( X \\)-axis. The number of points on the \\( X \\)-axis excluding the points \\( x=0 \\) and \\( x=\\infty \\) at which maximum will be observed is\n(a) 3\n(b) 4\n(c) 5\n(d) 6",
+            "onlyq_text": "<p>An interference is observed due to two coherent sources \\( A \\) and \\( B \\) separated by a distance \\( 4 \\lambda \\) along \\( Y \\)-axis where \\( \\lambda \\) is the wavelength of source. Adetector \\( D \\) is moved along the positive \\( X \\)-axis. The number of points on the \\( X \\)-axis excluding the points \\( x=0 \\) and \\( x=\\infty \\) at which maximum will be observed is</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) 3</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) 4</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) 5</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) 6</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Young's Double slit experiment",
+            "subject": "PHYSICS",
+            "topic_name": "INTERFERENCE OF LIGHT",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/5/2024, 4:32:07 PM",
+            "ocrQuestion": "If two light waves having same frequency have intensity ratio \\( 4: 1 \\) and they interfere, the ratio of maximum to minimum intensity in the pattern will be\n(a) \\( 9: 1 \\)\n(b) \\( 3: 1 \\)\n(c) \\( 25: 9 \\)\n(d) \\( 16: 25 \\)",
+            "onlyq_text": "<p>If two light waves having same frequency have intensity ratio \\( 4: 1 \\) and they interfere, the ratio of maximum to minimum intensity in the pattern will be</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 9: 1 \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 3: 1 \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 25: 9 \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 16: 25 \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Young's Double slit experiment",
+            "subject": "PHYSICS",
+            "topic_name": "INTERFERENCE OF LIGHT",
+            "toughness": "EASY"
+        }
+    ]
+}
