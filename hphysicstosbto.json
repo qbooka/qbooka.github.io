@@ -191,10 +191,10 @@
     "NPP": {
         "branch_name": "Nuclear & Particle Physics",
         "topics": {
-            "ELECTROSTATICS": {
-                "topic_name": "ELECTROSTATICS",
+            "NUCLEAR PHYSICS": {
+                "topic_name": "NUCLEAR PHYSICS",
                 "sub_topic_name": [
-                    "GAS LAWS",
+                    "BASICS OF NUCLEAR PHYSICS",
                     "LAWS OF THERMODYNAMICS",
                     "ENTROPY",
                     "HEAT-ENGINE"
