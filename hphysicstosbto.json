@@ -84,6 +84,13 @@
                     "DIFFERENTIAL EQUATION (1st Order ODE)",
                     "DIFFERENTIAL EQUATION (2nd Order ODE)"
                 ]
+            },
+            "SERIES": {
+                "topic_name": "SERIES",
+                "sub_topic_name": [
+                    "FOURIER SERIES",
+                    "TAYLER SERIES"
+                ]
             }
         }
     },

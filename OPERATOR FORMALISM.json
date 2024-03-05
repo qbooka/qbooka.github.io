@@ -1,0 +1,527 @@
+{
+    "questions": [
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Quantum Mechanics",
+            "concept_html": "",
+            "date": "3/5/2024, 10:33:03 AM",
+            "ocrQuestion": "If \\( \\psi(x)=A e^{i k x} \\) is an eigen function of the kinetic energy operator, then corresponding kinetic energy eigenvalue is\n(a) \\( \\frac{\\hbar^{2} k^{2}}{2 m} \\)\n(b) \\( \\frac{\\hbar^{2} k^{2}}{m} \\)\n(c) \\( \\frac{3 \\hbar^{2} k^{2}}{2 m} \\)\n(d) \\( \\frac{3 \\hbar^{2} k^{2}}{m} \\)",
+            "onlyq_text": "<p>If \\( \\psi(x)=A e^{i k x} \\) is an eigen function of the kinetic energy operator, then corresponding kinetic energy eigenvalue is</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{\\hbar^{2} k^{2}}{2 m} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{\\hbar^{2} k^{2}}{m} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\frac{3 \\hbar^{2} k^{2}}{2 m} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{3 \\hbar^{2} k^{2}}{m} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "operator(basics)",
+            "subject": "PHYSICS",
+            "topic_name": "OPERATOR FORMALISM",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Quantum Mechanics",
+            "concept_html": "",
+            "date": "3/5/2024, 10:54:44 AM",
+            "ocrQuestion": "If the function \\( f(x)=\\exp \\left(-\\frac{1}{2} x^{2}\\right) \\) is an eigenfunction of the operator \\( \\hat{A}=\\frac{d^{2}}{d x^{2}}-x^{2} \\), then the corresponding eigenvalue will be\n(a) 1\n(b) -1\n(c) 2\n(d) -2",
+            "onlyq_text": "<p>If the function \\( f(x)=\\exp \\left(-\\frac{1}{2} x^{2}\\right) \\) is an eigenfunction of the operator \\( \\hat{A}=\\frac{d^{2}}{d x^{2}}-x^{2} \\), then the corresponding eigenvalue will be</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) 1</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) -1</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) 2</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) -2</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "operator(basics)",
+            "subject": "PHYSICS",
+            "topic_name": "OPERATOR FORMALISM",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Quantum Mechanics",
+            "concept_html": "",
+            "date": "3/5/2024, 1:08:55 PM",
+            "ocrQuestion": "Which one of the functions given below represents the bound state wave function of the operator \\( \\frac{d^{2}}{d x^{2}} \\) in the region \\( -\\infty<x \\leq 0 \\), with eigenvalue 9?\n(a) \\( \\mathrm{Ae}^{3 x} \\)\n(b) \\( A e^{-3 x} \\)\n(c) \\( A \\cosh 3 x \\)\n(d) \\( A \\sinh 3 x \\)",
+            "onlyq_text": "<p>Which one of the functions given below represents the bound state wave function of the operator \\( \\frac{d^{2}}{d x^{2}} \\) in the region \\( -\\infty<x \\leq 0 \\), with eigenvalue 9?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\mathrm{Ae}^{3 x} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( A e^{-3 x} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( A \\cosh 3 x \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( A \\sinh 3 x \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "operator(basics)",
+            "subject": "PHYSICS",
+            "topic_name": "OPERATOR FORMALISM",
+            "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Quantum Mechanics",
+            "concept_html": "",
+            "date": "3/5/2024, 1:15:58 PM",
+            "ocrQuestion": "The eigenfunction of the operator \\( \\hat{A}=\\hat{x}+\\frac{i}{\\hbar} \\hat{p}_{x} \\) corresponding to the eigenvalue \\( \\lambda \\), will be of the form\n(a) \\( \\psi_{0} e^{(x-\\lambda)^{2} / 2} \\)\n(b) \\( \\psi_{0} e^{-(x-\\lambda)^{2} / 2} \\)\n(c) \\( \\psi_{0} e^{-(x-\\lambda) / 2} \\)\n(d) \\( \\psi_{0} e^{(x-\\lambda) / 2} \\)",
+            "onlyq_text": "<p>The eigenfunction of the operator \\( \\hat{A}=\\hat{x}+\\frac{i}{\\hbar} \\hat{p}_{x} \\) corresponding to the eigenvalue \\( \\lambda \\), will be of the form</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\psi_{0} e^{(x-\\lambda)^{2} / 2} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\psi_{0} e^{-(x-\\lambda)^{2} / 2} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\psi_{0} e^{-(x-\\lambda) / 2} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\psi_{0} e^{(x-\\lambda) / 2} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "operator(basics)",
+            "subject": "PHYSICS",
+            "topic_name": "OPERATOR FORMALISM",
+            "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Quantum Mechanics",
+            "concept_html": "",
+            "date": "3/5/2024, 1:19:39 PM",
+            "ocrQuestion": "Find the constant \\( B \\) which makes \\( e^{-a x^{2}} \\) an eigenfunction of the operator \\( \\left(\\frac{d^{2}}{d x^{2}}-B x^{2}\\right) \\) and also find its conrresponding eigenvalue.\n(a) \\( B=2 a^{2}, \\lambda=2 a \\)\n(b) \\( B=4 a^{2}, \\lambda=-2 a \\)\n(c) \\( B=4 a^{2}, \\lambda=2 a \\)\n(d) \\( B=2 a^{2}, \\lambda=-2 a \\)",
+            "onlyq_text": "<p>Find the constant \\( B \\) which makes \\( e^{-a x^{2}} \\) an eigenfunction of the operator \\( \\left(\\frac{d^{2}}{d x^{2}}-B x^{2}\\right) \\) and also find its conrresponding eigenvalue.</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( B=2 a^{2}, \\lambda=2 a \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( B=4 a^{2}, \\lambda=-2 a \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( B=4 a^{2}, \\lambda=2 a \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( B=2 a^{2}, \\lambda=-2 a \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "operator(basics)",
+            "subject": "PHYSICS",
+            "topic_name": "OPERATOR FORMALISM",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "calculative",
+                "Mathematical",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Quantum Mechanics",
+            "concept_html": "",
+            "date": "3/5/2024, 1:20:24 PM",
+            "ocrQuestion": "The operator \\( \\left(\\frac{d}{d x}+x\\right)\\left(\\frac{d}{d x}+x\\right) \\) is equivalent to\n(a) \\( \\frac{d^{2}}{d x^{2}}+2 x \\frac{d}{d x}+1 \\)\n(b) \\( \\frac{d^{2}}{d x^{2}}+2 x \\frac{d}{d x}-1 \\)\n(c) \\( \\frac{d^{2}}{d x^{2}}+2 x \\frac{d}{d x}+x^{2}+1 \\)\n(d) \\( \\frac{d^{2}}{d x^{2}}+x^{2}+1 \\)",
+            "onlyq_text": "<p>The operator \\( \\left(\\frac{d}{d x}+x\\right)\\left(\\frac{d}{d x}+x\\right) \\) is equivalent to</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{d^{2}}{d x^{2}}+2 x \\frac{d}{d x}+1 \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{d^{2}}{d x^{2}}+2 x \\frac{d}{d x}-1 \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\frac{d^{2}}{d x^{2}}+2 x \\frac{d}{d x}+x^{2}+1 \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{d^{2}}{d x^{2}}+x^{2}+1 \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "operator(basics)",
+            "subject": "PHYSICS",
+            "topic_name": "OPERATOR FORMALISM",
+            "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "calculative",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Quantum Mechanics",
+            "concept_html": "",
+            "date": "3/5/2024, 1:22:04 PM",
+            "ocrQuestion": "If the function \\( f(x)=\\exp \\left(-\\frac{1}{2} x^{2}\\right) \\) is an eigenfunction of the operator \\( \\hat{A}=\\frac{d^{2}}{d x^{2}}-x^{2} \\), then the corresponding eigenvalue will be\n(a) 1\n(b) -1\n(c) 2\n(d) -2",
+            "onlyq_text": "<p>If the function \\( f(x)=\\exp \\left(-\\frac{1}{2} x^{2}\\right) \\) is an eigenfunction of the operator \\( \\hat{A}=\\frac{d^{2}}{d x^{2}}-x^{2} \\), then the corresponding eigenvalue will be</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) 1</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) -1</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) 2</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) -2</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "operator(basics)",
+            "subject": "PHYSICS",
+            "topic_name": "OPERATOR FORMALISM",
+            "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Memory",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Quantum Mechanics",
+            "concept_html": "",
+            "date": "3/5/2024, 1:24:55 PM",
+            "ocrQuestion": "Suppose a particle of mass \\( m \\) is confined within the region \\( 0 < x < L \\) and moving freely in it. Which of the following can possibly be the eigenstate of the Hamiltonian operator for the system?\n(a) \\( \\exp \\left(\\frac{n \\pi x}{L}\\right) \\)\n(b) \\( \\exp \\left(-\\frac{n \\pi x}{L}\\right) \\)\n(c) \\( \\sin \\left(\\frac{n \\pi x}{L}\\right) \\)\n(d) \\( \\cos \\left(\\frac{n \\pi x}{L}\\right) \\)",
+            "onlyq_text": "<p>Suppose a particle of mass \\( m \\) is confined within the region \\( 0 < x < L \\) and moving freely in it. Which of the following can possibly be the eigenstate of the Hamiltonian operator for the system?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\exp \\left(\\frac{n \\pi x}{L}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\exp \\left(-\\frac{n \\pi x}{L}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\sin \\left(\\frac{n \\pi x}{L}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\cos \\left(\\frac{n \\pi x}{L}\\right) \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "operator(basics)",
+            "subject": "PHYSICS",
+            "topic_name": "OPERATOR FORMALISM",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Memory",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Quantum Mechanics",
+            "concept_html": "",
+            "date": "3/5/2024, 1:25:33 PM",
+            "ocrQuestion": "Which of the following can possibly be the eigenstate of the linear momentum operator?\n(a) \\( \\exp \\left(\\frac{n \\pi x}{L}\\right) \\)\n(b) \\( \\exp \\left(i \\frac{n \\pi x}{L}\\right) \\)\n(c) \\( \\sin \\left(\\frac{n \\pi x}{L}\\right) \\)\n(d) \\( \\cos \\left(\\frac{n \\pi x}{L}\\right) \\)",
+            "onlyq_text": "<p>Which of the following can possibly be the eigenstate of the linear momentum operator?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\exp \\left(\\frac{n \\pi x}{L}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\exp \\left(i \\frac{n \\pi x}{L}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\sin \\left(\\frac{n \\pi x}{L}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\cos \\left(\\frac{n \\pi x}{L}\\right) \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "operator(basics)",
+            "subject": "PHYSICS",
+            "topic_name": "OPERATOR FORMALISM",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Quantum Mechanics",
+            "concept_html": "",
+            "date": "3/5/2024, 1:31:33 PM",
+            "ocrQuestion": "Which of the following is an eigenfunction the kinetic energy operator? ( \\( a \\) is postive real quantity)\n(a) \\( A e^{-x / a} \\)\n(b) \\( A e^{x / a} \\)\n(c) Both of them\n(d) None of these",
+            "onlyq_text": "<p>Which of the following is an eigenfunction the kinetic energy operator? ( \\( a \\) is postive real quantity)</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( A e^{-x / a} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( A e^{x / a} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) Both of them</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) None of these</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "operator(basics)",
+            "subject": "PHYSICS",
+            "topic_name": "OPERATOR FORMALISM",
+            "toughness": "EASY"
+        }
+    ]
+}
