@@ -109,11 +109,11 @@
     "Wave&Osci": {
         "branch_name": "Waves & oscillation",
         "topics": {
-            "ELECTROSTATICS": {
-                "topic_name": "ELECTROSTATICS",
+            "INTERFERENCE OF LIGHT": {
+                "topic_name": "INTERFERENCE OF LIGHT",
                 "sub_topic_name": [
-                    "DIFFERENTIAL EQUATION (1st Order ODE)",
-                    "DIFFERENTIAL EQUATION (2nd Order ODE)"
+                    "Superposition of Waves",
+                    "Young's Double slit experiment","Shift in fringe","Lloyd's Mirror","Thin film","Wedge shape film","Newton's Ring","Michelson's Interferometer",
                 ]
             }
         }
