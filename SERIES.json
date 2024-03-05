@@ -1,0 +1,214 @@
+{
+    "questions": [
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Mathematical Physics",
+            "concept_html": "",
+            "date": "3/5/2024, 1:44:36 PM",
+            "ocrQuestion": "Suppose \\( f(x) \\) is defined as following:\n\\[\n\\begin{aligned}\nf(x) & =1 & & -1 \\leq x \\leq 0 \\\\\n& =-2 & & 0 \\leq x \\leq 1\n\\end{aligned}\n\\]\nsuch that \\( f(x+2)=f(x) \\). The co-efficents \\( a_{0}, a_{3}, b_{3} \\) in the fourier series exapansion of \\( f(x) \\) are\n(a) \\( \\left(0,0,-\\frac{2}{\\pi}\\right) \\)\n(b) \\( \\left(-1,0,-\\frac{2}{\\pi}\\right) \\)\n(c) \\( \\left(1,0, \\frac{2}{\\pi}\\right) \\)\n(d) \\( \\left(-1,0, \\frac{2}{\\pi}\\right) \\)",
+            "onlyq_text": "<p>Suppose \\( f(x) \\) is defined as following:\\[\\begin{aligned}f(x) & =1 & & -1 \\leq x \\leq 0 \\\\& =-2 & & 0 \\leq x \\leq 1\\end{aligned}\\]such that \\( f(x+2)=f(x) \\). The co-efficents \\( a_{0}, a_{3}, b_{3} \\) in the fourier series exapansion of \\( f(x) \\) are</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\left(0,0,-\\frac{2}{\\pi}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\left(-1,0,-\\frac{2}{\\pi}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\left(1,0, \\frac{2}{\\pi}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\left(-1,0, \\frac{2}{\\pi}\\right) \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "FOURIER SERIES",
+            "subject": "PHYSICS",
+            "topic_name": "SERIES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Mathematical Physics",
+            "concept_html": "",
+            "date": "3/5/2024, 1:47:26 PM",
+            "ocrQuestion": "Suppose \\( f(x) \\) is defined as following:\n\\[\n\\begin{aligned}\nf(x) & =-k ; & & -\\pi<x<0 \\\\\n& =k ; & & 0<x<\\pi\n\\end{aligned}\n\\]\nsuch that \\( f(x+2 \\pi)=f(x) \\). The co-efficient \\( b_{2}, b_{3} \\) in the fourier series exapansion of \\( f(x) \\) will be\n(a) \\( \\frac{4 k}{2 \\pi}, \\frac{4 k}{3 \\pi} \\)\n(b) \\( -\\frac{4 k}{2 \\pi},-\\frac{4 k}{3 \\pi} \\)\n(c) \\( 0, \\frac{4 k}{3 \\pi} \\)\n(d) \\( \\frac{4 k}{2 \\pi}, 0 \\)",
+            "onlyq_text": "<p>Suppose \\( f(x) \\) is defined as following:\\[\\begin{aligned}f(x) & =-k ; & & -\\pi<x<0 \\\\& =k ; & & 0<x<\\pi\\end{aligned}\\]such that \\( f(x+2 \\pi)=f(x) \\). The co-efficient \\( b_{2}, b_{3} \\) in the fourier series exapansion of \\( f(x) \\) will be</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{4 k}{2 \\pi}, \\frac{4 k}{3 \\pi} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( -\\frac{4 k}{2 \\pi},-\\frac{4 k}{3 \\pi} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 0, \\frac{4 k}{3 \\pi} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{4 k}{2 \\pi}, 0 \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "FOURIER SERIES",
+            "subject": "PHYSICS",
+            "topic_name": "SERIES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "MultiConcept",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Mathematical Physics",
+            "concept_html": "",
+            "date": "3/5/2024, 1:53:17 PM",
+            "ocrQuestion": "Suppose \\( f(x) \\) is defined as following:\n\\[\nf(x)=0 \\quad-\\pi<x \\leq 0\n\\]\nsuch that \\( f(x+2 \\pi)=f(x) \\). The co-efficient \\( a_{n} \\) will be\n(a) \\( \\frac{(-1)^{n}}{4 n^{2}} \\)\n(b) \\( \\frac{(-1)^{n}-1}{4 n^{2}} \\)\n(c) \\( \\frac{(-1)^{n}-1}{4 n} \\)\n(d) \\( \\frac{(-1)^{n}}{4 n} \\)",
+            "onlyq_text": "<p>Suppose \\( f(x) \\) is defined as following:\\[f(x)=0 \\quad-\\pi<x \\leq 0\\]such that \\( f(x+2 \\pi)=f(x) \\). The co-efficient \\( a_{n} \\) will be</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{(-1)^{n}}{4 n^{2}} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{(-1)^{n}-1}{4 n^{2}} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\frac{(-1)^{n}-1}{4 n} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{(-1)^{n}}{4 n} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "FOURIER SERIES",
+            "subject": "PHYSICS",
+            "topic_name": "SERIES",
+            "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "MultiConcept",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Mathematical Physics",
+            "concept_html": "",
+            "date": "3/5/2024, 2:36:15 PM",
+            "ocrQuestion": "Suppose \\( f(x) \\) is defined as following:\n\\[\n\\begin{array}{rlrl}\nf(x) & =0 & -\\pi < x \\leq 0 \\\\\n& =\\frac{\\pi x}{4} & & 0 \\leq x < \\pi\n\\end{array}\n\\]\nsuch that \\( f(x+2 \\pi)=f(x) \\). The co-efficient \\( a_{n} \\) will be\n(a) \\( \\frac{(-1)^{n}}{4 n^{2}} \\)\n(b) \\( \\frac{(-1)^{n}-1}{4 n^{2}} \\)\n(c) \\( \\frac{(-1)^{n}-1}{4 n} \\)\n(d) \\( \\frac{(-1)^{n}}{4 n} \\)",
+            "onlyq_text": "<p>Suppose \\( f(x) \\) is defined as following:\\[\\begin{array}{rlrl}f(x) & =0 & -\\pi < x \\leq 0 \\\\& =\\frac{\\pi x}{4} & & 0 \\leq x < \\pi\\end{array}\\]such that \\( f(x+2 \\pi)=f(x) \\). The co-efficient \\( a_{n} \\) will be</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{(-1)^{n}}{4 n^{2}} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{(-1)^{n}-1}{4 n^{2}} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\frac{(-1)^{n}-1}{4 n} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{(-1)^{n}}{4 n} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "FOURIER SERIES",
+            "subject": "PHYSICS",
+            "topic_name": "SERIES",
+            "toughness": "MEDIUM"
+        }
+    ]
+}
