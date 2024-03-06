@@ -1,3 +1,676 @@
+{
+    "questions": [
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Memory",
+                "InterView",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 8:50:02 PM",
+            "ocrQuestion": "Two particles said to be distinguishable when\n(a) the average distance between them is large compared to their de Broglie wavelength.\n(b) the average distance between them is small compared to their de Broglie wavelengths.\n(c) they have overlapping wavepackets.\n(d) their total wave function is symmetric under particle exchange.",
+            "onlyq_text": "<p>Two particles said to be distinguishable when</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) the average distance between them is large compared to their de Broglie wavelength.</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) the average distance between them is small compared to their de Broglie wavelengths.</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) they have overlapping wavepackets.</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) their total wave function is symmetric under particle exchange.</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 8:55:15 PM",
+            "ocrQuestion": "2. Maxwell-Boltzmann law is for the\na) Distinguishable particles\nb) Indistinguishable Particles\nc) Particles with half integral spin\nd) Particles with integral spin",
+            "onlyq_text": "<p>2. Maxwell-Boltzmann law is for the</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>a) Distinguishable particles</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>b) Indistinguishable Particles</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>c) Particles with half integral spin</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>d) Particles with integral spin</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Explanation: The Maxwell-Boltzmann statistics is for the distinguishable particles, which are basically the classical particles like atoms and molecules.",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 8:56:49 PM",
+            "ocrQuestion": "4. Maxwell-Boltzmann statistics cannot be applied to\na) Atoms\nb) Molecules\nc) Photons\nd) Lattice",
+            "onlyq_text": "<p>4. Maxwell-Boltzmann statistics cannot be applied to</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>a) Atoms</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>b) Molecules</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>c) Photons</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>d) Lattice</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Explanation: Maxwell-Boltzmann can only be applied to particles which are distinguishable. Photons are indistinguishable from one other.",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 8:59:03 PM",
+            "ocrQuestion": "1. Fermi-Dirac statistics is for the\na) Distinguishable particles\nb) Symmetrical Particles\nc) Particles with half integral spin\nd) Particles with integral spin",
+            "onlyq_text": "<p>1. Fermi-Dirac statistics is for the</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>a) Distinguishable particles</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>b) Symmetrical Particles</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>c) Particles with half integral spin</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>d) Particles with integral spin</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 9:00:39 PM",
+            "ocrQuestion": "2. The difference between fermions and bosons is that bosons do not obey\na) Aufbau principle\nb) Pauli's Exclusion Principle\nc) Hund's Rule of Maximum Multiplicity\nd) Heisenberg's Uncertainty Principle",
+            "onlyq_text": "<p>2. The difference between fermions and bosons is that bosons do not obey</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>a) Aufbau principle</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>b) Pauli's Exclusion Principle</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>c) Hund's Rule of Maximum Multiplicity</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>d) Heisenberg's Uncertainty Principle</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Explanation: The particles that follow Pauli's Exclusion Principle are defined as Fermions while that don't are called bosons. Bosons have an integral spin number.",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 9:02:23 PM",
+            "ocrQuestion": "5. Fermi-Dirac statistics cannot be applied to\na) Electrons\nb) Photons\nc) Fermions\nd) Protons",
+            "onlyq_text": "<p>5. Fermi-Dirac statistics cannot be applied to</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>a) Electrons</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>b) Photons</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>c) Fermions</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>d) Protons</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Explanation: Fermi-Dirac Statistics can be applied to particles having half odd integral spin number and obey Pauli's principle which are electrons, fermions and protons. Photon has an integral spin number.",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 9:05:11 PM",
+            "ocrQuestion": "1. Bosons have symmetrical wave functions. They do not obey\na) Aufbau principle\nb) Pauli's Exclusion Principle\nc) Hund's Rule of Maximum Multiplicity\nd) Heisenberg's Uncertainty Principle",
+            "onlyq_text": "<p>1. Bosons have symmetrical wave functions. They do not obey</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>a) Aufbau principle</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>b) Pauli's Exclusion Principle</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>c) Hund's Rule of Maximum Multiplicity</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>d) Heisenberg's Uncertainty Principle</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Explanation: The particles that follow Pauli's Exclusion Principle are defined as Fermions while that don't are called bosons. Bosons have an integral spin number.",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 9:06:40 PM",
+            "ocrQuestion": "5. Bose-Einstein statistics can be applied to\na) Electrons\nb) Photons\nc) Fermions\nd) Protons",
+            "onlyq_text": "<p>5. Bose-Einstein statistics can be applied to</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>a) Electrons</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>b) Photons</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>c) Fermions</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>d) Protons</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Explanation: Bose-Einstein Statistics can be applied to particles having integral spin number and do not obey Pauli's principle. Photon comes under this category.",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 9:08:04 PM",
+            "ocrQuestion": "4. The difference between fermions and bosons is that bosons' wave function is\na) Continuous\nb) Single Valued\nc) Symmetric\nd) Differentiable",
+            "onlyq_text": "<p>4. The difference between fermions and bosons is that bosons' wave function is</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>a) Continuous</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>b) Single Valued</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>c) Symmetric</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>d) Differentiable</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Explanation: Bosons are the particles which have symmetric wave function. Fermions are the particles with asymmetric wave function.",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 9:42:47 PM",
+            "ocrQuestion": "The number of possible ways to distribute 4 classical particles in 5 energy states is\n(a) \\( \\frac{5 !}{4 !} \\)\n(b) \\( \\frac{4 !}{5 !} \\)\n(c) \\( 5^{4} \\)\n(d) \\( 4^{5} \\)",
+            "onlyq_text": "<p>The number of possible ways to distribute 4 classical particles in 5 energy states is</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{5 !}{4 !} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{4 !}{5 !} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 5^{4} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 4^{5} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 9:44:27 PM",
+            "ocrQuestion": "The number of ways in which 5 identical bosons can be distributed in 4 energy states is:\n(a) \\( \\frac{8 !}{5 ! 3 !} \\)\n(b) \\( \\frac{9 !}{5 ! 4 !} \\)\n(c) \\( \\frac{9 !}{4 ! 4 !} \\)\n(d) \\( \\frac{8 !}{4 ! 4 !} \\)",
+            "onlyq_text": "<p>The number of ways in which 5 identical bosons can be distributed in 4 energy states is:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{8 !}{5 ! 3 !} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{9 !}{5 ! 4 !} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\frac{9 !}{4 ! 4 !} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{8 !}{4 ! 4 !} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 9:45:38 PM",
+            "ocrQuestion": "The number of ways in which \\( N \\) identical bosons can be distributed in two energy levels, is\n(a) \\( N+1 \\)\n(b) \\( N(N-1) / 2 \\)\n(c) \\( N(N+1) / 2 \\)\n(d) \\( N \\)",
+            "onlyq_text": "<p>The number of ways in which \\( N \\) identical bosons can be distributed in two energy levels, is</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( N+1 \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( N(N-1) / 2 \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( N(N+1) / 2 \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( N \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 9:54:36 PM",
+            "ocrQuestion": "Consider a gas of three particles with four available states. Find number of states available if the gas is BoseEinstein:\n(a) 64\n(b) 4\n(c) 16\n(d) 20",
+            "onlyq_text": "<p>Consider a gas of three particles with four available states. Find number of states available if the gas is BoseEinstein:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) 64</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) 4</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) 16</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) 20</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": [
+                    "BHU"
+                ]
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
             "Tags": [
                 "Revision",
                 "Fast",
