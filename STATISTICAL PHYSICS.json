@@ -830,6 +830,60 @@
             "subject": "PHYSICS",
             "topic_name": "STATISTICAL PHYSICS",
             "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Veriety",
+                "Practice",
+                "TEST"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 10:54:57 PM",
+            "ocrQuestion": "Two identical particles have to be distributed among three energy levels. Let \\( \\mathrm{r}_{\\mathrm{B}}, \\mathrm{r}_{\\mathrm{F}} \\) and \\( \\mathrm{r}_{\\mathrm{C}} \\) represent the ratios of probability of finding two particles to that of finding one particle in a given energy state. The subscripts \\( B, F \\) and C correspond to whether the particles are bosons, fermions and classical particles, respectively. The \\( \\mathrm{r}_{\\mathrm{B}} \\cdot \\mathrm{r}_{\\mathrm{F}}: \\mathrm{r}_{\\mathrm{C}} \\) is equal to\n(a) \\( \\frac{1}{2}: 0: 1 \\)\n(b) \\( 1: \\frac{1}{2}: 1 \\)\n(c) \\( 1: \\frac{1}{2}: \\frac{1}{2} \\)\n(d) \\( 1: 0: \\frac{1}{2} \\)",
+            "onlyq_text": "<p>Two identical particles have to be distributed among three energy levels. Let \\( \\mathrm{r}_{\\mathrm{B}}, \\mathrm{r}_{\\mathrm{F}} \\) and \\( \\mathrm{r}_{\\mathrm{C}} \\) represent the ratios of probability of finding two particles to that of finding one particle in a given energy state. The subscripts \\( B, F \\) and C correspond to whether the particles are bosons, fermions and classical particles, respectively. The \\( \\mathrm{r}_{\\mathrm{B}} \\cdot \\mathrm{r}_{\\mathrm{F}}: \\mathrm{r}_{\\mathrm{C}} \\) is equal to</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{1}{2}: 0: 1 \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 1: \\frac{1}{2}: 1 \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 1: \\frac{1}{2}: \\frac{1}{2} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 1: 0: \\frac{1}{2} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "MEDIUM"
         }
     ]
 }
