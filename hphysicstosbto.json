@@ -121,13 +121,13 @@
     "ThermoStat": {
         "branch_name": "Thermodynamics & Statistical Mechanics",
         "topics": {
-            "ELECTROSTATICS": {
-                "topic_name": "ELECTROSTATICS",
+            "KINETIC THEORY OF GASES": {
+                "topic_name": "KINETIC THEORY OF GASES",
                 "sub_topic_name": [
-                    "GAS LAWS",
-                    "LAWS OF THERMODYNAMICS",
-                    "ENTROPY",
-                    "HEAT-ENGINE"
+                    "Different Types of Speeds of Gas Molecules",
+                    "Maxwell’s Distribution Law",
+                    "Gas Laws(IDEAL GAS)",
+                    "Real Gas"
                 ]
             }
         }
