@@ -120,7 +120,23 @@
                 "topic_name": "INTERFERENCE OF LIGHT",
                 "sub_topic_name": [
                     "Superposition of Waves",
-                    "Young's Double slit experiment","Shift in fringe","Lloyd's Mirror","Thin film","Wedge shape film","Newton's Ring","Michelson's Interferometer"
+                    "Young's Double slit experiment",
+                    "Shift in fringe",
+                    "Lloyd's Mirror",
+                    "Thin film",
+                    "Wedge shape film",
+                    "Newton's Ring",
+                    "Michelson's Interferometer"
+                ]
+            },
+            "WAVES": {
+                "topic_name": "WAVES",
+                "sub_topic_name": [
+                    "Basics Of Wave Propagation",
+                    "Velocity of Sound",
+                    "Echo",
+                    "Doppler's Effect in Sound",
+                    "Doppler's Effect in Light","Organ Pipe",
                 ]
             }
         }
@@ -135,7 +151,8 @@
                     "Different Types of Speeds of Gas Molecules",
                     "Maxwell’s Distribution Law",
                     "Gas Laws(IDEAL GAS)",
-                    "Real Gas","Mean Free Path"
+                    "Real Gas",
+                    "Mean Free Path"
                 ]
             },
             "STATISTICAL PHYSICS": {
@@ -145,7 +162,8 @@
                     "Different Types of Speeds of Gas Molecules",
                     "Maxwell’s Distribution Law",
                     "Gas Laws(IDEAL GAS)",
-                    "Real Gas","Mean Free Path"
+                    "Real Gas",
+                    "Mean Free Path"
                 ]
             }
         }
@@ -215,8 +233,10 @@
                     "BASICS OF NUCLEAR PHYSICS",
                     "RADIO ACTIVITY",
                     "Nuclear Fusion",
-                    "Nuclear Fission","Binding Energy"
+                    "Nuclear Fission",
+                    "Binding Energy"
                 ]
             }
         }
-    }}
+    }
+}
