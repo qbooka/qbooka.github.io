@@ -1,0 +1,102 @@
+{
+    "questions": [
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/6/2024, 11:39:21 PM",
+            "ocrQuestion": "A bomb explodes on the moon. You will hear its sound on earth after:\na. \\( 10 \\mathrm{~min} \\)\nb. 2 hour \\( 18 \\mathrm{~min} \\)\nc. \\( 37 \\mathrm{~min} \\)\nd. never",
+            "onlyq_text": "<p>A bomb explodes on the moon. You will hear its sound on earth after:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>a. \\( 10 \\mathrm{~min} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>b. 2 hour \\( 18 \\mathrm{~min} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( 37 \\mathrm{~min} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>d. never</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Basics Of Wave Propagation",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/6/2024, 11:42:11 PM",
+            "ocrQuestion": "If \\( c_{0} \\) and \\( c \\) denote the sound velocity and root mean square velocity of molecules in a gas, then:\na. \\( c_{0}>c \\)\nb. \\( c_{0}=c \\)\nc. \\( c_{0}=c(\\gamma / 3)^{1 / 2} \\)\nd. \\( c_{0} \\) and \\( c \\) are not related",
+            "onlyq_text": "<p>If \\( c_{0} \\) and \\( c \\) denote the sound velocity and root mean square velocity of molecules in a gas, then:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>a. \\( c_{0}>c \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>b. \\( c_{0}=c \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( c_{0}=c(\\gamma / 3)^{1 / 2} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>d. \\( c_{0} \\) and \\( c \\) are not related</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "(c) \\( C_{0}=\\sqrt{\\frac{\\gamma R T}{m}} \\) and \\( C=\\sqrt{\\frac{3 R T}{M}} \\)\\[\\frac{C_{0}}{C}=\\sqrt{\\frac{\\gamma}{3}} \\text { or } C_{0}=\\sqrt{\\frac{\\gamma}{3}} C\\]",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Velocity of Sound",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        }
+    ]
+}
