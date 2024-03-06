@@ -91,6 +91,13 @@
                     "FOURIER SERIES",
                     "TAYLER SERIES"
                 ]
+            },
+            "VECTOR CALCULUS": {
+                "topic_name": "VECTOR CALCULUS",
+                "sub_topic_name": [
+                    "Basic Preview of Vectors",
+                    "Gradient, Divergence, Curl"
+                ]
             }
         }
     },
