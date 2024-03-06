@@ -137,6 +137,16 @@
                     "Gas Laws(IDEAL GAS)",
                     "Real Gas","Mean Free Path"
                 ]
+            },
+            "STATISTICAL PHYSICS": {
+                "topic_name": "STATISTICAL PHYSICS",
+                "sub_topic_name": [
+                    "M.B,B.E AND F.D",
+                    "Different Types of Speeds of Gas Molecules",
+                    "Maxwell’s Distribution Law",
+                    "Gas Laws(IDEAL GAS)",
+                    "Real Gas","Mean Free Path"
+                ]
             }
         }
     },
