@@ -97,6 +97,54 @@
             "subject": "PHYSICS",
             "topic_name": "WAVES",
             "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/6/2024, 11:47:46 PM",
+            "ocrQuestion": "A transverse wave is described by the equation \\( y=y_{0} \\sin 2 \\pi\\left(f t-\\frac{x}{\\lambda}\\right) \\). The maximum particle velocity is equal to four times the wave velocity if:\na. \\( \\lambda=\\frac{\\pi y_{0}}{4} \\)\nb. \\( \\lambda=\\frac{\\pi y_{0}}{2} \\)\nc. \\( \\lambda=\\pi y_{0} \\)\nd. \\( \\lambda=2 \\pi y_{0} \\)",
+            "onlyq_text": "<p>A transverse wave is described by the equation \\( y=y_{0} \\sin 2 \\pi\\left(f t-\\frac{x}{\\lambda}\\right) \\). The maximum particle velocity is equal to four times the wave velocity if:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>a. \\( \\lambda=\\frac{\\pi y_{0}}{4} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>b. \\( \\lambda=\\frac{\\pi y_{0}}{2} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( \\lambda=\\pi y_{0} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>d. \\( \\lambda=2 \\pi y_{0} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "(b) \\( y=y_{0} \\sin 2 \\pi\\left(f t-\\frac{x}{\\lambda}\\right) \\)Wave velocity \\( v=f_{A} \\)Particle velocity \\( u=\\frac{d y}{d t}=y_{0} \\cdot 2 \\pi f \\cos 2 \\pi\\left(f t-\\frac{\\pi}{\\lambda}\\right) \\)\\[\\begin{array}{l}u_{\\max }=y_{0} \\cdot 2 \\pi f \\\\\\text { Given } u_{\\max }=4 v \\\\y_{0} 2 \\pi f=4 f_{\\lambda} \\Rightarrow \\lambda=\\frac{\\pi y_{0}}{2}\\end{array}\\]",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Wave on a String",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
         }
     ]
 }
