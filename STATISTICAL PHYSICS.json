@@ -722,7 +722,6 @@
             "topic_name": "STATISTICAL PHYSICS",
             "toughness": "EASY"
         },
-      
         {
             "QCount": "",
             "Tags": [
@@ -776,6 +775,61 @@
             "subject": "PHYSICS",
             "topic_name": "STATISTICAL PHYSICS",
             "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 10:44:34 PM",
+            "ocrQuestion": "Consider a system of two particles A and B. Each particle can occupy one of three possible quantum states \\( |1\\rangle,|2\\rangle \\), and \\( |3\\rangle \\). The ratio of the probability that the two particles are in the same state to the probability that the two particles are in different states is calculated for bosons and classical (Maxwell-Boltzman) particles. They are respectively [JEST 2013]\n(a) 1,0\n(b) \\( 1 / 2,1 \\)\n(c) \\( 1,1 / 2 \\)\n(d) \\( 0,1 / 2 \\)",
+            "onlyq_text": "<p>Consider a system of two particles A and B. Each particle can occupy one of three possible quantum states \\( |1\\rangle,|2\\rangle \\), and \\( |3\\rangle \\). The ratio of the probability that the two particles are in the same state to the probability that the two particles are in different states is calculated for bosons and classical (Maxwell-Boltzman) particles. They are respectively [JEST 2013] </p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) 1,0</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 1 / 2,1 \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 1,1 / 2 \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 0,1 / 2 \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": [
+                    "JEST"
+                ]
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "MEDIUM"
         }
     ]
 }
