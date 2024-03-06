@@ -1,0 +1,108 @@
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 10:03:02 PM",
+            "ocrQuestion": "What are the number of possible microstates if 3 out of 7 fermions are being distributed in energy state with degeneracy 4 and the rest in some other energy state with degeneracy 5 ?\n(a) \\( \\frac{5 !}{3 ! 4 !} \\)\n(b) \\( \\frac{7 !}{4 ! 5 !} \\)\n(c) \\( \\frac{4 !}{3 !} \\cdot \\frac{5 !}{4 !} \\cdot 7 \\) !\n(d) \\( \\frac{5 !}{3 !} \\)",
+            "onlyq_text": "<p>What are the number of possible microstates if 3 out of 7 fermions are being distributed in energy state with degeneracy 4 and the rest in some other energy state with degeneracy 5 ?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{5 !}{3 ! 4 !} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{7 !}{4 ! 5 !} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\frac{4 !}{3 !} \\cdot \\frac{5 !}{4 !} \\cdot 7 \\) !</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{5 !}{3 !} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "EASY"
+        },
+      
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/6/2024, 10:05:37 PM",
+            "ocrQuestion": "Let \\( N_{M B}, N_{B E}, N_{F D} \\) denote the number of ways in which two particles can be distributed in two energy states according to Maxwell-Boltzmann, Bose-Einstein and Fermi-Dirac statistics respectively. Then : \\( N_{M B}: N_{B E}: N_{F D} \\) is [JAM 2013]\n(a) \\( 4: 3: 1 \\)\n(b) \\( 4: 2: 3 \\)\n(c) \\( 4: 3: 3 \\)\n(d) \\( 4: 3: 2 \\)",
+            "onlyq_text": "<p>Let \\( N_{M B}, N_{B E}, N_{F D} \\) denote the number of ways in which two particles can be distributed in two energy states according to Maxwell-Boltzmann, Bose-Einstein and Fermi-Dirac statistics respectively. Then : \\( N_{M B}: N_{B E}: N_{F D} \\) is [JAM 2013]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 4: 3: 1 \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 4: 2: 3 \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 4: 3: 3 \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 4: 3: 2 \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "ce"
+                ],
+                "Examsource": [
+                    "IIT-JAM"
+                ]
+            },
+            "sub_topic_name": "M.B,B.E AND F.D",
+            "subject": "PHYSICS",
+            "topic_name": "STATISTICAL PHYSICS",
+            "toughness": "EASY"
+        }
+    ]
+}
