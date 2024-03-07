@@ -107,7 +107,14 @@
             "ELECTROSTATICS": {
                 "topic_name": "ELECTROSTATICS",
                 "sub_topic_name": [
-                    "DIFFERENTIAL EQUATION (1st Order ODE)",
+                    "ELECTRODYNAMICS",
+                    "DIFFERENTIAL EQUATION (2nd Order ODE)"
+                ]
+            },
+            "ELECTRODYNAMICS": {
+                "topic_name": "ELECTRODYNAMICS",
+                "sub_topic_name": [
+                    "POYNTING VECTOR, ENERGY, POWER",
                     "DIFFERENTIAL EQUATION (2nd Order ODE)"
                 ]
             }
