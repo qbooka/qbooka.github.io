@@ -222,6 +222,15 @@
                     "ENTROPY",
                     "HEAT-ENGINE"
                 ]
+            },
+            "CENTRAL FORCE AND GRAVITATION": {
+                "topic_name": "CENTRAL FORCE AND GRAVITATION",
+                "sub_topic_name": [
+                    "Basic Ideas",
+                    "Newton's Law of Gravitation","Field and Potential","Escape velocity","Planetary Motion","Satellites","Orbits","Kepler's Laws",
+                    "ENTROPY",
+                    "HEAT-ENGINE"
+                ]
             }
         }
     },
