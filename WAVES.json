@@ -1135,6 +1135,74 @@
             "subject": "PHYSICS",
             "topic_name": "WAVES",
             "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Practice",
+                "TEST"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 12:46:09 PM",
+            "ocrQuestion": "During the propagation of sound wave of frequency \\( f \\), the compressions and rarefactions:\na. travel slower in water than in brass\nb. in air take place such that the entropy remains constant\nc. take place isothermally in all media\nd. are smaller distance apart in air than in water (distance between successive compressions and rarefactions)",
+            "onlyq_text": "<p>During the propagation of sound wave of frequency \\( f \\), the compressions and rarefactions:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": [
+                        "1",
+                        "2",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>a. travel slower in water than in brass</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "2",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>b. in air take place such that the entropy remains constant</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "2",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>c. take place isothermally in all media</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "2",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>d. are smaller distance apart in air than in water (distance between successive compressions and rarefactions)</p>"
+                }
+            ],
+            "optype": 2,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "\\( (\\mathbf{a}, \\mathbf{b}, \\mathbf{d}) \\) Velocity of compressions and rarefactions implies velocity of sound waves or longitudinal waves in a material medium.As \\( \\left(v_{\\text {sound }}\\right)_{\\text {solid }}>\\left(v_{\\text {sound }}\\right)_{\\text {liquid }} \\)Hence, choice (a) is correct. As process of propagation of sound waves in air or a gas is adiabatic, hence entropy. Will remain constant. So, choice (b) is correct. As distance between successive compressions and rarefactions is \\( \\lambda, v \\) is proportional to \\( \\lambda \\) and velocity of sound in a gas is smaller than that in air, hence, compressions and rarefactions are smaller distance apart in air than in water. So, choice (d) is correct.",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Velocity of Sound",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "MEDIUM"
         }
     ]
 }
