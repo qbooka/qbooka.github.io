@@ -731,6 +731,217 @@
             "subject": "PHYSICS",
             "topic_name": "ELECTRODYNAMICS",
             "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/8/2024, 1:18:58 AM",
+            "ocrQuestion": "The electric field of a travelling wave is given by \\( 100 \\cos \\left(10^{9} t-4 x\\right) \\), where \\( t \\) is in seconds and \\( \\mathrm{x} \\) in metres. The speed of the wave is :\n[DU 2014]\n(a) \\( 3.0 \\times 10^{8} \\mathrm{~m} / \\mathrm{s} \\)\n(b) \\( 2.5 \\times 10^{8} \\mathrm{~m} / \\mathrm{s} \\)\n(c) \\( 3.0 \\times 10^{7} \\mathrm{~m} / \\mathrm{s} \\)\n(d) \\( 5.0 \\times 10^{7} \\mathrm{~m} / \\mathrm{s} \\)",
+            "onlyq_text": "<p>The electric field of a travelling wave is given by \\( 100 \\cos \\left(10^{9} t-4 x\\right) \\), where \\( t \\) is in seconds and \\( \\mathrm{x} \\) in metres. The speed of the wave is :[DU 2014]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 3.0 \\times 10^{8} \\mathrm{~m} / \\mathrm{s} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 2.5 \\times 10^{8} \\mathrm{~m} / \\mathrm{s} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 3.0 \\times 10^{7} \\mathrm{~m} / \\mathrm{s} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 5.0 \\times 10^{7} \\mathrm{~m} / \\mathrm{s} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "DU"
+                ]
+            },
+            "sub_topic_name": "MAXWELL\u2019S EQUATIONS, EMW",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/8/2024, 1:25:19 AM",
+            "ocrQuestion": "The direction of propagation of EM wave is given by the direction of\n[BHU 2013]\n(a) vector \\( E \\)\n(b) vector \\( H \\)\n(c) vector \\( (E \\times H) \\)\n(d) none of these",
+            "onlyq_text": "<p>The direction of propagation of EM wave is given by the direction of[BHU 2013]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) vector \\( E \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) vector \\( H \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) vector \\( (E \\times H) \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) none of these</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "BHU"
+                ]
+            },
+            "sub_topic_name": "MAXWELL\u2019S EQUATIONS, EMW",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/8/2024, 1:28:11 AM",
+            "ocrQuestion": "Poynting vector in the electromagnetic field is\n[BHU 2010]\n(a) \\( \\frac{\\vec{E} \\cdot \\vec{B}}{4 \\pi} \\)\n(b) \\( \\frac{\\varepsilon \\vec{E}^{2}}{2} \\)\n(c) \\( \\vec{E} \\times \\vec{B} \\)\n(d) \\( \\frac{\\vec{E} \\times \\vec{B}}{\\mu} \\)",
+            "onlyq_text": "<p>Poynting vector in the electromagnetic field is[BHU 2010]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{\\vec{E} \\cdot \\vec{B}}{4 \\pi} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{\\varepsilon \\vec{E}^{2}}{2} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\vec{E} \\times \\vec{B} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{\\vec{E} \\times \\vec{B}}{\\mu} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "BHU"
+                ]
+            },
+            "sub_topic_name": "MAXWELL\u2019S EQUATIONS, EMW",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/8/2024, 1:29:57 AM",
+            "ocrQuestion": "The average value of the Poynting vector for a plane polarized electromagnetic wave in free space is given by\n[BHU 2011]\n(a) \\( \\frac{1}{2} \\varepsilon_{0} E^{2} \\)\n(b) \\( \\frac{1}{2} C \\varepsilon_{0} E^{2} \\)\n(c) \\( \\frac{1}{2} \\mu_{0} B^{2} \\)\n(d) \\( \\frac{1}{2} \\mu_{0} \\frac{B^{2}}{C} \\)",
+            "onlyq_text": "<p>The average value of the Poynting vector for a plane polarized electromagnetic wave in free space is given by[BHU 2011]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{1}{2} \\varepsilon_{0} E^{2} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{1}{2} C \\varepsilon_{0} E^{2} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\frac{1}{2} \\mu_{0} B^{2} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{1}{2} \\mu_{0} \\frac{B^{2}}{C} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "BHU"
+                ]
+            },
+            "sub_topic_name": "MAXWELL\u2019S EQUATIONS, EMW",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "EASY"
         }
     ]
 }
