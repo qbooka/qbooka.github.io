@@ -950,6 +950,69 @@
             "subject": "PHYSICS",
             "topic_name": "WAVES",
             "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 12:31:06 PM",
+            "ocrQuestion": "The plane wave represent by an equation of the form \\( y=f(x-v t) \\) implies the propagation along the positive \\( x \\) axis without change of shape with constant velocity:\na. \\( \\frac{d v}{d t}=-v\\left(\\frac{d y}{d x}\\right) \\)\nb. \\( \\frac{d v}{d t}=-v\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)\nc. \\( \\frac{d^{2} v}{d t^{2}}=-v^{2}\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)\nd. \\( \\frac{d^{2} v}{d t^{2}}=v\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)",
+            "onlyq_text": "<p>The plane wave represent by an equation of the form \\( y=f(x-v t) \\) implies the propagation along the positive \\( x \\) axis without change of shape with constant velocity:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": [
+                        "1",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>a. \\( \\frac{d y}{d t}=-v\\left(\\frac{d y}{d x}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>b. \\( \\frac{d y}{d t}=-v\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>c. \\( \\frac{d^{2} y}{d t^{2}}=-v^{2}\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>d. \\( \\frac{d^{2} y}{d t^{2}}=v\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)</p>"
+                }
+            ],
+            "optype": 2,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": " Consider for example the equation of the form:\\[\\begin{array}{l}y=a \\sin (\\omega t-k x) \\\\\\frac{d y}{d t}=a \\omega \\cos (\\omega t-k x) \\\\\\frac{d y}{d x}=-a k \\cos (\\omega t-k x)\\end{array}\\]Hence, \\( \\frac{d y}{d t}=-\\left(\\frac{\\omega}{k}\\right) \\frac{d y}{d x}=-v\\left(\\frac{d y}{d x}\\right) \\)i.e., choice (a) is correct.Now,\\( \\frac{d^{2} y}{d t^{2}}=a \\omega^{2} \\sin (\\omega t-k x)=-\\omega^{2} y \\)\\[\\frac{d^{2} y}{d x^{2}}=+k^{2} a \\sin (\\omega t-k x)=k^{2} y\\]\\( \\frac{d^{2} y}{d t^{2}}=-\\left(\\frac{\\omega^{2}}{k^{2}}\\right) \\frac{d^{2} y}{d x^{2}}=-v^{2}\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\) i.e., choice (c) is correct.",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Interference of Waves",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
         }
     ]
 }
