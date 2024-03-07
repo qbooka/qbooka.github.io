@@ -1009,7 +1009,68 @@
                 "BOOKsource": [],
                 "Examsource": []
             },
-            "sub_topic_name": "Interference of Waves",
+            "sub_topic_name": "Basics Of Wave Propagation",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 12:33:37 PM",
+            "ocrQuestion": "A wave is represented by the equation. \\( y=A \\sin \\left(10 \\pi x+15 \\pi t+\\frac{\\pi}{3}\\right) \\) where \\( x \\) is in meter and \\( t \\) is the second. The expression represents:\na. A wave traveling in the positive \\( x \\)-direction with a velocity \\( 1.5 \\mathrm{~m} / \\mathrm{s} \\)\nb. A wave traveling in the negative \\( x \\)-direction with a velocity \\( 1.5 \\mathrm{~m} / \\mathrm{s} \\)\nc. A wave traveling in the negative \\( x \\)-direction have a wavelength \\( 0.2 \\mathrm{~m} \\)\nd. A wave traveling in the positive \\( x \\)-direction have a wavelength \\( 0.2 \\mathrm{~m} \\)",
+            "onlyq_text": "<p>A wave is represented by the equation. \\( y=A \\sin \\left(10 \\pi x+15 \\pi t+\\frac{\\pi}{3}\\right) \\) where \\( x \\) is in meter and \\( t \\) is the second. The expression represents:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": [
+                        "2",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>a. A wave traveling in the positive \\( x \\)-direction with a velocity \\( 1.5 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "2",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>b. A wave traveling in the negative \\( x \\)-direction with a velocity \\( 1.5 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "2",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>c. A wave traveling in the negative \\( x \\)-direction have a wavelength \\( 0.2 \\mathrm{~m} \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "2",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>d. A wave traveling in the positive \\( x \\)-direction have a wavelength \\( 0.2 \\mathrm{~m} \\)</p>"
+                }
+            ],
+            "optype": 2,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Basics Of Wave Propagation",
             "subject": "PHYSICS",
             "topic_name": "WAVES",
             "toughness": "EASY"
