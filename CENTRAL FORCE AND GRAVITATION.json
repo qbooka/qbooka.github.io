@@ -940,6 +940,59 @@
             "subject": "PHYSICS",
             "topic_name": "CENTRAL FORCE AND GRAVITATION",
             "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 6:50:59 PM",
+            "ocrQuestion": "If \\( v_{e} \\) and \\( v_{0} \\) represent the escape velocity and orbital velocity of a satellite corresponding to a circular orbit of radius \\( R \\), then\n(a) \\( v_{e}=v_{0} \\)\n(b) \\( v_{e}=\\sqrt{2} v_{0} \\)\n(c) \\( v_{e}=(1 / \\sqrt{2}) v_{0} \\)\n(d) \\( v_{e} \\) and \\( v_{0} \\) are not related",
+            "onlyq_text": "<p>If \\( v_{e} \\) and \\( v_{0} \\) represent the escape velocity and orbital velocity of a satellite corresponding to a circular orbit of radius \\( R \\), then</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( v_{e}=v_{0} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( v_{e}=\\sqrt{2} v_{0} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( v_{e}=(1 / \\sqrt{2}) v_{0} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( v_{e} \\) and \\( v_{0} \\) are not related</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Given that.\\[\\begin{array}{l}v_{e}=\\text { escape velocity } \\\\v_{0}=\\text { orbilal velocity }\\end{array}\\]We know the formula of escape velocity i.e \\( V_{e}=\\sqrt{\\frac{2 G M}{R}} \\). and Formula For orbital velocity, \\( v_{0}=\\sqrt{\\frac{G M}{R}} \\) \u2014(1)Cleasly from (1) and (1)\\[V_{e}=\\sqrt{\\frac{2 G M}{R}}=\\underline{\\sqrt{2} V_{0}}\\]Hence, option b is correct.",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Escape velocity",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
         }
     ]
 }
