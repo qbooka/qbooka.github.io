@@ -1074,6 +1074,67 @@
             "subject": "PHYSICS",
             "topic_name": "WAVES",
             "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 12:39:39 PM",
+            "ocrQuestion": "A transvers sinusoidal wave of amplitude a, wavelength \\( \\lambda \\) and frequency \\( f \\) is traveling on a stretched string. The maximum speed at any point on the string is \\( (v / 10) \\) where \\( \\mathrm{v} \\) is speed of propagation of the wave. If \\( a=10^{-3} \\) \\( \\mathrm{m} \\) and \\( v=10 \\mathrm{~ms}^{-1} \\), then \\( \\lambda \\) and \\( f \\) are given by\na. \\( \\lambda=2 \\pi \\times 10^{-2} \\mathrm{~m} \\)\nb. \\( \\lambda=10^{-3} \\mathrm{~m} \\)\nc. \\( \\lambda=10^{3} /(2 \\pi) \\mathrm{Hz} \\)\nd. \\( f=10^{4} \\mathrm{~Hz} \\)",
+            "onlyq_text": "<p>A transvers sinusoidal wave of amplitude a, wavelength \\( \\lambda \\) and frequency \\( f \\) is traveling on a stretched string. The maximum speed at any point on the string is \\( (v / 10) \\) where \\( \\mathrm{v} \\) is speed of propagation of the wave. If \\( a=10^{-3} \\) \\( \\mathrm{m} \\) and \\( v=10 \\mathrm{~ms}^{-1} \\), then \\( \\lambda \\) and \\( f \\) are given by</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": [
+                        "1",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>a. \\( \\lambda=2 \\pi \\times 10^{-2} \\mathrm{~m} \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>b. \\( \\lambda=10^{-3} \\mathrm{~m} \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>c. \\( f=10^{3} /(2 \\pi) \\mathrm{Hz} \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>d. \\( f=10^{4} \\mathrm{~Hz} \\)</p>"
+                }
+            ],
+            "optype": 2,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "(a,c) \\( v_{\\max }=a \\omega=a(2 \\pi f) \\)Given that \\( a(2 \\pi f)=\\frac{v}{10}=\\frac{10}{10}=1 \\) \\( f=\\frac{1}{2 \\pi f}=\\frac{10^{3}}{2 \\pi} \\) Hz As \\( v=f \\lambda \\) \\( \\lambda=\\frac{v}{f}=\\frac{10}{10^{3} / 2 \\pi}=2 \\pi \\times 10^{-2} \\mathrm{~m} \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Wave on a String",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "MEDIUM"
         }
     ]
 }
