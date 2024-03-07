@@ -505,6 +505,451 @@
             "subject": "PHYSICS",
             "topic_name": "WAVES",
             "toughness": "MEDIUM"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 10:59:37 AM",
+            "ocrQuestion": "A man stands in a narrow, steep-sided valley. When he shouts he hears two echoes, one after \\( 1 \\mathrm{sec} \\) and the other after \\( 2 \\mathrm{sec} \\). If the velocity of sound in air is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), the width of the valley is:\na. \\( 330 \\mathrm{~m} \\)\nb. \\( 495 \\mathrm{~m} \\)\nc. \\( 660 \\mathrm{~m} \\)\nd. \\( 990 \\mathrm{~m} \\)",
+            "onlyq_text": "<p>A man stands in a narrow, steep-sided valley. When he shouts he hears two echoes, one after \\( 1 \\mathrm{sec} \\) and the other after \\( 2 \\mathrm{sec} \\). If the velocity of sound in air is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), the width of the valley is:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>a. \\( 330 \\mathrm{~m} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>b. \\( 495 \\mathrm{~m} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( 660 \\mathrm{~m} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>d. \\( 990 \\mathrm{~m} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "(b) Let \\( S_{1} \\) and \\( S_{2} \\) be the distance of man form either side of valley, then \\( 2 S_{1}=v t_{1} \\) and \\( 2 S_{2}=v t_{2} \\)\\[\\begin{array}{l}2\\left(S_{1}+S_{2}\\right)=v\\left(t_{1}+t_{2}\\right) \\\\S_{1}+S_{2}=\\frac{v\\left(t_{1}+t_{2}\\right)}{2} \\\\d=S_{1}+S_{2}=\\frac{330(1+2)}{2}=495 \\mathrm{~m}\\end{array}\\]",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Echo",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 11:01:59 AM",
+            "ocrQuestion": "The ratio of intensities of two interfering waves is \\( 4: 1 \\), then the ratio of maximum to minimum intensity is:\na. \\( 1: 4 \\)\nb. \\( 9: 1 \\)\nc. \\( 4: 1 \\)\nd. \\( 3: 1 \\)",
+            "onlyq_text": "<p>The ratio of intensities of two interfering waves is \\( 4: 1 \\), then the ratio of maximum to minimum intensity is:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>a. \\( 1: 4 \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>b. \\( 9: 1 \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( 4: 1 \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>d. \\( 3: 1 \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "(b) \\( \\frac{I_{\\max }}{I_{\\min }}=\\left(\\frac{a_{1}+a_{2}}{a_{1}-a_{2}}\\right)^{2} \\)Here \\( \\frac{I_{1}}{I_{2}}=\\frac{a_{1}^{2}}{a_{2}^{2}}=\\frac{4}{1} \\)\\[\\begin{array}{l}\\frac{a_{1}}{a_{2}}=\\frac{2}{1} \\text { If } a_{1}=a, a_{2}=2 a \\\\\\frac{I_{\\max }}{I_{\\min }}=\\left(\\frac{2 a+a}{2 a-a}\\right)^{2}=\\frac{9}{1}\\end{array}\\]",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Interference of Waves",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 11:03:59 AM",
+            "ocrQuestion": "Two plane waves of same frequencies having intensities I and 4I, are travelling in the same direction. The resultant intensity at a maxima at which waves meet is:\na. I\nb. 3I\nc. \\( 5 \\mathrm{I} \\)\nd. 9I",
+            "onlyq_text": "<p>Two plane waves of same frequencies having intensities I and 4I, are travelling in the same direction. The resultant intensity at a maxima at which waves meet is:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>a. I</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>b. 3I</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( 5 \\mathrm{I} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>d. 9I</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "\\( \\begin{array}{l}\\text { (d) } I_{\\max }=a_{1}^{2}+a_{2}^{2}+2 a_{1} a_{2} \\\\ =I_{1}+I_{2}+2 \\sqrt{I_{1} I_{2}}=I+4 I+2 \\times \\sqrt{I \\times 4 I}=9 I\\end{array} \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Interference of Waves",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 11:05:36 AM",
+            "ocrQuestion": "Two plane waves of same frequencies having intensities I and 4I, are travelling in the same direction. The resultant intensity at a minima at which waves meet is:\na. I\nb. 3I\nc. \\( 5 \\mathrm{I} \\)\nd. 9I",
+            "onlyq_text": "<p>Two plane waves of same frequencies having intensities I and 4I, are travelling in the same direction. The resultant intensity at a minima at which waves meet is:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>a. I</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>b. 3I</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( 5 \\mathrm{I} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>d. 9I</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "(a) \\( I_{\\min }=I_{1}+I_{2}-2 \\sqrt{I_{1} I_{2}}=I+4 I-2 \\sqrt{I \\times 4 I}=I \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Interference of Waves",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 11:09:37 AM",
+            "ocrQuestion": "Two waves having intensity \\(  I \\) and \\( 9 I \\) produce interference. If resultant intensity at a point is \\( 7 I \\), what is the phase difference between the two waves?\na. \\( 0^{\\circ} \\)\nb. \\( 60^{\\circ} \\)\nc. \\( 90^{\\circ} \\)\nd. \\( 120^{\\circ} \\)",
+            "onlyq_text": "<p>Two waves having intensity \\(  I \\) and \\( 9 I \\) produce interference. If resultant intensity at a point is \\( 7 I \\), what is the phase difference between the two waves?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>a. \\( 0^{\\circ} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>b. \\( 60^{\\circ} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( 90^{\\circ} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>d. \\( 120^{\\circ} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "\\( \\begin{array}{l}\\text { (d) } I=I_{1}+I_{2}+2 \\sqrt{I_{1} I_{2}} \\cos \\phi \\\\ 7 I=I+9 I+2 \\sqrt{I \\times 9 I} \\cos \\phi\\end{array} \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Interference of Waves",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 12:00:59 PM",
+            "ocrQuestion": "Out of the following four sources \\( S_{1}, S_{2}, S_{3} \\) and \\( S_{4} \\) only two are coherent, which can produce interference:\n\\[\n\\begin{array}{l}\nS_{1}, y=A \\sin 100 \\pi t \\\\\nS_{2}, y=A \\sin 101 \\pi t \\\\\nS_{3}, y=A \\cos 100 \\pi t \\\\\nS_{4}, y=A \\cos 102 \\pi t\n\\end{array}\n\\]\n\nThe coherent sources are\na. \\( S_{1} \\) and \\( S_{2} \\)\nb. \\( S_{1} \\) and \\( S_{3} \\)\nc. \\( S_{2} \\) and \\( S_{3} \\)\nd. \\( S_{3} \\) and \\( S_{4} \\)",
+            "onlyq_text": "<p>Out of the following four sources \\( S_{1}, S_{2}, S_{3} \\) and \\( S_{4} \\) only two are coherent, which can produce interference:\\[\\begin{array}{l}S_{1}, y=A \\sin 100 \\pi t \\\\S_{2}, y=A \\sin 101 \\pi t \\\\S_{3}, y=A \\cos 100 \\pi t \\\\S_{4}, y=A \\cos 102 \\pi t\\end{array}\\]The coherent sources are</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>a. \\( S_{1} \\) and \\( S_{2} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>b. \\( S_{1} \\) and \\( S_{3} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( S_{2} \\) and \\( S_{3} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>d. \\( S_{3} \\) and \\( S_{4} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "(b) Interfering waves must have same frequency.",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Interference of Waves",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 12:06:13 PM",
+            "ocrQuestion": "Out of given four waves a., b., c. and d.\n\\[\n\\begin{array}{l}\ny=20 \\sin 100 \\pi t \\\\\ny=20 \\sin 101 \\pi t \\\\\ny=20 \\cos (100 \\pi t) \\\\\ny=20 \\cos (101 \\pi t)\n\\end{array}\n\\]\nemitted by four \\( S_{1}, S_{2}, S_{3} \\) and \\( S_{4} \\) respectively.\nInterference phenomenon will be observed in space when:\na. source \\( S_{1} \\) emits wave a. and \\( S_{4} \\) emits wave d.\nb. source \\( S_{2} \\) emits wave b. and \\( S_{4} \\) emits wave d.\nc. source \\( S_{1} \\) emits wave a. and \\( S_{3} \\) emits wave c.\nd. Interference phenomenon cannot be observed by the combination of any of the above waves",
+            "onlyq_text": "<p>Out of given four waves a., b., c. and d.\\[\\begin{array}{l}y=20 \\sin 100 \\pi t \\\\y=20 \\sin 101 \\pi t \\\\y=20 \\cos (100 \\pi t) \\\\y=20 \\cos (101 \\pi t)\\end{array}\\]emitted by four \\( S_{1}, S_{2}, S_{3} \\) and \\( S_{4} \\) respectively.Interference phenomenon will be observed in space when:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>a. source \\( S_{1} \\) emits wave a. and \\( S_{4} \\) emits wave d.</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>b. source \\( S_{2} \\) emits wave b. and \\( S_{4} \\) emits wave d.</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>c. source \\( S_{1} \\) emits wave a. and \\( S_{3} \\) emits wave c.</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>d. Interference phenomenon cannot be observed by the combination of any of the above waves</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "(d) Independent sources cannot produce interference",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Interference of Waves",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 12:07:32 PM",
+            "ocrQuestion": "Two coherent sound waves arrive at a point traversing different paths of lengths \\( L_{1} \\) and \\( L_{2} \\). To hear maximum sound at that point, the condition is:\na. \\( L_{1}-L_{2}=n \\lambda \\)\nb. \\( L_{1}-L_{2}=(2 n-1)(\\lambda / 2) \\)\nc. \\( L_{1}-L_{2}=[n+(1 / 4)] \\lambda \\)\nd. \\( L_{1}-L_{2}=[n+(1 / 2)](\\lambda / 2) \\)",
+            "onlyq_text": "<p>Two coherent sound waves arrive at a point traversing different paths of lengths \\( L_{1} \\) and \\( L_{2} \\). To hear maximum sound at that point, the condition is:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>a. \\( L_{1}-L_{2}=n \\lambda \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>b. \\( L_{1}-L_{2}=(2 n-1)(\\lambda / 2) \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( L_{1}-L_{2}=[n+(1 / 4)] \\lambda \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>d. \\( L_{1}-L_{2}=[n+(1 / 2)](\\lambda / 2) \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "(a) For maximum \\( L_{1}-L_{2}=n \\lambda \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Interference of Waves",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 12:09:33 PM",
+            "ocrQuestion": "Consider 10 identical sources of sound all giving the same frequency but having random phase angles. If the average intensity of each source is \\( I_{0} \\), the average of resultant intensity \\( I \\) due to all these 10 sources will be:\na. \\( I=100 I_{0} \\)\nb. \\( I=10 I_{0} \\)\nc. \\( I=I_{0} \\)\nd. \\( I=\\sqrt{10} I_{0} \\)",
+            "onlyq_text": "<p>Consider 10 identical sources of sound all giving the same frequency but having random phase angles. If the average intensity of each source is \\( I_{0} \\), the average of resultant intensity \\( I \\) due to all these 10 sources will be:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>a. \\( I=100 I_{0} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>b. \\( I=10 I_{0} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( I=I_{0} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>d. \\( I=\\sqrt{10} I_{0} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "(b) For incoherent sources \\( I \\sum I_{0}=10 I_{0} \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Interference of Waves",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
         }
     ]
 }
