@@ -1,0 +1,164 @@
+{
+    "questions": [
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/7/2024, 11:16:45 PM",
+            "ocrQuestion": "The Poynting vector has the dimension of:\n[DU 2014]\n(a) Energy / Area\n(b) Power / Area\n(c) Energy / (Charge \\( \\times \\) Volume)\n(d) Power \\( /( \\) Charge \\( \\times \\) Volume \\( ) \\)",
+            "onlyq_text": "<p>The Poynting vector has the dimension of:[DU 2014]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) Energy / Area</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) Power / Area</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) Energy / (Charge \\( \\times \\) Volume)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) Power \\( /( \\) Charge \\( \\times \\) Volume \\( ) \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "DU"
+                ]
+            },
+            "sub_topic_name": "POYNTING VECTOR, ENERGY, POWER",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/7/2024, 11:17:47 PM",
+            "ocrQuestion": "The magnitude of the Poynting vector gives the\n[DU 2015]\n(a) energy transported per unit area per unit time\n(b) energy density of the electromagnetic wave\n(c) angular momentum density of the electromagnetic wave\n(d) angular momentum transported per unit area per unit time",
+            "onlyq_text": "<p>The magnitude of the Poynting vector gives the[DU 2015]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) energy transported per unit area per unit time</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) energy density of the electromagnetic wave</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) angular momentum density of the electromagnetic wave</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) angular momentum transported per unit area per unit time</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "DU"
+                ]
+            },
+            "sub_topic_name": "POYNTING VECTOR, ENERGY, POWER",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "calculative",
+                "MultiConcept",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/7/2024, 11:30:45 PM",
+            "ocrQuestion": "In a radio wave \\( E_{0}=10^{-4} \\mathrm{v} / \\mathrm{m} \\), then the magnitude of magnetic field and pointing vector is\n[BHU 2019]\n(a) \\( 3.3 \\times 10^{-13} \\mathrm{w} / \\mathrm{m}^{2}, 1.3 \\times 10^{-11} \\) watt \\( / \\mathrm{m}^{2} \\)\n(b) \\( 10^{-4} \\mathrm{w} / \\mathrm{m}^{2}, 1.3 \\times 10^{-11} \\mathrm{watt} / \\mathrm{m}^{2} \\)\n(c) \\( 3.3 \\times 10^{13} \\mathrm{w} / \\mathrm{m}^{2}, 1.3 \\times 10^{11} \\mathrm{watt} / \\mathrm{m}^{2} \\)\n(d) \\( 3.3 \\times 10^{-13} \\mathrm{w} / \\mathrm{m}^{2}, 1.3 \\times 10^{11} \\mathrm{watt} / \\mathrm{m}^{2} \\)",
+            "onlyq_text": "<p>In a radio wave \\( E_{0}=10^{-4} \\mathrm{v} / \\mathrm{m} \\), then the magnitude of magnetic field and pointing vector is[BHU 2019]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 3.3 \\times 10^{-13} \\mathrm{w} / \\mathrm{m}^{2}, 1.3 \\times 10^{-11} \\) watt \\( / \\mathrm{m}^{2} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 10^{-4} \\mathrm{w} / \\mathrm{m}^{2}, 1.3 \\times 10^{-11} \\mathrm{watt} / \\mathrm{m}^{2} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 3.3 \\times 10^{13} \\mathrm{w} / \\mathrm{m}^{2}, 1.3 \\times 10^{11} \\mathrm{watt} / \\mathrm{m}^{2} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 3.3 \\times 10^{-13} \\mathrm{w} / \\mathrm{m}^{2}, 1.3 \\times 10^{11} \\mathrm{watt} / \\mathrm{m}^{2} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "BHU"
+                ]
+            },
+            "sub_topic_name": "POYNTING VECTOR, ENERGY, POWER",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "EASY"
+        }
+    ]
+}
