@@ -159,6 +159,578 @@
             "subject": "PHYSICS",
             "topic_name": "ELECTRODYNAMICS",
             "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/8/2024, 12:26:10 AM",
+            "ocrQuestion": "curl \\( E=-\\frac{\\partial B}{\\partial t} \\) is representing\n[BHU 2013]\n(a) Ampere's law\n(b) Gauss's law\n(c) Ohm's law\n(d) Faraday's law",
+            "onlyq_text": "<p>curl \\( E=-\\frac{\\partial B}{\\partial t} \\) is representing[BHU 2013]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) Ampere's law</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) Gauss's law</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) Ohm's law</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) Faraday's law</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": [
+                    "BHU"
+                ]
+            },
+            "sub_topic_name": "MAXWELL\u2019S EQUATIONS, EMW",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Practice",
+                "TEST"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/8/2024, 12:34:31 AM",
+            "ocrQuestion": "Maxwell's equation can be written in the form shown below. if magnetic charge exists and if it is conserved, which of these equations will have to be charged?\n[BHU 2012]\n(1) \\( \\nabla . \\mathrm{E}=\\frac{\\rho}{\\varepsilon_{0}} \\)\n(2) \\( \\nabla . \\mathrm{B}=0 \\)\n(3) \\( \\nabla \\times \\mathrm{E}=-\\frac{\\partial \\mathrm{B}}{\\partial t} \\)\n(4) \\( \\nabla \\times \\mathbf{B}=\\mu_{0} \\mathrm{~J}+\\mu_{0} \\varepsilon_{0} \\frac{\\partial \\mathrm{E}}{\\partial t} \\)\n(a) 2 only\n(b) 3 only\n(c) 1 and 4\n(d) 2 and 3",
+            "onlyq_text": "<p>Maxwell's equation can be written in the form shown below. if magnetic charge exists and if it is conserved, which of these equations will have to be charged?[BHU 2012](1) \\( \\nabla . \\mathrm{E}=\\frac{\\rho}{\\varepsilon_{0}} \\)(2) \\( \\nabla . \\mathrm{B}=0 \\)(3) \\( \\nabla \\times \\mathrm{E}=-\\frac{\\partial \\mathrm{B}}{\\partial t} \\)(4) \\( \\nabla \\times \\mathbf{B}=\\mu_{0} \\mathrm{~J}+\\mu_{0} \\varepsilon_{0} \\frac{\\partial \\mathrm{E}}{\\partial t} \\)</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) 2 only</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) 3 only</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) 1 and 4</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) 2 and 3</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Gauss Law for magnetism: \\( abla \\cdot \\vec{B} 0 \\)- It implies there is no magnetic monopoles.- If there is magnetic monopole: \\( abla \\cdot \\vec{B} eq 0 \\)Faraday Law of Induction: \\( abla \\times \\vec{E}-\\frac{\\partial \\vec{B}}{\\partial t} \\)- The electric field is equal to the negative of the rate of change of the magnetic flux.- If there is magnetic monopole, an extra term (involving the current of magnetic monopoles) must be added to the righthand side of the equation in order to make it self-consistent.",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": [
+                    "BHU"
+                ]
+            },
+            "sub_topic_name": "MAXWELL\u2019S EQUATIONS, EMW",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/8/2024, 12:37:27 AM",
+            "ocrQuestion": "The Maxwell's equation derived from Faraday's law of electromagnetic induction is\n[BHU 2011]\n(a) \\( \\vec{\\nabla} \\cdot \\vec{E}=\\frac{\\rho}{\\varepsilon} \\)\n(b) \\( \\vec{\\nabla} \\cdot \\vec{B}=0 \\)\n(c) \\( \\vec{\\nabla} \\times \\vec{E}=-\\frac{\\partial \\vec{B}}{\\partial t} \\)\n(d) \\( \\vec{\\nabla} \\times \\vec{E}=\\mu_{0}\\left(\\vec{J}+\\varepsilon \\frac{\\partial \\vec{E}}{\\partial t}\\right) \\)",
+            "onlyq_text": "<p>The Maxwell's equation derived from Faraday's law of electromagnetic induction is[BHU 2011]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\vec{\\nabla} \\cdot \\vec{E}=\\frac{\\rho}{\\varepsilon} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\vec{\\nabla} \\cdot \\vec{B}=0 \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\vec{\\nabla} \\times \\vec{E}=-\\frac{\\partial \\vec{B}}{\\partial t} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\vec{\\nabla} \\times \\vec{E}=\\mu_{0}\\left(\\vec{J}+\\varepsilon \\frac{\\partial \\vec{E}}{\\partial t}\\right) \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "BHU"
+                ]
+            },
+            "sub_topic_name": "MAXWELL\u2019S EQUATIONS, EMW",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Memory",
+                "MultiConcept",
+                "TEST"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/8/2024, 12:45:13 AM",
+            "ocrQuestion": "For electric and magnetic fields. \\( \\vec{E} \\) and \\( \\vec{B} \\), due to a charge density \\( \\rho(r, t) \\) and a current density \\( \\vec{J}(\\vec{r}, \\vec{t}) \\), which of the following relations is/are always correct?\n[JAM 2020]\n\nWhere \\( \\vec{F} \\) is the force on a particle with charge q moving with velocity \\( \\vec{v} \\).\n(a) \\( \\vec{\\nabla} \\times \\vec{E}=0 \\)\n(b) \\( \\vec{\\nabla} \\cdot \\vec{B}=0 \\)\n(c) \\( \\vec{\\nabla} \\cdot \\overrightarrow{\\mathrm{J}}-\\frac{\\partial \\rho}{\\partial t}=0 \\)\n(d) \\( \\vec{F}=q(\\vec{E}+\\vec{v} \\times \\vec{B}) \\).",
+            "onlyq_text": "<p>For electric and magnetic fields. \\( \\vec{E} \\) and \\( \\vec{B} \\), due to a charge density \\( \\rho(r, t) \\) and a current density \\( \\vec{J}(\\vec{r}, \\vec{t}) \\), which of the following relations is/are always correct?[JAM 2020]Where \\( \\vec{F} \\) is the force on a particle with charge q moving with velocity \\( \\vec{v} \\).</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": [
+                        "2",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\vec{\\nabla} \\times \\vec{E}=0 \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "2",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\vec{\\nabla} \\cdot \\vec{B}=0 \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "2",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\vec{\\nabla} \\cdot \\overrightarrow{\\mathrm{J}}-\\frac{\\partial \\rho}{\\partial t}=0 \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "2",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\vec{F}=q(\\vec{E}+\\vec{v} \\times \\vec{B}) \\).</p>"
+                }
+            ],
+            "optype": 2,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "IIT-JAM"
+                ]
+            },
+            "sub_topic_name": "MAXWELL\u2019S EQUATIONS, EMW",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/8/2024, 12:50:33 AM",
+            "ocrQuestion": "In electromagnetic field \\( \\sqrt{\\mu / \\varepsilon} \\) has the dimension of\n[BHU 2013]\n(a) an inductance\n(b) a capacitance\n(c) an impedance\n(d) an electric field",
+            "onlyq_text": "<p>In electromagnetic field \\( \\sqrt{\\mu / \\varepsilon} \\) has the dimension of[BHU 2013]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) an inductance</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) a capacitance</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) an impedance</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) an electric field</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "BHU"
+                ]
+            },
+            "sub_topic_name": "MAXWELL\u2019S EQUATIONS, EMW",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/8/2024, 12:54:17 AM",
+            "ocrQuestion": "For an electromagnetic wave travelling in free space, the electric field is given by \\( \\vec{E}=100 \\cos \\left(10^{8} t+k x\\right) \\hat{j} V / m \\). which of the following statements are true?\n[JAM 2015]\n(a) The wavelength of the wave in meter is \\( 6 \\pi \\)\n(b) The corresponding magnetic field is direction along the positive \\( \\mathrm{z} \\)-direction\n(c) The poynting vector is direction along the positive \\( \\mathrm{z} \\)-direction\n(d) The wave is linearly polarized.",
+            "onlyq_text": "<p>For an electromagnetic wave travelling in free space, the electric field is given by \\( \\vec{E}=100 \\cos \\left(10^{8} t+k x\\right) \\hat{j} V / m \\). which of the following statements are true?[JAM 2015]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": [
+                        "1",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(a) The wavelength of the wave in meter is \\( 6 \\pi \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(b) The corresponding magnetic field is direction along the positive \\( \\mathrm{z} \\)-direction</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(c) The poynting vector is direction along the positive \\( \\mathrm{z} \\)-direction</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(d) The wave is linearly polarized.</p>"
+                }
+            ],
+            "optype": 2,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "IIT-JAM"
+                ]
+            },
+            "sub_topic_name": "MAXWELL\u2019S EQUATIONS, EMW",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/8/2024, 12:55:47 AM",
+            "ocrQuestion": "The extended Ampere's law equation can be expressed as :\n[BHU 2014]\n(a) \\( \\nabla \\times H=J \\)\n(b) \\( \\nabla \\times H=J+\\frac{\\partial D}{\\partial t} \\)\n(c) \\( \\nabla \\times E=-\\frac{\\partial B}{\\partial t} \\)\n(d) \\( \\nabla \\cdot E=-\\frac{\\partial B}{\\partial t} \\)",
+            "onlyq_text": "<p>The extended Ampere's law equation can be expressed as :[BHU 2014]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\nabla \\times H=J \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\nabla \\times H=J+\\frac{\\partial D}{\\partial t} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\nabla \\times E=-\\frac{\\partial B}{\\partial t} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\nabla \\cdot E=-\\frac{\\partial B}{\\partial t} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "BHU"
+                ]
+            },
+            "sub_topic_name": "MAXWELL\u2019S EQUATIONS, EMW",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/8/2024, 12:56:31 AM",
+            "ocrQuestion": "When a plane electromagnetic wave is propagates in a linear, isotropic, dielectric medium, the electric field \\( E \\) and magnetic field \\( H \\) vectors are :\n[BHU 2014]\n(a) parallel to each other\n(b) matually perpendicular to each other\n(c) at an angle of \\( 45^{\\circ} \\)\n(d) at angle of \\( 60^{\\circ} \\)",
+            "onlyq_text": "<p>When a plane electromagnetic wave is propagates in a linear, isotropic, dielectric medium, the electric field \\( E \\) and magnetic field \\( H \\) vectors are :[BHU 2014]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) parallel to each other</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) matually perpendicular to each other</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) at an angle of \\( 45^{\\circ} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) at angle of \\( 60^{\\circ} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "BHU"
+                ]
+            },
+            "sub_topic_name": "MAXWELL\u2019S EQUATIONS, EMW",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/8/2024, 12:57:09 AM",
+            "ocrQuestion": "A plane EM wave travels in a vacuum with a velocity given by\n[BHU 2013]\n(a) \\( c=\\sqrt{\\mu_{0} \\varepsilon_{0}} \\)\n(b) \\( c=\\frac{1}{\\sqrt{\\mu_{0} \\varepsilon_{0}}} \\)\n(c) \\( c=\\sqrt{\\frac{\\mu_{0}}{\\varepsilon_{0}}} \\)\n(d) \\( c=\\sqrt{\\frac{\\varepsilon_{0}}{\\mu_{0}}} \\)",
+            "onlyq_text": "<p>A plane EM wave travels in a vacuum with a velocity given by[BHU 2013]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( c=\\sqrt{\\mu_{0} \\varepsilon_{0}} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( c=\\frac{1}{\\sqrt{\\mu_{0} \\varepsilon_{0}}} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( c=\\sqrt{\\frac{\\mu_{0}}{\\varepsilon_{0}}} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( c=\\sqrt{\\frac{\\varepsilon_{0}}{\\mu_{0}}} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "BHU"
+                ]
+            },
+            "sub_topic_name": "MAXWELL\u2019S EQUATIONS, EMW",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Mathematical",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/8/2024, 1:14:30 AM",
+            "ocrQuestion": "The electric field of an electromagnetic wave is given by\n\\[\n\\vec{E}=\\hat{i} E_{0} \\sin (k y-\\omega t)\n\\]\nwhere \\( k \\) and \\( \\omega \\) respectively denote the wave vector and angular frequency of the wave. \\( \\hat{i}, \\hat{j} \\) and \\( \\hat{k} \\) respectively denote the unit vectors in the \\( x, y \\) and \\( z \\) directions. The magnetic field \\( \\vec{B} \\) of the wave is given by\n(a) \\( \\hat{k} E_{0} k \\sin (k y-\\omega t) \\)\n(b) \\( \\hat{j} E_{0} \\cos (k y-\\omega t) \\)\n(c) \\( -\\hat{k} \\frac{E_{0} \\omega}{k} \\cos (k y-\\omega t) \\)\n(d) \\( -\\hat{k} \\frac{E_{0} k}{\\omega} \\sin (k y-\\omega t) \\)",
+            "onlyq_text": "<p>The electric field of an electromagnetic wave is given by\\[\\vec{E}=\\hat{i} E_{0} \\sin (k y-\\omega t)\\]where \\( k \\) and \\( \\omega \\) respectively denote the wave vector and angular frequency of the wave. \\( \\hat{i}, \\hat{j} \\) and \\( \\hat{k} \\) respectively denote the unit vectors in the \\( x, y \\) and \\( z \\) directions. The magnetic field \\( \\vec{B} \\) of the wave is given by</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\hat{k} E_{0} k \\sin (k y-\\omega t) \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\hat{j} E_{0} \\cos (k y-\\omega t) \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( -\\hat{k} \\frac{E_{0} \\omega}{k} \\cos (k y-\\omega t) \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( -\\hat{k} \\frac{E_{0} k}{\\omega} \\sin (k y-\\omega t) \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "fyzi"
+                ],
+                "Examsource": [
+                    "BHU"
+                ]
+            },
+            "sub_topic_name": "MAXWELL\u2019S EQUATIONS, EMW",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRODYNAMICS",
+            "toughness": "MEDIUM"
         }
     ]
 }
