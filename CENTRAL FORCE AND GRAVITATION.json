@@ -1,0 +1,945 @@
+{
+    "questions": [
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:06:41 PM",
+            "ocrQuestion": "The planet nearest to the sun is\n(a) Pluto\n(b) Mercury\n(c) Venus\n(d) Uranus",
+            "onlyq_text": "<p>The planet nearest to the sun is</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) Pluto</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) Mercury</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) Venus</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) Uranus</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Basic Ideas",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:13:00 PM",
+            "ocrQuestion": "Which planet in our solar system is nearly as big as the Earth?\n1. Mercury\n2. Mars\n3. Venus\n4. Jupiter",
+            "onlyq_text": "<p>Which planet in our solar system is nearly as big as the Earth?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>1. Mercury</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>2. Mars</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>3. Venus</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>4. Jupiter</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "- Venus and Earth are almost the same size, have about the same mass (they weigh about the same), and have a very similar composition (are made of the same material).- Venus is considered as Earth's-twin because its size and shape are very much similar to that of the earth.- Venus is the second planet from the Sun and is the brightest planet in the solar system.- It is sometimes referred to as the sister planet to Earth, because of its similar mass and size.- The planet is named after the Roman goddess of love and beauty.- Venus is the brightest planet and is easily noticeable with unaided eyes.- One of the earliest Babylonian astronomical documents speaks about Venus.",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Basic Ideas",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:17:43 PM",
+            "ocrQuestion": "Which is the brightest planet in the universe?\na. Mercury\nb. Venus\nc. Earth\nd. Saturn",
+            "onlyq_text": "<p>Which is the brightest planet in the universe?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>a. Mercury</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>b. Venus</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>c. Earth</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>d. Saturn</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Basic Ideas",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:18:44 PM",
+            "ocrQuestion": "The first outside orbit of the earth planet is\na. Jupiter\nb. Mars\nc. Saturn\nd. Uranus",
+            "onlyq_text": "<p>The first outside orbit of the earth planet is</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>a. Jupiter</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>b. Mars</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>c. Saturn</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>d. Uranus</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Basic Ideas",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:19:18 PM",
+            "ocrQuestion": "Which is the largest planet in solar system?\na. Mercury\nb. Mars\nc. Jupiter\nd. Saturn",
+            "onlyq_text": "<p>Which is the largest planet in solar system?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>a. Mercury</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>b. Mars</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>c. Jupiter</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>d. Saturn</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Basic Ideas",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:20:41 PM",
+            "ocrQuestion": "Which is the most intense planet of the solar system\n(a) Saturn\n(b) Mars\n(c) Venus\n(d) Mercury",
+            "onlyq_text": "<p>Which is the most intense planet of the solar system</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) Saturn</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) Mars</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) Venus</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) Mercury</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Basic Ideas",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:21:35 PM",
+            "ocrQuestion": "The escape velocity of a projectile from the earth is approximately\n(a) \\( 7 \\mathrm{~km} / \\mathrm{sec} \\)\n(b) \\( 112 \\mathrm{~km} / \\mathrm{sec} \\)\n(c) \\( 11.2 \\mathrm{~km} / \\mathrm{sec} \\)\n(d) \\( 1.1 \\mathrm{~km} / \\mathrm{sec} \\)",
+            "onlyq_text": "<p>The escape velocity of a projectile from the earth is approximately</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 7 \\mathrm{~km} / \\mathrm{sec} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 112 \\mathrm{~km} / \\mathrm{sec} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 11.2 \\mathrm{~km} / \\mathrm{sec} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 1.1 \\mathrm{~km} / \\mathrm{sec} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Escape velocity",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:24:22 PM",
+            "ocrQuestion": "Choose the wrong statement\n(a) weight of a body is greater at the poles and less at equator\n(b) weight of the body is greater in the planes and less on hill tops\n(c) weight of a body on the moon is less than that on the earth and is more on sun\n(d) none of the above",
+            "onlyq_text": "<p>Choose the wrong statement</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) weight of a body is greater at the poles and less at equator</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) weight of the body is greater in the planes and less on hill tops</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) weight of a body on the moon is less than that on the earth and is more on sun</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) none of the above</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Newton's Law of Gravitation",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:25:24 PM",
+            "ocrQuestion": "Which of the following is the evidence to show that there must be a force acting on earth and directed towards the sun?\n(a) deviation of the falling bodies towards east\n(b) revolution of the earth round the sun\n(c) phenomenon of day and night\n(d) apparent motion of sun around the earth",
+            "onlyq_text": "<p>Which of the following is the evidence to show that there must be a force acting on earth and directed towards the sun?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) deviation of the falling bodies towards east</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) revolution of the earth round the sun</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) phenomenon of day and night</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) apparent motion of sun around the earth</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Newton's Law of Gravitation",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:26:08 PM",
+            "ocrQuestion": "In planetary motion\n(a) the angular speed remains constant\n(b) the total angular momentum remains constant\n(c) the linear speed remains constant\n(d) neither the angular momentum nor angular speed remains constant",
+            "onlyq_text": "<p>In planetary motion</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) the angular speed remains constant</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) the total angular momentum remains constant</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) the linear speed remains constant</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) neither the angular momentum nor angular speed remains constant</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Planetary Motion",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:27:38 PM",
+            "ocrQuestion": "The tidal waves in the sea are primarily due to\n(a) the atmosphere effect of the earth\n(b) the gravitational effect of venus on the earth\n(c) the gravitational effect of the sun on the earth\n(d) the gravitaional effect of the moon on the earth",
+            "onlyq_text": "<p>The tidal waves in the sea are primarily due to</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) the atmosphere effect of the earth</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) the gravitational effect of venus on the earth</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) the gravitational effect of the sun on the earth</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) the gravitaional effect of the moon on the earth</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Newton's Law of Gravitation",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:29:48 PM",
+            "ocrQuestion": "The escape velocity of an object projected from the surface of a given planet is independent of\n(a) the mass of the object\n(b) the direction of projection\n(c) the mass of the planet\n(d) radius of the planet",
+            "onlyq_text": "<p>The escape velocity of an object projected from the surface of a given planet is independent of</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": [
+                        "1",
+                        "2"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(a) the mass of the object</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "2"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(b) the direction of projection</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "2"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(c) the mass of the planet</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "2"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(d) radius of the planet</p>"
+                }
+            ],
+            "optype": 2,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Escape velocity",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:30:55 PM",
+            "ocrQuestion": "As we go from the equator to the poles, the value of \\( g \\)\n(a) remains the same\n(b) decreases\n(c) increases\n(d) decreases upto latitude of \\( 45^{\\circ} \\)",
+            "onlyq_text": "<p>As we go from the equator to the poles, the value of \\( g \\)</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) remains the same</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) decreases</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) increases</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) decreases upto latitude of \\( 45^{\\circ} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Field and Potential",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:42:49 PM",
+            "ocrQuestion": "The ratio of the inertial mass to gravitational mass is equal to\n(a) 0.5\n(b) 1\n(c) 2\n(d) no fixed number",
+            "onlyq_text": "<p>The ratio of the inertial mass to gravitational mass is equal to</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) 0.5</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) 1</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) 2</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) no fixed number</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Basic Ideas",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:46:31 PM",
+            "ocrQuestion": "The period of a satellite in a circular orbit near a planet is independent of\n(a) the mass of the planet\n(b) the radius of the planet\n(c) the mass of the satellite\n(d) all the above.",
+            "onlyq_text": "<p>The period of a satellite in a circular orbit near a planet is independent of</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) the mass of the planet</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) the radius of the planet</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) the mass of the satellite</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) all the above.</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Planetary Motion",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Conceptual",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:47:34 PM",
+            "ocrQuestion": "If the earth stops rotationg, the value of ' \\( g \\) ' at the equator will\n(a) increase\n(b) remain same\n(c) decrease\n(d) none of the above",
+            "onlyq_text": "<p>If the earth stops rotationg, the value of ' \\( g \\) ' at the equator will</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) increase</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) remain same</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) decrease</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) none of the above</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Field and Potential",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 5:52:54 PM",
+            "ocrQuestion": "The Orbital speed of Jupiter is?\nA) Greater than the orbital speed of earth\nB) Less than the orbital speed of earth\nC) Equal to the orbital speed of earth\nD) Zero",
+            "onlyq_text": "<p>The Orbital speed of Jupiter is?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>A) Greater than the orbital speed of earth</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>B) Less than the orbital speed of earth</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>C) Equal to the orbital speed of earth</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>D) Zero</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Orbital speed \\( \\mathrm{v}_{0}=\\sqrt{\\frac{\\mathrm{GM}}{\\mathrm{R}}} \\)Orbital velocity of earth around sun is \\( 30 \\mathrm{~km} / \\mathrm{s} \\)Where as Jupiter has orbital velocity \\( =15 \\mathrm{~km} / \\mathrm{s} \\quad \\) (approximately)\\( \\therefore \\) It is less than earth",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Planetary Motion",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/7/2024, 6:45:30 PM",
+            "ocrQuestion": "A small satellites is revolving near earth's surface. It's orbital velocity will be nearly\n(a) \\( 8 \\mathrm{~km} / \\mathrm{sec} \\)\n(b) \\( 11.2 \\mathrm{~km} / \\mathrm{sec} \\)\n(c) \\( 4 \\mathrm{~km} / \\mathrm{sec} \\)\n(d) \\( 6 \\mathrm{~km} / \\mathrm{sec} \\)",
+            "onlyq_text": "<p>A small satellites is revolving near earth's surface. It's orbital velocity will be nearly</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 8 \\mathrm{~km} / \\mathrm{sec} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 11.2 \\mathrm{~km} / \\mathrm{sec} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 4 \\mathrm{~km} / \\mathrm{sec} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 6 \\mathrm{~km} / \\mathrm{sec} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "The orbital velocity of satellite near the earth surface is\\[\\begin{array}{l}v_{\\mathrm{o}}=\\sqrt{ gR}  \\\\\\mathrm{g}=9.8 \\mathrm{~m} / \\mathrm{sec}^{2}, \\mathrm{R}_{\\mathrm{e}}=6.4 \\times 10^{6} \\text { metre } \\\\\\Rightarrow \\mathrm{v}_{\\mathrm{o}}=7.92 \\times 10^{3} \\mathrm{~m} / \\mathrm{sec}=7.92 \\mathrm{~km} / \\mathrm{sec}=8 \\mathrm{~km} / \\mathrm{sec}\\end{array}\\]",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "Planetary Motion",
+            "subject": "PHYSICS",
+            "topic_name": "CENTRAL FORCE AND GRAVITATION",
+            "toughness": "EASY"
+        }
+    ]
+}
