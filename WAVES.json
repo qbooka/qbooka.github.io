@@ -145,6 +145,366 @@
             "subject": "PHYSICS",
             "topic_name": "WAVES",
             "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "ForJEE",
+                "ForNEET",
+                "Veriety",
+                "Practice",
+                "TEST"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/6/2024, 11:55:46 PM",
+            "ocrQuestion": "The amplitude of a wave disturbance propagating along positive \\( X \\)-axis given by \\( y=\\frac{1}{1+x^{2}} \\) at \\( t=0 \\) and \\( y=\\frac{1}{1+(x-2)^{2}} \\) at \\( t=4 \\mathrm{sec} \\) where \\( x \\) and \\( y \\) are in meter. The shape of wave disturbance does not change with time. The velocity of the wave is:\na. \\( 0.5 \\mathrm{~m} / \\mathrm{s} \\)\nb. \\( 1 \\mathrm{~m} / \\mathrm{s} \\)\nc. \\( 2 \\mathrm{~m} / \\mathrm{s} \\)\nd. \\( 4 \\mathrm{~m} / \\mathrm{s} \\)",
+            "onlyq_text": "<p>The amplitude of a wave disturbance propagating along positive \\( X \\)-axis given by \\( y=\\frac{1}{1+x^{2}} \\) at \\( t=0 \\) and \\( y=\\frac{1}{1+(x-2)^{2}} \\) at \\( t=4 \\mathrm{sec} \\) where \\( x \\) and \\( y \\) are in meter. The shape of wave disturbance does not change with time. The velocity of the wave is:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>a. \\( 0.5 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>b. \\( 1 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( 2 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>d. \\( 4 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "\\( \\begin{array}{l}\\text { (a) } y=\\frac{1}{1+x^{2}} \\text { at } t=0 \\\\ \\text { and } y=\\frac{1}{1+(x-2)^{2}} \\text { at } t=4 \\mathrm{~s} \\\\ v=\\frac{\\Delta x}{\\Delta t}=\\frac{x-(x-2)}{4-0}=\\frac{2}{4}=0.5 \\mathrm{~m} / \\mathrm{s}\\end{array} \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Wave on a String",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "ForJEE",
+                "ForNEET",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/6/2024, 11:58:12 PM",
+            "ocrQuestion": "A string stretched at both ends is under a tension of 100 \\( N \\). If mass of string is \\( 4 \\times 10^{-6} \\mathrm{~kg} / \\mathrm{cm} \\), the velocity of transverse waves in string is:\na. \\( 330 \\mathrm{~m} / \\mathrm{s} \\)\nb. \\( 50 \\mathrm{~m} / \\mathrm{s} \\)\nc. \\( 500 \\mathrm{~m} / \\mathrm{s} \\)\nd. \\( 5000 \\mathrm{~m} / \\mathrm{s} \\)",
+            "onlyq_text": "<p>A string stretched at both ends is under a tension of 100 \\( N \\). If mass of string is \\( 4 \\times 10^{-6} \\mathrm{~kg} / \\mathrm{cm} \\), the velocity of transverse waves in string is:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>a. \\( 330 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>b. \\( 50 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( 500 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>d. \\( 5000 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "\\( v=\\sqrt{\\frac{T}{m}}=\\sqrt{\\left\\{\\frac{100}{4 \\times 10^{-4}}\\right\\}}=500 \\mathrm{~m} / \\mathrm{s} \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Wave on a String",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "ForJEE",
+                "ForNEET",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/6/2024, 11:59:11 PM",
+            "ocrQuestion": "There is \\( 1 \\mathrm{~mm} \\) vacuum between two walls. The speed of sound in air is \\( 330 \\mathrm{~m} / \\mathrm{s} \\) and speed of light in vacuum is \\( 3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s} \\). The time taken by sound to traverse the distance of \\( 1 \\mathrm{~mm} \\) form one wall to another through vacuum is:\na. \\( 0.3 \\mathrm{~s} \\)\nb. \\( 1 \\mathrm{~min} \\)\nc. \\( 1 \\mu \\mathrm{s} \\)\nd. \\( \\infty \\)",
+            "onlyq_text": "<p>There is \\( 1 \\mathrm{~mm} \\) vacuum between two walls. The speed of sound in air is \\( 330 \\mathrm{~m} / \\mathrm{s} \\) and speed of light in vacuum is \\( 3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s} \\). The time taken by sound to traverse the distance of \\( 1 \\mathrm{~mm} \\) form one wall to another through vacuum is:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>a. \\( 0.3 \\mathrm{~s} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>b. \\( 1 \\mathrm{~min} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( 1 \\mu \\mathrm{s} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>d. \\( \\infty \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Basics Of Wave Propagation",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "ForJEE",
+                "ForNEET",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 12:00:51 AM",
+            "ocrQuestion": "In a sinusoidal wave, the time required for a particular point to move form maximum displacement zero displacement is \\( 0.170 \\mathrm{sec} \\). The frequency of the wave is:\na. \\( 1.47 \\mathrm{~Hz} \\)\nb. \\( 0.36 \\mathrm{~Hz} \\)\nc. \\( 0.73 \\mathrm{~Hz} \\)\nd. \\( 2.94 \\mathrm{~Hz} \\)",
+            "onlyq_text": "<p>In a sinusoidal wave, the time required for a particular point to move form maximum displacement zero displacement is \\( 0.170 \\mathrm{sec} \\). The frequency of the wave is:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>a. \\( 1.47 \\mathrm{~Hz} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>b. \\( 0.36 \\mathrm{~Hz} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( 0.73 \\mathrm{~Hz} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>d. \\( 2.94 \\mathrm{~Hz} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "\\( \\begin{array}{l}\\text { (a) } \\frac{T}{4}=0.17 \\\\ n-\\frac{1}{T}=\\frac{1}{0.68}=1.47\\end{array} \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Basics Of Wave Propagation",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "ForJEE",
+                "ForNEET",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 12:02:26 AM",
+            "ocrQuestion": "A man standing in front of a high wall hears his echo after \\( 2 \\mathrm{sec} \\). If speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), his distance from the wall is:\na. \\( 165 \\mathrm{~m} \\)\nb. \\( 330 \\mathrm{~m} \\)\nc. \\( 495 \\mathrm{~m} \\)\nd. \\( 660 \\mathrm{~m} \\)",
+            "onlyq_text": "<p>A man standing in front of a high wall hears his echo after \\( 2 \\mathrm{sec} \\). If speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), his distance from the wall is:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>a. \\( 165 \\mathrm{~m} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>b. \\( 330 \\mathrm{~m} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( 495 \\mathrm{~m} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>d. \\( 660 \\mathrm{~m} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "(b) \\( S=\\frac{v t}{2}=\\frac{300 \\times 2}{2}=330 \\mathrm{~m} \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Echo",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Veriety",
+                "Practice",
+                "TEST"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 12:05:05 AM",
+            "ocrQuestion": "An echo repeats two syllables. If the speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), then the minimum distance of reflecting surface is:\na. \\( 16.5 \\mathrm{~m} \\)\nb. \\( 33.0 \\mathrm{~m} \\)\nc. \\( 66.0 \\mathrm{~m} \\)\nd. \\( 330 \\mathrm{~m} \\)",
+            "onlyq_text": "<p>An echo repeats two syllables. If the speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), then the minimum distance of reflecting surface is:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>a. \\( 16.5 \\mathrm{~m} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>b. \\( 33.0 \\mathrm{~m} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( 66.0 \\mathrm{~m} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>d. \\( 330 \\mathrm{~m} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "(c) \\( S=\\frac{v t}{2} \\)For syllabic sound \\( t=\\frac{1}{5} \\) second per syllable for two syllables \\( t=2 \\times \\frac{1}{5} \\) second\\[S=\\frac{330 \\times(2 / 5)}{2}=66 \\mathrm{~m}\\]",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Echo",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Practice",
+                "TEST"
+            ],
+            "added_By": "sai",
+            "branch": "Waves & oscillation",
+            "concept_html": "",
+            "date": "3/7/2024, 12:24:26 AM",
+            "ocrQuestion": "It is noticed that if the rate of clapping 100 per minute, the original sound cannot be distinguished from the sound reflected from a wall. If the speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), the distance of wall form the man is:\na. \\( 33 \\mathrm{~m} \\)\nb. \\( 99 \\mathrm{~m} \\)\nc. \\( 132 \\mathrm{~m} \\)\nd. \\( 198 \\mathrm{~m} \\)",
+            "onlyq_text": "<p>It is noticed that if the rate of clapping 100 per minute, the original sound cannot be distinguished from the sound reflected from a wall. If the speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), the distance of wall form the man is:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>a. \\( 33 \\mathrm{~m} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>b. \\( 99 \\mathrm{~m} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>c. \\( 132 \\mathrm{~m} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>d. \\( 198 \\mathrm{~m} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "(b) \\( S=\\frac{v T}{2}=\\frac{330 \\times\\left(\\frac{60}{100}\\right)}{2}=99 \\mathrm{~m} \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "Echo",
+            "subject": "PHYSICS",
+            "topic_name": "WAVES",
+            "toughness": "MEDIUM"
         }
     ]
 }
