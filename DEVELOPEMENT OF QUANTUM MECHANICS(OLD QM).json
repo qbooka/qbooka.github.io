@@ -1,0 +1,164 @@
+{
+    "questions": [
+        {
+            "QCount": "",
+            "Tags": [
+                "Conceptual",
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Quantum Mechanics",
+            "concept_html": "",
+            "date": "3/9/2024, 3:46:11 PM",
+            "ocrQuestion": "In the phenomenon of the photoelectric, the ejected electrons are :\n(a) most of the times relativistic\n(b) most of the times non-relativistic\n(c) always relativistic\n(d) most of the times stationary",
+            "onlyq_text": "<p>In the phenomenon of the photoelectric, the ejected electrons are :</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) most of the times relativistic</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) most of the times non-relativistic</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) always relativistic</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) most of the times stationary</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "PHOTONS & PHOTOELECTRIC EFFECT",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "calculative",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Quantum Mechanics",
+            "concept_html": "",
+            "date": "3/9/2024, 3:54:06 PM",
+            "ocrQuestion": "The photoelectric threshold for a metal is \\( 3000 \\unicode{xC5} \\). The kinetic energy of an electron ejected from it by radiation of wavelength \\( 1200 \\unicode{xC5} \\) is\n(a) \\( 3.1 \\mathrm{eV} \\)\n(b) \\( 12.6 \\mathrm{eV} \\)\n(c) \\( 6.2 \\mathrm{eV} \\)\n(d) \\( 21.4 \\mathrm{eV} \\)",
+            "onlyq_text": "<p>The photoelectric threshold for a metal is \\( 3000 \\unicode{xC5} \\). The kinetic energy of an electron ejected from it by radiation of wavelength \\( 1200 \\unicode{xC5} \\) is</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 3.1 \\mathrm{eV} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 12.6 \\mathrm{eV} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 6.2 \\mathrm{eV} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 21.4 \\mathrm{eV} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "PHOTONS & PHOTOELECTRIC EFFECT",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "InterView",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Quantum Mechanics",
+            "concept_html": "",
+            "date": "3/9/2024, 3:56:36 PM",
+            "ocrQuestion": "The photoelectric equation is derived under the assumption that\n(a) electrons are associated with waves of wavelenght \\( \\lambda=\\frac{h}{p} \\), where \\( p \\) is the momentum\n(b) light is emitted only when electrons jump between the orbits\n(c) light is absorbed in quanta of energy \\( E=h v \\)\n(d) light behaves like a wave",
+            "onlyq_text": "<p>The photoelectric equation is derived under the assumption that</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) electrons are associated with waves of wavelenght \\( \\lambda=\\frac{h}{p} \\), where \\( p \\) is the momentum</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) light is emitted only when electrons jump between the orbits</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) light is absorbed in quanta of energy \\( E=h v \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) light behaves like a wave</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "PHOTONS & PHOTOELECTRIC EFFECT",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY"
+        }
+    ]
+}
