@@ -144,7 +144,10 @@
                     "Velocity of Sound",
                     "Echo",
                     "Doppler's Effect in Sound",
-                    "Doppler's Effect in Light","Organ Pipe","Wave on a String","Energy,Intensity,Power"
+                    "Doppler's Effect in Light",
+                    "Organ Pipe",
+                    "Wave on a String",
+                    "Energy,Intensity,Power"
                 ]
             }
         }
@@ -172,6 +175,15 @@
                     "Gas Laws(IDEAL GAS)",
                     "Real Gas",
                     "Mean Free Path"
+                ]
+            },
+            "THERMODYNAMICS": {
+                "topic_name": "THERMODYNAMICS",
+                "sub_topic_name": [
+                    "FIRST LAW OF THERMODYNAMICS",
+                    "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+                    "CARNOT ENGINE",
+                    "THERMODYNAMICS POTENTIALS AND MEXWELL’S RELATION"
                 ]
             }
         }
@@ -234,7 +246,13 @@
                 "topic_name": "CENTRAL FORCE AND GRAVITATION",
                 "sub_topic_name": [
                     "Basic Ideas",
-                    "Newton's Law of Gravitation","Field and Potential","Escape velocity","Planetary Motion","Satellites","Orbits","Kepler's Laws",
+                    "Newton's Law of Gravitation",
+                    "Field and Potential",
+                    "Escape velocity",
+                    "Planetary Motion",
+                    "Satellites",
+                    "Orbits",
+                    "Kepler's Laws",
                     "ENTROPY",
                     "HEAT-ENGINE"
                 ]
@@ -243,7 +261,6 @@
                 "topic_name": "DYNAMICS OF RIGID BODIES",
                 "sub_topic_name": [
                     "MOMENT OF INERTIA TENSOR AND THEOREMS"
-                    
                 ]
             }
         }
