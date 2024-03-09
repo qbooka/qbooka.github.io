@@ -173,8 +173,8 @@
             "branch": "Quantum Mechanics",
             "concept_html": "Planck's constant \\( \\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{Js} \\) or \\( 4.14 \\times 10^{-15} \\mathrm{eVs} \\)Planck's constant \\( \\hbar=1.05 \\times 10^{-34} \\mathrm{Js} \\) or \\( 6.58 \\times 10^{-16} \\mathrm{eVs} \\)Mass of an electron \\( =9.1 \\times 10^{-31} \\mathrm{~kg} \\)Charge of electron \\( e=1.6 \\times 10^{-19} \\mathrm{C} \\)\\( \\mathrm{mc}^{2} \\) for an electron \\( =0.511 \\times 10^{6} \\mathrm{eV} \\)\\( \\mathrm{hc}=1240 \\mathrm{eV} \\cdot \\mathrm{nm} \\)\\( \\mathrm{c}=3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s} \\)",
             "date": "3/9/2024, 4:15:17 PM",
-            "ocrQuestion": "Light described by the equation [\nE=(90 \\mathrm{~V} / \\mathrm{m})\\left[\\sin \\left(6.28 \\times 10^{15} \\mathrm{~s}^{-1}\\right) t\\right.\n\\]\\( \\left.+\\sin \\left(12.56 \\times 10^{15} s^{-1}\\right) t\\right] \\) is incident on a metal surface. The work function of the metal is \\( 2.0 \\mathrm{eV} \\). Maximum kinetic energy of the photoelectrons will be\n(a) \\( 2.14 \\mathrm{eV} \\)\n(b) \\( 4.28 \\mathrm{eV} \\)\n(c) \\( 6.28 \\mathrm{eV} \\)\n(d) \\( 12.56 \\mathrm{eV} \\)",
-            "onlyq_text": "<p>Light described by the equation [E=(90 \\mathrm{~V} / \\mathrm{m})\\left[\\sin \\left(6.28 \\times 10^{15} \\mathrm{~s}^{-1}\\right) t\\right.\\]( \\left.+\\sin \\left(12.56 \\times 10^{15} s^{-1}\\right) t\\right] \\) is incident on a metal surface. The work function of the metal is \\( 2.0 \\mathrm{eV} \\). Maximum kinetic energy of the photoelectrons will be</p>",
+            "ocrQuestion": "Light described by the equation\n\\[\nE=(90 \\mathrm{~V} / \\mathrm{m})\\left[\\sin \\left(6.28 \\times 10^{15} \\mathrm{~s}^{-1}\\right) t\\right.\n\\]\n\\( \\left.+\\sin \\left(12.56 \\times 10^{15} s^{-1}\\right) t\\right] \\) is incident on a metal surface. The work function of the metal is \\( 2.0 \\mathrm{eV} \\). Maximum kinetic energy of the photoelectrons will be\n(a) \\( 2.14 \\mathrm{eV} \\)\n(b) \\( 4.28 \\mathrm{eV} \\)\n(c) \\( 6.28 \\mathrm{eV} \\)\n(d) \\( 12.56 \\mathrm{eV} \\)",
+            "onlyq_text": "<p>Light described by the equation\\[E=(90 \\mathrm{~V} / \\mathrm{m})\\left[\\sin \\left(6.28 \\times 10^{15} \\mathrm{~s}^{-1}\\right) t\\right.\\]\\( \\left.+\\sin \\left(12.56 \\times 10^{15} s^{-1}\\right) t\\right] \\) is incident on a metal surface. The work function of the metal is \\( 2.0 \\mathrm{eV} \\). Maximum kinetic energy of the photoelectrons will be</p>",
             "option_hindi": [],
             "options": [
                 {
@@ -250,6 +250,59 @@
                     "is_correct": 2,
                     "lang_id": 1,
                     "option": "<p>(d) photoelectrons may or may not be emitted</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "PHOTONS & PHOTOELECTRIC EFFECT",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "calculative",
+                "ForJEE",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Quantum Mechanics",
+            "concept_html": "",
+            "date": "3/9/2024, 4:33:43 PM",
+            "ocrQuestion": "In a photoelectric effect experiment, ultravoilet light of wavelength \\( 320 \\mathrm{~nm} \\) falls on the photocathode with work function of \\( 2.1 \\mathrm{eV} \\). The stopping potential should be close to\n(a) \\( 1.8 \\mathrm{~V} \\)\n(b) \\( 1.6 \\mathrm{~V} \\)\n(c) \\( 2.2 \\mathrm{~V} \\)\n(d) \\( 2.4 \\mathrm{~V} \\)",
+            "onlyq_text": "<p>In a photoelectric effect experiment, ultravoilet light of wavelength \\( 320 \\mathrm{~nm} \\) falls on the photocathode with work function of \\( 2.1 \\mathrm{eV} \\). The stopping potential should be close to</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 1.8 \\mathrm{~V} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 1.6 \\mathrm{~V} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 2.2 \\mathrm{~V} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 2.4 \\mathrm{~V} \\)</p>"
                 }
             ],
             "optype": 1,
