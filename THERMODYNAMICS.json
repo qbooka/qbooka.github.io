@@ -1,0 +1,253 @@
+{
+    "questions": [
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/9/2024, 5:01:34 PM",
+            "ocrQuestion": "Which of the following parameters does not characterize the thermodynamic state of matter?\n(a) Work\n(b) Pressure\n(c) Temperature\n(d) Volume",
+            "onlyq_text": "<p>Which of the following parameters does not characterize the thermodynamic state of matter?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) Work</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) Pressure</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) Temperature</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) Volume</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+            "subject": "PHYSICS",
+            "topic_name": "THERMODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/9/2024, 5:02:10 PM",
+            "ocrQuestion": "The zeroth law of thermodynamics\n(a) Gives a fundamental limitation of the efficiency of a heat engine\n(b) Deals with thermal equilibrium leading to the concept of temperature\n(c) Is a direct consequence of the general law of conservation of energy\n(d) Implies that the co-efficient of performance of a refrigerator can never be infinite",
+            "onlyq_text": "<p>The zeroth law of thermodynamics</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) Gives a fundamental limitation of the efficiency of a heat engine</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) Deals with thermal equilibrium leading to the concept of temperature</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) Is a direct consequence of the general law of conservation of energy</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) Implies that the co-efficient of performance of a refrigerator can never be infinite</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+            "subject": "PHYSICS",
+            "topic_name": "THERMODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/9/2024, 5:06:57 PM",
+            "ocrQuestion": "An ideal gas has initial volume \\( V \\), pressure \\( P \\). In doubling its volume, the minimum work will be done in which of the following process?\n(a) Isobaric process\n(b) Isothermal process\n(c) Adiabatic process\n(d) Same in all given processes.",
+            "onlyq_text": "<p>An ideal gas has initial volume \\( V \\), pressure \\( P \\). In doubling its volume, the minimum work will be done in which of the following process?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) Isobaric process</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) Isothermal process</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) Adiabatic process</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) Same in all given processes.</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+            "subject": "PHYSICS",
+            "topic_name": "THERMODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/9/2024, 5:07:52 PM",
+            "ocrQuestion": "Two gases separated by an impermeable but movable partition are allowed to freely exchange energy. At equilibrium, the two sides will have the same\n(a) pressure and temperature\n(b) volume and temperature\n(c) pressure and volume\n(d) volume and energy",
+            "onlyq_text": "<p>Two gases separated by an impermeable but movable partition are allowed to freely exchange energy. At equilibrium, the two sides will have the same</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) pressure and temperature</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) volume and temperature</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) pressure and volume</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) volume and energy</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+            "subject": "PHYSICS",
+            "topic_name": "THERMODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Practice",
+                "TEST"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/9/2024, 5:23:20 PM",
+            "ocrQuestion": "During free expansion of an ideal gas under adiabatic condition, the internal energy of the gas\n[JAM 2019]\n(a) Decreases\n(b) Initially decreases and then increases\n(c) Increases\n(d) Remains constant",
+            "onlyq_text": "<p>During free expansion of an ideal gas under adiabatic condition, the internal energy of the gas[JAM 2019]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) Decreases</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) Initially decreases and then increases</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) Increases</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) Remains constant</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": []
+            },
+            "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+            "subject": "PHYSICS",
+            "topic_name": "THERMODYNAMICS",
+            "toughness": "EASY"
+        }
+    ]
+}
