@@ -197,6 +197,7 @@
             "topic_name": "THERMODYNAMICS",
             "toughness": "EASY"
         },
+        
         {
             "QCount": "",
             "Tags": [
@@ -209,7 +210,7 @@
             "added_By": "sai",
             "branch": "Thermodynamics & Statistical Mechanics",
             "concept_html": "",
-            "date": "3/9/2024, 5:23:20 PM",
+            "date": "3/9/2024, 5:24:00 PM",
             "ocrQuestion": "During free expansion of an ideal gas under adiabatic condition, the internal energy of the gas\n[JAM 2019]\n(a) Decreases\n(b) Initially decreases and then increases\n(c) Increases\n(d) Remains constant",
             "onlyq_text": "<p>During free expansion of an ideal gas under adiabatic condition, the internal energy of the gas[JAM 2019]</p>",
             "option_hindi": [],
@@ -241,8 +242,12 @@
             "sol_html": "",
             "sol_text": "",
             "sources": {
-                "BOOKsource": [],
-                "Examsource": []
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "IIT-JAM"
+                ]
             },
             "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
             "subject": "PHYSICS",
