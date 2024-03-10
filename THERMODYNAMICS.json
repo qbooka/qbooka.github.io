@@ -734,6 +734,114 @@
             "subject": "PHYSICS",
             "topic_name": "THERMODYNAMICS",
             "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/10/2024, 8:13:15 AM",
+            "ocrQuestion": "Experimental measurment of heat capacity per mole of aluminium at low temperature shows that the data can be fitted to the formula, \\( C_{V}=a T+b T^{3} \\) where \\( a=0.00135 J^{-2} \\mathrm{~mole}^{-1} \\), \\( b=2.48 \\times 10^{-5} \\mathrm{JK}^{-4} \\mathrm{~mole}^{-1} \\) and \\( T \\) is the temperature in Kelvin. The entropy of a mole of aluminium at such temperature is given by the formula is\n[JAM 2007]\n(a) \\( a T+\\frac{b}{3} T^{3}+c \\), where \\( c>0 \\) is a constant.\n(b) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3}+c \\), where \\( c>0 \\) is a constant\n(c) \\( a T+\\frac{b}{3} T^{3} \\)\n(d) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3} \\)",
+            "onlyq_text": "<p>Experimental measurment of heat capacity per mole of aluminium at low temperature shows that the data can be fitted to the formula, \\( C_{V}=a T+b T^{3} \\) where \\( a=0.00135 J^{-2} \\mathrm{~mole}^{-1} \\), \\( b=2.48 \\times 10^{-5} \\mathrm{JK}^{-4} \\mathrm{~mole}^{-1} \\) and \\( T \\) is the temperature in Kelvin. The entropy of a mole of aluminium at such temperature is given by the formula is[JAM 2007]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( a T+\\frac{b}{3} T^{3}+c \\), where \\( c>0 \\) is a constant.</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3}+c \\), where \\( c>0 \\) is a constant</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( a T+\\frac{b}{3} T^{3} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Change in entropy \\( \\quad \\Delta \\mathrm{s}=\\int \\frac{\\mathrm{dQ}}{\\mathrm{T}}=\\int \\frac{\\mathrm{C}_{\\mathrm{V}} \\mathrm{dT}}{\\mathrm{T}}=\\int\\left(\\mathrm{a}+\\mathrm{bT}^{2}\\right) \\mathrm{dT}=\\mathrm{aT}+\\frac{\\mathrm{b}}{3} \\mathrm{~T}^{3}+\\mathrm{C} \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "IIT-JAM"
+                ]
+            },
+            "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+            "subject": "PHYSICS",
+            "topic_name": "THERMODYNAMICS",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/10/2024, 8:29:23 AM",
+            "ocrQuestion": "The specific heat at constant volume of the electrons in a metal \\( C_{V}=\\alpha \\) T where ' \\( T \\) ' is the temperature and \\( \\alpha \\) is a constant . The specific entropy is given by\n[IISc 2012]\n(a) \\( k_{B} \\)\n(b) \\( \\sqrt{k_{B} \\alpha T} \\)\n(c) \\( \\alpha T \\)\n(d) \\( \\frac{\\alpha^{2} T^{2}}{k_{B}} \\)",
+            "onlyq_text": "<p>The specific heat at constant volume of the electrons in a metal \\( C_{V}=\\alpha \\) T where ' \\( T \\) ' is the temperature and \\( \\alpha \\) is a constant . The specific entropy is given by[IISc 2012]</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( k_{B} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\sqrt{k_{B} \\alpha T} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\alpha T \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{\\alpha^{2} T^{2}}{k_{B}} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Given \\( \\quad C_{v}=\\alpha T \\)we know, \\( \\quad C_{v}=\\frac{1}{n}\\left(\\frac{\\partial Q}{\\partial T}\\right)_{v} \\) and \\( d Q=T d s \\)\\[\\begin{array}{l}\\Rightarrow C_{v}=\\frac{1}{n} T\\left(\\frac{\\partial S}{\\partial T}\\right)_{v} \\\\\\Rightarrow \\alpha T=\\frac{T}{n}\\left(\\frac{\\partial S}{\\partial T}\\right)_{v}\\end{array}\\]for specific entropy\\[\\begin{aligned}\\int d s & =\\int \\alpha d T \\\\s & =\\alpha T\\end{aligned}\\]",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": [
+                    "IISC"
+                ]
+            },
+            "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+            "subject": "PHYSICS",
+            "topic_name": "THERMODYNAMICS",
+            "toughness": "EASY"
         }
     ]
 }
