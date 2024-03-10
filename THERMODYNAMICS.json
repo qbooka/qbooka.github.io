@@ -842,6 +842,57 @@
             "subject": "PHYSICS",
             "topic_name": "THERMODYNAMICS",
             "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/10/2024, 2:48:46 PM",
+            "ocrQuestion": "In a cyrogenic experiment, heat is supplied to a sample at a constant rate of 0.01 watts. The entropy of the sample increases with time as shown in the table as\n\\begin{tabular}{lllllll} \nTime & \\( : \\) & 400 & 600 & 800 & 1000 & \\( (\\mathrm{see}) \\) \\\\\nEntropy & \\( : \\) & 3.00 & 3.20 & 3.40 & 3.60 & \\( (\\mathrm{~J} / \\mathrm{K}) \\)\n\\end{tabular}\n\nThe temperature of the sample is\n(a) \\( 10 \\mathrm{~K} \\)\n(b) \\( 12 \\mathrm{~K} \\)\n(c) \\( 8 \\mathrm{~K} \\)\n(d) \\( 9 \\mathrm{~K} \\)",
+            "onlyq_text": "<p>In a cyrogenic experiment, heat is supplied to a sample at a constant rate of 0.01 watts. The entropy of the sample increases with time as shown in the table as\\begin{array}{lllllll} Time &  :  & 400 & 600 & 800 & 1000 &  (\\mathrm{see})  \\\\Entropy &  :  & 3.00 & 3.20 & 3.40 & 3.60 &  (\\mathrm{~J} / \\mathrm{K}) \\end{array}The temperature of the sample is</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 10 \\mathrm{~K} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 12 \\mathrm{~K} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 8 \\mathrm{~K} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 9 \\mathrm{~K} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Power \\( (P)=0.01 \\) wattsfrom the dato given\\[\\frac{\\Delta s}{\\Delta t}=\\frac{0.20}{200} \\frac{\\mathrm{J}}{\\mathrm{ksec}}\\]Now \\( P=\\frac{d Q}{d t}=T \\frac{d s}{d t} \\)\\[\\begin{aligned}\\Rightarrow 0.01 & =T \\times \\frac{0.20}{200} \\\\\\Rightarrow \\quad T & =200 \\times \\frac{0.01}{0.20} \\mathrm{~K} \\\\\\Rightarrow T & =10 \\mathrm{~K}\\end{aligned}\\]",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+            "subject": "PHYSICS",
+            "topic_name": "THERMODYNAMICS",
+            "toughness": "EASY"
         }
     ]
 }
