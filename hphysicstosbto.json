@@ -117,6 +117,13 @@
                     "POYNTING VECTOR, ENERGY, POWER",
                     "MAXWELL’S EQUATIONS, EMW"
                 ]
+            },
+            "ELECTRO MAGNETIC INDUCTION": {
+                "topic_name": "ELECTRO MAGNETIC INDUCTION",
+                "sub_topic_name": [
+                    "BASICS AND FARADAY'S LAW OF INDUCTION",
+                    "MAXWELL’S EQUATIONS, EMW"
+                ]
             }
         }
     },

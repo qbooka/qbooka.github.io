@@ -893,6 +893,58 @@
             "subject": "PHYSICS",
             "topic_name": "THERMODYNAMICS",
             "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Thermodynamics & Statistical Mechanics",
+            "concept_html": "",
+            "date": "3/11/2024, 10:25:12 AM",
+            "ocrQuestion": "The molar specific heat of a gas as given from the kinetic theory is \\( \\frac{5}{2} R \\). If it is not specified whether it is \\( C_{p} \\) or \\( C_{v} \\), one could conclude that the molecules of the gas\n(A) are definitely monatomic\n(B) are definitely rigid diatomic\n(C) are definitely non-rigid diatomic\n(D) can be monatomic or rigid diatomic",
+            "onlyq_text": "<p>The molar specific heat of a gas as given from the kinetic theory is \\( \\frac{5}{2} R \\). If it is not specified whether it is \\( C_{p} \\) or \\( C_{v} \\), one could conclude that the molecules of the gas</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(A) are definitely monatomic</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(B) are definitely rigid diatomic</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(C) are definitely non-rigid diatomic</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(D) can be monatomic or rigid diatomic</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Sol. We know, the specific heat at constant volume of a gas is given by\\[\\mathrm{C}_{\\mathrm{V}}=\\left(\\frac{\\mathrm{d}}{\\mathrm{dT}} \\overrightarrow{\\mathrm{u}}\\right)_{\\mathrm{V}}\\]and \\( \\mathrm{C}_{\\mathrm{P}}-\\mathrm{C}_{\\mathrm{V}}=\\mathrm{R} \\)where, \\( \\overrightarrow{\\mathrm{u}} \\) is the average energy.According to the kinetic theory of gas,\\( \\overrightarrow{\\mathrm{u}}=\\frac{3}{2} \\mathrm{RT} \\) for monoatomic gas.\\( \\overrightarrow{\\mathrm{u}}=\\frac{6}{2} \\mathrm{RT}=3 \\mathrm{RT} \\)\\( \\overrightarrow{\\mathrm{u}}=\\frac{5}{2} \\mathrm{RT} \\)for non rigid diatomic gas.for rigid diatomic gas.For monoatomic,\\[\\mathrm{C}_{\\mathrm{V}}=\\frac{3}{2} \\mathrm{R} \\text { and } \\mathrm{C}_{\\mathrm{P}}=\\frac{5}{2} \\mathrm{R}\\]For rigid diatomic,\\[\\mathrm{C}_{\\mathrm{V}}=\\frac{5}{2} \\mathrm{R} \\text { and } \\mathrm{C}_{\\mathrm{P}}=\\frac{7}{2} \\mathrm{R}\\]",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": [
+                    "IIT-JAM"
+                ]
+            },
+            "sub_topic_name": "THERMODYNAMICS POTENTIALS AND MEXWELL\u2019S RELATION",
+            "subject": "PHYSICS",
+            "topic_name": "THERMODYNAMICS",
+            "toughness": "MEDIUM"
         }
     ]
 }

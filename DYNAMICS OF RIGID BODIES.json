@@ -687,6 +687,61 @@
             "subject": "PHYSICS",
             "topic_name": "DYNAMICS OF RIGID BODIES",
             "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "ForJEE",
+                "ForNEET",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Classical Mechanics",
+            "concept_html": "",
+            "date": "3/11/2024, 10:17:36 AM",
+            "ocrQuestion": "A solid sphere of mass \\( m \\) and radius \\( a \\) is rolling with a linear speed \\( v \\) on a flat surface without slipping. The magnitude of the angular momentum of the sphere with respect to a point along the path of the sphere on the surface is\n(A) \\( \\frac{2}{5} m a v \\)\n(B) \\( \\frac{7}{5} m a v \\)\n(C) \\( m a v \\)\n(D) \\( \\frac{3}{2} m a v \\)",
+            "onlyq_text": "<p>A solid sphere of mass \\( m \\) and radius \\( a \\) is rolling with a linear speed \\( v \\) on a flat surface without slipping. The magnitude of the angular momentum of the sphere with respect to a point along the path of the sphere on the surface is</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(A) \\( \\frac{2}{5} m a v \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(B) \\( \\frac{7}{5} m a v \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(C) \\( m a v \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(D) \\( \\frac{3}{2} m a v \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Angular momentum about the contact print Can be written as\\[\\begin{aligned}\\vec{L} & =\\vec{L}_{\\text {of com about that point }}+\\vec{L}_{\\text {of object about com }} \\\\& =\\vec{R} \\times \\vec{P}_{\\text {com }}+I \\vec{\\omega}\\end{aligned}\\]Imagine sphere is moving right side on the surface\\[\\begin{array}{l}=R m V_{\\text {com }}(\\text { clock-wise })+\\frac{2}{5} m R^{2} \\omega \\quad(\\text { clock-wise }) \\\\=R m V+\\frac{2}{5} m R v \\quad\\left(\\therefore v=R \\omega=V_{\\text {com }}\\right) \\\\=\\frac{7}{5} m R v\\end{array}\\]",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": [
+                    "IIT-JAM"
+                ]
+            },
+            "sub_topic_name": "INSTANTANEOUS AXIS,ROLLING & SLIPPING",
+            "subject": "PHYSICS",
+            "topic_name": "DYNAMICS OF RIGID BODIES",
+            "toughness": "MEDIUM"
         }
     ]
 }
