@@ -1,0 +1,58 @@
+{
+    "questions": [
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "ForJEE",
+                "ForNEET",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Electro Magnetic Theory",
+            "concept_html": "",
+            "date": "3/11/2024, 10:35:24 AM",
+            "ocrQuestion": "A small loop of wire of area \\( A=0.01 \\mathrm{~m}^{2}, N=40 \\) turns and resistance \\( R=20 \\Omega \\) is initially kept in a uniform magnetic field \\( \\boldsymbol{B} \\) in such a way that the field is normal to the plane of the loop. When it is pulled out of the magnetic field, a total charge of \\( Q=2 \\times 10^{-5} \\mathrm{C} \\) flows through the coil. The magnitude of the field \\( \\boldsymbol{B} \\) is\n(A) \\( 1 \\times 10^{-3} \\mathrm{~T} \\)\n(B) \\( 4 \\times 10^{-3} \\mathrm{~T} \\)\n(C) zero\n(D) unobtainable, as the data is insufficient",
+            "onlyq_text": "<p>A small loop of wire of area \\( A=0.01 \\mathrm{~m}^{2}, N=40 \\) turns and resistance \\( R=20 \\Omega \\) is initially kept in a uniform magnetic field \\( \\boldsymbol{B} \\) in such a way that the field is normal to the plane of the loop. When it is pulled out of the magnetic field, a total charge of \\( Q=2 \\times 10^{-5} \\mathrm{C} \\) flows through the coil. The magnitude of the field \\( \\boldsymbol{B} \\) is</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(A) \\( 1 \\times 10^{-3} \\mathrm{~T} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(B) \\( 4 \\times 10^{-3} \\mathrm{~T} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(C) zero</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(D) unobtainable, as the data is insufficient</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Flux change in magnetic field, \\( \\Delta \\phi=\\mathrm{NBA} \\)Induced \\( \\operatorname{emf}=\\frac{\\Delta \\phi}{\\Delta \\mathrm{t}}=\\varepsilon \\quad \\Rightarrow \\quad \\) current induced, \\( \\mathrm{i}=\\frac{\\varepsilon}{\\mathrm{R}}=\\frac{1}{\\mathrm{R}} \\cdot \\frac{\\Delta \\phi}{\\Delta \\mathrm{t}} \\) Charge flow, \\( \\mathrm{Q}=\\mathrm{i} \\Delta \\mathrm{t} \\quad \\Rightarrow \\mathrm{Q}=\\frac{\\Delta \\phi}{\\mathrm{R}}=\\frac{\\mathrm{NBA}}{\\mathrm{R}} \\), therefore, \\( \\mathrm{B}=\\frac{\\mathrm{QR}}{\\mathrm{NA}} \\)\\[\\begin{array}{c}\\Rightarrow \\mathrm{B}=\\frac{2 \\times 10^{-5} \\times 20}{40 \\times 0.01}=10^{-3} \\mathrm{~T} \\\\\\mathrm{~B}=10^{-3} \\mathrm{~T}\\end{array}\\]",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [],
+                "Examsource": [
+                    "IIT-JAM"
+                ]
+            },
+            "sub_topic_name": "BASICS AND FARADAY'S LAW OF INDUCTION",
+            "subject": "PHYSICS",
+            "topic_name": "ELECTRO MAGNETIC INDUCTION",
+            "toughness": "MEDIUM"
+        }
+    ]
+}
