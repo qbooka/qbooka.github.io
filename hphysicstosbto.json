@@ -260,7 +260,7 @@
             "DYNAMICS OF RIGID BODIES": {
                 "topic_name": "DYNAMICS OF RIGID BODIES",
                 "sub_topic_name": [
-                    "MOMENT OF INERTIA TENSOR AND THEOREMS","ROLLING"
+                    "MOMENT OF INERTIA TENSOR AND THEOREMS","INSTANTANEOUS AXIS,ROLLING & SLIPPING","FIXED AXIS ROTATION","ROTATIONAL STATICS(BASICS,TORQUE AND EQUILLIBRIUM)"
                 ]
             }
         }
