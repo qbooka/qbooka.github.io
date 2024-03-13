@@ -1,0 +1,119 @@
+{
+    "questions": [
+        {
+            "QCount": "",
+            "Tags": [
+                "Memory",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Quantum Mechanics",
+            "concept_html": "",
+            "date": "3/11/2024, 9:37:10 PM",
+            "ocrQuestion": "A particle is moving in a two-dimensional potentialwell\n\\[\nV(x, y)=\\left\\{\\begin{array}{ll}\n0, & 0 \\leq x \\leq L, 0 \\leq y \\leq 2 L \\\\\n\\infty, & \\text { elsewhere }\n\\end{array}\\right.\n\\]\n\nWhich of the following statements about the ground state energy \\( E_{1} \\) and ground state eigenfunction \\( \\varphi_{0} \\) are true?\n(a) \\( E_{1}=\\frac{\\hbar^{2} \\pi^{2}}{m L^{2}} \\)\n(b) \\( E_{1}=\\frac{5 \\hbar^{2} \\pi^{2}}{8 m L^{2}} \\)\n(c) \\( \\varphi_{0}=\\frac{\\sqrt{2}}{L} \\sin \\frac{\\pi x}{L} \\sin \\frac{\\pi y}{2 L} \\)\n(d) \\( \\varphi_{0}=\\frac{\\sqrt{2}}{L} \\cos \\frac{\\pi x}{L} \\cos \\frac{\\pi y}{2 L} \\)",
+            "onlyq_text": "<p>A particle is moving in a two-dimensional potentialwell\\[V(x, y)=\\left\\{\\begin{array}{ll}0, & 0 \\leq x \\leq L, 0 \\leq y \\leq 2 L \\\\\\infty, & \\text { elsewhere }\\end{array}\\right.\\]Which of the following statements about the ground state energy \\( E_{1} \\) and ground state eigenfunction \\( \\varphi_{0} \\) are true?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": [
+                        "2",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( E_{1}=\\frac{\\hbar^{2} \\pi^{2}}{m L^{2}} \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "2",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( E_{1}=\\frac{5 \\hbar^{2} \\pi^{2}}{8 m L^{2}} \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "2",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\varphi_{0}=\\frac{\\sqrt{2}}{L} \\sin \\frac{\\pi x}{L} \\sin \\frac{\\pi y}{2 L} \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "2",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\varphi_{0}=\\frac{\\sqrt{2}}{L} \\cos \\frac{\\pi x}{L} \\cos \\frac{\\pi y}{2 L} \\)</p>"
+                }
+            ],
+            "optype": 2,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": [],
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "2-D POTENTIAL WELL",
+            "subject": "PHYSICS",
+            "topic_name": "POTENTIAL BOXES",
+            "toughness": "EASY"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "branch": "Quantum Mechanics",
+            "concept_html": "",
+            "date": "3/11/2024, 9:43:34 PM",
+            "ocrQuestion": "A particle of mass \\( m \\) is confined in a two dimensional square well potential of dimension \\( a \\). This potential \\( V(x, y) \\) is given by\n\\[\n\\mathrm{V}(\\mathrm{x}, \\mathrm{y})=\\left\\{\\begin{array}{l}\n0, \\text { for } 0 < \\mathrm{x} < \\mathrm{a} \\text { and } 0 < \\mathrm{y} < \\mathrm{a} \\\\\n\\infty, \\text { else where }\n\\end{array}\\right.\n\\]\n\nThe energy of the first excited state for this particle is given by,\n(a) \\( \\frac{\\pi^{2} \\hbar^{2}}{\\mathrm{ma}^{2}} \\)\n(b) \\( \\frac{2 \\pi^{2} \\hbar^{2}}{\\mathrm{ma}^{2}} \\)\n(c) \\( \\frac{5 \\pi^{2} \\hbar^{2}}{2 \\mathrm{ma}^{2}} \\)\n(d) \\( \\frac{4 \\pi^{2} \\hbar^{2}}{\\mathrm{ma}^{2}} \\)",
+            "onlyq_text": "<p>A particle of mass \\( m \\) is confined in a two dimensional square well potential of dimension \\( a \\). This potential \\( V(x, y) \\) is given by\\[\\mathrm{V}(\\mathrm{x}, \\mathrm{y})=\\left\\{\\begin{array}{l}0, \\text { for } 0  <  \\mathrm{x}  <  \\mathrm{a} \\text { and } 0  <  \\mathrm{y}  <  \\mathrm{a} \\\\\\infty, \\text { else where }\\end{array}\\right.\\]The energy of the first excited state for this particle is given by,</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{\\pi^{2} \\hbar^{2}}{\\mathrm{ma}^{2}} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{2 \\pi^{2} \\hbar^{2}}{\\mathrm{ma}^{2}} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\frac{5 \\pi^{2} \\hbar^{2}}{2 \\mathrm{ma}^{2}} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{4 \\pi^{2} \\hbar^{2}}{\\mathrm{ma}^{2}} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": [],
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "2-D INFINITE POTENTIAL WELL",
+            "subject": "PHYSICS",
+            "topic_name": "POTENTIAL BOXES",
+            "toughness": "EASY"
+        }
+    ]
+}
