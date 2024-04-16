@@ -66,6 +66,13 @@
                     "JACOBIAN"
                 ]
             },
+            "MULTIVARIABLE CALCULUS": {
+                "topic_name": "MULTIVARIABLE CALCULUS",
+                "sub_topic_name": [
+                    "EULERS THEOREM OF HOMOGENEOUS FUNCTION","PARTIAL DIFFERENTIATION",
+                    "JACOBIAN"
+                ]
+            },
             "MATRICES": {
                 "topic_name": "MATRICES",
                 "sub_topic_name": [
