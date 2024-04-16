@@ -1,6 +1,7 @@
 {
     "Quantum": {
         "branch_name": "Quantum Mechanics",
+        "total_questions": 0,
         "topics": {
             "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)": {
                 "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
@@ -10,13 +11,15 @@
                     "BLACK BODY RADIATION",
                     "WAVE PARTICLE DUALITY",
                     "UNCERTAINTY PRINCIPLE"
-                ]
+                ],
+                "total_questions": 0
             },
             "WAVE FUNCTION": {
                 "topic_name": "WAVE FUNCTION",
                 "sub_topic_name": [
                     "CONCEPT OF WAVE FUNCTION"
-                ]
+                ],
+                "total_questions": 0
             },
             "POTENTIAL BOXES": {
                 "topic_name": "POTENTIAL BOXES",
@@ -24,7 +27,8 @@
                     "1-D INFINITE POTENTIAL WELL",
                     "2-D INFINITE POTENTIAL WELL",
                     "3-D INFINITE POTENTIAL WELL"
-                ]
+                ],
+                "total_questions": 0
             },
             "HARMONIC OSCILLATORS": {
                 "topic_name": "HARMONIC OSCILLATORS",
@@ -32,7 +36,8 @@
                     "1-D LINEAR HARMONIC OSCILLATOR",
                     "2-D HARMONIC OSCILLATOR",
                     "3-D HARMONIC OSCILLATOR"
-                ]
+                ],
+                "total_questions": 0
             },
             "OPERATOR FORMALISM": {
                 "topic_name": "OPERATOR FORMALISM",
@@ -40,108 +45,124 @@
                     "operator(basics)",
                     "2-D HARMONIC OSCILLATOR",
                     "3-D HARMONIC OSCILLATOR"
-                ]
+                ],
+                "total_questions": 0
             },
             "STEP & BARRIER POTENTIAL": {
                 "topic_name": "STEP & BARRIER POTENTIAL",
                 "sub_topic_name": [
                     "STEP & BARRIER POTENTIAL"
-                ]
+                ],
+                "total_questions": 0
             },
             "ANGULAR MOMENTUM": {
                 "topic_name": "ANGULAR MOMENTUM",
                 "sub_topic_name": [
                     "ANGULAR MOMENTUM ALGEBRA"
-                ]
+                ],
+                "total_questions": 0
             }
         }
     },
     "MP": {
         "branch_name": "Mathematical Physics",
+        "total_questions": 0,
         "topics": {
             "PARTIAL DIFFERENTIATION": {
                 "topic_name": "PARTIAL DIFFERENTIATION",
                 "sub_topic_name": [
                     "EULERS THEOREM OF HOMOGENEOUS FUNCTION"
-                    
-                ]
+                ],
+                "total_questions": 0
             },
             "JACOBIAN": {
                 "topic_name": "JACOBIAN",
                 "sub_topic_name": [
                     "Jacobian of implicit functions",
                     "Jacobian of function of function"
-                ]
+                ],
+                "total_questions": 0
             },
             "MATRICES": {
                 "topic_name": "MATRICES",
                 "sub_topic_name": [
                     "MATRICES(Basic Preview of Matrices)"
-                ]
+                ],
+                "total_questions": 0
             },
             "COMPLEX ANALYSIS": {
                 "topic_name": "COMPLEX ANALYSIS",
                 "sub_topic_name": [
                     "Basic Preview of Complex Numbers"
-                ]
+                ],
+                "total_questions": 0
             },
             "COMPLEX NUMBER": {
                 "topic_name": "COMPLEX NUMBER",
                 "sub_topic_name": [
                     "Basic Preview of Complex Numbers"
-                ]
+                ],
+                "total_questions": 0
             },
             "ORDINARY DIFFERENTIAL EQUATION": {
                 "topic_name": "ORDINARY DIFFERENTIAL EQUATION",
                 "sub_topic_name": [
                     "DIFFERENTIAL EQUATION (1st Order ODE)",
                     "DIFFERENTIAL EQUATION (2nd Order ODE)"
-                ]
+                ],
+                "total_questions": 0
             },
             "SERIES": {
                 "topic_name": "SERIES",
                 "sub_topic_name": [
                     "FOURIER SERIES",
                     "TAYLER SERIES"
-                ]
+                ],
+                "total_questions": 0
             },
             "VECTOR CALCULUS": {
                 "topic_name": "VECTOR CALCULUS",
                 "sub_topic_name": [
                     "Basic Preview of Vectors",
                     "Gradient, Divergence, Curl"
-                ]
+                ],
+                "total_questions": 0
             }
         }
     },
     "EMT": {
         "branch_name": "Electro Magnetic Theory",
+        "total_questions": 0,
         "topics": {
             "ELECTROSTATICS": {
                 "topic_name": "ELECTROSTATICS",
                 "sub_topic_name": [
                     "ELECTRODYNAMICS",
                     "DIFFERENTIAL EQUATION (2nd Order ODE)"
-                ]
+                ],
+                "total_questions": 0
             },
             "ELECTRODYNAMICS": {
                 "topic_name": "ELECTRODYNAMICS",
                 "sub_topic_name": [
                     "POYNTING VECTOR, ENERGY, POWER",
                     "MAXWELL’S EQUATIONS, EMW"
-                ]
+                ],
+                "total_questions": 0
             },
-            "ELECTRO_MAGNETIC_INDUCTION": {
+            "ELECTRO MAGNETIC INDUCTION": {
                 "topic_name": "ELECTRO MAGNETIC INDUCTION",
                 "sub_topic_name": [
                     "BASICS AND FARADAY'S LAW OF INDUCTION",
                     "MAXWELL’S EQUATIONS, EMW"
-                ]
+                ],
+                "total_questions": 0
             }
         }
     },
     "Wave&Osci": {
         "branch_name": "Waves & oscillation",
+        "total_questions": 0,
         "topics": {
             "INTERFERENCE OF LIGHT": {
                 "topic_name": "INTERFERENCE OF LIGHT",
@@ -154,7 +175,8 @@
                     "Wedge shape film",
                     "Newton's Ring",
                     "Michelson's Interferometer"
-                ]
+                ],
+                "total_questions": 0
             },
             "WAVES": {
                 "topic_name": "WAVES",
@@ -168,12 +190,14 @@
                     "Organ Pipe",
                     "Wave on a String",
                     "Energy,Intensity,Power"
-                ]
+                ],
+                "total_questions": 0
             }
         }
     },
     "ThermoStat": {
         "branch_name": "Thermodynamics & Statistical Mechanics",
+        "total_questions": 0,
         "topics": {
             "KINETIC THEORY OF GASES": {
                 "topic_name": "KINETIC THEORY OF GASES",
@@ -184,7 +208,8 @@
                     "Gas Laws(IDEAL GAS)",
                     "Real Gas",
                     "Mean Free Path"
-                ]
+                ],
+                "total_questions": 0
             },
             "STATISTICAL PHYSICS": {
                 "topic_name": "STATISTICAL PHYSICS",
@@ -195,7 +220,8 @@
                     "Gas Laws(IDEAL GAS)",
                     "Real Gas",
                     "Mean Free Path"
-                ]
+                ],
+                "total_questions": 0
             },
             "THERMODYNAMICS": {
                 "topic_name": "THERMODYNAMICS",
@@ -204,12 +230,14 @@
                     "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
                     "CARNOT ENGINE",
                     "THERMODYNAMICS POTENTIALS AND MEXWELL’S RELATION"
-                ]
+                ],
+                "total_questions": 0
             }
         }
     },
     "Electronics": {
         "branch_name": "Electronics",
+        "total_questions": 0,
         "topics": {
             "ELECTROSTATICS": {
                 "topic_name": "ELECTROSTATICS",
@@ -218,12 +246,14 @@
                     "LAWS OF THERMODYNAMICS",
                     "ENTROPY",
                     "HEAT-ENGINE"
-                ]
+                ],
+                "total_questions": 0
             }
         }
     },
     "ATMOL": {
         "branch_name": "Atomic & Molecular Physics",
+        "total_questions": 0,
         "topics": {
             "ELECTROSTATICS": {
                 "topic_name": "ELECTROSTATICS",
@@ -232,12 +262,14 @@
                     "LAWS OF THERMODYNAMICS",
                     "ENTROPY",
                     "HEAT-ENGINE"
-                ]
+                ],
+                "total_questions": 0
             }
         }
     },
     "SSP": {
         "branch_name": "Condensed Matter Physics",
+        "total_questions": 0,
         "topics": {
             "ELECTROSTATICS": {
                 "topic_name": "ELECTROSTATICS",
@@ -246,12 +278,14 @@
                     "LAWS OF THERMODYNAMICS",
                     "ENTROPY",
                     "HEAT-ENGINE"
-                ]
+                ],
+                "total_questions": 0
             }
         }
     },
     "CM": {
         "branch_name": "Classical Mechanics",
+        "total_questions": 0,
         "topics": {
             "SPECIAL THEORY OF RELATIVITY": {
                 "topic_name": "SPECIAL THEORY OF RELATIVITY",
@@ -260,7 +294,8 @@
                     "LAWS OF THERMODYNAMICS",
                     "ENTROPY",
                     "HEAT-ENGINE"
-                ]
+                ],
+                "total_questions": 0
             },
             "CENTRAL FORCE AND GRAVITATION": {
                 "topic_name": "CENTRAL FORCE AND GRAVITATION",
@@ -275,18 +310,24 @@
                     "Kepler's Laws",
                     "ENTROPY",
                     "HEAT-ENGINE"
-                ]
+                ],
+                "total_questions": 0
             },
             "DYNAMICS OF RIGID BODIES": {
                 "topic_name": "DYNAMICS OF RIGID BODIES",
                 "sub_topic_name": [
-                    "MOMENT OF INERTIA TENSOR AND THEOREMS","INSTANTANEOUS AXIS,ROLLING & SLIPPING","FIXED AXIS ROTATION","ROTATIONAL STATICS(BASICS,TORQUE AND EQUILLIBRIUM)"
-                ]
+                    "MOMENT OF INERTIA TENSOR AND THEOREMS",
+                    "INSTANTANEOUS AXIS,ROLLING & SLIPPING",
+                    "FIXED AXIS ROTATION",
+                    "ROTATIONAL STATICS(BASICS,TORQUE AND EQUILLIBRIUM)"
+                ],
+                "total_questions": 0
             }
         }
     },
     "NPP": {
         "branch_name": "Nuclear & Particle Physics",
+        "total_questions": 0,
         "topics": {
             "NUCLEAR PHYSICS": {
                 "topic_name": "NUCLEAR PHYSICS",
@@ -296,7 +337,8 @@
                     "Nuclear Fusion",
                     "Nuclear Fission",
                     "Binding Energy"
-                ]
+                ],
+                "total_questions": 0
             }
         }
     }

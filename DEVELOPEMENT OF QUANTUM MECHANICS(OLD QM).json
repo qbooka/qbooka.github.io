@@ -3,6 +3,1614 @@
         {
             "QCount": "",
             "Tags": [
+                "Revision",
+                "Fast",
+                "Memory"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 6:21:39 PM",
+            "ocrQuestion": "The thermal radiation emitted by a body is proportional to \\( T^{n} \\) where \\( T \\) is its absolute temperature. The value of \\( n \\) is exactly 4 for\n(a) a blackbody\n(b) all bodies\n(c) bodies painted black only\n(d) polished bodies only",
+            "onlyq_text": "<p>The thermal radiation emitted by a body is proportional to \\( T^{n} \\) where \\( T \\) is its absolute temperature. The value of \\( n \\) is exactly 4 for</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) a blackbody</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) all bodies</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) bodies painted black only</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) polished bodies only</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "calculative"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 6:24:20 PM",
+            "ocrQuestion": "Two bodies \\( A \\) and \\( B \\) having equal surface areas are maintained at temperatures \\( 10^{\\circ} \\mathrm{C} \\) and \\( 20^{\\circ} \\mathrm{C} \\). The thermal radiation emitted in a given time by \\( A \\) and \\( B \\) are in the ratio\n(a) \\( 1: 1.15 \\)\n(b) \\( 1: 2 \\)\n(c) \\( 1: 4 \\)\n(d) \\( 1: 16 \\)",
+            "onlyq_text": "<p>Two bodies \\( A \\) and \\( B \\) having equal surface areas are maintained at temperatures \\( 10^{\\circ} \\mathrm{C} \\) and \\( 20^{\\circ} \\mathrm{C} \\). The thermal radiation emitted in a given time by \\( A \\) and \\( B \\) are in the ratio</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 1: 1.15 \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 1: 2 \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 1: 4 \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 1: 16 \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Solution: \\( \\frac{P_{1}}{P_{2}}=\\frac{T_{1}^{4}}{T_{2}^{4}}=\\frac{(10+273)^{4}}{(20+273)^{4}}=\\left(\\frac{283}{293}\\right)^{4}=0.87=\\frac{1}{1.15} \\Rightarrow 1: 1.15 \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 6:25:10 PM",
+            "ocrQuestion": "Newton's law of cooling is a special case of\n(a) Wien's displacement law\n(b) Kirchhoff's law\n(c) Stefan's law\n(d) Planck's law",
+            "onlyq_text": "<p>Newton's law of cooling is a special case of</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) Wien's displacement law</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) Kirchhoff's law</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) Stefan's law</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) Planck's law</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "calculative"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 6:28:42 PM",
+            "ocrQuestion": "A wire of length \\( 1 \\mathrm{~m} \\) and radius \\( 1 \\mathrm{~mm} \\) is heated via an electric current to produce \\( 1 \\mathrm{~kW} \\) of radiant power. Treating the wire as a perfect blackbody and ignoring my end effects, the temperature of the wire is given by\n(a) \\( 694 \\mathrm{~K} \\)\n(b) \\( 1,294 \\mathrm{~K} \\)\n(c) \\( 2,494 \\mathrm{~K} \\)\n(d) \\( 4,894 \\mathrm{~K} \\)",
+            "onlyq_text": "<p>A wire of length \\( 1 \\mathrm{~m} \\) and radius \\( 1 \\mathrm{~mm} \\) is heated via an electric current to produce \\( 1 \\mathrm{~kW} \\) of radiant power. Treating the wire as a perfect blackbody and ignoring my end effects, the temperature of the wire is given by</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 694 \\mathrm{~K} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 1,294 \\mathrm{~K} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 2,494 \\mathrm{~K} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 4,894 \\mathrm{~K} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Solution: Electric power = power radiated \\( W=\\sigma T^{4} A \\)\\[\\begin{array}{l}A=2 \\pi r l=2 \\pi \\times 10^{-3} \\times 1.0=6.283 \\times 10^{-3} \\mathrm{~m}^{2} \\\\T=\\left[\\frac{W}{\\sigma A}\\right]^{1 / 4}=\\left[\\frac{1,000}{5.67 \\times 10^{-8} \\times 6.283 \\times 10^{-3}}\\right]=1,294 \\mathrm{~K}\\end{array}\\]",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "MEDIUM",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "calculative"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 6:33:44 PM",
+            "ocrQuestion": "The mass of the sun is \\( 2 \\times 10^{30} \\mathrm{~kg} \\), its radius \\( 7 \\times 10^{8} \\mathrm{~m} \\) and its effective surface temperature \\( 5,700 \\mathrm{~K} \\). Calculate the mass of the sun lost per second by radiation.\n(a) \\( 4.1 \\times 10^{6} \\mathrm{~kg} / \\mathrm{sec} \\)\n(b) \\( 4.1 \\times 10^{9} \\mathrm{~kg} / \\mathrm{sec} \\)\n(b) \\( 4.1 \\times 10^{10} \\mathrm{~kg} / \\mathrm{sec} \\)\n(d) \\( 4.1 \\times 10^{12} \\mathrm{~kg} / \\mathrm{sec} \\)",
+            "onlyq_text": "<p>The mass of the sun is \\( 2 \\times 10^{30} \\mathrm{~kg} \\), its radius \\( 7 \\times 10^{8} \\mathrm{~m} \\) and its effective surface temperature \\( 5,700 \\mathrm{~K} \\). Calculate the mass of the sun lost per second by radiation.</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 4.1 \\times 10^{6} \\mathrm{~kg} / \\mathrm{sec} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 4.1 \\times 10^{9} \\mathrm{~kg} / \\mathrm{sec} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 4.1 \\times 10^{10} \\mathrm{~kg} / \\mathrm{sec} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 4.1 \\times 10^{12} \\mathrm{~kg} / \\mathrm{sec} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Solution: Power, \\( P=\\sigma A T^{4}=4 \\pi R^{2} \\sigma T^{4} \\)\\[\\begin{array}{l}=4 \\pi\\left(7 \\times 10^{8}\\right)^{2}\\left(5.67 \\times 10^{-8}\\right)(5,700)^{1}=3.68 \\times 10^{26} \\mathrm{~W} \\\\r=\\frac{d m}{d t}=\\frac{P}{c^{2}}=\\frac{3.68 \\times 10^{26}}{\\left(3 \\times 10^{8}\\right)^{2}}=4.1 \\times 10^{9} \\mathrm{~kg} / \\mathrm{sec}\\end{array}\\]",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "MEDIUM",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 6:36:30 PM",
+            "ocrQuestion": "Two solid spheres of the same material and similar surface, where the radius of one surface is four times of the other and when the Kelvin temperature of the large sphere is twice that of the small one (Assume that the temperature of the spheres is so high that absorption from the surroundings may be ignored). Ratio of power emitted from bigger to smaller sphere is given by\n(a) 4\n(b) 16\n(c) 64\n(d) 256",
+            "onlyq_text": "<p>Two solid spheres of the same material and similar surface, where the radius of one surface is four times of the other and when the Kelvin temperature of the large sphere is twice that of the small one (Assume that the temperature of the spheres is so high that absorption from the surroundings may be ignored). Ratio of power emitted from bigger to smaller sphere is given by</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) 4</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) 16</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) 64</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) 256</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "leanthy",
+                "calculative"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 6:48:21 PM",
+            "ocrQuestion": "If the sun's radius \\( R_{s}=7 \\times 10^{8} \\mathrm{~m} \\), earth sun distance \\( r=1.5 \\times 10^{-11} \\mathrm{~m} \\) and radius of earth is \\( R_{E}=6.4 \\times 10^{6} \\mathrm{~m} \\) the sun's surface temperature, \\( T_{s}=5,800 \\mathrm{~K} \\) and Stefan-Boltzmann constant \\( \\sigma=5.7 \\times 10^{-8} \\frac{\\mathrm{W}}{\\mathrm{m}^{2}}-K^{4} \\) ) then The solar constant, that is the radiation power received by \\( 1 \\mathrm{~m}^{2} \\) of earth's surface\n(a) \\( 700 \\mathrm{~W} / \\mathrm{m}^{2} \\)\n(b) \\( 1,400 \\mathrm{~W} / \\mathrm{m}^{2} \\)\n(c) \\( 2,100 \\mathrm{~W} / \\mathrm{m}^{2} \\)\n(d) \\( 2,800 \\mathrm{~W} / \\mathrm{m}^{2} \\)",
+            "onlyq_text": "<p>If the sun's radius \\( R_{s}=7 \\times 10^{8} \\mathrm{~m} \\), earth sun distance \\( r=1.5 \\times 10^{-11} \\mathrm{~m} \\) and radius of earth is \\( R_{E}=6.4 \\times 10^{6} \\mathrm{~m} \\) the sun's surface temperature, \\( T_{s}=5,800 \\mathrm{~K} \\) and Stefan-Boltzmann constant \\( \\sigma=5.7 \\times 10^{-8} \\frac{\\mathrm{W}}{\\mathrm{m}^{2}}-K^{4} \\) ) then The solar constant, that is the radiation power received by \\( 1 \\mathrm{~m}^{2} \\) of earth's surface</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 700 \\mathrm{~W} / \\mathrm{m}^{2} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 1,400 \\mathrm{~W} / \\mathrm{m}^{2} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 2,100 \\mathrm{~W} / \\mathrm{m}^{2} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 2,800 \\mathrm{~W} / \\mathrm{m}^{2} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Solution 11: Power radiated by the sun, \\( P_{s}=\\sigma 4 \\pi R_{s}^{2} T_{s}^{4} \\)Power received by \\( 1 \\mathrm{~m}^{2} \\) of earth's surface,\\[S=\\frac{\\sigma 4 \\pi R_{s}^{2} T_{s}^{4}}{4 \\pi r^{2}}=\\frac{\\left(5.7 \\times 10^{-8}\\right)\\left(7 \\times 10^{8}\\right)^{2}(5,800)^{4}}{\\left(1.5 \\times 10^{11}\\right)^{2}}=1,400 \\mathrm{~W} / \\mathrm{m}^{2}\\]",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "MEDIUM",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Memory"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 6:49:59 PM",
+            "ocrQuestion": "If \\( \\varepsilon_{0} \\) is electric permittivity in free space and \\( \\mu_{0} \\) is magnetic permeability then the value of \\( \\frac{1}{\\varepsilon_{0} \\mu_{0}} \\) in term of speed of light \\( c \\)\n(a) \\( c \\)\n(b) \\( 2 c \\)\n(c) \\( c^{2} \\)\n(d) \\( 2 c^{2} \\)",
+            "onlyq_text": "<p>If \\( \\varepsilon_{0} \\) is electric permittivity in free space and \\( \\mu_{0} \\) is magnetic permeability then the value of \\( \\frac{1}{\\varepsilon_{0} \\mu_{0}} \\) in term of speed of light \\( c \\)</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( c \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 2 c \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( c^{2} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 2 c^{2} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Solution: \\( \\frac{1}{\\sqrt{\\varepsilon_{0} \\mu_{0}}}=c \\Rightarrow \\frac{1}{\\varepsilon_{0} \\mu_{0}}=c^{2} \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 6:54:20 PM",
+            "ocrQuestion": "Classical average energy of per standing wave at equilibrium temperature \\( T \\) is given by\n(a) \\( \\frac{k T}{2} \\)\n(b) \\( k T \\)\n(c) \\( \\frac{3 k T}{2} \\)\n(d) \\( 2 \\mathrm{kT} \\)",
+            "onlyq_text": "<p>Classical average energy of per standing wave at equilibrium temperature \\( T \\) is given by</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{k T}{2} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( k T \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\frac{3 k T}{2} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 2 \\mathrm{kT} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Solution: \\( \\langle E\\rangle=\\langle T\\rangle+\\langle V\\rangle=\\left\\langle\\frac{p^{2}}{2 m}\\right\\rangle+\\left\\langle\\frac{1}{2} m \\omega^{2} x^{2}\\right\\rangle=\\frac{k T}{2}+\\frac{k T}{2}=k T \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 6:55:45 PM",
+            "ocrQuestion": "According to Rayleigh-Jeans number of independent standing wave (mode) between frequency \\( v \\) to \\( d v \\) in three dimensional box is proportional to\n(a) \\( v \\)\n(b) \\( v^{2} \\)\n(c) \\( v^{3} \\)\n(d) \\( v^{4} \\)",
+            "onlyq_text": "<p>According to Rayleigh-Jeans number of independent standing wave (mode) between frequency \\( v \\) to \\( d v \\) in three dimensional box is proportional to</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( v \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( v^{2} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( v^{3} \\)</p>"
+                },
+                {
+                    "is_correct": 2,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( v^{4} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Solution: \\( \\rho(v) d v=\\frac{8 \\pi v^{2}}{c^{3}} d v \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 6:57:06 PM",
+            "ocrQuestion": "According to Rayleigh-Jeans number of independent standing wave (mode) between frequency \\( \\lambda \\) to \\( d \\lambda \\) in three dimensional box is proportional to\n(a) \\( \\lambda^{-1} \\)\n(b) \\( \\lambda^{-2} \\)\n(c) \\( \\lambda^{-3} \\)\n(d) \\( \\lambda^{-4} \\)",
+            "onlyq_text": "<p>According to Rayleigh-Jeans number of independent standing wave (mode) between frequency \\( \\lambda \\) to \\( d \\lambda \\) in three dimensional box is proportional to</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\lambda^{-1} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\lambda^{-2} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\lambda^{-3} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\lambda^{-4} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Solution: \\( \\rho(\\lambda) d \\lambda=\\frac{8 \\pi V}{\\lambda^{4}} d \\lambda \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 6:59:13 PM",
+            "ocrQuestion": "According to Rayleigh-Jeans total energy per unit volume in cavity in frequency \\( v \\) to \\( d v \\) is at equilibrium temperature \\( T \\) is given by\n(a) \\( \\frac{4 \\pi k T}{c^{3}} v d v \\)\n(b) \\( \\frac{4 \\pi k T}{c^{3}} v^{2} d v \\)\n(c) \\( \\frac{8 \\pi k T}{c^{3}} v d v \\)\n(d) \\( \\frac{8 \\pi k T}{c^{3}} v^{2} d v \\)",
+            "onlyq_text": "<p>According to Rayleigh-Jeans total energy per unit volume in cavity in frequency \\( v \\) to \\( d v \\) is at equilibrium temperature \\( T \\) is given by</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{4 \\pi k T}{c^{3}} v d v \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{4 \\pi k T}{c^{3}} v^{2} d v \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\frac{8 \\pi k T}{c^{3}} v d v \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{8 \\pi k T}{c^{3}} v^{2} d v \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Solution: \\( \\frac{8 \\pi k T}{c^{3}} v^{2} d v \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 7:01:11 PM",
+            "ocrQuestion": "According to Planck total energy per unit volume in cavity in frequency \\( v \\) to \\( d v \\) is at equilibrium temperature \\( T \\) is given by\n(a) \\( \\frac{8 \\pi h}{c^{3}} \\frac{v^{2} d v}{\\exp \\left(\\frac{h v}{k T}\\right)+1} \\)\n(b) \\( \\frac{8 \\pi h}{c^{3}} \\frac{v^{2} d v}{\\exp \\left(\\frac{h v}{k T}\\right)-1} \\)\n(c) \\( \\frac{8 \\pi h}{c^{3}} \\frac{v^{3} d v}{\\exp \\left(\\frac{h v}{k T}\\right)-1} \\)\n(d) \\( \\frac{8 \\pi h}{c^{3}} \\frac{v^{3} d v}{\\exp \\left(\\frac{h v}{k T}\\right)+1} \\)",
+            "onlyq_text": "<p>According to Planck total energy per unit volume in cavity in frequency \\( v \\) to \\( d v \\) is at equilibrium temperature \\( T \\) is given by</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{8 \\pi h}{c^{3}} \\frac{v^{2} d v}{\\exp \\left(\\frac{h v}{k T}\\right)+1} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{8 \\pi h}{c^{3}} \\frac{v^{2} d v}{\\exp \\left(\\frac{h v}{k T}\\right)-1} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\frac{8 \\pi h}{c^{3}} \\frac{v^{3} d v}{\\exp \\left(\\frac{h v}{k T}\\right)-1} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{8 \\pi h}{c^{3}} \\frac{v^{3} d v}{\\exp \\left(\\frac{h v}{k T}\\right)+1} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Solution: \\( u(v) d v=\\frac{8 \\pi h}{c^{3}} \\frac{v^{3} d v}{\\exp \\left(\\frac{h v}{k T}\\right)-1} \\)",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "MultiConcept",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 7:09:52 PM",
+            "ocrQuestion": "Three discs, \\( A, B \\) and \\( C \\) having radii \\( 2 m, 4 m \\) and \\( 6 m \\), respectively are coated with carbon black on their outer surfaces. The wavelengths corresponding to maximum intensity are \\( 300 \\mathrm{~nm}, 400 \\mathrm{~nm} \\) and \\( 500 \\mathrm{~nm} \\), respectively. The power radiated by them are \\( Q_{A}, Q_{B} \\) and \\( Q_{C} \\). Then,\n(a) \\( Q_{A} \\) is maximum\n(b) \\( Q_{B} \\) is maximum\n(c) \\( Q_{C} \\) is maximum\n(d) \\( Q_{A}=Q_{B}=Q_{C} \\)",
+            "onlyq_text": "<p>Three discs, \\( A, B \\) and \\( C \\) having radii \\( 2 m, 4 m \\) and \\( 6 m \\), respectively are coated with carbon black on their outer surfaces. The wavelengths corresponding to maximum intensity are \\( 300 \\mathrm{~nm}, 400 \\mathrm{~nm} \\) and \\( 500 \\mathrm{~nm} \\), respectively. The power radiated by them are \\( Q_{A}, Q_{B} \\) and \\( Q_{C} \\). Then,</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( Q_{A} \\) is maximum</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( Q_{B} \\) is maximum</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( Q_{C} \\) is maximum</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( Q_{A}=Q_{B}=Q_{C} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Solution: The temperature of a black body and the wavelength corresponding to its maximum intensity are related by the Wien's displacement law,\\[\\lambda_{m} T=b .\\]The power radiated by a black body at temperature \\( T \\) having surface area \\( A \\) and emissivity \\( e \\) is given by the Stefan's law,\\[Q=\\sigma e A T^{4} .\\]For a thin disc of radius \\( r \\) emitting from both surfaces, \\( A=2 \\pi r^{2} \\). Eliminate \\( T \\) from above equations and substitute for \\( A \\) to get,\\[Q=2 \\pi \\sigma e b^{4}\\left(r^{2} / \\lambda_{m}^{4}\\right),\\]which gives,\\[\\begin{aligned}Q_{A}: Q_{B}: Q_{C} & =\\frac{r_{A}^{2}}{\\lambda_{A}^{4}}: \\frac{r_{B}^{2}}{\\lambda_{B}^{4}}: \\frac{r_{C}^{2}}{\\lambda_{C}^{4}} \\\\& =0.049: 0.0625: 0.057\\end{aligned}\\]",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "MEDIUM",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 7:22:14 PM",
+            "ocrQuestion": "A blackbody does not\n(a) emit radiation\n(b) Absorb radiation\n(c) Reflect radiation\n(d) Refract radiation",
+            "onlyq_text": "<p>A blackbody does not</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": [
+                        "3",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(a) emit radiation</p>"
+                },
+                {
+                    "is_correct": [
+                        "3",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(b) Absorb radiation</p>"
+                },
+                {
+                    "is_correct": [
+                        "3",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(c) Reflect radiation</p>"
+                },
+                {
+                    "is_correct": [
+                        "3",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(d) Refract radiation</p>"
+                }
+            ],
+            "optype": 2,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 7:27:41 PM",
+            "ocrQuestion": "A heated body emits radiation which has maximum intensity near the frequency \\( v_{0} \\). The emissivity of the material is 0.5 . If the absolute temperature of the body is doubled,\n(a) The maximum intensity of radiation will be near the frequency \\( 2 v_{0} \\)\n(b) The maximum intensity of radiation will be near the frequency \\( v_{0} / 2 \\)\n(c) The total energy emitted will increase by a factor of 16\n(d) The total energy emitted will increase by a factor of 8",
+            "onlyq_text": "<p>A heated body emits radiation which has maximum intensity near the frequency \\( v_{0} \\). The emissivity of the material is 0.5 . If the absolute temperature of the body is doubled,</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": [
+                        "1",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(a) The maximum intensity of radiation will be near the frequency \\( 2 v_{0} \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(b) The maximum intensity of radiation will be near the frequency \\( v_{0} / 2 \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(c) The total energy emitted will increase by a factor of 16</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(d) The total energy emitted will increase by a factor of 8</p>"
+                }
+            ],
+            "optype": 2,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Solution: \\( \\lambda T=k \\Rightarrow \\frac{T}{v}=k \\Rightarrow T=k v \\) if absolute temperature is doubled then frequency will also double.\\( P \\propto T^{4} \\), if temperature will be doubled, then power will get \\( 2^{4}=16 \\) times",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 7:30:14 PM",
+            "ocrQuestion": "A solid sphere and a hollow sphere of the same material and of equal radii are heated to the same temperature.\n(a) Both will emit equal amount of radiation per unit time in the beginning.\n(b) Both will absorb equal amount of radiation from the surrounding in the beginning.\n(c) The initial rate of cooling ( \\( d T / d t) \\) will be the same for the two spheres.\n(d) The two spheres will have equal temperatures at any instant.",
+            "onlyq_text": "<p>A solid sphere and a hollow sphere of the same material and of equal radii are heated to the same temperature.</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": [
+                        "1",
+                        "2"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(a) Both will emit equal amount of radiation per unit time in the beginning.</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "2"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(b) Both will absorb equal amount of radiation from the surrounding in the beginning.</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "2"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(c) The initial rate of cooling ( \\( d T / d t) \\) will be the same for the two spheres.</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "2"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(d) The two spheres will have equal temperatures at any instant.</p>"
+                }
+            ],
+            "optype": 2,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Solution: Surface area, temperature and material of both sphere are same in both the case so both will emit and absorbed same amount in the beginning.",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "calculative",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 7:35:29 PM",
+            "ocrQuestion": "Which of the following is correct the form of the Planck radiation formula in the limit for energy density \\( \\rho(\\lambda) \\) for wave length \\( \\lambda \\) at absolute temperature \\( T \\)\n(a) \\( \\rho(\\lambda, T)=\\frac{8 \\pi h c}{\\lambda^{5}} \\frac{1}{\\exp \\left(h c / \\lambda k_{B} T\\right)-1} \\)\n(b) \\( \\rho(\\lambda, T)=\\frac{8 \\pi h c}{\\lambda^{5}} \\frac{1}{\\exp \\left(h c / \\lambda k_{B} T\\right)+1} \\)\n(c) For large wave length \\( h c / \\lambda k_{B} T \\ll 1 \\quad \\rho(\\lambda, T)=\\frac{8 \\pi}{\\lambda^{4}} k_{B} T \\)\n(d) For short wavelength \\( h c / \\lambda k_{B} T \\gg 1 \\rho(\\lambda)=\\frac{8 \\pi h c}{\\lambda^{5}} \\exp \\left(-h c / \\lambda k_{B} T\\right) \\)",
+            "onlyq_text": "<p>Which of the following is correct the form of the Planck radiation formula in the limit for energy density \\( \\rho(\\lambda) \\) for wave length \\( \\lambda \\) at absolute temperature \\( T \\)</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": [
+                        "1",
+                        "3",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\rho(\\lambda, T)=\\frac{8 \\pi h c}{\\lambda^{5}} \\frac{1}{\\exp \\left(h c / \\lambda k_{B} T\\right)-1} \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "3",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\rho(\\lambda, T)=\\frac{8 \\pi h c}{\\lambda^{5}} \\frac{1}{\\exp \\left(h c / \\lambda k_{B} T\\right)+1} \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "3",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(c) For large wave length \\( h c / \\lambda k_{B} T \\ll 1 \\quad \\rho(\\lambda, T)=\\frac{8 \\pi}{\\lambda^{4}} k_{B} T \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "3",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(d) For short wavelength \\( h c / \\lambda k_{B} T \\gg 1 \\rho(\\lambda)=\\frac{8 \\pi h c}{\\lambda^{5}} \\exp \\left(-h c / \\lambda k_{B} T\\right) \\)</p>"
+                }
+            ],
+            "optype": 2,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Solution: (a) \\( \\rho(\\lambda, T)=\\frac{8 \\pi h c}{\\lambda^{5}} \\frac{1}{\\exp \\left(h c / \\lambda k_{B} T\\right)-1} \\)(b) for \\( h c / \\lambda k_{B} T \\ll 1=\\frac{8 \\pi h c}{\\lambda^{5}} \\frac{1}{\\left[1+\\frac{h c}{\\lambda k_{B} T}+\\left(\\frac{h c}{\\lambda k_{B} T}\\right)^{2}+\\cdots\\right]-1} \\)In the linear approximation of the Taylor series expansion,\\[\\rho_{\\lambda}(\\lambda, T)=\\frac{8 \\pi h c}{\\lambda^{5}} \\frac{\\lambda k_{B} T}{h c}=\\frac{8 \\pi}{\\lambda^{4}} k_{B} T\\](c) For \\( h c / \\lambda k_{B} T \\gg 1 \\) we have \\( \\exp \\left(h c / \\lambda k_{B} T\\right) \\gg 1 \\) and\\[\\rho_{\\lambda}(\\lambda, T) \\approx \\frac{8 \\pi h c}{\\lambda^{5}} \\frac{1}{\\exp \\left(h c / \\lambda k_{B} T\\right)}=\\frac{8 \\pi h c}{\\lambda^{5}} \\exp \\left(-h c / \\lambda k_{B} T\\right)\\]In this case \\( h c / \\lambda \\gg k_{B} T \\) and the discreteness of the cavity energy is obvious; the classical theory gives completely wrong predictions.",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "HARD",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 7:37:37 PM",
+            "ocrQuestion": "Which of the following is correct about theory related about black body radiation?\n(a) Rayleigh-Jeans theory for intensity of radiation is correct for small wavelength .\n(b) Rayleigh-Jeans theory for intensity of radiation is correct for greater wavelength.\n(c) Wien's Distribution Law for intensity of radiation is correct for small wavelength.\n(d) Wien's Distribution Law for intensity of radiation is correct for greater wavelength.",
+            "onlyq_text": "<p>Which of the following is correct about theory related about black body radiation?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": [
+                        "2",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(a) Rayleigh-Jeans theory for intensity of radiation is correct for small wavelength .</p>"
+                },
+                {
+                    "is_correct": [
+                        "2",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(b) Rayleigh-Jeans theory for intensity of radiation is correct for greater wavelength.</p>"
+                },
+                {
+                    "is_correct": [
+                        "2",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(c) Wien's Distribution Law for intensity of radiation is correct for small wavelength.</p>"
+                },
+                {
+                    "is_correct": [
+                        "2",
+                        "3"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(d) Wien's Distribution Law for intensity of radiation is correct for greater wavelength.</p>"
+                }
+            ],
+            "optype": 2,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "Solution: Rayleigh-Jeans theory for intensity of radiation is correct for smaller frequency or greater wavelength.Wien's Distribution Law intensity of radiation is is correct for greater frequency or small wavelength.",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Memory",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 7:39:20 PM",
+            "ocrQuestion": "Which of the following is correct about Plank's theory related about intensity of radiation?\n(a) Plank's theory is correct for both smaller and bigger wavelength.\n(b) Plank's theory of radiation has basic assumption that Energy of radiation is discrete\n(c) Derivation Plank's theory of radiation has same method as Rayleigh-Jeans to calculate number of mode between frequency \\( v \\) to \\( v+d v \\)\n(d) ) Energy density \\( \\rho(v) d v \\) between frequency \\( v \\) to \\( v+d v \\) is \\( \\frac{8 \\pi v^{2}}{c^{3}} \\cdot \\frac{h v}{\\exp \\left(\\frac{h v}{k_{B} T}\\right)-1} \\)",
+            "onlyq_text": "<p>Which of the following is correct about Plank's theory related about intensity of radiation?</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(a) Plank's theory is correct for both smaller and bigger wavelength.</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(b) Plank's theory of radiation has basic assumption that Energy of radiation is discrete</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(c) Derivation Plank's theory of radiation has same method as Rayleigh-Jeans to calculate number of mode between frequency \\( v \\) to \\( v+d v \\)</p>"
+                },
+                {
+                    "is_correct": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "lang_id": 1,
+                    "option": "<p>(d) ) Energy density \\( \\rho(v) d v \\) between frequency \\( v \\) to \\( v+d v \\) is \\( \\frac{8 \\pi v^{2}}{c^{3}} \\cdot \\frac{h v}{\\exp \\left(\\frac{h v}{k_{B} T}\\right)-1} \\)</p>"
+                }
+            ],
+            "optype": 2,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "prav"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "MEDIUM",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Memory",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 7:48:19 PM",
+            "ocrQuestion": "For a perfectly blackbody, the abosrption power is\n(a) One\n(b) More than one\n(c) Less than one\n(d) Zero",
+            "onlyq_text": "<p>For a perfectly blackbody, the abosrption power is</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) One</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) More than one</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) Less than one</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) Zero</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 8:01:57 PM",
+            "ocrQuestion": "When the temperature of a blackbody is doubled, the maximum value of its spectral energy density, with respect to that at initial temperature, would become\n(a) \\( 1 / 16 \\) times\n(b) 8 times\n(c) 16 times\n(d) 32 times",
+            "onlyq_text": "<p>When the temperature of a blackbody is doubled, the maximum value of its spectral energy density, with respect to that at initial temperature, would become</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 1 / 16 \\) times</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) 8 times</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) 16 times</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) 32 times</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 8:05:48 PM",
+            "ocrQuestion": "The black body spectrum of an object \\( O_{1} \\) is such that its radiant intensity (i.e. intensity per unit wavelength interval) is maximum at a wavelength of \\( 200 \\mathrm{~nm} \\). Another object \\( O_{2} \\) has the maximum radiant intensity at \\( 600 \\mathrm{~nm} \\). The ratio of power emitted per unit area by \\( O_{1} \\) to that of \\( O_{2} \\) is:\n(a) \\( \\frac{1}{81} \\)\n(b) \\( \\frac{1}{9} \\)\n(c) 9\n(d) 81",
+            "onlyq_text": "<p>The black body spectrum of an object \\( O_{1} \\) is such that its radiant intensity (i.e. intensity per unit wavelength interval) is maximum at a wavelength of \\( 200 \\mathrm{~nm} \\). Another object \\( O_{2} \\) has the maximum radiant intensity at \\( 600 \\mathrm{~nm} \\). The ratio of power emitted per unit area by \\( O_{1} \\) to that of \\( O_{2} \\) is:</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( \\frac{1}{81} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{1}{9} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) 9</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) 81</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 8:08:36 PM",
+            "ocrQuestion": "A blackbody at a temperature of \\( 6000 \\mathrm{~K} \\) emits radiation whose intensity spectrum peaks at \\( 600 \\mathrm{~nm} \\). If the temperature is reduced to \\( 300 \\mathrm{~K} \\), the spectrum will peak at\n(a) \\( 12 \\mathrm{~nm} \\)\n(b) \\( 120 \\mu \\mathrm{m} \\)\n(c) \\( 120 \\mathrm{~nm} \\)\n(d) \\( 12 \\mu \\mathrm{m} \\)",
+            "onlyq_text": "<p>A blackbody at a temperature of \\( 6000 \\mathrm{~K} \\) emits radiation whose intensity spectrum peaks at \\( 600 \\mathrm{~nm} \\). If the temperature is reduced to \\( 300 \\mathrm{~K} \\), the spectrum will peak at</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( 12 \\mathrm{~nm} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( 120 \\mu \\mathrm{m} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( 120 \\mathrm{~nm} \\)</p>"
+                },
+                {
+                    "is_correct": 4,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( 12 \\mu \\mathrm{m} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 8:14:59 PM",
+            "ocrQuestion": "A red star having radius \\( r_{R} \\) at a temperature \\( T_{R} \\) and \\( a \\) white star having radius \\( r_{w} \\) at a temperature \\( T_{W} \\), radiate the same total power. If these stars radiate as perfect black bodies, then\n(a) \\( r_{R}>r_{w} \\) and \\( T_{R}>T_{W} \\)\n(b) \\( r_{R}<r_{w} \\) and \\( T_{R}>T_{W} \\)\n(c) \\( r_{R}>r_{w} \\) and \\( T_{R}<T_{W} \\)\n(d) \\( r_{R}<r_{w} \\) and \\( T_{R}<T_{W} \\)",
+            "onlyq_text": "<p>A red star having radius \\( r_{R} \\) at a temperature \\( T_{R} \\) and \\( a \\) white star having radius \\( r_{w} \\) at a temperature \\( T_{W} \\), radiate the same total power. If these stars radiate as perfect black bodies, then</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( r_{R}>r_{w} \\) and \\( T_{R}>T_{W} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( r_{R} < r_{w} \\) and \\( T_{R}>T_{W} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( r_{R}>r_{w} \\) and \\( T_{R} < T_{W} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( r_{R} < r_{w} \\) and \\( T_{R} < T_{W} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 9:00:11 PM",
+            "ocrQuestion": "A filament, assumed to be a black body. is emitting radiation at a temperature \\( T \\). If the power to the filament is doubled then the temperature will\n(a) Increase by \\( 2^{\\frac{1}{4}} \\)\n(b) Increase by \\( 2^{\\frac{1}{2}} \\)\n(c) Increase by 2\n(d) Increase by 4",
+            "onlyq_text": "<p>A filament, assumed to be a black body. is emitting radiation at a temperature \\( T \\). If the power to the filament is doubled then the temperature will</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(a) Increase by \\( 2^{\\frac{1}{4}} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(b) Increase by \\( 2^{\\frac{1}{2}} \\)</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(c) Increase by 2</p>"
+                },
+                {
+                    "is_correct": 1,
+                    "lang_id": 1,
+                    "option": "<p>(d) Increase by 4</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "Conceptual",
+                "Fast",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 9:01:26 PM",
+            "ocrQuestion": "Assume that a planet and the star is orbits can both be thought of as perfect black bodies. The surface temperature of the star is \\( T_{s} \\) and that of the planet is \\( T_{p} \\). Suppose there is another starplanet system identical in all respects but except for the two temperatures. If the surface temperature of the other star is \\( T / 2 \\) the surface temperature of its planet is\n(a) \\( T_{p} \\)\n(b) \\( \\frac{3 T_{p}}{2} \\)\n(c) \\( \\frac{T_{p}}{2} \\)\n(d) \\( \\frac{T_{p}}{16} \\)",
+            "onlyq_text": "<p>Assume that a planet and the star is orbits can both be thought of as perfect black bodies. The surface temperature of the star is \\( T_{s} \\) and that of the planet is \\( T_{p} \\). Suppose there is another starplanet system identical in all respects but except for the two temperatures. If the surface temperature of the other star is \\( T / 2 \\) the surface temperature of its planet is</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) \\( T_{p} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) \\( \\frac{3 T_{p}}{2} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) \\( \\frac{T_{p}}{2} \\)</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) \\( \\frac{T_{p}}{16} \\)</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Fast",
+                "Veriety"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 9:04:57 PM",
+            "ocrQuestion": "An athelete dissipates all the energy in a diet of \\( 2000 \\mathrm{kcal} \\). per day. If he were to release this energy at a steady rate, its magnitude can be compared to the out put energy of an electric bulb of the following wattage\n(a) 300 Watts\n(b) 200 Watts\n(c) 100 Watts\n(d) 40 Watts",
+            "onlyq_text": "<p>An athelete dissipates all the energy in a diet of \\( 2000 \\mathrm{kcal} \\). per day. If he were to release this energy at a steady rate, its magnitude can be compared to the out put energy of an electric bulb of the following wattage</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) 300 Watts</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) 200 Watts</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) 100 Watts</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) 40 Watts</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
+                "Revision",
+                "calculative",
+                "ForJEE",
+                "ForNEET",
+                "Veriety",
+                "Practice"
+            ],
+            "added_By": "sai",
+            "concept_html": "",
+            "date": "3/3/2024, 9:10:39 PM",
+            "ocrQuestion": "The power per unit area emitted by a surface of a blackbody (in \\( \\mathrm{Wm}^{-2} \\) ) at temperature \\( 230 \\mathrm{~K} \\) is about\n(a) 112.67\n(b) 128.67\n(c) 158.67\n(d) 178.67",
+            "onlyq_text": "<p>The power per unit area emitted by a surface of a blackbody (in \\( \\mathrm{Wm}^{-2} \\) ) at temperature \\( 230 \\mathrm{~K} \\) is about</p>",
+            "option_hindi": [],
+            "options": [
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(a) 112.67</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(b) 128.67</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(c) 158.67</p>"
+                },
+                {
+                    "is_correct": 3,
+                    "lang_id": 1,
+                    "option": "<p>(d) 178.67</p>"
+                }
+            ],
+            "optype": 1,
+            "q_text_hindi": "",
+            "qid": "",
+            "sol_html": "",
+            "sol_text": "",
+            "sources": {
+                "BOOKsource": [
+                    "opti"
+                ],
+                "Examsource": []
+            },
+            "sub_topic_name": "BLACK BODY RADIATION",
+            "subject": "PHYSICS",
+            "topic_name": "DEVELOPEMENT OF QUANTUM MECHANICS(OLD QM)",
+            "toughness": "EASY",
+            "branch": "Quantum Mechanics"
+        },
+        {
+            "QCount": "",
+            "Tags": [
                 "Conceptual",
                 "Fast",
                 "Memory",
