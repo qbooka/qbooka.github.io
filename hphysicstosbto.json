@@ -62,15 +62,15 @@
             "PARTIAL DIFFERENTIATION": {
                 "topic_name": "PARTIAL DIFFERENTIATION",
                 "sub_topic_name": [
-                    "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
-                    "JACOBIAN"
+                    "EULERS THEOREM OF HOMOGENEOUS FUNCTION"
+                    
                 ]
             },
-            "MULTIVARIABLE CALCULUS": {
-                "topic_name": "MULTIVARIABLE CALCULUS",
+            "JACOBIAN": {
+                "topic_name": "JACOBIAN",
                 "sub_topic_name": [
-                    "EULERS THEOREM OF HOMOGENEOUS FUNCTION","PARTIAL DIFFERENTIATION",
-                    "JACOBIAN"
+                    "Jacobian of implicit functions",
+                    "Jacobian of function of function"
                 ]
             },
             "MATRICES": {
