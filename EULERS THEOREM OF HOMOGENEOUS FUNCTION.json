@@ -46,8 +46,9 @@
             },
             "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
             "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
+            "topic_name": "PARTIAL DIFFERENTIATION",
+            "toughness": "MEDIUM",
+            "branch": "Mathematical Physics"
         },
         {
             "QCount": "",
@@ -92,8 +93,9 @@
             },
             "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
             "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
+            "topic_name": "PARTIAL DIFFERENTIATION",
+            "toughness": "MEDIUM",
+            "branch": "Mathematical Physics"
         },
         {
             "QCount": "",
@@ -140,8 +142,9 @@
             },
             "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
             "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "HARD"
+            "topic_name": "PARTIAL DIFFERENTIATION",
+            "toughness": "HARD",
+            "branch": "Mathematical Physics"
         },
         {
             "QCount": "",
@@ -189,8 +192,9 @@
             },
             "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
             "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "HARD"
+            "topic_name": "PARTIAL DIFFERENTIATION",
+            "toughness": "HARD",
+            "branch": "Mathematical Physics"
         },
         {
             "QCount": "",
@@ -237,8 +241,9 @@
             },
             "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
             "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "HARD"
+            "topic_name": "PARTIAL DIFFERENTIATION",
+            "toughness": "HARD",
+            "branch": "Mathematical Physics"
         },
         {
             "QCount": "",
@@ -285,8 +290,9 @@
             },
             "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
             "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
+            "topic_name": "PARTIAL DIFFERENTIATION",
+            "toughness": "MEDIUM",
+            "branch": "Mathematical Physics"
         }
     ]
 }
