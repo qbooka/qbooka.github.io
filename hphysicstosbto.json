@@ -211,11 +211,11 @@
     "Electronics": {
         "branch_name": "Electronics",
         "topics": {
-            "ELECTROSTATICS": {
-                "topic_name": "ELECTROSTATICS",
+            "DIGITAL ELECTRONICS": {
+                "topic_name": "DIGITAL ELECTRONICS",
                 "sub_topic_name": [
-                    "GAS LAWS",
-                    "LAWS OF THERMODYNAMICS",
+                    "Logic Gates",
+                    "Boolean Algebra",
                     "ENTROPY",
                     "HEAT-ENGINE"
                 ]
