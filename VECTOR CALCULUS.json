@@ -425,6 +425,503 @@
          "subject": "PHYSICS",
          "topic_name": "VECTOR CALCULUS",
          "toughness": "MEDIUM"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "MultiConcept",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Mathematical Physics",
+         "concept_html": "",
+         "date": "4/23/2024, 3:32:30 PM",
+         "ocrQuestion": "The unit vector tangent to the curve \\(x=\\sin t, y=\\cos t, z=t\\) at \\(t=\\pi / 4\\) will be\n(a) \\(\\frac{1}{\\sqrt{3}}(\\hat{i}-\\hat{j}+\\hat{k})\\)\n(b) \\(-\\frac{1}{2} \\hat{i}+\\frac{1}{2} \\hat{j}+\\frac{1}{\\sqrt{2}} \\hat{k}\\)\n(c) \\(\\frac{1}{2} \\hat{i}-\\frac{1}{2} \\hat{j}+\\frac{1}{\\sqrt{2}} \\hat{k}\\)\n(d) \\(\\frac{1}{4} \\hat{i}-\\frac{1}{4} \\hat{j}+\\frac{1}{\\sqrt{2}} \\hat{k}\\)",
+         "onlyq_text": "<p>The unit vector tangent to the curve \\(x=\\sin t, y=\\cos t, z=t\\) at \\(t=\\pi / 4\\) will be</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(a) \\(\\frac{1}{\\sqrt{3}}(\\hat{i}-\\hat{j}+\\hat{k})\\)</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(b) \\(-\\frac{1}{2} \\hat{i}+\\frac{1}{2} \\hat{j}+\\frac{1}{\\sqrt{2}} \\hat{k}\\)</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(c) \\(\\frac{1}{2} \\hat{i}-\\frac{1}{2} \\hat{j}+\\frac{1}{\\sqrt{2}} \\hat{k}\\)</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(d) \\(\\frac{1}{4} \\hat{i}-\\frac{1}{4} \\hat{j}+\\frac{1}{\\sqrt{2}} \\hat{k}\\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_html": {
+            "solution": "<p>Given \\(\\quad \\vec{r}=\\sin t \\hat{\\imath}+\\cos t \\hat{\\jmath}+t \\hat{k}\\)</p><p>tangent vector \\(\\vec{T}=\\frac{d \\vec{r}}{d t}=\\cos t \\hat{\\imath}-\\sin t \\hat{\\jmath}+\\hat{k}\\)</p><p>\\[ \\begin{array}{l} \\left.\\vec{T}\\right|_{t=\\frac{\\pi}{4}}=\\frac{1}{\\sqrt{2}} \\hat{\\imath}-\\frac{1}{\\sqrt{2}} \\hat{\\jmath}+\\hat{k} \\\\ \\Rightarrow \\quad \\hat{T}=\\frac{\\vec{T}}{|\\vec{T}|}=\\frac{1}{2} \\hat{i}-\\frac{1}{2} \\hat{\\jmath}+\\frac{1}{\\sqrt{2}} \\hat{k} \\end{array} \\]</p>",
+            "solved_by": "sai"
+         },
+         "sol_text": "",
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "Vector Differentiation ,Gradient, Divergence, Curl",
+         "subject": "PHYSICS",
+         "topic_name": "VECTOR CALCULUS",
+         "toughness": "MEDIUM"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Fast",
+            "MultiConcept",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Mathematical Physics",
+         "concept_html": "",
+         "date": "4/23/2024, 3:43:51 PM",
+         "ocrQuestion": "An unit vector normal to the surface \\(z=x^{2}+y^{2}\\) at the point \\((1,2,5)\\) is\n(a)\\(\\frac{\\hat{i}+2 \\hat{j}-\\hat{k}}{\\sqrt{6}}\\)\n(b) \\(\\frac{\\hat{i}+\\hat{j}-\\hat{k}}{\\sqrt{3}}\\)\n(c) \\(\\frac{2 \\hat{i}+4 \\hat{j}-\\hat{k}}{\\sqrt{21}}\\)\n(d) \\(\\frac{\\hat{i}+2 \\hat{j}-\\hat{k}}{\\sqrt{6}}\\)",
+         "onlyq_text": "<p>An unit vector normal to the surface \\(z=x^{2}+y^{2}\\) at the point \\((1,2,5)\\) is</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(a)\\(\\frac{\\hat{i}+2 \\hat{j}-\\hat{k}}{\\sqrt{6}}\\)</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(b) \\(\\frac{\\hat{i}+\\hat{j}-\\hat{k}}{\\sqrt{3}}\\)</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(c) \\(\\frac{2 \\hat{i}+4 \\hat{j}-\\hat{k}}{\\sqrt{21}}\\)</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(d) \\(\\frac{\\hat{i}+2 \\hat{j}-\\hat{k}}{\\sqrt{6}}\\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_html": {
+            "solution": "<p>A vector normal to the Surface \\(S(x, y, z)\\) is \\(\\vec{\\nabla} S\\)</p><p>Given \\(S=x^{2}+y^{2}-z\\)</p><p>\\[ \\begin{array}{l} \\vec{\\nabla} S=2 x \\hat{\\imath}+2 y \\hat{\\jmath}-\\hat{k} \\\\ \\left.\\vec{\\nabla} S\\right|_{(1,2,5)}=2 \\hat{\\imath}+4 \\hat{\\jmath}-\\hat{k} \\end{array} \\]</p><p>unit vector is \\(\\frac{\\vec{\\nabla} S}{|\\vec{\\nabla} S|}=\\frac{2 \\hat{\\imath}+4 \\hat{\\jmath}-\\hat{k}}{\\sqrt{21}}\\)</p>",
+            "solved_by": "sai"
+         },
+         "sol_text": "",
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "Vector Differentiation ,Gradient, Divergence, Curl",
+         "subject": "PHYSICS",
+         "topic_name": "VECTOR CALCULUS",
+         "toughness": "MEDIUM"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "leanthy",
+            "MultiConcept",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Mathematical Physics",
+         "concept_html": "",
+         "date": "4/23/2024, 3:59:16 PM",
+         "ocrQuestion": "The equation of a surface of is given as \\(z= \\pm \\sqrt{\\frac{3}{2} x^{2}+\\frac{3}{2} y^{2}}\\). The unit normal to the surface at the point \\(A\\left(\\sqrt{\\frac{2}{3}}, 0,1\\right)\\) is\n(a) \\(\\sqrt{\\frac{3}{5}} \\hat{i}+\\frac{2}{\\sqrt{10}} \\hat{k}\\)\n(b) \\(\\sqrt{\\frac{3}{10}} \\hat{i}+\\frac{2}{\\sqrt{10}} \\hat{j}\\)\n(c) \\(\\sqrt{\\frac{3}{5}} \\hat{i}+\\frac{2}{\\sqrt{5}} \\hat{k}\\)\n(d) \\(\\sqrt{\\frac{3}{5}} \\hat{i}-\\frac{2}{\\sqrt{10}} \\hat{k}\\)",
+         "onlyq_text": "<p>The equation of a surface of is given as \\(z= \\pm \\sqrt{\\frac{3}{2} x^{2}+\\frac{3}{2} y^{2}}\\). The unit normal to the surface at the point \\(A\\left(\\sqrt{\\frac{2}{3}}, 0,1\\right)\\) is</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(a) \\(\\sqrt{\\frac{3}{5}} \\hat{i}+\\frac{2}{\\sqrt{10}} \\hat{k}\\)</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(b) \\(\\sqrt{\\frac{3}{10}} \\hat{i}+\\frac{2}{\\sqrt{10}} \\hat{j}\\)</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(c) \\(\\sqrt{\\frac{3}{5}} \\hat{i}+\\frac{2}{\\sqrt{5}} \\hat{k}\\)</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(d) \\(\\sqrt{\\frac{3}{5}} \\hat{i}-\\frac{2}{\\sqrt{10}} \\hat{k}\\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_html": {
+            "solution": "<p>\\[ \\begin{array}{l} S= \\pm \\sqrt{\\frac{3}{2} x^{2}+\\frac{3}{2} y^{2}} -z\\\\ \\vec{\\nabla} S= \\pm \\frac{3 x}{2 \\sqrt{\\frac{3}{2} x^{2}+\\frac{3}{2} y^{2}}} \\hat{\\imath} \\pm \\frac{2 y}{2 \\sqrt{\\frac{3}{2} x^{2}+\\frac{3}{2} y^{2}}} \\hat{\\jmath}-\\hat{k} \\\\ \\left.\\vec{\\nabla} S\\right|_{\\left(\\sqrt{\\frac{2}{3}}, 0,1\\right)}= \\pm \\frac{\\sqrt{3}}{\\sqrt{2}} \\hat{\\imath}-\\hat{k} \\end{array} \\]</p><p>Unit vector is civen by \\(\\frac{\\vec{V} s}{|\\vec{\\nabla} s|}=\\frac{ \\pm \\frac{\\sqrt{3}}{\\sqrt{2}} \\hat{i}-\\hat{k}}{\\sqrt{\\frac{3}{2}+1}}\\)</p><p>\\[ \\begin{array}{l} = \\pm \\frac{\\sqrt{3}}{\\sqrt{5}} \\hat{\\imath}-\\frac{\\sqrt{2}}{\\sqrt{5}} \\hat{k} \\\\ = \\pm \\sqrt{\\frac{3}{5}} \\hat{\\imath}-\\frac{2}{\\sqrt{10}} \\hat{k} \\end{array} \\]&nbsp;</p>",
+            "solved_by": "sai"
+         },
+         "sol_text": "",
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "Vector Differentiation ,Gradient, Divergence, Curl",
+         "subject": "PHYSICS",
+         "topic_name": "VECTOR CALCULUS",
+         "toughness": "MEDIUM"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "leanthy",
+            "MultiConcept",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Mathematical Physics",
+         "concept_html": "",
+         "date": "4/23/2024, 4:13:03 PM",
+         "ocrQuestion": "If the surface \\(5 x^{2}-2 b y z=9 x\\) be orthogonal to the surface \\(4 x^{2} y+z^{3}=4\\) at the point \\((1,1,-2)\\), then \\(\\mathrm{b}\\) is\n(a) 0\n(b) 1\n(c) 2\n(d) 3",
+         "onlyq_text": "<p>If the surface \\(5 x^{2}-2 b y z=9 x\\) be orthogonal to the surface \\(4 x^{2} y+z^{3}=4\\) at the point \\((1,1,-2)\\), then \\(\\mathrm{b}\\) is</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(a) 0</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(b) 1</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(c) 2</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(d) 3</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_html": {
+            "solution": "<p>Surface \\(\\left(S_{1}\\right)=5 x^{2}-9 x-2 \\operatorname{byz} z \\quad \\&amp; \\quad\\) Surface \\(\\left(S_{2}\\right)=4 x^{2} y+z^{3}-4\\)</p><p>\\[ \\begin{array}{l|l} \\vec{\\nabla} S_{1}=(10 x-9) \\hat{\\imath}-2 b z \\hat{\\jmath}-2 b y \\hat{k} &amp; \\vec{\\nabla} S_{2}=8 x y \\hat{\\imath}+4 x^{2} \\hat{\\jmath}+3 z^{2} \\hat{k} \\\\ \\left.\\vec{\\nabla} S_{1}\\right|_{\\substack{(1,1,-2)}}=\\hat{\\imath}+4 b \\hat{\\jmath}-2 b \\hat{k} &amp; \\left.\\vec{\\nabla} S_{2}\\right|_{(1,1,-2)}=8 \\hat{\\imath}+4 \\hat{\\jmath}+12 \\hat{k} \\end{array} \\]</p><p>Given the surfaces are perpendiculara so \\(\\vec{\\nabla} S_{1} \\cdot \\vec{\\nabla} S_{2}=0\\)</p><p>\\[ \\begin{array}{l} \\Rightarrow 8+16 b-24 b=0 \\\\ \\Rightarrow 8=8 b \\\\ \\Rightarrow b=1 \\end{array} \\]</p>",
+            "solved_by": "sai"
+         },
+         "sol_text": "",
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "Vector Differentiation ,Gradient, Divergence, Curl",
+         "subject": "PHYSICS",
+         "topic_name": "VECTOR CALCULUS",
+         "toughness": "MEDIUM"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "leanthy",
+            "MultiConcept",
+            "TEST"
+         ],
+         "added_By": "sai",
+         "branch": "Mathematical Physics",
+         "concept_html": "",
+         "date": "4/23/2024, 4:25:19 PM",
+         "ocrQuestion": "The surface \\(a x^{2}-b y z=(a+2) x\\) will be orthogonal to the surface \\(4 x^{2} y+z^{3}=4\\) at the point \\((1,-1,2)\\). Which of the following relations is true for ' \\(a\\) ' and ' \\(b\\) '?\n(a) \\(a-b=4\\)\n(b) \\(2 a-b=4\\)\n(c) \\(a=3 b\\)\n(d) \\(3 a+b=9\\)",
+         "onlyq_text": "<p>The surface \\(a x^{2}-b y z=(a+2) x\\) will be orthogonal to the surface \\(4 x^{2} y+z^{3}=4\\) at the point \\((1,-1,2)\\). Which of the following relations is true for ' \\(a\\) ' and ' \\(b\\) '?</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(a) \\(a-b=4\\)</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(b) \\(2 a-b=4\\)</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(c) \\(a=3 b\\)</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(d) \\(3 a+b=9\\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_html": {
+            "solution": "<p>Surface \\(S_{1}=a x^{2}-\\) byz \\(-(a+2) x \\quad \\&amp; \\quad\\) surface \\(S_{2}=4 x^{2} y+z^{3}-4\\)</p><p>\\[ \\begin{array}{l|l} \\vec{\\nabla} S_{1}=(2 a x-(a+2)) \\hat{\\imath}-b z \\hat{\\jmath}-b y \\hat{k} &amp; \\vec{\\nabla} S_{2}=8 y \\hat{\\imath}+4 x^{2} \\hat{\\jmath}+3 z^{2} \\hat{k} \\\\ \\left.\\vec{\\nabla} S_{1}\\right|_{(1,-1,2)}=(a-2) \\hat{\\imath}-2 b \\hat{\\jmath}+b \\hat{k} &amp; \\left.\\vec{\\nabla} S_{2}\\right|_{(1,-1,2)}=-8 \\hat{\\imath}+4 \\hat{\\jmath}+12 \\hat{k} \\end{array} \\]</p><p>these two Surfaces are orthogonal so \\(\\vec{\\nabla} S_{1} \\cdot \\vec{\\nabla} S_{2}=0\\)</p><p>\\[ \\begin{array}{l} \\Rightarrow-8(a-2)-8 b+12 b=0 \\\\ \\Rightarrow-8 a+16+4 b=0 \\\\ \\Rightarrow-2 a+b=-4 \\\\ \\Rightarrow 2 a-b=4 \\end{array} \\]</p>",
+            "solved_by": "sai"
+         },
+         "sol_text": "",
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "Vector Differentiation ,Gradient, Divergence, Curl",
+         "subject": "PHYSICS",
+         "topic_name": "VECTOR CALCULUS",
+         "toughness": "EASY"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Fast",
+            "Memory",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Mathematical Physics",
+         "concept_html": "",
+         "date": "4/23/2024, 4:33:08 PM",
+         "ocrQuestion": "A sphere of unit radius is centered at the origin. The unit normal at a point \\((x, y, z)\\) on the surface of the sphere will be\n(a) \\(\\left(\\frac{1}{\\sqrt{3}}, \\frac{1}{\\sqrt{3}}, \\frac{1}{\\sqrt{3}}\\right)\\)\n(b) \\(\\left(\\frac{x}{\\sqrt{3}}, \\frac{y}{\\sqrt{3}}, \\frac{z}{\\sqrt{3}}\\right)\\)\n(c) \\(\\left(\\frac{x}{\\sqrt{2}}, \\frac{y}{\\sqrt{2}}, \\frac{z}{\\sqrt{2}}\\right)\\)\n(d) \\((x, y, z)\\)",
+         "onlyq_text": "<p>A sphere of unit radius is centered at the origin. The unit normal at a point \\((x, y, z)\\) on the surface of the sphere will be</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(a) \\(\\left(\\frac{1}{\\sqrt{3}}, \\frac{1}{\\sqrt{3}}, \\frac{1}{\\sqrt{3}}\\right)\\)</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(b) \\(\\left(\\frac{x}{\\sqrt{3}}, \\frac{y}{\\sqrt{3}}, \\frac{z}{\\sqrt{3}}\\right)\\)</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(c) \\(\\left(\\frac{x}{\\sqrt{2}}, \\frac{y}{\\sqrt{2}}, \\frac{z}{\\sqrt{2}}\\right)\\)</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(d) \\((x, y, z)\\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_html": {
+            "solution": "<p>Equation of Sphere Centered at origin is \\(x^{2}+y^{2}+z^{2}=r^{2}\\)</p><p>for unit radius it is \\(x^{2}+y^{2}+z^{2}=1\\)</p><p>the normal vertor \\(\\vec{\\nabla} S=2 x \\hat{i}+2 y \\hat{j}+2 z \\hat{k}\\)</p><p>\\[ \\begin{aligned} \\text { unit normal vector is } &amp; =\\frac{\\vec{\\nabla} s}{|\\vec{\\nabla} s|}=\\frac{2 x \\hat{\\imath}+2 y \\hat{\\jmath}+2 z \\hat{k}}{2 \\sqrt{x^{2}+y^{2}+z^{2}}} \\\\ &amp; =x \\hat{i}+y \\hat{\\jmath}+z \\hat{k} \\quad \\therefore\\left(x^{2}+y^{2}+z^{2}=1\\right) \\end{aligned} \\]&nbsp;</p>",
+            "solved_by": "sai"
+         },
+         "sol_text": "",
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "Vector Differentiation ,Gradient, Divergence, Curl",
+         "subject": "PHYSICS",
+         "topic_name": "VECTOR CALCULUS",
+         "toughness": "EASY"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "Fast",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Mathematical Physics",
+         "concept_html": "",
+         "date": "4/23/2024, 4:36:18 PM",
+         "ocrQuestion": "The normal vector to the surface \\(x y=z^{2}\\) at the point \\(\\mathrm{P}(1,1,1)\\) is\n(a) \\(2 \\hat{i}+\\hat{j}+2 \\hat{k}\\)\n(b) \\(\\hat{i}-\\hat{j}+2 \\hat{k}\\)\n(c) \\(\\hat{i}-\\hat{j}-2 \\hat{k}\\)\n(d) \\(\\hat{i}+\\hat{j}-2 \\hat{k}\\)",
+         "onlyq_text": "<p>The normal vector to the surface \\(x y=z^{2}\\) at the point \\(\\mathrm{P}(1,1,1)\\) is</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(a) \\(2 \\hat{i}+\\hat{j}+2 \\hat{k}\\)</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(b) \\(\\hat{i}-\\hat{j}+2 \\hat{k}\\)</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(c) \\(\\hat{i}-\\hat{j}-2 \\hat{k}\\)</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(d) \\(\\hat{i}+\\hat{j}-2 \\hat{k}\\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_html": {
+            "solution": "<p>Given Surface \\(S=x y-z^{2}\\)</p><p>normal vector is \\(\\vec{\\nabla} S=y \\hat{\\imath}+x \\hat{\\jmath}-2 z \\hat{k}\\)</p><p>\\[ \\left.\\vec{\\nabla} s\\right|_{(1,1,1)}=\\hat{\\imath}+\\hat{\\jmath}-2 \\hat{k} \\]</p>",
+            "solved_by": "sai"
+         },
+         "sol_text": "",
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "Vector Differentiation ,Gradient, Divergence, Curl",
+         "subject": "PHYSICS",
+         "topic_name": "VECTOR CALCULUS",
+         "toughness": "EASY"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "Fast",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Mathematical Physics",
+         "concept_html": "",
+         "date": "4/23/2024, 4:43:11 PM",
+         "ocrQuestion": "Given: \\(\\varphi(x, y, z)=m x^{2}+y+z, \\vec{a}=2 \\hat{i}-3 \\hat{j}+\\hat{k}\\). If \\(\\vec{\\nabla} \\varphi\\) at the point \\(\\mathrm{P}(1,0,1)\\) is perpendicular to \\(\\vec{a}\\), then \\(m\\) is equal to\n(a) 0\n(b) \\(3 / 2\\)\n(c) \\(1 / 2\\)\n(d) \\(-5 / 2\\)",
+         "onlyq_text": "<p>Given: \\(\\varphi(x, y, z)=m x^{2}+y+z, \\vec{a}=2 \\hat{i}-3 \\hat{j}+\\hat{k}\\). If \\(\\vec{\\nabla} \\varphi\\) at the point \\(\\mathrm{P}(1,0,1)\\) is perpendicular to \\(\\vec{a}\\), then \\(m\\) is equal to</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(a) 0</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(b) \\(3 / 2\\)</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(c) \\(1 / 2\\)</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(d) \\(-5 / 2\\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_html": {
+            "solution": "<p>\\[ \\begin{array}{l} \\vec{\\nabla} \\phi=2 m x \\hat{\\imath}+\\hat{\\jmath}+\\hat{k} \\\\ \\left.\\vec{\\nabla} \\phi\\right|_{(1,0,1)}=2 m \\hat{\\imath}+\\hat{\\jmath}+\\hat{k} \\end{array} \\]</p><p>Given \\(\\vec{\\nabla} \\phi\\) is perpendicular to \\(\\vec{a}\\)</p><p>\\[ \\begin{array}{l} \\Rightarrow 4 m-3+1=0 \\\\ \\Rightarrow m=\\frac{1}{2} \\end{array} \\]&nbsp;</p>",
+            "solved_by": "sai"
+         },
+         "sol_text": "",
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "Vector Differentiation ,Gradient, Divergence, Curl",
+         "subject": "PHYSICS",
+         "topic_name": "VECTOR CALCULUS",
+         "toughness": "EASY"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Fast",
+            "MultiConcept",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Mathematical Physics",
+         "concept_html": "",
+         "date": "4/23/2024, 4:57:37 PM",
+         "ocrQuestion": "The temperatu of the points in space is given by \\(T(x, y, z)=x^{2}+y^{2}-z\\). A mosquito located at \\((1,1,2)\\) desires to fly in such a direction that it will get warm as soon as possible. The mosquito should move in the direction of\n(a) \\(\\frac{2 \\hat{i}+2 \\hat{j}-\\hat{k}}{3}\\)\n(b) \\(\\frac{2 \\hat{i}-2 \\hat{j}+\\hat{k}}{3}\\)\n(c) \\(\\frac{\\hat{i}-2 \\hat{j}+\\hat{k}}{\\sqrt{6}}\\)\n(d) \\(\\frac{\\hat{i}-2 \\hat{j}-\\hat{k}}{\\sqrt{6}}\\)",
+         "onlyq_text": "<p>The temperatu of the points in space is given by \\(T(x, y, z)=x^{2}+y^{2}-z\\). A mosquito located at \\((1,1,2)\\) desires to fly in such a direction that it will get warm as soon as possible. The mosquito should move in the direction of</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(a) \\(\\frac{2 \\hat{i}+2 \\hat{j}-\\hat{k}}{3}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(b) \\(\\frac{2 \\hat{i}-2 \\hat{j}+\\hat{k}}{3}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(c) \\(\\frac{\\hat{i}-2 \\hat{j}+\\hat{k}}{\\sqrt{6}}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(d) \\(\\frac{\\hat{i}-2 \\hat{j}-\\hat{k}}{\\sqrt{6}}\\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_html": {
+            "solution": "<p>The temperature function is given by \\(T=x^{2}+y^{2}-z\\)</p><p>mosquito will get warm as soon as in the direction of \\(\\vec{\\nabla} T\\)</p><p>\\[ \\begin{aligned} \\therefore &amp; \\vec{\\nabla} T=2 x \\hat{i}+2 y \\hat{j}-\\hat{k} \\\\ &amp; \\left.\\vec{\\nabla} T\\right|_{(1,1,2)}=2 \\hat{i}+2 \\hat{j}-\\hat{k} \\end{aligned} \\]</p><p>So the mosquito should move in the direction of \\(\\frac{\\vec{\\nabla} T}{|\\vec{\\nabla} T|}=\\frac{2 \\hat{i}+2 \\hat{j}-\\hat{k}}{3}\\)</p>",
+            "solved_by": "sai"
+         },
+         "sol_text": "",
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "Vector Differentiation ,Gradient, Divergence, Curl",
+         "subject": "PHYSICS",
+         "topic_name": "VECTOR CALCULUS",
+         "toughness": "EASY"
       }
    ]
 }
