@@ -922,6 +922,117 @@
          "subject": "PHYSICS",
          "topic_name": "VECTOR CALCULUS",
          "toughness": "EASY"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Fast",
+            "MultiConcept",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Mathematical Physics",
+         "concept_html": "<p><strong><u>Gradient:</u></strong></p><p>For a scalar function \\(\\phi(x, y, z)\\), the gradient is the maximum rate of change which is &nbsp;given by-</p><p>\\[ \\operatorname{grad} \\phi=\\nabla \\phi \\Rightarrow\\left(\\hat{i} \\frac{\\partial}{\\partial x}+\\hat{j} \\frac{\\partial}{\\partial y}+\\hat{k} \\frac{\\partial}{\\partial z}\\right) \\phi \\]</p><p><strong><u>Directional derivative: </u></strong>It gives the rate of change of scalar point function in a particular direction. The<i><u> maximum magnitude of the directional derivative is the magnitude of the gradient.</u></i></p>",
+         "date": "4/23/2024, 5:15:04 PM",
+         "ocrQuestion": "The maximum value of direction derivative of \\(\\varphi=x^{2}-2 y^{2}+4 z^{2}\\) at the point \\((1,1,-1)\\) is equal to\n(a) \\(6 \\sqrt{7 / 3}\\)\n(b) \\(\\sqrt{7 / 3}\\)\n(c) 84\n(d) \\(3 \\sqrt{3 / 7}\\)",
+         "onlyq_text": "<p>The maximum value of direction derivative of \\(\\varphi=x^{2}-2 y^{2}+4 z^{2}\\) at the point \\((1,1,-1)\\) is equal to</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(a) \\(6 \\sqrt{7 / 3}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(b) \\(\\sqrt{7 / 3}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(c) 84</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(d) \\(3 \\sqrt{3 / 7}\\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_html": {
+            "solution": "<p>the maximum value of dirertional derivative is \\(|\\vec{\\nabla} \\phi|\\)</p><p>\\[ \\begin{array}{l} \\vec{\\nabla} \\phi=2 x \\hat{\\imath}-4 y \\hat{\\jmath}+8 z \\hat{k} \\\\ \\left.\\vec{\\nabla} \\phi\\right|_{(1,1,-1)}=2 \\hat{\\imath}-4 \\hat{\\jmath}-8 \\hat{k} \\\\ |\\vec{\\nabla} \\phi|=\\sqrt{4+16+64}=\\sqrt{84}=6 \\sqrt{\\frac{7}{3}} \\\\ \\end{array} \\]</p>",
+            "solved_by": "sai"
+         },
+         "sol_text": "",
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "Vector Differentiation ,Gradient, Divergence, Curl",
+         "subject": "PHYSICS",
+         "topic_name": "VECTOR CALCULUS",
+         "toughness": "EASY"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "MultiConcept",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Mathematical Physics",
+         "concept_html": "",
+         "date": "4/23/2024, 5:30:57 PM",
+         "ocrQuestion": "The directions along which there is no change in the value of the function \\(f(x, y)=e^{\\left(x^{2}+x y\\right)}\\) at the point \\((3,-2)\\) are equal to\n(a) \\(0.6 \\hat{i}-0.8 \\hat{j},-0.6 \\hat{i}+0.8 \\hat{j}\\)\n(b) \\(-0.6 \\hat{i}-0.8 \\hat{j}, 0.6 \\hat{i}+0.8 \\hat{j}\\)\n(c) \\(-0.6 \\hat{i}-0.8 \\hat{j}, 0.6 \\hat{i}-0.8 \\hat{j}\\)\n(d) \\(0.6 \\hat{i}+0.8 \\hat{j},-0.6 \\hat{i}+0.8 \\hat{j}\\)",
+         "onlyq_text": "<p>The directions along which there is no change in the value of the function \\(f(x, y)=e^{\\left(x^{2}+x y\\right)}\\) at the point \\((3,-2)\\) are equal to</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(a) \\(0.6 \\hat{i}-0.8 \\hat{j},-0.6 \\hat{i}+0.8 \\hat{j}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(b) \\(-0.6 \\hat{i}-0.8 \\hat{j}, 0.6 \\hat{i}+0.8 \\hat{j}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(c) \\(-0.6 \\hat{i}-0.8 \\hat{j}, 0.6 \\hat{i}-0.8 \\hat{j}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(d) \\(0.6 \\hat{i}+0.8 \\hat{j},-0.6 \\hat{i}+0.8 \\hat{j}\\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_html": {
+            "solution": "<p>\\[ \\begin{array}{l} f(x)=e^{\\left(x^{2}+x y\\right)} \\\\ \\vec{\\nabla} f=e^{\\left(x^{2}+x y\\right)}(2 x+y) \\hat{\\imath}+e^{\\left(x^{2}+x y\\right)} x \\hat{\\jmath} \\\\ \\left.\\vec{\\nabla} f\\right|_{(3,-2)}=e^{3}(4 \\hat{\\imath}+3 \\hat{\\jmath}) \\end{array} \\]</p><p>the direction which is perpendicular to \\(\\vec{\\nabla} f\\) is that direction along which there is no change in the value of the function. <i><u>By looking at signs of the vectors </u></i>we can easily recognize the vectors which are perpendicular to \\(\\vec{\\nabla} f\\). only the vectors in option (a) are perpendicular. (Dot product is zero)</p>",
+            "solved_by": "sai"
+         },
+         "sol_text": "",
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "Vector Differentiation ,Gradient, Divergence, Curl",
+         "subject": "PHYSICS",
+         "topic_name": "VECTOR CALCULUS",
+         "toughness": "MEDIUM"
       }
    ]
 }
