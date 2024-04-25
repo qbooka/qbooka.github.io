@@ -1,950 +1,980 @@
 {
-    "questions": [
+  "questions": [
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 5:01:34 PM",
+      "ocrQuestion": "Which of the following parameters does not characterize the thermodynamic state of matter?\n(a) Work\n(b) Pressure\n(c) Temperature\n(d) Volume",
+      "onlyq_text": "<p>Which of the following parameters does not characterize the thermodynamic state of matter?</p>",
+      "option_hindi": [],
+      "options": [
         {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 5:01:34 PM",
-            "ocrQuestion": "Which of the following parameters does not characterize the thermodynamic state of matter?\n(a) Work\n(b) Pressure\n(c) Temperature\n(d) Volume",
-            "onlyq_text": "<p>Which of the following parameters does not characterize the thermodynamic state of matter?</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) Work</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) Pressure</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) Temperature</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) Volume</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "EASY"
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) Work</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 5:02:10 PM",
-            "ocrQuestion": "The zeroth law of thermodynamics\n(a) Gives a fundamental limitation of the efficiency of a heat engine\n(b) Deals with thermal equilibrium leading to the concept of temperature\n(c) Is a direct consequence of the general law of conservation of energy\n(d) Implies that the co-efficient of performance of a refrigerator can never be infinite",
-            "onlyq_text": "<p>The zeroth law of thermodynamics</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) Gives a fundamental limitation of the efficiency of a heat engine</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) Deals with thermal equilibrium leading to the concept of temperature</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) Is a direct consequence of the general law of conservation of energy</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) Implies that the co-efficient of performance of a refrigerator can never be infinite</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "EASY"
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) Pressure</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 5:06:57 PM",
-            "ocrQuestion": "An ideal gas has initial volume \\( V \\), pressure \\( P \\). In doubling its volume, the minimum work will be done in which of the following process?\n(a) Isobaric process\n(b) Isothermal process\n(c) Adiabatic process\n(d) Same in all given processes.",
-            "onlyq_text": "<p>An ideal gas has initial volume \\( V \\), pressure \\( P \\). In doubling its volume, the minimum work will be done in which of the following process?</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) Isobaric process</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) Isothermal process</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) Adiabatic process</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) Same in all given processes.</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "EASY"
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) Temperature</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 5:07:52 PM",
-            "ocrQuestion": "Two gases separated by an impermeable but movable partition are allowed to freely exchange energy. At equilibrium, the two sides will have the same\n(a) pressure and temperature\n(b) volume and temperature\n(c) pressure and volume\n(d) volume and energy",
-            "onlyq_text": "<p>Two gases separated by an impermeable but movable partition are allowed to freely exchange energy. At equilibrium, the two sides will have the same</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) pressure and temperature</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) volume and temperature</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) pressure and volume</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) volume and energy</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast",
-                "Practice",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 5:24:00 PM",
-            "ocrQuestion": "During free expansion of an ideal gas under adiabatic condition, the internal energy of the gas\n[JAM 2019]\n(a) Decreases\n(b) Initially decreases and then increases\n(c) Increases\n(d) Remains constant",
-            "onlyq_text": "<p>During free expansion of an ideal gas under adiabatic condition, the internal energy of the gas[JAM 2019]</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(a) Decreases</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(b) Initially decreases and then increases</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(c) Increases</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(d) Remains constant</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": [
-                    "IIT-JAM"
-                ]
-            },
-            "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "InterView",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 5:29:02 PM",
-            "ocrQuestion": "There are two systems \\( A \\) and \\( B \\) at temperature \\( T_{1} \\) and \\( T_{2}\\left(T_{2}>T_{1}\\right) \\) respectively. They are kept in thermal equilibrium and their final temperature becomes \\( T_{f} \\). Which of the following option is correct?\n(a) \\( T_{1} < T_{f} < T_{2} \\)\n(b) \\( T_{1}>T_{f} < T_{2} \\)\n(c) \\( T_{f}=\\frac{T_{1}+T_{2}}{2} \\)\n(d) Can't say",
-            "onlyq_text": "<p>There are two systems \\( A \\) and \\( B \\) at temperature \\( T_{1} \\) and \\( T_{2}\\left(T_{2}>T_{1}\\right) \\) respectively. They are kept in thermal equilibrium and their final temperature becomes \\( T_{f} \\). Which of the following option is correct?</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( T_{1} < T_{f} < T_{2} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( T_{1}>T_{f} < T_{2} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( T_{f}=\\frac{T_{1}+T_{2}}{2} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) Can't say</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "MultiConcept",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 5:35:40 PM",
-            "ocrQuestion": "The pressure \\( P \\) of a fluid is related to its density \\( \\rho \\) by the equation of the state \\( P=a \\rho+b \\rho^{2} \\), wher \\( a \\) and \\( b \\) are constants. If the initial volume of th fluid is \\( V_{0} \\), the work done on the system when it compressed so as to increases the number den sity from an initial value of \\( \\rho_{0} \\) to \\( 2 \\rho_{0} \\) is\n(a) \\( 2 \\rho_{0} V_{0} \\)\n(b) \\( \\left(a+b \\rho_{0}\\right) \\rho_{0} V_{0} \\)\n(c) \\( \\left(\\frac{3 a}{2}+\\frac{7 \\rho_{0} b}{3}\\right) \\rho_{0} V_{0} \\)\n(d) \\( \\left(a \\ln 2+b \\rho_{0}\\right) \\rho_{0} V_{0} \\)",
-            "onlyq_text": "<p>The pressure \\( P \\) of a fluid is related to its density \\( \\rho \\) by the equation of the state \\( P=a \\rho+b \\rho^{2} \\), wher \\( a \\) and \\( b \\) are constants. If the initial volume of th fluid is \\( V_{0} \\), the work done on the system when it compressed so as to increases the number den sity from an initial value of \\( \\rho_{0} \\) to \\( 2 \\rho_{0} \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( 2 \\rho_{0} V_{0} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\left(a+b \\rho_{0}\\right) \\rho_{0} V_{0} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\left(\\frac{3 a}{2}+\\frac{7 \\rho_{0} b}{3}\\right) \\rho_{0} V_{0} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\left(a \\ln 2+b \\rho_{0}\\right) \\rho_{0} V_{0} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Memory",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 5:38:55 PM",
-            "ocrQuestion": "Work done by a gas under isothermal change from volume \\( V_{1} \\) to \\( V_{2} \\), which obeys Vander Waal's equation of state \\( \\left(P+\\frac{n^{2} a}{V^{2}}\\right)(V-n b)=n R T \\) is\n(a) \\( n R T \\operatorname{In}\\left(\\frac{V_{2}-n b}{V_{1}-n b}\\right)+a n^{2}\\left(\\frac{V_{1}-V_{2}}{V_{1} V_{2}}\\right) \\)\n(b) \\( n R T \\operatorname{In}\\left(\\frac{V_{2}-n b}{V_{1}-n b}\\right)+a n^{2}\\left(\\frac{V_{2}-V_{1}}{V_{1} V_{2}}\\right) \\)\n(c) \\( n R T \\operatorname{In}\\left(\\frac{V_{1}-n b}{V_{2}-n b}\\right)+a n^{2}\\left(\\frac{V_{2}-V_{1}}{V_{1} V_{2}}\\right) \\)\n(d) \\( n R T \\operatorname{In}\\left(\\frac{V_{1}-n b}{V_{2}-n b}\\right)+a n^{2}\\left(\\frac{V_{1}-V_{2}}{V_{1} V_{2}}\\right) \\)",
-            "onlyq_text": "<p>Work done by a gas under isothermal change from volume \\( V_{1} \\) to \\( V_{2} \\), which obeys Vander Waal's equation of state \\( \\left(P+\\frac{n^{2} a}{V^{2}}\\right)(V-n b)=n R T \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( n R T \\operatorname{In}\\left(\\frac{V_{2}-n b}{V_{1}-n b}\\right)+a n^{2}\\left(\\frac{V_{1}-V_{2}}{V_{1} V_{2}}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( n R T \\operatorname{In}\\left(\\frac{V_{2}-n b}{V_{1}-n b}\\right)+a n^{2}\\left(\\frac{V_{2}-V_{1}}{V_{1} V_{2}}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( n R T \\operatorname{In}\\left(\\frac{V_{1}-n b}{V_{2}-n b}\\right)+a n^{2}\\left(\\frac{V_{2}-V_{1}}{V_{1} V_{2}}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( n R T \\operatorname{In}\\left(\\frac{V_{1}-n b}{V_{2}-n b}\\right)+a n^{2}\\left(\\frac{V_{1}-V_{2}}{V_{1} V_{2}}\\right) \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 5:41:37 PM",
-            "ocrQuestion": "The volume of \\( 1 \\mathrm{~m}^{3} \\) of gas is doubled at atmospheric pressure. The work done at constant pressure will be\n(a) 0\n(b) \\( 10^{5} \\mathrm{cal} \\)\n(c) \\( 10^{5} \\) joule\n(d) \\( 10^{5} \\mathrm{erg} \\)",
-            "onlyq_text": "<p>The volume of \\( 1 \\mathrm{~m}^{3} \\) of gas is doubled at atmospheric pressure. The work done at constant pressure will be</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) 0</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( 10^{5} \\mathrm{cal} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( 10^{5} \\) joule</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( 10^{5} \\mathrm{erg} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Memory",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "Fraction of energy utillised for work \\( =\\frac{2}{f+2} \\)\nfraction of energy utillised for changing internal energy \\( =1-\\frac{2}{f+2} \\)",
-            "date": "3/9/2024, 5:54:10 PM",
-            "ocrQuestion": "When an ideal monoatomic gas is heated at constant pressure then what fraction of heat given is used to increase internal energy of gas?\n(a) \\( \\frac{2}{5} \\)\n(b) \\( \\frac{3}{5} \\)\n(c) \\( \\frac{5}{3} \\)\n(d) \\( \\frac{3}{2} \\)",
-            "onlyq_text": "<p>When an ideal monoatomic gas is heated at constant pressure then what fraction of heat given is used to increase internal energy of gas?</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\frac{2}{5} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{3}{5} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\frac{5}{3} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{3}{2} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Conceptual",
-                "Fast",
-                "ForJEE",
-                "ForNEET",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 5:59:43 PM",
-            "ocrQuestion": "For any process, the second law of thermodynamic requires that the change of entropy of the universe be\n(a) positive only\n(b) positive or zero\n(c) zero only\n(d) negative or zero",
-            "onlyq_text": "<p>For any process, the second law of thermodynamic requires that the change of entropy of the universe be</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) positive only</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) positive or zero</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) zero only</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) negative or zero</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 6:01:07 PM",
-            "ocrQuestion": "Which of the following integral depends only on the initial and final states of a thermo dynamic system (i.e., independent of the path of transformation)?\n[JUNE 2009]\n(a) \\( \\int P d V \\)\n(b) \\( \\int d Q \\)\n(c) \\( \\int \\frac{d Q}{T} \\)\n(d) \\( \\int T^{2} d Q \\)",
-            "onlyq_text": "<p>Which of the following integral depends only on the initial and final states of a thermo dynamic system (i.e., independent of the path of transformation)?[JUNE 2009]</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\int P d V \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\int d Q \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\int \\frac{d Q}{T} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\int T^{2} d Q \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": [
-                    "CSIR-NET"
-                ]
-            },
-            "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 6:06:49 PM",
-            "ocrQuestion": "At very low temperatures the heat capacity of crystals is equal to \\( C=a T^{3} \\), where ' \\( \\mathrm{a} \\) ' is a constant . The entropy of a crystal as a function of temperature in this temperature interval is\n(a) \\( 3 a T+ \\) constant\n(b) \\( 3 a T^{3} \\)\n(c) \\( \\frac{a T^{3}}{3}+ \\) constant\n(d) \\( \\frac{a T^{3}}{3} \\)",
-            "onlyq_text": "<p>At very low temperatures the heat capacity of crystals is equal to \\( C=a T^{3} \\), where ' \\( \\mathrm{a} \\) ' is a constant . The entropy of a crystal as a function of temperature in this temperature interval is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( 3 a T+ \\) constant</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( 3 a T^{3} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\frac{a T^{3}}{3}+ \\) constant</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{a T^{3}}{3} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "\\( \\begin{array}{l}C=\\frac{d Q}{d T} \\quad(\\therefore C=\\text { Heat Capacity) } \\\\ \\Rightarrow d Q=c d T \\\\ S=\\int \\frac{d Q}{T}=\\int c \\frac{d T}{T} \\\\ =a \\int T^{2} d T \\\\ S=\\frac{a T^{3}}{3}+c \\\\\\end{array} \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 6:14:23 PM",
-            "ocrQuestion": "The value of entropy at absolute zero of temperature would be\n[JAM 2005]\n(a) Zero for all the materials.\n(b) Finite for all the materials.\n(c) Zero for some materials and non-zero for others.\n(d) Unpredictable for any material.",
-            "onlyq_text": "<p>The value of entropy at absolute zero of temperature would be[JAM 2005]</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) Zero for all the materials.</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) Finite for all the materials.</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) Zero for some materials and non-zero for others.</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) Unpredictable for any material.</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Sol. According to the third law of thermodynamics - \\\"The entropy of any system vanishes at the absolute zero temperature\\\"\\[\\lim _{\\mathrm{T} \\rightarrow 0} \\mathrm{~S}=0\\]And according to Nernst's heat theorem: \\\"Any entropy changes in an isotherm at reversible process approach zero as the temperature approaches zero\\\".\\[\\lim _{\\mathrm{T} \\rightarrow 0} \\Delta \\mathrm{S}=0\\]For an example, in crystal of \\( \\mathrm{CO} \\) has finite entropy at absolute zero temperature.",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": [
-                    "IIT-JAM"
-                ]
-            },
-            "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/10/2024, 8:13:15 AM",
-            "ocrQuestion": "Experimental measurment of heat capacity per mole of aluminium at low temperature shows that the data can be fitted to the formula, \\( C_{V}=a T+b T^{3} \\) where \\( a=0.00135 J^{-2} \\mathrm{~mole}^{-1} \\), \\( b=2.48 \\times 10^{-5} \\mathrm{JK}^{-4} \\mathrm{~mole}^{-1} \\) and \\( T \\) is the temperature in Kelvin. The entropy of a mole of aluminium at such temperature is given by the formula is\n[JAM 2007]\n(a) \\( a T+\\frac{b}{3} T^{3}+c \\), where \\( c>0 \\) is a constant.\n(b) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3}+c \\), where \\( c>0 \\) is a constant\n(c) \\( a T+\\frac{b}{3} T^{3} \\)\n(d) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3} \\)",
-            "onlyq_text": "<p>Experimental measurment of heat capacity per mole of aluminium at low temperature shows that the data can be fitted to the formula, \\( C_{V}=a T+b T^{3} \\) where \\( a=0.00135 J^{-2} \\mathrm{~mole}^{-1} \\), \\( b=2.48 \\times 10^{-5} \\mathrm{JK}^{-4} \\mathrm{~mole}^{-1} \\) and \\( T \\) is the temperature in Kelvin. The entropy of a mole of aluminium at such temperature is given by the formula is[JAM 2007]</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( a T+\\frac{b}{3} T^{3}+c \\), where \\( c>0 \\) is a constant.</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3}+c \\), where \\( c>0 \\) is a constant</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( a T+\\frac{b}{3} T^{3} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Change in entropy \\( \\quad \\Delta \\mathrm{s}=\\int \\frac{\\mathrm{dQ}}{\\mathrm{T}}=\\int \\frac{\\mathrm{C}_{\\mathrm{V}} \\mathrm{dT}}{\\mathrm{T}}=\\int\\left(\\mathrm{a}+\\mathrm{bT}^{2}\\right) \\mathrm{dT}=\\mathrm{aT}+\\frac{\\mathrm{b}}{3} \\mathrm{~T}^{3}+\\mathrm{C} \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": [
-                    "IIT-JAM"
-                ]
-            },
-            "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/10/2024, 8:29:23 AM",
-            "ocrQuestion": "The specific heat at constant volume of the electrons in a metal \\( C_{V}=\\alpha \\) T where ' \\( T \\) ' is the temperature and \\( \\alpha \\) is a constant . The specific entropy is given by\n[IISc 2012]\n(a) \\( k_{B} \\)\n(b) \\( \\sqrt{k_{B} \\alpha T} \\)\n(c) \\( \\alpha T \\)\n(d) \\( \\frac{\\alpha^{2} T^{2}}{k_{B}} \\)",
-            "onlyq_text": "<p>The specific heat at constant volume of the electrons in a metal \\( C_{V}=\\alpha \\) T where ' \\( T \\) ' is the temperature and \\( \\alpha \\) is a constant . The specific entropy is given by[IISc 2012]</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( k_{B} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\sqrt{k_{B} \\alpha T} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\alpha T \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{\\alpha^{2} T^{2}}{k_{B}} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Given \\( \\quad C_{v}=\\alpha T \\)we know, \\( \\quad C_{v}=\\frac{1}{n}\\left(\\frac{\\partial Q}{\\partial T}\\right)_{v} \\) and \\( d Q=T d s \\)\\[\\begin{array}{l}\\Rightarrow C_{v}=\\frac{1}{n} T\\left(\\frac{\\partial S}{\\partial T}\\right)_{v} \\\\\\Rightarrow \\alpha T=\\frac{T}{n}\\left(\\frac{\\partial S}{\\partial T}\\right)_{v}\\end{array}\\]for specific entropy\\[\\begin{aligned}\\int d s & =\\int \\alpha d T \\\\s & =\\alpha T\\end{aligned}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": [
-                    "IISC"
-                ]
-            },
-            "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/10/2024, 2:48:46 PM",
-            "ocrQuestion": "In a cyrogenic experiment, heat is supplied to a sample at a constant rate of 0.01 watts. The entropy of the sample increases with time as shown in the table as\n\\begin{tabular}{lllllll} \nTime & \\( : \\) & 400 & 600 & 800 & 1000 & \\( (\\mathrm{see}) \\) \\\\\nEntropy & \\( : \\) & 3.00 & 3.20 & 3.40 & 3.60 & \\( (\\mathrm{~J} / \\mathrm{K}) \\)\n\\end{tabular}\n\nThe temperature of the sample is\n(a) \\( 10 \\mathrm{~K} \\)\n(b) \\( 12 \\mathrm{~K} \\)\n(c) \\( 8 \\mathrm{~K} \\)\n(d) \\( 9 \\mathrm{~K} \\)",
-            "onlyq_text": "<p>In a cyrogenic experiment, heat is supplied to a sample at a constant rate of 0.01 watts. The entropy of the sample increases with time as shown in the table as\\begin{array}{lllllll} Time &  :  & 400 & 600 & 800 & 1000 &  (\\mathrm{see})  \\\\Entropy &  :  & 3.00 & 3.20 & 3.40 & 3.60 &  (\\mathrm{~J} / \\mathrm{K}) \\end{array}The temperature of the sample is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( 10 \\mathrm{~K} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( 12 \\mathrm{~K} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( 8 \\mathrm{~K} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( 9 \\mathrm{~K} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Power \\( (P)=0.01 \\) wattsfrom the dato given\\[\\frac{\\Delta s}{\\Delta t}=\\frac{0.20}{200} \\frac{\\mathrm{J}}{\\mathrm{ksec}}\\]Now \\( P=\\frac{d Q}{d t}=T \\frac{d s}{d t} \\)\\[\\begin{aligned}\\Rightarrow 0.01 & =T \\times \\frac{0.20}{200} \\\\\\Rightarrow \\quad T & =200 \\times \\frac{0.01}{0.20} \\mathrm{~K} \\\\\\Rightarrow T & =10 \\mathrm{~K}\\end{aligned}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Thermodynamics & Statistical Mechanics",
-            "concept_html": "",
-            "date": "3/11/2024, 10:25:12 AM",
-            "ocrQuestion": "The molar specific heat of a gas as given from the kinetic theory is \\( \\frac{5}{2} R \\). If it is not specified whether it is \\( C_{p} \\) or \\( C_{v} \\), one could conclude that the molecules of the gas\n(A) are definitely monatomic\n(B) are definitely rigid diatomic\n(C) are definitely non-rigid diatomic\n(D) can be monatomic or rigid diatomic",
-            "onlyq_text": "<p>The molar specific heat of a gas as given from the kinetic theory is \\( \\frac{5}{2} R \\). If it is not specified whether it is \\( C_{p} \\) or \\( C_{v} \\), one could conclude that the molecules of the gas</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(A) are definitely monatomic</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(B) are definitely rigid diatomic</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(C) are definitely non-rigid diatomic</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(D) can be monatomic or rigid diatomic</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Sol. We know, the specific heat at constant volume of a gas is given by\\[\\mathrm{C}_{\\mathrm{V}}=\\left(\\frac{\\mathrm{d}}{\\mathrm{dT}} \\overrightarrow{\\mathrm{u}}\\right)_{\\mathrm{V}}\\]and \\( \\mathrm{C}_{\\mathrm{P}}-\\mathrm{C}_{\\mathrm{V}}=\\mathrm{R} \\)where, \\( \\overrightarrow{\\mathrm{u}} \\) is the average energy.According to the kinetic theory of gas,\\( \\overrightarrow{\\mathrm{u}}=\\frac{3}{2} \\mathrm{RT} \\) for monoatomic gas.\\( \\overrightarrow{\\mathrm{u}}=\\frac{6}{2} \\mathrm{RT}=3 \\mathrm{RT} \\)\\( \\overrightarrow{\\mathrm{u}}=\\frac{5}{2} \\mathrm{RT} \\)for non rigid diatomic gas.for rigid diatomic gas.For monoatomic,\\[\\mathrm{C}_{\\mathrm{V}}=\\frac{3}{2} \\mathrm{R} \\text { and } \\mathrm{C}_{\\mathrm{P}}=\\frac{5}{2} \\mathrm{R}\\]For rigid diatomic,\\[\\mathrm{C}_{\\mathrm{V}}=\\frac{5}{2} \\mathrm{R} \\text { and } \\mathrm{C}_{\\mathrm{P}}=\\frac{7}{2} \\mathrm{R}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": [
-                    "IIT-JAM"
-                ]
-            },
-            "sub_topic_name": "THERMODYNAMICS POTENTIALS AND MEXWELL\u2019S RELATION",
-            "subject": "PHYSICS",
-            "topic_name": "THERMODYNAMICS",
-            "toughness": "MEDIUM"
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) Volume</p>"
         }
-    ]
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 5:02:10 PM",
+      "ocrQuestion": "The zeroth law of thermodynamics\n(a) Gives a fundamental limitation of the efficiency of a heat engine\n(b) Deals with thermal equilibrium leading to the concept of temperature\n(c) Is a direct consequence of the general law of conservation of energy\n(d) Implies that the co-efficient of performance of a refrigerator can never be infinite",
+      "onlyq_text": "<p>The zeroth law of thermodynamics</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) Gives a fundamental limitation of the efficiency of a heat engine</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) Deals with thermal equilibrium leading to the concept of temperature</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) Is a direct consequence of the general law of conservation of energy</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) Implies that the co-efficient of performance of a refrigerator can never be infinite</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 5:06:57 PM",
+      "ocrQuestion": "An ideal gas has initial volume \\( V \\), pressure \\( P \\). In doubling its volume, the minimum work will be done in which of the following process?\n(a) Isobaric process\n(b) Isothermal process\n(c) Adiabatic process\n(d) Same in all given processes.",
+      "onlyq_text": "<p>An ideal gas has initial volume \\( V \\), pressure \\( P \\). In doubling its volume, the minimum work will be done in which of the following process?</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) Isobaric process</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) Isothermal process</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) Adiabatic process</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) Same in all given processes.</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 5:07:52 PM",
+      "ocrQuestion": "Two gases separated by an impermeable but movable partition are allowed to freely exchange energy. At equilibrium, the two sides will have the same\n(a) pressure and temperature\n(b) volume and temperature\n(c) pressure and volume\n(d) volume and energy",
+      "onlyq_text": "<p>Two gases separated by an impermeable but movable partition are allowed to freely exchange energy. At equilibrium, the two sides will have the same</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) pressure and temperature</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) volume and temperature</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) pressure and volume</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) volume and energy</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast",
+        "Practice",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 5:24:00 PM",
+      "ocrQuestion": "During free expansion of an ideal gas under adiabatic condition, the internal energy of the gas\n[JAM 2019]\n(a) Decreases\n(b) Initially decreases and then increases\n(c) Increases\n(d) Remains constant",
+      "onlyq_text": "<p>During free expansion of an ideal gas under adiabatic condition, the internal energy of the gas[JAM 2019]</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(a) Decreases</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(b) Initially decreases and then increases</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(c) Increases</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(d) Remains constant</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": [
+          "IIT-JAM"
+        ]
+      },
+      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "InterView",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 5:29:02 PM",
+      "ocrQuestion": "There are two systems \\( A \\) and \\( B \\) at temperature \\( T_{1} \\) and \\( T_{2}\\left(T_{2}>T_{1}\\right) \\) respectively. They are kept in thermal equilibrium and their final temperature becomes \\( T_{f} \\). Which of the following option is correct?\n(a) \\( T_{1} < T_{f} < T_{2} \\)\n(b) \\( T_{1}>T_{f} < T_{2} \\)\n(c) \\( T_{f}=\\frac{T_{1}+T_{2}}{2} \\)\n(d) Can't say",
+      "onlyq_text": "<p>There are two systems \\( A \\) and \\( B \\) at temperature \\( T_{1} \\) and \\( T_{2}\\left(T_{2}>T_{1}\\right) \\) respectively. They are kept in thermal equilibrium and their final temperature becomes \\( T_{f} \\). Which of the following option is correct?</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) \\( T_{1} < T_{f} < T_{2} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) \\( T_{1}>T_{f} < T_{2} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) \\( T_{f}=\\frac{T_{1}+T_{2}}{2} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) Can't say</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "MultiConcept",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 5:35:40 PM",
+      "ocrQuestion": "The pressure \\( P \\) of a fluid is related to its density \\( \\rho \\) by the equation of the state \\( P=a \\rho+b \\rho^{2} \\), wher \\( a \\) and \\( b \\) are constants. If the initial volume of th fluid is \\( V_{0} \\), the work done on the system when it compressed so as to increases the number den sity from an initial value of \\( \\rho_{0} \\) to \\( 2 \\rho_{0} \\) is\n(a) \\( 2 \\rho_{0} V_{0} \\)\n(b) \\( \\left(a+b \\rho_{0}\\right) \\rho_{0} V_{0} \\)\n(c) \\( \\left(\\frac{3 a}{2}+\\frac{7 \\rho_{0} b}{3}\\right) \\rho_{0} V_{0} \\)\n(d) \\( \\left(a \\ln 2+b \\rho_{0}\\right) \\rho_{0} V_{0} \\)",
+      "onlyq_text": "<p>The pressure \\( P \\) of a fluid is related to its density \\( \\rho \\) by the equation of the state \\( P=a \\rho+b \\rho^{2} \\), wher \\( a \\) and \\( b \\) are constants. If the initial volume of th fluid is \\( V_{0} \\), the work done on the system when it compressed so as to increases the number den sity from an initial value of \\( \\rho_{0} \\) to \\( 2 \\rho_{0} \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(a) \\( 2 \\rho_{0} V_{0} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\left(a+b \\rho_{0}\\right) \\rho_{0} V_{0} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\left(\\frac{3 a}{2}+\\frac{7 \\rho_{0} b}{3}\\right) \\rho_{0} V_{0} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\left(a \\ln 2+b \\rho_{0}\\right) \\rho_{0} V_{0} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Memory",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 5:38:55 PM",
+      "ocrQuestion": "Work done by a gas under isothermal change from volume \\( V_{1} \\) to \\( V_{2} \\), which obeys Vander Waal's equation of state \\( \\left(P+\\frac{n^{2} a}{V^{2}}\\right)(V-n b)=n R T \\) is\n(a) \\( n R T \\operatorname{In}\\left(\\frac{V_{2}-n b}{V_{1}-n b}\\right)+a n^{2}\\left(\\frac{V_{1}-V_{2}}{V_{1} V_{2}}\\right) \\)\n(b) \\( n R T \\operatorname{In}\\left(\\frac{V_{2}-n b}{V_{1}-n b}\\right)+a n^{2}\\left(\\frac{V_{2}-V_{1}}{V_{1} V_{2}}\\right) \\)\n(c) \\( n R T \\operatorname{In}\\left(\\frac{V_{1}-n b}{V_{2}-n b}\\right)+a n^{2}\\left(\\frac{V_{2}-V_{1}}{V_{1} V_{2}}\\right) \\)\n(d) \\( n R T \\operatorname{In}\\left(\\frac{V_{1}-n b}{V_{2}-n b}\\right)+a n^{2}\\left(\\frac{V_{1}-V_{2}}{V_{1} V_{2}}\\right) \\)",
+      "onlyq_text": "<p>Work done by a gas under isothermal change from volume \\( V_{1} \\) to \\( V_{2} \\), which obeys Vander Waal's equation of state \\( \\left(P+\\frac{n^{2} a}{V^{2}}\\right)(V-n b)=n R T \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) \\( n R T \\operatorname{In}\\left(\\frac{V_{2}-n b}{V_{1}-n b}\\right)+a n^{2}\\left(\\frac{V_{1}-V_{2}}{V_{1} V_{2}}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) \\( n R T \\operatorname{In}\\left(\\frac{V_{2}-n b}{V_{1}-n b}\\right)+a n^{2}\\left(\\frac{V_{2}-V_{1}}{V_{1} V_{2}}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) \\( n R T \\operatorname{In}\\left(\\frac{V_{1}-n b}{V_{2}-n b}\\right)+a n^{2}\\left(\\frac{V_{2}-V_{1}}{V_{1} V_{2}}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) \\( n R T \\operatorname{In}\\left(\\frac{V_{1}-n b}{V_{2}-n b}\\right)+a n^{2}\\left(\\frac{V_{1}-V_{2}}{V_{1} V_{2}}\\right) \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 5:41:37 PM",
+      "ocrQuestion": "The volume of \\( 1 \\mathrm{~m}^{3} \\) of gas is doubled at atmospheric pressure. The work done at constant pressure will be\n(a) 0\n(b) \\( 10^{5} \\mathrm{cal} \\)\n(c) \\( 10^{5} \\) joule\n(d) \\( 10^{5} \\mathrm{erg} \\)",
+      "onlyq_text": "<p>The volume of \\( 1 \\mathrm{~m}^{3} \\) of gas is doubled at atmospheric pressure. The work done at constant pressure will be</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) 0</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) \\( 10^{5} \\mathrm{cal} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) \\( 10^{5} \\) joule</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) \\( 10^{5} \\mathrm{erg} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Memory",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "Fraction of energy utillised for work \\( =\\frac{2}{f+2} \\)\nfraction of energy utillised for changing internal energy \\( =1-\\frac{2}{f+2} \\)",
+      "date": "3/9/2024, 5:54:10 PM",
+      "ocrQuestion": "When an ideal monoatomic gas is heated at constant pressure then what fraction of heat given is used to increase internal energy of gas?\n(a) \\( \\frac{2}{5} \\)\n(b) \\( \\frac{3}{5} \\)\n(c) \\( \\frac{5}{3} \\)\n(d) \\( \\frac{3}{2} \\)",
+      "onlyq_text": "<p>When an ideal monoatomic gas is heated at constant pressure then what fraction of heat given is used to increase internal energy of gas?</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\frac{2}{5} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{3}{5} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\frac{5}{3} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{3}{2} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Conceptual",
+        "Fast",
+        "ForJEE",
+        "ForNEET",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 5:59:43 PM",
+      "ocrQuestion": "For any process, the second law of thermodynamic requires that the change of entropy of the universe be\n(a) positive only\n(b) positive or zero\n(c) zero only\n(d) negative or zero",
+      "onlyq_text": "<p>For any process, the second law of thermodynamic requires that the change of entropy of the universe be</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) positive only</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) positive or zero</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) zero only</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) negative or zero</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 6:01:07 PM",
+      "ocrQuestion": "Which of the following integral depends only on the initial and final states of a thermo dynamic system (i.e., independent of the path of transformation)?\n[JUNE 2009]\n(a) \\( \\int P d V \\)\n(b) \\( \\int d Q \\)\n(c) \\( \\int \\frac{d Q}{T} \\)\n(d) \\( \\int T^{2} d Q \\)",
+      "onlyq_text": "<p>Which of the following integral depends only on the initial and final states of a thermo dynamic system (i.e., independent of the path of transformation)?[JUNE 2009]</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\int P d V \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\int d Q \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\int \\frac{d Q}{T} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\int T^{2} d Q \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": [
+          "CSIR-NET"
+        ]
+      },
+      "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 6:06:49 PM",
+      "ocrQuestion": "At very low temperatures the heat capacity of crystals is equal to \\( C=a T^{3} \\), where ' \\( \\mathrm{a} \\) ' is a constant . The entropy of a crystal as a function of temperature in this temperature interval is\n(a) \\( 3 a T+ \\) constant\n(b) \\( 3 a T^{3} \\)\n(c) \\( \\frac{a T^{3}}{3}+ \\) constant\n(d) \\( \\frac{a T^{3}}{3} \\)",
+      "onlyq_text": "<p>At very low temperatures the heat capacity of crystals is equal to \\( C=a T^{3} \\), where ' \\( \\mathrm{a} \\) ' is a constant . The entropy of a crystal as a function of temperature in this temperature interval is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) \\( 3 a T+ \\) constant</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) \\( 3 a T^{3} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\frac{a T^{3}}{3}+ \\) constant</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{a T^{3}}{3} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "\\( \\begin{array}{l}C=\\frac{d Q}{d T} \\quad(\\therefore C=\\text { Heat Capacity) } \\\\ \\Rightarrow d Q=c d T \\\\ S=\\int \\frac{d Q}{T}=\\int c \\frac{d T}{T} \\\\ =a \\int T^{2} d T \\\\ S=\\frac{a T^{3}}{3}+c \\\\\\end{array} \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 6:14:23 PM",
+      "ocrQuestion": "The value of entropy at absolute zero of temperature would be\n[JAM 2005]\n(a) Zero for all the materials.\n(b) Finite for all the materials.\n(c) Zero for some materials and non-zero for others.\n(d) Unpredictable for any material.",
+      "onlyq_text": "<p>The value of entropy at absolute zero of temperature would be[JAM 2005]</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) Zero for all the materials.</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) Finite for all the materials.</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) Zero for some materials and non-zero for others.</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) Unpredictable for any material.</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": [
+          "IIT-JAM"
+        ]
+      },
+      "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "Sol. According to the third law of thermodynamics - \\\"The entropy of any system vanishes at the absolute zero temperature\\\"\\[\\lim _{\\mathrm{T} \\rightarrow 0} \\mathrm{~S}=0\\]And according to Nernst's heat theorem: \\\"Any entropy changes in an isotherm at reversible process approach zero as the temperature approaches zero\\\".\\[\\lim _{\\mathrm{T} \\rightarrow 0} \\Delta \\mathrm{S}=0\\]For an example, in crystal of \\( \\mathrm{CO} \\) has finite entropy at absolute zero temperature.",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/10/2024, 8:13:15 AM",
+      "ocrQuestion": "Experimental measurment of heat capacity per mole of aluminium at low temperature shows that the data can be fitted to the formula, \\( C_{V}=a T+b T^{3} \\) where \\( a=0.00135 J^{-2} \\mathrm{~mole}^{-1} \\), \\( b=2.48 \\times 10^{-5} \\mathrm{JK}^{-4} \\mathrm{~mole}^{-1} \\) and \\( T \\) is the temperature in Kelvin. The entropy of a mole of aluminium at such temperature is given by the formula is\n[JAM 2007]\n(a) \\( a T+\\frac{b}{3} T^{3}+c \\), where \\( c>0 \\) is a constant.\n(b) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3}+c \\), where \\( c>0 \\) is a constant\n(c) \\( a T+\\frac{b}{3} T^{3} \\)\n(d) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3} \\)",
+      "onlyq_text": "<p>Experimental measurment of heat capacity per mole of aluminium at low temperature shows that the data can be fitted to the formula, \\( C_{V}=a T+b T^{3} \\) where \\( a=0.00135 J^{-2} \\mathrm{~mole}^{-1} \\), \\( b=2.48 \\times 10^{-5} \\mathrm{JK}^{-4} \\mathrm{~mole}^{-1} \\) and \\( T \\) is the temperature in Kelvin. The entropy of a mole of aluminium at such temperature is given by the formula is[JAM 2007]</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) \\( a T+\\frac{b}{3} T^{3}+c \\), where \\( c>0 \\) is a constant.</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3}+c \\), where \\( c>0 \\) is a constant</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) \\( a T+\\frac{b}{3} T^{3} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": [
+          "IIT-JAM"
+        ]
+      },
+      "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "Change in entropy \\( \\quad \\Delta \\mathrm{s}=\\int \\frac{\\mathrm{dQ}}{\\mathrm{T}}=\\int \\frac{\\mathrm{C}_{\\mathrm{V}} \\mathrm{dT}}{\\mathrm{T}}=\\int\\left(\\mathrm{a}+\\mathrm{bT}^{2}\\right) \\mathrm{dT}=\\mathrm{aT}+\\frac{\\mathrm{b}}{3} \\mathrm{~T}^{3}+\\mathrm{C} \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/10/2024, 8:29:23 AM",
+      "ocrQuestion": "The specific heat at constant volume of the electrons in a metal \\( C_{V}=\\alpha \\) T where ' \\( T \\) ' is the temperature and \\( \\alpha \\) is a constant . The specific entropy is given by\n[IISc 2012]\n(a) \\( k_{B} \\)\n(b) \\( \\sqrt{k_{B} \\alpha T} \\)\n(c) \\( \\alpha T \\)\n(d) \\( \\frac{\\alpha^{2} T^{2}}{k_{B}} \\)",
+      "onlyq_text": "<p>The specific heat at constant volume of the electrons in a metal \\( C_{V}=\\alpha \\) T where ' \\( T \\) ' is the temperature and \\( \\alpha \\) is a constant . The specific entropy is given by[IISc 2012]</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) \\( k_{B} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\sqrt{k_{B} \\alpha T} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\alpha T \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{\\alpha^{2} T^{2}}{k_{B}} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": [
+          "IISC"
+        ]
+      },
+      "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "Given \\( \\quad C_{v}=\\alpha T \\)we know, \\( \\quad C_{v}=\\frac{1}{n}\\left(\\frac{\\partial Q}{\\partial T}\\right)_{v} \\) and \\( d Q=T d s \\)\\[\\begin{array}{l}\\Rightarrow C_{v}=\\frac{1}{n} T\\left(\\frac{\\partial S}{\\partial T}\\right)_{v} \\\\\\Rightarrow \\alpha T=\\frac{T}{n}\\left(\\frac{\\partial S}{\\partial T}\\right)_{v}\\end{array}\\]for specific entropy\\[\\begin{aligned}\\int d s & =\\int \\alpha d T \\\\s & =\\alpha T\\end{aligned}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/10/2024, 2:48:46 PM",
+      "ocrQuestion": "In a cyrogenic experiment, heat is supplied to a sample at a constant rate of 0.01 watts. The entropy of the sample increases with time as shown in the table as\n\\begin{tabular}{lllllll} \nTime & \\( : \\) & 400 & 600 & 800 & 1000 & \\( (\\mathrm{see}) \\) \\\\\nEntropy & \\( : \\) & 3.00 & 3.20 & 3.40 & 3.60 & \\( (\\mathrm{~J} / \\mathrm{K}) \\)\n\\end{tabular}\n\nThe temperature of the sample is\n(a) \\( 10 \\mathrm{~K} \\)\n(b) \\( 12 \\mathrm{~K} \\)\n(c) \\( 8 \\mathrm{~K} \\)\n(d) \\( 9 \\mathrm{~K} \\)",
+      "onlyq_text": "<p>In a cyrogenic experiment, heat is supplied to a sample at a constant rate of 0.01 watts. The entropy of the sample increases with time as shown in the table as\\begin{array}{lllllll} Time &  :  & 400 & 600 & 800 & 1000 &  (\\mathrm{see})  \\\\Entropy &  :  & 3.00 & 3.20 & 3.40 & 3.60 &  (\\mathrm{~J} / \\mathrm{K}) \\end{array}The temperature of the sample is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) \\( 10 \\mathrm{~K} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) \\( 12 \\mathrm{~K} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) \\( 8 \\mathrm{~K} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) \\( 9 \\mathrm{~K} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "Power \\( (P)=0.01 \\) wattsfrom the dato given\\[\\frac{\\Delta s}{\\Delta t}=\\frac{0.20}{200} \\frac{\\mathrm{J}}{\\mathrm{ksec}}\\]Now \\( P=\\frac{d Q}{d t}=T \\frac{d s}{d t} \\)\\[\\begin{aligned}\\Rightarrow 0.01 & =T \\times \\frac{0.20}{200} \\\\\\Rightarrow \\quad T & =200 \\times \\frac{0.01}{0.20} \\mathrm{~K} \\\\\\Rightarrow T & =10 \\mathrm{~K}\\end{aligned}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Thermodynamics & Statistical Mechanics",
+      "concept_html": "",
+      "date": "3/11/2024, 10:25:12 AM",
+      "ocrQuestion": "The molar specific heat of a gas as given from the kinetic theory is \\( \\frac{5}{2} R \\). If it is not specified whether it is \\( C_{p} \\) or \\( C_{v} \\), one could conclude that the molecules of the gas\n(A) are definitely monatomic\n(B) are definitely rigid diatomic\n(C) are definitely non-rigid diatomic\n(D) can be monatomic or rigid diatomic",
+      "onlyq_text": "<p>The molar specific heat of a gas as given from the kinetic theory is \\( \\frac{5}{2} R \\). If it is not specified whether it is \\( C_{p} \\) or \\( C_{v} \\), one could conclude that the molecules of the gas</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(A) are definitely monatomic</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(B) are definitely rigid diatomic</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(C) are definitely non-rigid diatomic</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(D) can be monatomic or rigid diatomic</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": [
+          "IIT-JAM"
+        ]
+      },
+      "sub_topic_name": "THERMODYNAMICS POTENTIALS AND MEXWELL\u2019S RELATION",
+      "subject": "PHYSICS",
+      "topic_name": "THERMODYNAMICS",
+      "toughness": "MEDIUM",
+      "solutions": [
+        {
+          "sol_html": "Sol. We know, the specific heat at constant volume of a gas is given by\\[\\mathrm{C}_{\\mathrm{V}}=\\left(\\frac{\\mathrm{d}}{\\mathrm{dT}} \\overrightarrow{\\mathrm{u}}\\right)_{\\mathrm{V}}\\]and \\( \\mathrm{C}_{\\mathrm{P}}-\\mathrm{C}_{\\mathrm{V}}=\\mathrm{R} \\)where, \\( \\overrightarrow{\\mathrm{u}} \\) is the average energy.According to the kinetic theory of gas,\\( \\overrightarrow{\\mathrm{u}}=\\frac{3}{2} \\mathrm{RT} \\) for monoatomic gas.\\( \\overrightarrow{\\mathrm{u}}=\\frac{6}{2} \\mathrm{RT}=3 \\mathrm{RT} \\)\\( \\overrightarrow{\\mathrm{u}}=\\frac{5}{2} \\mathrm{RT} \\)for non rigid diatomic gas.for rigid diatomic gas.For monoatomic,\\[\\mathrm{C}_{\\mathrm{V}}=\\frac{3}{2} \\mathrm{R} \\text { and } \\mathrm{C}_{\\mathrm{P}}=\\frac{5}{2} \\mathrm{R}\\]For rigid diatomic,\\[\\mathrm{C}_{\\mathrm{V}}=\\frac{5}{2} \\mathrm{R} \\text { and } \\mathrm{C}_{\\mathrm{P}}=\\frac{7}{2} \\mathrm{R}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    }
+  ]
 }

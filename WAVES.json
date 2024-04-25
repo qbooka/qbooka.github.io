@@ -1,1208 +1,1308 @@
 {
-    "questions": [
+  "questions": [
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/6/2024, 11:39:21 PM",
+      "ocrQuestion": "A bomb explodes on the moon. You will hear its sound on earth after:\na. \\( 10 \\mathrm{~min} \\)\nb. 2 hour \\( 18 \\mathrm{~min} \\)\nc. \\( 37 \\mathrm{~min} \\)\nd. never",
+      "onlyq_text": "<p>A bomb explodes on the moon. You will hear its sound on earth after:</p>",
+      "option_hindi": [],
+      "options": [
         {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/6/2024, 11:39:21 PM",
-            "ocrQuestion": "A bomb explodes on the moon. You will hear its sound on earth after:\na. \\( 10 \\mathrm{~min} \\)\nb. 2 hour \\( 18 \\mathrm{~min} \\)\nc. \\( 37 \\mathrm{~min} \\)\nd. never",
-            "onlyq_text": "<p>A bomb explodes on the moon. You will hear its sound on earth after:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( 10 \\mathrm{~min} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>b. 2 hour \\( 18 \\mathrm{~min} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 37 \\mathrm{~min} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>d. never</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Basics Of Wave Propagation",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>a. \\( 10 \\mathrm{~min} \\)</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/6/2024, 11:42:11 PM",
-            "ocrQuestion": "If \\( c_{0} \\) and \\( c \\) denote the sound velocity and root mean square velocity of molecules in a gas, then:\na. \\( c_{0}>c \\)\nb. \\( c_{0}=c \\)\nc. \\( c_{0}=c(\\gamma / 3)^{1 / 2} \\)\nd. \\( c_{0} \\) and \\( c \\) are not related",
-            "onlyq_text": "<p>If \\( c_{0} \\) and \\( c \\) denote the sound velocity and root mean square velocity of molecules in a gas, then:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( c_{0}>c \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( c_{0}=c \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( c_{0}=c(\\gamma / 3)^{1 / 2} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( c_{0} \\) and \\( c \\) are not related</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(c) \\( C_{0}=\\sqrt{\\frac{\\gamma R T}{m}} \\) and \\( C=\\sqrt{\\frac{3 R T}{M}} \\)\\[\\frac{C_{0}}{C}=\\sqrt{\\frac{\\gamma}{3}} \\text { or } C_{0}=\\sqrt{\\frac{\\gamma}{3}} C\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Velocity of Sound",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>b. 2 hour \\( 18 \\mathrm{~min} \\)</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/6/2024, 11:47:46 PM",
-            "ocrQuestion": "A transverse wave is described by the equation \\( y=y_{0} \\sin 2 \\pi\\left(f t-\\frac{x}{\\lambda}\\right) \\). The maximum particle velocity is equal to four times the wave velocity if:\na. \\( \\lambda=\\frac{\\pi y_{0}}{4} \\)\nb. \\( \\lambda=\\frac{\\pi y_{0}}{2} \\)\nc. \\( \\lambda=\\pi y_{0} \\)\nd. \\( \\lambda=2 \\pi y_{0} \\)",
-            "onlyq_text": "<p>A transverse wave is described by the equation \\( y=y_{0} \\sin 2 \\pi\\left(f t-\\frac{x}{\\lambda}\\right) \\). The maximum particle velocity is equal to four times the wave velocity if:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( \\lambda=\\frac{\\pi y_{0}}{4} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( \\lambda=\\frac{\\pi y_{0}}{2} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( \\lambda=\\pi y_{0} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( \\lambda=2 \\pi y_{0} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(b) \\( y=y_{0} \\sin 2 \\pi\\left(f t-\\frac{x}{\\lambda}\\right) \\)Wave velocity \\( v=f_{A} \\)Particle velocity \\( u=\\frac{d y}{d t}=y_{0} \\cdot 2 \\pi f \\cos 2 \\pi\\left(f t-\\frac{\\pi}{\\lambda}\\right) \\)\\[\\begin{array}{l}u_{\\max }=y_{0} \\cdot 2 \\pi f \\\\\\text { Given } u_{\\max }=4 v \\\\y_{0} 2 \\pi f=4 f_{\\lambda} \\Rightarrow \\lambda=\\frac{\\pi y_{0}}{2}\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Wave on a String",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>c. \\( 37 \\mathrm{~min} \\)</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "ForJEE",
-                "ForNEET",
-                "Veriety",
-                "Practice",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/6/2024, 11:55:46 PM",
-            "ocrQuestion": "The amplitude of a wave disturbance propagating along positive \\( X \\)-axis given by \\( y=\\frac{1}{1+x^{2}} \\) at \\( t=0 \\) and \\( y=\\frac{1}{1+(x-2)^{2}} \\) at \\( t=4 \\mathrm{sec} \\) where \\( x \\) and \\( y \\) are in meter. The shape of wave disturbance does not change with time. The velocity of the wave is:\na. \\( 0.5 \\mathrm{~m} / \\mathrm{s} \\)\nb. \\( 1 \\mathrm{~m} / \\mathrm{s} \\)\nc. \\( 2 \\mathrm{~m} / \\mathrm{s} \\)\nd. \\( 4 \\mathrm{~m} / \\mathrm{s} \\)",
-            "onlyq_text": "<p>The amplitude of a wave disturbance propagating along positive \\( X \\)-axis given by \\( y=\\frac{1}{1+x^{2}} \\) at \\( t=0 \\) and \\( y=\\frac{1}{1+(x-2)^{2}} \\) at \\( t=4 \\mathrm{sec} \\) where \\( x \\) and \\( y \\) are in meter. The shape of wave disturbance does not change with time. The velocity of the wave is:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( 0.5 \\mathrm{~m} / \\mathrm{s} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( 1 \\mathrm{~m} / \\mathrm{s} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 2 \\mathrm{~m} / \\mathrm{s} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( 4 \\mathrm{~m} / \\mathrm{s} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "\\( \\begin{array}{l}\\text { (a) } y=\\frac{1}{1+x^{2}} \\text { at } t=0 \\\\ \\text { and } y=\\frac{1}{1+(x-2)^{2}} \\text { at } t=4 \\mathrm{~s} \\\\ v=\\frac{\\Delta x}{\\Delta t}=\\frac{x-(x-2)}{4-0}=\\frac{2}{4}=0.5 \\mathrm{~m} / \\mathrm{s}\\end{array} \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Wave on a String",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "ForJEE",
-                "ForNEET",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/6/2024, 11:58:12 PM",
-            "ocrQuestion": "A string stretched at both ends is under a tension of 100 \\( N \\). If mass of string is \\( 4 \\times 10^{-6} \\mathrm{~kg} / \\mathrm{cm} \\), the velocity of transverse waves in string is:\na. \\( 330 \\mathrm{~m} / \\mathrm{s} \\)\nb. \\( 50 \\mathrm{~m} / \\mathrm{s} \\)\nc. \\( 500 \\mathrm{~m} / \\mathrm{s} \\)\nd. \\( 5000 \\mathrm{~m} / \\mathrm{s} \\)",
-            "onlyq_text": "<p>A string stretched at both ends is under a tension of 100 \\( N \\). If mass of string is \\( 4 \\times 10^{-6} \\mathrm{~kg} / \\mathrm{cm} \\), the velocity of transverse waves in string is:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( 330 \\mathrm{~m} / \\mathrm{s} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( 50 \\mathrm{~m} / \\mathrm{s} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 500 \\mathrm{~m} / \\mathrm{s} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( 5000 \\mathrm{~m} / \\mathrm{s} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "\\( v=\\sqrt{\\frac{T}{m}}=\\sqrt{\\left\\{\\frac{100}{4 \\times 10^{-4}}\\right\\}}=500 \\mathrm{~m} / \\mathrm{s} \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Wave on a String",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "ForJEE",
-                "ForNEET",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/6/2024, 11:59:11 PM",
-            "ocrQuestion": "There is \\( 1 \\mathrm{~mm} \\) vacuum between two walls. The speed of sound in air is \\( 330 \\mathrm{~m} / \\mathrm{s} \\) and speed of light in vacuum is \\( 3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s} \\). The time taken by sound to traverse the distance of \\( 1 \\mathrm{~mm} \\) form one wall to another through vacuum is:\na. \\( 0.3 \\mathrm{~s} \\)\nb. \\( 1 \\mathrm{~min} \\)\nc. \\( 1 \\mu \\mathrm{s} \\)\nd. \\( \\infty \\)",
-            "onlyq_text": "<p>There is \\( 1 \\mathrm{~mm} \\) vacuum between two walls. The speed of sound in air is \\( 330 \\mathrm{~m} / \\mathrm{s} \\) and speed of light in vacuum is \\( 3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s} \\). The time taken by sound to traverse the distance of \\( 1 \\mathrm{~mm} \\) form one wall to another through vacuum is:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( 0.3 \\mathrm{~s} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( 1 \\mathrm{~min} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 1 \\mu \\mathrm{s} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( \\infty \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Basics Of Wave Propagation",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "ForJEE",
-                "ForNEET",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 12:00:51 AM",
-            "ocrQuestion": "In a sinusoidal wave, the time required for a particular point to move form maximum displacement zero displacement is \\( 0.170 \\mathrm{sec} \\). The frequency of the wave is:\na. \\( 1.47 \\mathrm{~Hz} \\)\nb. \\( 0.36 \\mathrm{~Hz} \\)\nc. \\( 0.73 \\mathrm{~Hz} \\)\nd. \\( 2.94 \\mathrm{~Hz} \\)",
-            "onlyq_text": "<p>In a sinusoidal wave, the time required for a particular point to move form maximum displacement zero displacement is \\( 0.170 \\mathrm{sec} \\). The frequency of the wave is:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( 1.47 \\mathrm{~Hz} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( 0.36 \\mathrm{~Hz} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 0.73 \\mathrm{~Hz} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( 2.94 \\mathrm{~Hz} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "\\( \\begin{array}{l}\\text { (a) } \\frac{T}{4}=0.17 \\\\ n-\\frac{1}{T}=\\frac{1}{0.68}=1.47\\end{array} \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Basics Of Wave Propagation",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "ForJEE",
-                "ForNEET",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 12:02:26 AM",
-            "ocrQuestion": "A man standing in front of a high wall hears his echo after \\( 2 \\mathrm{sec} \\). If speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), his distance from the wall is:\na. \\( 165 \\mathrm{~m} \\)\nb. \\( 330 \\mathrm{~m} \\)\nc. \\( 495 \\mathrm{~m} \\)\nd. \\( 660 \\mathrm{~m} \\)",
-            "onlyq_text": "<p>A man standing in front of a high wall hears his echo after \\( 2 \\mathrm{sec} \\). If speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), his distance from the wall is:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( 165 \\mathrm{~m} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( 330 \\mathrm{~m} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 495 \\mathrm{~m} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( 660 \\mathrm{~m} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(b) \\( S=\\frac{v t}{2}=\\frac{300 \\times 2}{2}=330 \\mathrm{~m} \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Echo",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Veriety",
-                "Practice",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 12:05:05 AM",
-            "ocrQuestion": "An echo repeats two syllables. If the speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), then the minimum distance of reflecting surface is:\na. \\( 16.5 \\mathrm{~m} \\)\nb. \\( 33.0 \\mathrm{~m} \\)\nc. \\( 66.0 \\mathrm{~m} \\)\nd. \\( 330 \\mathrm{~m} \\)",
-            "onlyq_text": "<p>An echo repeats two syllables. If the speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), then the minimum distance of reflecting surface is:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( 16.5 \\mathrm{~m} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( 33.0 \\mathrm{~m} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 66.0 \\mathrm{~m} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( 330 \\mathrm{~m} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(c) \\( S=\\frac{v t}{2} \\)For syllabic sound \\( t=\\frac{1}{5} \\) second per syllable for two syllables \\( t=2 \\times \\frac{1}{5} \\) second\\[S=\\frac{330 \\times(2 / 5)}{2}=66 \\mathrm{~m}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Echo",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Practice",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 12:24:26 AM",
-            "ocrQuestion": "It is noticed that if the rate of clapping 100 per minute, the original sound cannot be distinguished from the sound reflected from a wall. If the speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), the distance of wall form the man is:\na. \\( 33 \\mathrm{~m} \\)\nb. \\( 99 \\mathrm{~m} \\)\nc. \\( 132 \\mathrm{~m} \\)\nd. \\( 198 \\mathrm{~m} \\)",
-            "onlyq_text": "<p>It is noticed that if the rate of clapping 100 per minute, the original sound cannot be distinguished from the sound reflected from a wall. If the speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), the distance of wall form the man is:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( 33 \\mathrm{~m} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( 99 \\mathrm{~m} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 132 \\mathrm{~m} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( 198 \\mathrm{~m} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(b) \\( S=\\frac{v T}{2}=\\frac{330 \\times\\left(\\frac{60}{100}\\right)}{2}=99 \\mathrm{~m} \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Echo",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 10:59:37 AM",
-            "ocrQuestion": "A man stands in a narrow, steep-sided valley. When he shouts he hears two echoes, one after \\( 1 \\mathrm{sec} \\) and the other after \\( 2 \\mathrm{sec} \\). If the velocity of sound in air is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), the width of the valley is:\na. \\( 330 \\mathrm{~m} \\)\nb. \\( 495 \\mathrm{~m} \\)\nc. \\( 660 \\mathrm{~m} \\)\nd. \\( 990 \\mathrm{~m} \\)",
-            "onlyq_text": "<p>A man stands in a narrow, steep-sided valley. When he shouts he hears two echoes, one after \\( 1 \\mathrm{sec} \\) and the other after \\( 2 \\mathrm{sec} \\). If the velocity of sound in air is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), the width of the valley is:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( 330 \\mathrm{~m} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( 495 \\mathrm{~m} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 660 \\mathrm{~m} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( 990 \\mathrm{~m} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(b) Let \\( S_{1} \\) and \\( S_{2} \\) be the distance of man form either side of valley, then \\( 2 S_{1}=v t_{1} \\) and \\( 2 S_{2}=v t_{2} \\)\\[\\begin{array}{l}2\\left(S_{1}+S_{2}\\right)=v\\left(t_{1}+t_{2}\\right) \\\\S_{1}+S_{2}=\\frac{v\\left(t_{1}+t_{2}\\right)}{2} \\\\d=S_{1}+S_{2}=\\frac{330(1+2)}{2}=495 \\mathrm{~m}\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Echo",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 11:01:59 AM",
-            "ocrQuestion": "The ratio of intensities of two interfering waves is \\( 4: 1 \\), then the ratio of maximum to minimum intensity is:\na. \\( 1: 4 \\)\nb. \\( 9: 1 \\)\nc. \\( 4: 1 \\)\nd. \\( 3: 1 \\)",
-            "onlyq_text": "<p>The ratio of intensities of two interfering waves is \\( 4: 1 \\), then the ratio of maximum to minimum intensity is:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( 1: 4 \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( 9: 1 \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 4: 1 \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( 3: 1 \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(b) \\( \\frac{I_{\\max }}{I_{\\min }}=\\left(\\frac{a_{1}+a_{2}}{a_{1}-a_{2}}\\right)^{2} \\)Here \\( \\frac{I_{1}}{I_{2}}=\\frac{a_{1}^{2}}{a_{2}^{2}}=\\frac{4}{1} \\)\\[\\begin{array}{l}\\frac{a_{1}}{a_{2}}=\\frac{2}{1} \\text { If } a_{1}=a, a_{2}=2 a \\\\\\frac{I_{\\max }}{I_{\\min }}=\\left(\\frac{2 a+a}{2 a-a}\\right)^{2}=\\frac{9}{1}\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Interference of Waves",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 11:03:59 AM",
-            "ocrQuestion": "Two plane waves of same frequencies having intensities I and 4I, are travelling in the same direction. The resultant intensity at a maxima at which waves meet is:\na. I\nb. 3I\nc. \\( 5 \\mathrm{I} \\)\nd. 9I",
-            "onlyq_text": "<p>Two plane waves of same frequencies having intensities I and 4I, are travelling in the same direction. The resultant intensity at a maxima at which waves meet is:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>a. I</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>b. 3I</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 5 \\mathrm{I} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>d. 9I</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "\\( \\begin{array}{l}\\text { (d) } I_{\\max }=a_{1}^{2}+a_{2}^{2}+2 a_{1} a_{2} \\\\ =I_{1}+I_{2}+2 \\sqrt{I_{1} I_{2}}=I+4 I+2 \\times \\sqrt{I \\times 4 I}=9 I\\end{array} \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Interference of Waves",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 11:05:36 AM",
-            "ocrQuestion": "Two plane waves of same frequencies having intensities I and 4I, are travelling in the same direction. The resultant intensity at a minima at which waves meet is:\na. I\nb. 3I\nc. \\( 5 \\mathrm{I} \\)\nd. 9I",
-            "onlyq_text": "<p>Two plane waves of same frequencies having intensities I and 4I, are travelling in the same direction. The resultant intensity at a minima at which waves meet is:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>a. I</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>b. 3I</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 5 \\mathrm{I} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>d. 9I</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(a) \\( I_{\\min }=I_{1}+I_{2}-2 \\sqrt{I_{1} I_{2}}=I+4 I-2 \\sqrt{I \\times 4 I}=I \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Interference of Waves",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 11:09:37 AM",
-            "ocrQuestion": "Two waves having intensity \\(  I \\) and \\( 9 I \\) produce interference. If resultant intensity at a point is \\( 7 I \\), what is the phase difference between the two waves?\na. \\( 0^{\\circ} \\)\nb. \\( 60^{\\circ} \\)\nc. \\( 90^{\\circ} \\)\nd. \\( 120^{\\circ} \\)",
-            "onlyq_text": "<p>Two waves having intensity \\(  I \\) and \\( 9 I \\) produce interference. If resultant intensity at a point is \\( 7 I \\), what is the phase difference between the two waves?</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( 0^{\\circ} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( 60^{\\circ} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 90^{\\circ} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( 120^{\\circ} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "\\( \\begin{array}{l}\\text { (d) } I=I_{1}+I_{2}+2 \\sqrt{I_{1} I_{2}} \\cos \\phi \\\\ 7 I=I+9 I+2 \\sqrt{I \\times 9 I} \\cos \\phi\\end{array} \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Interference of Waves",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 12:00:59 PM",
-            "ocrQuestion": "Out of the following four sources \\( S_{1}, S_{2}, S_{3} \\) and \\( S_{4} \\) only two are coherent, which can produce interference:\n\\[\n\\begin{array}{l}\nS_{1}, y=A \\sin 100 \\pi t \\\\\nS_{2}, y=A \\sin 101 \\pi t \\\\\nS_{3}, y=A \\cos 100 \\pi t \\\\\nS_{4}, y=A \\cos 102 \\pi t\n\\end{array}\n\\]\n\nThe coherent sources are\na. \\( S_{1} \\) and \\( S_{2} \\)\nb. \\( S_{1} \\) and \\( S_{3} \\)\nc. \\( S_{2} \\) and \\( S_{3} \\)\nd. \\( S_{3} \\) and \\( S_{4} \\)",
-            "onlyq_text": "<p>Out of the following four sources \\( S_{1}, S_{2}, S_{3} \\) and \\( S_{4} \\) only two are coherent, which can produce interference:\\[\\begin{array}{l}S_{1}, y=A \\sin 100 \\pi t \\\\S_{2}, y=A \\sin 101 \\pi t \\\\S_{3}, y=A \\cos 100 \\pi t \\\\S_{4}, y=A \\cos 102 \\pi t\\end{array}\\]The coherent sources are</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( S_{1} \\) and \\( S_{2} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( S_{1} \\) and \\( S_{3} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( S_{2} \\) and \\( S_{3} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( S_{3} \\) and \\( S_{4} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(b) Interfering waves must have same frequency.",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Interference of Waves",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 12:06:13 PM",
-            "ocrQuestion": "Out of given four waves a., b., c. and d.\n\\[\n\\begin{array}{l}\ny=20 \\sin 100 \\pi t \\\\\ny=20 \\sin 101 \\pi t \\\\\ny=20 \\cos (100 \\pi t) \\\\\ny=20 \\cos (101 \\pi t)\n\\end{array}\n\\]\nemitted by four \\( S_{1}, S_{2}, S_{3} \\) and \\( S_{4} \\) respectively.\nInterference phenomenon will be observed in space when:\na. source \\( S_{1} \\) emits wave a. and \\( S_{4} \\) emits wave d.\nb. source \\( S_{2} \\) emits wave b. and \\( S_{4} \\) emits wave d.\nc. source \\( S_{1} \\) emits wave a. and \\( S_{3} \\) emits wave c.\nd. Interference phenomenon cannot be observed by the combination of any of the above waves",
-            "onlyq_text": "<p>Out of given four waves a., b., c. and d.\\[\\begin{array}{l}y=20 \\sin 100 \\pi t \\\\y=20 \\sin 101 \\pi t \\\\y=20 \\cos (100 \\pi t) \\\\y=20 \\cos (101 \\pi t)\\end{array}\\]emitted by four \\( S_{1}, S_{2}, S_{3} \\) and \\( S_{4} \\) respectively.Interference phenomenon will be observed in space when:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>a. source \\( S_{1} \\) emits wave a. and \\( S_{4} \\) emits wave d.</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>b. source \\( S_{2} \\) emits wave b. and \\( S_{4} \\) emits wave d.</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>c. source \\( S_{1} \\) emits wave a. and \\( S_{3} \\) emits wave c.</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>d. Interference phenomenon cannot be observed by the combination of any of the above waves</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(d) Independent sources cannot produce interference",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Interference of Waves",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Memory",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 12:07:32 PM",
-            "ocrQuestion": "Two coherent sound waves arrive at a point traversing different paths of lengths \\( L_{1} \\) and \\( L_{2} \\). To hear maximum sound at that point, the condition is:\na. \\( L_{1}-L_{2}=n \\lambda \\)\nb. \\( L_{1}-L_{2}=(2 n-1)(\\lambda / 2) \\)\nc. \\( L_{1}-L_{2}=[n+(1 / 4)] \\lambda \\)\nd. \\( L_{1}-L_{2}=[n+(1 / 2)](\\lambda / 2) \\)",
-            "onlyq_text": "<p>Two coherent sound waves arrive at a point traversing different paths of lengths \\( L_{1} \\) and \\( L_{2} \\). To hear maximum sound at that point, the condition is:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( L_{1}-L_{2}=n \\lambda \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( L_{1}-L_{2}=(2 n-1)(\\lambda / 2) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( L_{1}-L_{2}=[n+(1 / 4)] \\lambda \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( L_{1}-L_{2}=[n+(1 / 2)](\\lambda / 2) \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(a) For maximum \\( L_{1}-L_{2}=n \\lambda \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Interference of Waves",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 12:09:33 PM",
-            "ocrQuestion": "Consider 10 identical sources of sound all giving the same frequency but having random phase angles. If the average intensity of each source is \\( I_{0} \\), the average of resultant intensity \\( I \\) due to all these 10 sources will be:\na. \\( I=100 I_{0} \\)\nb. \\( I=10 I_{0} \\)\nc. \\( I=I_{0} \\)\nd. \\( I=\\sqrt{10} I_{0} \\)",
-            "onlyq_text": "<p>Consider 10 identical sources of sound all giving the same frequency but having random phase angles. If the average intensity of each source is \\( I_{0} \\), the average of resultant intensity \\( I \\) due to all these 10 sources will be:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( I=100 I_{0} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( I=10 I_{0} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( I=I_{0} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( I=\\sqrt{10} I_{0} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(b) For incoherent sources \\( I \\sum I_{0}=10 I_{0} \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Interference of Waves",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Memory",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 12:31:06 PM",
-            "ocrQuestion": "The plane wave represent by an equation of the form \\( y=f(x-v t) \\) implies the propagation along the positive \\( x \\) axis without change of shape with constant velocity:\na. \\( \\frac{d v}{d t}=-v\\left(\\frac{d y}{d x}\\right) \\)\nb. \\( \\frac{d v}{d t}=-v\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)\nc. \\( \\frac{d^{2} v}{d t^{2}}=-v^{2}\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)\nd. \\( \\frac{d^{2} v}{d t^{2}}=v\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)",
-            "onlyq_text": "<p>The plane wave represent by an equation of the form \\( y=f(x-v t) \\) implies the propagation along the positive \\( x \\) axis without change of shape with constant velocity:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": [
-                        "1",
-                        "3"
-                    ],
-                    "lang_id": 1,
-                    "option": "<p>a. \\( \\frac{d y}{d t}=-v\\left(\\frac{d y}{d x}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": [
-                        "1",
-                        "3"
-                    ],
-                    "lang_id": 1,
-                    "option": "<p>b. \\( \\frac{d y}{d t}=-v\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": [
-                        "1",
-                        "3"
-                    ],
-                    "lang_id": 1,
-                    "option": "<p>c. \\( \\frac{d^{2} y}{d t^{2}}=-v^{2}\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": [
-                        "1",
-                        "3"
-                    ],
-                    "lang_id": 1,
-                    "option": "<p>d. \\( \\frac{d^{2} y}{d t^{2}}=v\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)</p>"
-                }
-            ],
-            "optype": 2,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": " Consider for example the equation of the form:\\[\\begin{array}{l}y=a \\sin (\\omega t-k x) \\\\\\frac{d y}{d t}=a \\omega \\cos (\\omega t-k x) \\\\\\frac{d y}{d x}=-a k \\cos (\\omega t-k x)\\end{array}\\]Hence, \\( \\frac{d y}{d t}=-\\left(\\frac{\\omega}{k}\\right) \\frac{d y}{d x}=-v\\left(\\frac{d y}{d x}\\right) \\)i.e., choice (a) is correct.Now,\\( \\frac{d^{2} y}{d t^{2}}=a \\omega^{2} \\sin (\\omega t-k x)=-\\omega^{2} y \\)\\[\\frac{d^{2} y}{d x^{2}}=+k^{2} a \\sin (\\omega t-k x)=k^{2} y\\]\\( \\frac{d^{2} y}{d t^{2}}=-\\left(\\frac{\\omega^{2}}{k^{2}}\\right) \\frac{d^{2} y}{d x^{2}}=-v^{2}\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\) i.e., choice (c) is correct.",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Basics Of Wave Propagation",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 12:33:37 PM",
-            "ocrQuestion": "A wave is represented by the equation. \\( y=A \\sin \\left(10 \\pi x+15 \\pi t+\\frac{\\pi}{3}\\right) \\) where \\( x \\) is in meter and \\( t \\) is the second. The expression represents:\na. A wave traveling in the positive \\( x \\)-direction with a velocity \\( 1.5 \\mathrm{~m} / \\mathrm{s} \\)\nb. A wave traveling in the negative \\( x \\)-direction with a velocity \\( 1.5 \\mathrm{~m} / \\mathrm{s} \\)\nc. A wave traveling in the negative \\( x \\)-direction have a wavelength \\( 0.2 \\mathrm{~m} \\)\nd. A wave traveling in the positive \\( x \\)-direction have a wavelength \\( 0.2 \\mathrm{~m} \\)",
-            "onlyq_text": "<p>A wave is represented by the equation. \\( y=A \\sin \\left(10 \\pi x+15 \\pi t+\\frac{\\pi}{3}\\right) \\) where \\( x \\) is in meter and \\( t \\) is the second. The expression represents:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": [
-                        "2",
-                        "3"
-                    ],
-                    "lang_id": 1,
-                    "option": "<p>a. A wave traveling in the positive \\( x \\)-direction with a velocity \\( 1.5 \\mathrm{~m} / \\mathrm{s} \\)</p>"
-                },
-                {
-                    "is_correct": [
-                        "2",
-                        "3"
-                    ],
-                    "lang_id": 1,
-                    "option": "<p>b. A wave traveling in the negative \\( x \\)-direction with a velocity \\( 1.5 \\mathrm{~m} / \\mathrm{s} \\)</p>"
-                },
-                {
-                    "is_correct": [
-                        "2",
-                        "3"
-                    ],
-                    "lang_id": 1,
-                    "option": "<p>c. A wave traveling in the negative \\( x \\)-direction have a wavelength \\( 0.2 \\mathrm{~m} \\)</p>"
-                },
-                {
-                    "is_correct": [
-                        "2",
-                        "3"
-                    ],
-                    "lang_id": 1,
-                    "option": "<p>d. A wave traveling in the positive \\( x \\)-direction have a wavelength \\( 0.2 \\mathrm{~m} \\)</p>"
-                }
-            ],
-            "optype": 2,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Basics Of Wave Propagation",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 12:39:39 PM",
-            "ocrQuestion": "A transvers sinusoidal wave of amplitude a, wavelength \\( \\lambda \\) and frequency \\( f \\) is traveling on a stretched string. The maximum speed at any point on the string is \\( (v / 10) \\) where \\( \\mathrm{v} \\) is speed of propagation of the wave. If \\( a=10^{-3} \\) \\( \\mathrm{m} \\) and \\( v=10 \\mathrm{~ms}^{-1} \\), then \\( \\lambda \\) and \\( f \\) are given by\na. \\( \\lambda=2 \\pi \\times 10^{-2} \\mathrm{~m} \\)\nb. \\( \\lambda=10^{-3} \\mathrm{~m} \\)\nc. \\( \\lambda=10^{3} /(2 \\pi) \\mathrm{Hz} \\)\nd. \\( f=10^{4} \\mathrm{~Hz} \\)",
-            "onlyq_text": "<p>A transvers sinusoidal wave of amplitude a, wavelength \\( \\lambda \\) and frequency \\( f \\) is traveling on a stretched string. The maximum speed at any point on the string is \\( (v / 10) \\) where \\( \\mathrm{v} \\) is speed of propagation of the wave. If \\( a=10^{-3} \\) \\( \\mathrm{m} \\) and \\( v=10 \\mathrm{~ms}^{-1} \\), then \\( \\lambda \\) and \\( f \\) are given by</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": [
-                        "1",
-                        "3"
-                    ],
-                    "lang_id": 1,
-                    "option": "<p>a. \\( \\lambda=2 \\pi \\times 10^{-2} \\mathrm{~m} \\)</p>"
-                },
-                {
-                    "is_correct": [
-                        "1",
-                        "3"
-                    ],
-                    "lang_id": 1,
-                    "option": "<p>b. \\( \\lambda=10^{-3} \\mathrm{~m} \\)</p>"
-                },
-                {
-                    "is_correct": [
-                        "1",
-                        "3"
-                    ],
-                    "lang_id": 1,
-                    "option": "<p>c. \\( f=10^{3} /(2 \\pi) \\mathrm{Hz} \\)</p>"
-                },
-                {
-                    "is_correct": [
-                        "1",
-                        "3"
-                    ],
-                    "lang_id": 1,
-                    "option": "<p>d. \\( f=10^{4} \\mathrm{~Hz} \\)</p>"
-                }
-            ],
-            "optype": 2,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(a,c) \\( v_{\\max }=a \\omega=a(2 \\pi f) \\)Given that \\( a(2 \\pi f)=\\frac{v}{10}=\\frac{10}{10}=1 \\) \\( f=\\frac{1}{2 \\pi f}=\\frac{10^{3}}{2 \\pi} \\) Hz As \\( v=f \\lambda \\) \\( \\lambda=\\frac{v}{f}=\\frac{10}{10^{3} / 2 \\pi}=2 \\pi \\times 10^{-2} \\mathrm{~m} \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Wave on a String",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast",
-                "Practice",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/7/2024, 12:46:09 PM",
-            "ocrQuestion": "During the propagation of sound wave of frequency \\( f \\), the compressions and rarefactions:\na. travel slower in water than in brass\nb. in air take place such that the entropy remains constant\nc. take place isothermally in all media\nd. are smaller distance apart in air than in water (distance between successive compressions and rarefactions)",
-            "onlyq_text": "<p>During the propagation of sound wave of frequency \\( f \\), the compressions and rarefactions:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": [
-                        "1",
-                        "2",
-                        "4"
-                    ],
-                    "lang_id": 1,
-                    "option": "<p>a. travel slower in water than in brass</p>"
-                },
-                {
-                    "is_correct": [
-                        "1",
-                        "2",
-                        "4"
-                    ],
-                    "lang_id": 1,
-                    "option": "<p>b. in air take place such that the entropy remains constant</p>"
-                },
-                {
-                    "is_correct": [
-                        "1",
-                        "2",
-                        "4"
-                    ],
-                    "lang_id": 1,
-                    "option": "<p>c. take place isothermally in all media</p>"
-                },
-                {
-                    "is_correct": [
-                        "1",
-                        "2",
-                        "4"
-                    ],
-                    "lang_id": 1,
-                    "option": "<p>d. are smaller distance apart in air than in water (distance between successive compressions and rarefactions)</p>"
-                }
-            ],
-            "optype": 2,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "\\( (\\mathbf{a}, \\mathbf{b}, \\mathbf{d}) \\) Velocity of compressions and rarefactions implies velocity of sound waves or longitudinal waves in a material medium.As \\( \\left(v_{\\text {sound }}\\right)_{\\text {solid }}>\\left(v_{\\text {sound }}\\right)_{\\text {liquid }} \\)Hence, choice (a) is correct. As process of propagation of sound waves in air or a gas is adiabatic, hence entropy. Will remain constant. So, choice (b) is correct. As distance between successive compressions and rarefactions is \\( \\lambda, v \\) is proportional to \\( \\lambda \\) and velocity of sound in a gas is smaller than that in air, hence, compressions and rarefactions are smaller distance apart in air than in water. So, choice (d) is correct.",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Velocity of Sound",
-            "subject": "PHYSICS",
-            "topic_name": "WAVES",
-            "toughness": "MEDIUM"
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>d. never</p>"
         }
-    ]
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Basics Of Wave Propagation",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/6/2024, 11:42:11 PM",
+      "ocrQuestion": "If \\( c_{0} \\) and \\( c \\) denote the sound velocity and root mean square velocity of molecules in a gas, then:\na. \\( c_{0}>c \\)\nb. \\( c_{0}=c \\)\nc. \\( c_{0}=c(\\gamma / 3)^{1 / 2} \\)\nd. \\( c_{0} \\) and \\( c \\) are not related",
+      "onlyq_text": "<p>If \\( c_{0} \\) and \\( c \\) denote the sound velocity and root mean square velocity of molecules in a gas, then:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>a. \\( c_{0}>c \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>b. \\( c_{0}=c \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>c. \\( c_{0}=c(\\gamma / 3)^{1 / 2} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>d. \\( c_{0} \\) and \\( c \\) are not related</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Velocity of Sound",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(c) \\( C_{0}=\\sqrt{\\frac{\\gamma R T}{m}} \\) and \\( C=\\sqrt{\\frac{3 R T}{M}} \\)\\[\\frac{C_{0}}{C}=\\sqrt{\\frac{\\gamma}{3}} \\text { or } C_{0}=\\sqrt{\\frac{\\gamma}{3}} C\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/6/2024, 11:47:46 PM",
+      "ocrQuestion": "A transverse wave is described by the equation \\( y=y_{0} \\sin 2 \\pi\\left(f t-\\frac{x}{\\lambda}\\right) \\). The maximum particle velocity is equal to four times the wave velocity if:\na. \\( \\lambda=\\frac{\\pi y_{0}}{4} \\)\nb. \\( \\lambda=\\frac{\\pi y_{0}}{2} \\)\nc. \\( \\lambda=\\pi y_{0} \\)\nd. \\( \\lambda=2 \\pi y_{0} \\)",
+      "onlyq_text": "<p>A transverse wave is described by the equation \\( y=y_{0} \\sin 2 \\pi\\left(f t-\\frac{x}{\\lambda}\\right) \\). The maximum particle velocity is equal to four times the wave velocity if:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a. \\( \\lambda=\\frac{\\pi y_{0}}{4} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b. \\( \\lambda=\\frac{\\pi y_{0}}{2} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c. \\( \\lambda=\\pi y_{0} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d. \\( \\lambda=2 \\pi y_{0} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Wave on a String",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(b) \\( y=y_{0} \\sin 2 \\pi\\left(f t-\\frac{x}{\\lambda}\\right) \\)Wave velocity \\( v=f_{A} \\)Particle velocity \\( u=\\frac{d y}{d t}=y_{0} \\cdot 2 \\pi f \\cos 2 \\pi\\left(f t-\\frac{\\pi}{\\lambda}\\right) \\)\\[\\begin{array}{l}u_{\\max }=y_{0} \\cdot 2 \\pi f \\\\\\text { Given } u_{\\max }=4 v \\\\y_{0} 2 \\pi f=4 f_{\\lambda} \\Rightarrow \\lambda=\\frac{\\pi y_{0}}{2}\\end{array}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "ForJEE",
+        "ForNEET",
+        "Veriety",
+        "Practice",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/6/2024, 11:55:46 PM",
+      "ocrQuestion": "The amplitude of a wave disturbance propagating along positive \\( X \\)-axis given by \\( y=\\frac{1}{1+x^{2}} \\) at \\( t=0 \\) and \\( y=\\frac{1}{1+(x-2)^{2}} \\) at \\( t=4 \\mathrm{sec} \\) where \\( x \\) and \\( y \\) are in meter. The shape of wave disturbance does not change with time. The velocity of the wave is:\na. \\( 0.5 \\mathrm{~m} / \\mathrm{s} \\)\nb. \\( 1 \\mathrm{~m} / \\mathrm{s} \\)\nc. \\( 2 \\mathrm{~m} / \\mathrm{s} \\)\nd. \\( 4 \\mathrm{~m} / \\mathrm{s} \\)",
+      "onlyq_text": "<p>The amplitude of a wave disturbance propagating along positive \\( X \\)-axis given by \\( y=\\frac{1}{1+x^{2}} \\) at \\( t=0 \\) and \\( y=\\frac{1}{1+(x-2)^{2}} \\) at \\( t=4 \\mathrm{sec} \\) where \\( x \\) and \\( y \\) are in meter. The shape of wave disturbance does not change with time. The velocity of the wave is:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>a. \\( 0.5 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>b. \\( 1 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>c. \\( 2 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>d. \\( 4 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Wave on a String",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "\\( \\begin{array}{l}\\text { (a) } y=\\frac{1}{1+x^{2}} \\text { at } t=0 \\\\ \\text { and } y=\\frac{1}{1+(x-2)^{2}} \\text { at } t=4 \\mathrm{~s} \\\\ v=\\frac{\\Delta x}{\\Delta t}=\\frac{x-(x-2)}{4-0}=\\frac{2}{4}=0.5 \\mathrm{~m} / \\mathrm{s}\\end{array} \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "ForJEE",
+        "ForNEET",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/6/2024, 11:58:12 PM",
+      "ocrQuestion": "A string stretched at both ends is under a tension of 100 \\( N \\). If mass of string is \\( 4 \\times 10^{-6} \\mathrm{~kg} / \\mathrm{cm} \\), the velocity of transverse waves in string is:\na. \\( 330 \\mathrm{~m} / \\mathrm{s} \\)\nb. \\( 50 \\mathrm{~m} / \\mathrm{s} \\)\nc. \\( 500 \\mathrm{~m} / \\mathrm{s} \\)\nd. \\( 5000 \\mathrm{~m} / \\mathrm{s} \\)",
+      "onlyq_text": "<p>A string stretched at both ends is under a tension of 100 \\( N \\). If mass of string is \\( 4 \\times 10^{-6} \\mathrm{~kg} / \\mathrm{cm} \\), the velocity of transverse waves in string is:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>a. \\( 330 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>b. \\( 50 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>c. \\( 500 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>d. \\( 5000 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Wave on a String",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "\\( v=\\sqrt{\\frac{T}{m}}=\\sqrt{\\left\\{\\frac{100}{4 \\times 10^{-4}}\\right\\}}=500 \\mathrm{~m} / \\mathrm{s} \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "ForJEE",
+        "ForNEET",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/6/2024, 11:59:11 PM",
+      "ocrQuestion": "There is \\( 1 \\mathrm{~mm} \\) vacuum between two walls. The speed of sound in air is \\( 330 \\mathrm{~m} / \\mathrm{s} \\) and speed of light in vacuum is \\( 3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s} \\). The time taken by sound to traverse the distance of \\( 1 \\mathrm{~mm} \\) form one wall to another through vacuum is:\na. \\( 0.3 \\mathrm{~s} \\)\nb. \\( 1 \\mathrm{~min} \\)\nc. \\( 1 \\mu \\mathrm{s} \\)\nd. \\( \\infty \\)",
+      "onlyq_text": "<p>There is \\( 1 \\mathrm{~mm} \\) vacuum between two walls. The speed of sound in air is \\( 330 \\mathrm{~m} / \\mathrm{s} \\) and speed of light in vacuum is \\( 3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s} \\). The time taken by sound to traverse the distance of \\( 1 \\mathrm{~mm} \\) form one wall to another through vacuum is:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>a. \\( 0.3 \\mathrm{~s} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>b. \\( 1 \\mathrm{~min} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>c. \\( 1 \\mu \\mathrm{s} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>d. \\( \\infty \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Basics Of Wave Propagation",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "ForJEE",
+        "ForNEET",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 12:00:51 AM",
+      "ocrQuestion": "In a sinusoidal wave, the time required for a particular point to move form maximum displacement zero displacement is \\( 0.170 \\mathrm{sec} \\). The frequency of the wave is:\na. \\( 1.47 \\mathrm{~Hz} \\)\nb. \\( 0.36 \\mathrm{~Hz} \\)\nc. \\( 0.73 \\mathrm{~Hz} \\)\nd. \\( 2.94 \\mathrm{~Hz} \\)",
+      "onlyq_text": "<p>In a sinusoidal wave, the time required for a particular point to move form maximum displacement zero displacement is \\( 0.170 \\mathrm{sec} \\). The frequency of the wave is:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>a. \\( 1.47 \\mathrm{~Hz} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>b. \\( 0.36 \\mathrm{~Hz} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>c. \\( 0.73 \\mathrm{~Hz} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>d. \\( 2.94 \\mathrm{~Hz} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Basics Of Wave Propagation",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "\\( \\begin{array}{l}\\text { (a) } \\frac{T}{4}=0.17 \\\\ n-\\frac{1}{T}=\\frac{1}{0.68}=1.47\\end{array} \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "ForJEE",
+        "ForNEET",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 12:02:26 AM",
+      "ocrQuestion": "A man standing in front of a high wall hears his echo after \\( 2 \\mathrm{sec} \\). If speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), his distance from the wall is:\na. \\( 165 \\mathrm{~m} \\)\nb. \\( 330 \\mathrm{~m} \\)\nc. \\( 495 \\mathrm{~m} \\)\nd. \\( 660 \\mathrm{~m} \\)",
+      "onlyq_text": "<p>A man standing in front of a high wall hears his echo after \\( 2 \\mathrm{sec} \\). If speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), his distance from the wall is:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a. \\( 165 \\mathrm{~m} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b. \\( 330 \\mathrm{~m} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c. \\( 495 \\mathrm{~m} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d. \\( 660 \\mathrm{~m} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Echo",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(b) \\( S=\\frac{v t}{2}=\\frac{300 \\times 2}{2}=330 \\mathrm{~m} \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Veriety",
+        "Practice",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 12:05:05 AM",
+      "ocrQuestion": "An echo repeats two syllables. If the speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), then the minimum distance of reflecting surface is:\na. \\( 16.5 \\mathrm{~m} \\)\nb. \\( 33.0 \\mathrm{~m} \\)\nc. \\( 66.0 \\mathrm{~m} \\)\nd. \\( 330 \\mathrm{~m} \\)",
+      "onlyq_text": "<p>An echo repeats two syllables. If the speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), then the minimum distance of reflecting surface is:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>a. \\( 16.5 \\mathrm{~m} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>b. \\( 33.0 \\mathrm{~m} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>c. \\( 66.0 \\mathrm{~m} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>d. \\( 330 \\mathrm{~m} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Echo",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(c) \\( S=\\frac{v t}{2} \\)For syllabic sound \\( t=\\frac{1}{5} \\) second per syllable for two syllables \\( t=2 \\times \\frac{1}{5} \\) second\\[S=\\frac{330 \\times(2 / 5)}{2}=66 \\mathrm{~m}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Practice",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 12:24:26 AM",
+      "ocrQuestion": "It is noticed that if the rate of clapping 100 per minute, the original sound cannot be distinguished from the sound reflected from a wall. If the speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), the distance of wall form the man is:\na. \\( 33 \\mathrm{~m} \\)\nb. \\( 99 \\mathrm{~m} \\)\nc. \\( 132 \\mathrm{~m} \\)\nd. \\( 198 \\mathrm{~m} \\)",
+      "onlyq_text": "<p>It is noticed that if the rate of clapping 100 per minute, the original sound cannot be distinguished from the sound reflected from a wall. If the speed of sound is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), the distance of wall form the man is:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a. \\( 33 \\mathrm{~m} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b. \\( 99 \\mathrm{~m} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c. \\( 132 \\mathrm{~m} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d. \\( 198 \\mathrm{~m} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Echo",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "MEDIUM",
+      "solutions": [
+        {
+          "sol_html": "(b) \\( S=\\frac{v T}{2}=\\frac{330 \\times\\left(\\frac{60}{100}\\right)}{2}=99 \\mathrm{~m} \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 10:59:37 AM",
+      "ocrQuestion": "A man stands in a narrow, steep-sided valley. When he shouts he hears two echoes, one after \\( 1 \\mathrm{sec} \\) and the other after \\( 2 \\mathrm{sec} \\). If the velocity of sound in air is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), the width of the valley is:\na. \\( 330 \\mathrm{~m} \\)\nb. \\( 495 \\mathrm{~m} \\)\nc. \\( 660 \\mathrm{~m} \\)\nd. \\( 990 \\mathrm{~m} \\)",
+      "onlyq_text": "<p>A man stands in a narrow, steep-sided valley. When he shouts he hears two echoes, one after \\( 1 \\mathrm{sec} \\) and the other after \\( 2 \\mathrm{sec} \\). If the velocity of sound in air is \\( 330 \\mathrm{~m} / \\mathrm{s} \\), the width of the valley is:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a. \\( 330 \\mathrm{~m} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b. \\( 495 \\mathrm{~m} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c. \\( 660 \\mathrm{~m} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d. \\( 990 \\mathrm{~m} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Echo",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(b) Let \\( S_{1} \\) and \\( S_{2} \\) be the distance of man form either side of valley, then \\( 2 S_{1}=v t_{1} \\) and \\( 2 S_{2}=v t_{2} \\)\\[\\begin{array}{l}2\\left(S_{1}+S_{2}\\right)=v\\left(t_{1}+t_{2}\\right) \\\\S_{1}+S_{2}=\\frac{v\\left(t_{1}+t_{2}\\right)}{2} \\\\d=S_{1}+S_{2}=\\frac{330(1+2)}{2}=495 \\mathrm{~m}\\end{array}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 11:01:59 AM",
+      "ocrQuestion": "The ratio of intensities of two interfering waves is \\( 4: 1 \\), then the ratio of maximum to minimum intensity is:\na. \\( 1: 4 \\)\nb. \\( 9: 1 \\)\nc. \\( 4: 1 \\)\nd. \\( 3: 1 \\)",
+      "onlyq_text": "<p>The ratio of intensities of two interfering waves is \\( 4: 1 \\), then the ratio of maximum to minimum intensity is:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a. \\( 1: 4 \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b. \\( 9: 1 \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c. \\( 4: 1 \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d. \\( 3: 1 \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Interference of Waves",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(b) \\( \\frac{I_{\\max }}{I_{\\min }}=\\left(\\frac{a_{1}+a_{2}}{a_{1}-a_{2}}\\right)^{2} \\)Here \\( \\frac{I_{1}}{I_{2}}=\\frac{a_{1}^{2}}{a_{2}^{2}}=\\frac{4}{1} \\)\\[\\begin{array}{l}\\frac{a_{1}}{a_{2}}=\\frac{2}{1} \\text { If } a_{1}=a, a_{2}=2 a \\\\\\frac{I_{\\max }}{I_{\\min }}=\\left(\\frac{2 a+a}{2 a-a}\\right)^{2}=\\frac{9}{1}\\end{array}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 11:03:59 AM",
+      "ocrQuestion": "Two plane waves of same frequencies having intensities I and 4I, are travelling in the same direction. The resultant intensity at a maxima at which waves meet is:\na. I\nb. 3I\nc. \\( 5 \\mathrm{I} \\)\nd. 9I",
+      "onlyq_text": "<p>Two plane waves of same frequencies having intensities I and 4I, are travelling in the same direction. The resultant intensity at a maxima at which waves meet is:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>a. I</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>b. 3I</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>c. \\( 5 \\mathrm{I} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>d. 9I</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Interference of Waves",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "\\( \\begin{array}{l}\\text { (d) } I_{\\max }=a_{1}^{2}+a_{2}^{2}+2 a_{1} a_{2} \\\\ =I_{1}+I_{2}+2 \\sqrt{I_{1} I_{2}}=I+4 I+2 \\times \\sqrt{I \\times 4 I}=9 I\\end{array} \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 11:05:36 AM",
+      "ocrQuestion": "Two plane waves of same frequencies having intensities I and 4I, are travelling in the same direction. The resultant intensity at a minima at which waves meet is:\na. I\nb. 3I\nc. \\( 5 \\mathrm{I} \\)\nd. 9I",
+      "onlyq_text": "<p>Two plane waves of same frequencies having intensities I and 4I, are travelling in the same direction. The resultant intensity at a minima at which waves meet is:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>a. I</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>b. 3I</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>c. \\( 5 \\mathrm{I} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>d. 9I</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Interference of Waves",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(a) \\( I_{\\min }=I_{1}+I_{2}-2 \\sqrt{I_{1} I_{2}}=I+4 I-2 \\sqrt{I \\times 4 I}=I \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 11:09:37 AM",
+      "ocrQuestion": "Two waves having intensity \\(  I \\) and \\( 9 I \\) produce interference. If resultant intensity at a point is \\( 7 I \\), what is the phase difference between the two waves?\na. \\( 0^{\\circ} \\)\nb. \\( 60^{\\circ} \\)\nc. \\( 90^{\\circ} \\)\nd. \\( 120^{\\circ} \\)",
+      "onlyq_text": "<p>Two waves having intensity \\(  I \\) and \\( 9 I \\) produce interference. If resultant intensity at a point is \\( 7 I \\), what is the phase difference between the two waves?</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>a. \\( 0^{\\circ} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>b. \\( 60^{\\circ} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>c. \\( 90^{\\circ} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>d. \\( 120^{\\circ} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Interference of Waves",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "\\( \\begin{array}{l}\\text { (d) } I=I_{1}+I_{2}+2 \\sqrt{I_{1} I_{2}} \\cos \\phi \\\\ 7 I=I+9 I+2 \\sqrt{I \\times 9 I} \\cos \\phi\\end{array} \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 12:00:59 PM",
+      "ocrQuestion": "Out of the following four sources \\( S_{1}, S_{2}, S_{3} \\) and \\( S_{4} \\) only two are coherent, which can produce interference:\n\\[\n\\begin{array}{l}\nS_{1}, y=A \\sin 100 \\pi t \\\\\nS_{2}, y=A \\sin 101 \\pi t \\\\\nS_{3}, y=A \\cos 100 \\pi t \\\\\nS_{4}, y=A \\cos 102 \\pi t\n\\end{array}\n\\]\n\nThe coherent sources are\na. \\( S_{1} \\) and \\( S_{2} \\)\nb. \\( S_{1} \\) and \\( S_{3} \\)\nc. \\( S_{2} \\) and \\( S_{3} \\)\nd. \\( S_{3} \\) and \\( S_{4} \\)",
+      "onlyq_text": "<p>Out of the following four sources \\( S_{1}, S_{2}, S_{3} \\) and \\( S_{4} \\) only two are coherent, which can produce interference:\\[\\begin{array}{l}S_{1}, y=A \\sin 100 \\pi t \\\\S_{2}, y=A \\sin 101 \\pi t \\\\S_{3}, y=A \\cos 100 \\pi t \\\\S_{4}, y=A \\cos 102 \\pi t\\end{array}\\]The coherent sources are</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a. \\( S_{1} \\) and \\( S_{2} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b. \\( S_{1} \\) and \\( S_{3} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c. \\( S_{2} \\) and \\( S_{3} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d. \\( S_{3} \\) and \\( S_{4} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Interference of Waves",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(b) Interfering waves must have same frequency.",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 12:06:13 PM",
+      "ocrQuestion": "Out of given four waves a., b., c. and d.\n\\[\n\\begin{array}{l}\ny=20 \\sin 100 \\pi t \\\\\ny=20 \\sin 101 \\pi t \\\\\ny=20 \\cos (100 \\pi t) \\\\\ny=20 \\cos (101 \\pi t)\n\\end{array}\n\\]\nemitted by four \\( S_{1}, S_{2}, S_{3} \\) and \\( S_{4} \\) respectively.\nInterference phenomenon will be observed in space when:\na. source \\( S_{1} \\) emits wave a. and \\( S_{4} \\) emits wave d.\nb. source \\( S_{2} \\) emits wave b. and \\( S_{4} \\) emits wave d.\nc. source \\( S_{1} \\) emits wave a. and \\( S_{3} \\) emits wave c.\nd. Interference phenomenon cannot be observed by the combination of any of the above waves",
+      "onlyq_text": "<p>Out of given four waves a., b., c. and d.\\[\\begin{array}{l}y=20 \\sin 100 \\pi t \\\\y=20 \\sin 101 \\pi t \\\\y=20 \\cos (100 \\pi t) \\\\y=20 \\cos (101 \\pi t)\\end{array}\\]emitted by four \\( S_{1}, S_{2}, S_{3} \\) and \\( S_{4} \\) respectively.Interference phenomenon will be observed in space when:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>a. source \\( S_{1} \\) emits wave a. and \\( S_{4} \\) emits wave d.</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>b. source \\( S_{2} \\) emits wave b. and \\( S_{4} \\) emits wave d.</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>c. source \\( S_{1} \\) emits wave a. and \\( S_{3} \\) emits wave c.</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>d. Interference phenomenon cannot be observed by the combination of any of the above waves</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Interference of Waves",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(d) Independent sources cannot produce interference",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Memory",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 12:07:32 PM",
+      "ocrQuestion": "Two coherent sound waves arrive at a point traversing different paths of lengths \\( L_{1} \\) and \\( L_{2} \\). To hear maximum sound at that point, the condition is:\na. \\( L_{1}-L_{2}=n \\lambda \\)\nb. \\( L_{1}-L_{2}=(2 n-1)(\\lambda / 2) \\)\nc. \\( L_{1}-L_{2}=[n+(1 / 4)] \\lambda \\)\nd. \\( L_{1}-L_{2}=[n+(1 / 2)](\\lambda / 2) \\)",
+      "onlyq_text": "<p>Two coherent sound waves arrive at a point traversing different paths of lengths \\( L_{1} \\) and \\( L_{2} \\). To hear maximum sound at that point, the condition is:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>a. \\( L_{1}-L_{2}=n \\lambda \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>b. \\( L_{1}-L_{2}=(2 n-1)(\\lambda / 2) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>c. \\( L_{1}-L_{2}=[n+(1 / 4)] \\lambda \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>d. \\( L_{1}-L_{2}=[n+(1 / 2)](\\lambda / 2) \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Interference of Waves",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(a) For maximum \\( L_{1}-L_{2}=n \\lambda \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 12:09:33 PM",
+      "ocrQuestion": "Consider 10 identical sources of sound all giving the same frequency but having random phase angles. If the average intensity of each source is \\( I_{0} \\), the average of resultant intensity \\( I \\) due to all these 10 sources will be:\na. \\( I=100 I_{0} \\)\nb. \\( I=10 I_{0} \\)\nc. \\( I=I_{0} \\)\nd. \\( I=\\sqrt{10} I_{0} \\)",
+      "onlyq_text": "<p>Consider 10 identical sources of sound all giving the same frequency but having random phase angles. If the average intensity of each source is \\( I_{0} \\), the average of resultant intensity \\( I \\) due to all these 10 sources will be:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a. \\( I=100 I_{0} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b. \\( I=10 I_{0} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c. \\( I=I_{0} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d. \\( I=\\sqrt{10} I_{0} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Interference of Waves",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(b) For incoherent sources \\( I \\sum I_{0}=10 I_{0} \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Memory",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 12:31:06 PM",
+      "ocrQuestion": "The plane wave represent by an equation of the form \\( y=f(x-v t) \\) implies the propagation along the positive \\( x \\) axis without change of shape with constant velocity:\na. \\( \\frac{d v}{d t}=-v\\left(\\frac{d y}{d x}\\right) \\)\nb. \\( \\frac{d v}{d t}=-v\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)\nc. \\( \\frac{d^{2} v}{d t^{2}}=-v^{2}\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)\nd. \\( \\frac{d^{2} v}{d t^{2}}=v\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)",
+      "onlyq_text": "<p>The plane wave represent by an equation of the form \\( y=f(x-v t) \\) implies the propagation along the positive \\( x \\) axis without change of shape with constant velocity:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": [
+            "1",
+            "3"
+          ],
+          "lang_id": 1,
+          "option": "<p>a. \\( \\frac{d y}{d t}=-v\\left(\\frac{d y}{d x}\\right) \\)</p>"
+        },
+        {
+          "is_correct": [
+            "1",
+            "3"
+          ],
+          "lang_id": 1,
+          "option": "<p>b. \\( \\frac{d y}{d t}=-v\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)</p>"
+        },
+        {
+          "is_correct": [
+            "1",
+            "3"
+          ],
+          "lang_id": 1,
+          "option": "<p>c. \\( \\frac{d^{2} y}{d t^{2}}=-v^{2}\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)</p>"
+        },
+        {
+          "is_correct": [
+            "1",
+            "3"
+          ],
+          "lang_id": 1,
+          "option": "<p>d. \\( \\frac{d^{2} y}{d t^{2}}=v\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\)</p>"
+        }
+      ],
+      "optype": 2,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Basics Of Wave Propagation",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": " Consider for example the equation of the form:\\[\\begin{array}{l}y=a \\sin (\\omega t-k x) \\\\\\frac{d y}{d t}=a \\omega \\cos (\\omega t-k x) \\\\\\frac{d y}{d x}=-a k \\cos (\\omega t-k x)\\end{array}\\]Hence, \\( \\frac{d y}{d t}=-\\left(\\frac{\\omega}{k}\\right) \\frac{d y}{d x}=-v\\left(\\frac{d y}{d x}\\right) \\)i.e., choice (a) is correct.Now,\\( \\frac{d^{2} y}{d t^{2}}=a \\omega^{2} \\sin (\\omega t-k x)=-\\omega^{2} y \\)\\[\\frac{d^{2} y}{d x^{2}}=+k^{2} a \\sin (\\omega t-k x)=k^{2} y\\]\\( \\frac{d^{2} y}{d t^{2}}=-\\left(\\frac{\\omega^{2}}{k^{2}}\\right) \\frac{d^{2} y}{d x^{2}}=-v^{2}\\left(\\frac{d^{2} y}{d x^{2}}\\right) \\) i.e., choice (c) is correct.",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 12:33:37 PM",
+      "ocrQuestion": "A wave is represented by the equation. \\( y=A \\sin \\left(10 \\pi x+15 \\pi t+\\frac{\\pi}{3}\\right) \\) where \\( x \\) is in meter and \\( t \\) is the second. The expression represents:\na. A wave traveling in the positive \\( x \\)-direction with a velocity \\( 1.5 \\mathrm{~m} / \\mathrm{s} \\)\nb. A wave traveling in the negative \\( x \\)-direction with a velocity \\( 1.5 \\mathrm{~m} / \\mathrm{s} \\)\nc. A wave traveling in the negative \\( x \\)-direction have a wavelength \\( 0.2 \\mathrm{~m} \\)\nd. A wave traveling in the positive \\( x \\)-direction have a wavelength \\( 0.2 \\mathrm{~m} \\)",
+      "onlyq_text": "<p>A wave is represented by the equation. \\( y=A \\sin \\left(10 \\pi x+15 \\pi t+\\frac{\\pi}{3}\\right) \\) where \\( x \\) is in meter and \\( t \\) is the second. The expression represents:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": [
+            "2",
+            "3"
+          ],
+          "lang_id": 1,
+          "option": "<p>a. A wave traveling in the positive \\( x \\)-direction with a velocity \\( 1.5 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+        },
+        {
+          "is_correct": [
+            "2",
+            "3"
+          ],
+          "lang_id": 1,
+          "option": "<p>b. A wave traveling in the negative \\( x \\)-direction with a velocity \\( 1.5 \\mathrm{~m} / \\mathrm{s} \\)</p>"
+        },
+        {
+          "is_correct": [
+            "2",
+            "3"
+          ],
+          "lang_id": 1,
+          "option": "<p>c. A wave traveling in the negative \\( x \\)-direction have a wavelength \\( 0.2 \\mathrm{~m} \\)</p>"
+        },
+        {
+          "is_correct": [
+            "2",
+            "3"
+          ],
+          "lang_id": 1,
+          "option": "<p>d. A wave traveling in the positive \\( x \\)-direction have a wavelength \\( 0.2 \\mathrm{~m} \\)</p>"
+        }
+      ],
+      "optype": 2,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Basics Of Wave Propagation",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 12:39:39 PM",
+      "ocrQuestion": "A transvers sinusoidal wave of amplitude a, wavelength \\( \\lambda \\) and frequency \\( f \\) is traveling on a stretched string. The maximum speed at any point on the string is \\( (v / 10) \\) where \\( \\mathrm{v} \\) is speed of propagation of the wave. If \\( a=10^{-3} \\) \\( \\mathrm{m} \\) and \\( v=10 \\mathrm{~ms}^{-1} \\), then \\( \\lambda \\) and \\( f \\) are given by\na. \\( \\lambda=2 \\pi \\times 10^{-2} \\mathrm{~m} \\)\nb. \\( \\lambda=10^{-3} \\mathrm{~m} \\)\nc. \\( \\lambda=10^{3} /(2 \\pi) \\mathrm{Hz} \\)\nd. \\( f=10^{4} \\mathrm{~Hz} \\)",
+      "onlyq_text": "<p>A transvers sinusoidal wave of amplitude a, wavelength \\( \\lambda \\) and frequency \\( f \\) is traveling on a stretched string. The maximum speed at any point on the string is \\( (v / 10) \\) where \\( \\mathrm{v} \\) is speed of propagation of the wave. If \\( a=10^{-3} \\) \\( \\mathrm{m} \\) and \\( v=10 \\mathrm{~ms}^{-1} \\), then \\( \\lambda \\) and \\( f \\) are given by</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": [
+            "1",
+            "3"
+          ],
+          "lang_id": 1,
+          "option": "<p>a. \\( \\lambda=2 \\pi \\times 10^{-2} \\mathrm{~m} \\)</p>"
+        },
+        {
+          "is_correct": [
+            "1",
+            "3"
+          ],
+          "lang_id": 1,
+          "option": "<p>b. \\( \\lambda=10^{-3} \\mathrm{~m} \\)</p>"
+        },
+        {
+          "is_correct": [
+            "1",
+            "3"
+          ],
+          "lang_id": 1,
+          "option": "<p>c. \\( f=10^{3} /(2 \\pi) \\mathrm{Hz} \\)</p>"
+        },
+        {
+          "is_correct": [
+            "1",
+            "3"
+          ],
+          "lang_id": 1,
+          "option": "<p>d. \\( f=10^{4} \\mathrm{~Hz} \\)</p>"
+        }
+      ],
+      "optype": 2,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Wave on a String",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "MEDIUM",
+      "solutions": [
+        {
+          "sol_html": "(a,c) \\( v_{\\max }=a \\omega=a(2 \\pi f) \\)Given that \\( a(2 \\pi f)=\\frac{v}{10}=\\frac{10}{10}=1 \\) \\( f=\\frac{1}{2 \\pi f}=\\frac{10^{3}}{2 \\pi} \\) Hz As \\( v=f \\lambda \\) \\( \\lambda=\\frac{v}{f}=\\frac{10}{10^{3} / 2 \\pi}=2 \\pi \\times 10^{-2} \\mathrm{~m} \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast",
+        "Practice",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/7/2024, 12:46:09 PM",
+      "ocrQuestion": "During the propagation of sound wave of frequency \\( f \\), the compressions and rarefactions:\na. travel slower in water than in brass\nb. in air take place such that the entropy remains constant\nc. take place isothermally in all media\nd. are smaller distance apart in air than in water (distance between successive compressions and rarefactions)",
+      "onlyq_text": "<p>During the propagation of sound wave of frequency \\( f \\), the compressions and rarefactions:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": [
+            "1",
+            "2",
+            "4"
+          ],
+          "lang_id": 1,
+          "option": "<p>a. travel slower in water than in brass</p>"
+        },
+        {
+          "is_correct": [
+            "1",
+            "2",
+            "4"
+          ],
+          "lang_id": 1,
+          "option": "<p>b. in air take place such that the entropy remains constant</p>"
+        },
+        {
+          "is_correct": [
+            "1",
+            "2",
+            "4"
+          ],
+          "lang_id": 1,
+          "option": "<p>c. take place isothermally in all media</p>"
+        },
+        {
+          "is_correct": [
+            "1",
+            "2",
+            "4"
+          ],
+          "lang_id": 1,
+          "option": "<p>d. are smaller distance apart in air than in water (distance between successive compressions and rarefactions)</p>"
+        }
+      ],
+      "optype": 2,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Velocity of Sound",
+      "subject": "PHYSICS",
+      "topic_name": "WAVES",
+      "toughness": "MEDIUM",
+      "solutions": [
+        {
+          "sol_html": "\\( (\\mathbf{a}, \\mathbf{b}, \\mathbf{d}) \\) Velocity of compressions and rarefactions implies velocity of sound waves or longitudinal waves in a material medium.As \\( \\left(v_{\\text {sound }}\\right)_{\\text {solid }}>\\left(v_{\\text {sound }}\\right)_{\\text {liquid }} \\)Hence, choice (a) is correct. As process of propagation of sound waves in air or a gas is adiabatic, hence entropy. Will remain constant. So, choice (b) is correct. As distance between successive compressions and rarefactions is \\( \\lambda, v \\) is proportional to \\( \\lambda \\) and velocity of sound in a gas is smaller than that in air, hence, compressions and rarefactions are smaller distance apart in air than in water. So, choice (d) is correct.",
+          "solved_by": "sai"
+        }
+      ]
+    }
+  ]
 }
