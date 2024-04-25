@@ -1,261 +1,261 @@
 {
-    "questions": [
+  "questions": [
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Quantum Mechanics",
+      "concept_html": "",
+      "date": "3/6/2024, 5:13:00 PM",
+      "ocrQuestion": "Which of the following functions represents acceptable realistic wave function of a bound state of the particle in the range \\( (-\\infty < x < \\infty) \\) ? \\( (A, B, D, E, F \\) are positive real constants \\( \\& C \\) is negative real constant \\( ) \\)\n(a) \\( \\varphi(x)=A \\tan x \\)\n(b) \\( \\varphi(x)=B \\cos x \\)\n(c) \\( \\varphi(x)=C \\exp \\left(-D / x^{2}\\right) \\)\n(d) \\( \\varphi(x)=E x \\exp \\left(-F x^{2}\\right) \\)",
+      "onlyq_text": "<p>Which of the following functions represents acceptable realistic wave function of a bound state of the particle in the range \\( (-\\infty < x < \\infty) \\) ? \\( (A, B, D, E, F \\) are positive real constants \\( \\& C \\) is negative real constant \\( ) \\)</p>",
+      "option_hindi": [],
+      "options": [
         {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Quantum Mechanics",
-            "concept_html": "",
-            "date": "3/6/2024, 5:13:00 PM",
-            "ocrQuestion": "Which of the following functions represents acceptable realistic wave function of a bound state of the particle in the range \\( (-\\infty < x < \\infty) \\) ? \\( (A, B, D, E, F \\) are positive real constants \\( \\& C \\) is negative real constant \\( ) \\)\n(a) \\( \\varphi(x)=A \\tan x \\)\n(b) \\( \\varphi(x)=B \\cos x \\)\n(c) \\( \\varphi(x)=C \\exp \\left(-D / x^{2}\\right) \\)\n(d) \\( \\varphi(x)=E x \\exp \\left(-F x^{2}\\right) \\)",
-            "onlyq_text": "<p>Which of the following functions represents acceptable realistic wave function of a bound state of the particle in the range \\( (-\\infty < x < \\infty) \\) ? \\( (A, B, D, E, F \\) are positive real constants \\( \\& C \\) is negative real constant \\( ) \\)</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\varphi(x)=A \\tan x \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\varphi(x)=B \\cos x \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\varphi(x)=C \\exp \\left(-D / x^{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\varphi(x)=E x \\exp \\left(-F x^{2}\\right) \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "CONCEPT OF WAVE FUNCTION",
-            "subject": "PHYSICS",
-            "topic_name": "WAVE FUNCTION",
-            "toughness": "EASY"
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\varphi(x)=A \\tan x \\)</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Quantum Mechanics",
-            "concept_html": "",
-            "date": "3/6/2024, 5:16:09 PM",
-            "ocrQuestion": "Which of the following is an allowed wavefunction for a particle in a bound state? (where \\( N \\) is a constant and \\( \\alpha, \\beta>0 \\) )\n(a) \\( \\psi(x)=N \\frac{e^{-\\alpha x}}{x^{3}} \\)\n(b) \\( \\psi(x)=N\\left(1-e^{-\\alpha x}\\right) \\)\n(c) \\( \\psi(x)=N e^{-\\alpha x} e^{-\\beta\\left(x^{2}+y^{2}+z^{2}\\right)} \\)\n(d) \\( \\psi(x)=\\left\\{\\begin{array}{ll}\\text { non-zero constant } & \\text { if } x < R \\\\ 0 & \\text { if } x>R\\end{array}\\right. \\)",
-            "onlyq_text": "<p>Which of the following is an allowed wavefunction for a particle in a bound state? (where \\( N \\) is a constant and \\( \\alpha, \\beta>0 \\) )</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\psi(x)=N \\frac{e^{-\\alpha x}}{x^{3}} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\psi(x)=N\\left(1-e^{-\\alpha x}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\psi(x)=N e^{-\\alpha x} e^{-\\beta\\left(x^{2}+y^{2}+z^{2}\\right)} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\psi(x)=\\left\\{\\begin{array}{ll}\\text { non-zero constant } & \\text { if } x < R \\\\ 0 & \\text { if } x>R\\end{array}\\right. \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "CONCEPT OF WAVE FUNCTION",
-            "subject": "PHYSICS",
-            "topic_name": "WAVE FUNCTION",
-            "toughness": "EASY"
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\varphi(x)=B \\cos x \\)</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Quantum Mechanics",
-            "concept_html": "",
-            "date": "3/6/2024, 5:17:30 PM",
-            "ocrQuestion": "Which of the following wave function is an allowed wavefunction for a particle in a bound state for all values of \\( x \\) ? (A is a real constant)\n(a) \\( \\psi(x)=A \\sec x \\)\n(b) \\( \\psi(x)=A \\tan x \\)\n(c) \\( \\psi(x)=A e^{x^{2}} \\)\n(d) \\( \\psi(x)=A e^{-x^{2}} \\)",
-            "onlyq_text": "<p>Which of the following wave function is an allowed wavefunction for a particle in a bound state for all values of \\( x \\) ? (A is a real constant)</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\psi(x)=A \\sec x \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\psi(x)=A \\tan x \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\psi(x)=A e^{x^{2}} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\psi(x)=A e^{-x^{2}} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "CONCEPT OF WAVE FUNCTION",
-            "subject": "PHYSICS",
-            "topic_name": "WAVE FUNCTION",
-            "toughness": "EASY"
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\varphi(x)=C \\exp \\left(-D / x^{2}\\right) \\)</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "MultiConcept",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Quantum Mechanics",
-            "concept_html": "",
-            "date": "3/6/2024, 5:22:09 PM",
-            "ocrQuestion": "An one dimensional wave function is given by\n\\[\n\\psi(x)=\\left\\{\\begin{array}{ll}\nA \\sin \\left(\\frac{\\pi x}{2 l}\\right) ; & 0 < x < 2 l \\\\\n0 & ; \\quad \\text { otherwise }\n\\end{array}\\right\\}\n\\]\n\nThe value of the normalization constant ' \\( A \\) ' is\n(a) \\( \\sqrt{1 / l} \\)\n(b) \\( \\sqrt{2 / 3 l} \\)\n(c) \\( \\sqrt{2 / l} \\)\n(d) \\( \\sqrt{1 / 3 l} \\)",
-            "onlyq_text": "<p>An one dimensional wave function is given by\\[\\psi(x)=\\left\\{\\begin{array}{ll}A \\sin \\left(\\frac{\\pi x}{2 l}\\right) ; & 0 < x < 2 l \\\\0 & ; \\quad \\text { otherwise }\\end{array}\\right\\}\\]The value of the normalization constant ' \\( A \\) ' is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\sqrt{1 / l} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\sqrt{2 / 3 l} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\sqrt{2 / l} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\sqrt{1 / 3 l} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "CONCEPT OF WAVE FUNCTION",
-            "subject": "PHYSICS",
-            "topic_name": "WAVE FUNCTION",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Quantum Mechanics",
-            "concept_html": "",
-            "date": "3/6/2024, 5:39:24 PM",
-            "ocrQuestion": "In an one-dimensional system, the normalized wave function is given by\n\\[\n\\psi(x)=N \\exp [-\\alpha|x|] \\quad(\\alpha \\text { is positive real constant })\n\\]\nwhere \\( N \\) is normalization constant. What is the value of \\( N \\) ?\n(a) \\( \\sqrt{2 / \\alpha} \\)\n(b) \\( \\sqrt{2 \\alpha} \\)\n(c) \\( \\sqrt{1 / \\alpha} \\)\n(d) \\( \\sqrt{\\alpha} \\)",
-            "onlyq_text": "<p>In an one-dimensional system, the normalized wave function is given by\\[\\psi(x)=N \\exp [-\\alpha|x|] \\quad(\\alpha \\text { is positive real constant })\\]where \\( N \\) is normalization constant. What is the value of \\( N \\) ?</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\sqrt{2 / \\alpha} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\sqrt{2 \\alpha} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\sqrt{1 / \\alpha} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\sqrt{\\alpha} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "CONCEPT OF WAVE FUNCTION",
-            "subject": "PHYSICS",
-            "topic_name": "WAVE FUNCTION",
-            "toughness": "EASY"
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\varphi(x)=E x \\exp \\left(-F x^{2}\\right) \\)</p>"
         }
-    ]
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "CONCEPT OF WAVE FUNCTION",
+      "subject": "PHYSICS",
+      "topic_name": "WAVE FUNCTION",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Quantum Mechanics",
+      "concept_html": "",
+      "date": "3/6/2024, 5:16:09 PM",
+      "ocrQuestion": "Which of the following is an allowed wavefunction for a particle in a bound state? (where \\( N \\) is a constant and \\( \\alpha, \\beta>0 \\) )\n(a) \\( \\psi(x)=N \\frac{e^{-\\alpha x}}{x^{3}} \\)\n(b) \\( \\psi(x)=N\\left(1-e^{-\\alpha x}\\right) \\)\n(c) \\( \\psi(x)=N e^{-\\alpha x} e^{-\\beta\\left(x^{2}+y^{2}+z^{2}\\right)} \\)\n(d) \\( \\psi(x)=\\left\\{\\begin{array}{ll}\\text { non-zero constant } & \\text { if } x < R \\\\ 0 & \\text { if } x>R\\end{array}\\right. \\)",
+      "onlyq_text": "<p>Which of the following is an allowed wavefunction for a particle in a bound state? (where \\( N \\) is a constant and \\( \\alpha, \\beta>0 \\) )</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\psi(x)=N \\frac{e^{-\\alpha x}}{x^{3}} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\psi(x)=N\\left(1-e^{-\\alpha x}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\psi(x)=N e^{-\\alpha x} e^{-\\beta\\left(x^{2}+y^{2}+z^{2}\\right)} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\psi(x)=\\left\\{\\begin{array}{ll}\\text { non-zero constant } & \\text { if } x < R \\\\ 0 & \\text { if } x>R\\end{array}\\right. \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "CONCEPT OF WAVE FUNCTION",
+      "subject": "PHYSICS",
+      "topic_name": "WAVE FUNCTION",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Quantum Mechanics",
+      "concept_html": "",
+      "date": "3/6/2024, 5:17:30 PM",
+      "ocrQuestion": "Which of the following wave function is an allowed wavefunction for a particle in a bound state for all values of \\( x \\) ? (A is a real constant)\n(a) \\( \\psi(x)=A \\sec x \\)\n(b) \\( \\psi(x)=A \\tan x \\)\n(c) \\( \\psi(x)=A e^{x^{2}} \\)\n(d) \\( \\psi(x)=A e^{-x^{2}} \\)",
+      "onlyq_text": "<p>Which of the following wave function is an allowed wavefunction for a particle in a bound state for all values of \\( x \\) ? (A is a real constant)</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\psi(x)=A \\sec x \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\psi(x)=A \\tan x \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\psi(x)=A e^{x^{2}} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\psi(x)=A e^{-x^{2}} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "CONCEPT OF WAVE FUNCTION",
+      "subject": "PHYSICS",
+      "topic_name": "WAVE FUNCTION",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "MultiConcept",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Quantum Mechanics",
+      "concept_html": "",
+      "date": "3/6/2024, 5:22:09 PM",
+      "ocrQuestion": "An one dimensional wave function is given by\n\\[\n\\psi(x)=\\left\\{\\begin{array}{ll}\nA \\sin \\left(\\frac{\\pi x}{2 l}\\right) ; & 0 < x < 2 l \\\\\n0 & ; \\quad \\text { otherwise }\n\\end{array}\\right\\}\n\\]\n\nThe value of the normalization constant ' \\( A \\) ' is\n(a) \\( \\sqrt{1 / l} \\)\n(b) \\( \\sqrt{2 / 3 l} \\)\n(c) \\( \\sqrt{2 / l} \\)\n(d) \\( \\sqrt{1 / 3 l} \\)",
+      "onlyq_text": "<p>An one dimensional wave function is given by\\[\\psi(x)=\\left\\{\\begin{array}{ll}A \\sin \\left(\\frac{\\pi x}{2 l}\\right) ; & 0 < x < 2 l \\\\0 & ; \\quad \\text { otherwise }\\end{array}\\right\\}\\]The value of the normalization constant ' \\( A \\) ' is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\sqrt{1 / l} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\sqrt{2 / 3 l} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\sqrt{2 / l} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\sqrt{1 / 3 l} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "CONCEPT OF WAVE FUNCTION",
+      "subject": "PHYSICS",
+      "topic_name": "WAVE FUNCTION",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Quantum Mechanics",
+      "concept_html": "",
+      "date": "3/6/2024, 5:39:24 PM",
+      "ocrQuestion": "In an one-dimensional system, the normalized wave function is given by\n\\[\n\\psi(x)=N \\exp [-\\alpha|x|] \\quad(\\alpha \\text { is positive real constant })\n\\]\nwhere \\( N \\) is normalization constant. What is the value of \\( N \\) ?\n(a) \\( \\sqrt{2 / \\alpha} \\)\n(b) \\( \\sqrt{2 \\alpha} \\)\n(c) \\( \\sqrt{1 / \\alpha} \\)\n(d) \\( \\sqrt{\\alpha} \\)",
+      "onlyq_text": "<p>In an one-dimensional system, the normalized wave function is given by\\[\\psi(x)=N \\exp [-\\alpha|x|] \\quad(\\alpha \\text { is positive real constant })\\]where \\( N \\) is normalization constant. What is the value of \\( N \\) ?</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\sqrt{2 / \\alpha} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\sqrt{2 \\alpha} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\sqrt{1 / \\alpha} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\sqrt{\\alpha} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "CONCEPT OF WAVE FUNCTION",
+      "subject": "PHYSICS",
+      "topic_name": "WAVE FUNCTION",
+      "toughness": "EASY",
+      "solutions": []
+    }
+  ]
 }
