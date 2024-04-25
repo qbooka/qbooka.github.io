@@ -1,56 +1,56 @@
 {
-    "questions": [
+  "questions": [
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/3/2024, 11:19:57 PM",
+      "ocrQuestion": "Let \\( z_{1} \\) and \\( z_{2} \\) are two non-zero complex numbers such that\n\\[\n\\left|z_{1}+z_{2}\\right|=\\left|z_{1}-z_{2}\\right|\n\\]\nthen the phase difference between \\( z_{1} \\) and \\( z_{2} \\) is\n(a) \\( 30^{\\circ} \\)\n(b) \\( 45^{\\circ} \\)\n(c) \\( 60^{\\circ} \\)\n(d) \\( 90^{\\circ} \\)",
+      "onlyq_text": "<p>Let \\( z_{1} \\) and \\( z_{2} \\) are two non-zero complex numbers such that\\[\\left|z_{1}+z_{2}\\right|=\\left|z_{1}-z_{2}\\right|\\]then the phase difference between \\( z_{1} \\) and \\( z_{2} \\) is</p>",
+      "option_hindi": [],
+      "options": [
         {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/3/2024, 11:19:57 PM",
-            "ocrQuestion": "Let \\( z_{1} \\) and \\( z_{2} \\) are two non-zero complex numbers such that\n\\[\n\\left|z_{1}+z_{2}\\right|=\\left|z_{1}-z_{2}\\right|\n\\]\nthen the phase difference between \\( z_{1} \\) and \\( z_{2} \\) is\n(a) \\( 30^{\\circ} \\)\n(b) \\( 45^{\\circ} \\)\n(c) \\( 60^{\\circ} \\)\n(d) \\( 90^{\\circ} \\)",
-            "onlyq_text": "<p>Let \\( z_{1} \\) and \\( z_{2} \\) are two non-zero complex numbers such that\\[\\left|z_{1}+z_{2}\\right|=\\left|z_{1}-z_{2}\\right|\\]then the phase difference between \\( z_{1} \\) and \\( z_{2} \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( 30^{\\circ} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( 45^{\\circ} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( 60^{\\circ} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( 90^{\\circ} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Basic Preview of Complex Numbers",
-            "subject": "PHYSICS",
-            "topic_name": "COMPLEX NUMBER",
-            "toughness": "EASY",
-            "branch": "Mathematical Physics"
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(a) \\( 30^{\\circ} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(b) \\( 45^{\\circ} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(c) \\( 60^{\\circ} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(d) \\( 90^{\\circ} \\)</p>"
         }
-    ]
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Basic Preview of Complex Numbers",
+      "subject": "PHYSICS",
+      "topic_name": "COMPLEX NUMBER",
+      "toughness": "EASY",
+      "branch": "Mathematical Physics",
+      "solutions": []
+    }
+  ]
 }

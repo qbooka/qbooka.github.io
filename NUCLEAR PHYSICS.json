@@ -1,1406 +1,1486 @@
 {
-    "questions": [
+  "questions": [
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/5/2024, 9:21:49 PM",
+      "ocrQuestion": "The repulsive force between the positively charged protons does not throw then apart, because\n(a) nuclear force is stronger\n(b) neutrons exist between protons\n(c) coulombian force does not act at small distances\n(d) due to reasons other the mentioned above",
+      "onlyq_text": "<p>The repulsive force between the positively charged protons does not throw then apart, because</p>",
+      "option_hindi": [],
+      "options": [
         {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/5/2024, 9:21:49 PM",
-            "ocrQuestion": "The repulsive force between the positively charged protons does not throw then apart, because\n(a) nuclear force is stronger\n(b) neutrons exist between protons\n(c) coulombian force does not act at small distances\n(d) due to reasons other the mentioned above",
-            "onlyq_text": "<p>The repulsive force between the positively charged protons does not throw then apart, because</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) nuclear force is stronger</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) neutrons exist between protons</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) coulombian force does not act at small distances</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) due to reasons other the mentioned above</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) nuclear force is stronger</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/5/2024, 9:23:13 PM",
-            "ocrQuestion": "The approximate ratio of nuclear densities of \\( { }_{26} \\mathrm{Fe}^{56} \\) and \\( { }_{92} U^{238} \\) is\n(a) 0\n(b) \\( \\infty \\)\n(c) 1\n(d) None of these",
-            "onlyq_text": "<p>The approximate ratio of nuclear densities of \\( { }_{26} \\mathrm{Fe}^{56} \\) and \\( { }_{92} U^{238} \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) 0</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\infty \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) 1</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) None of these</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) neutrons exist between protons</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Memory",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/5/2024, 9:37:45 PM",
-            "ocrQuestion": "Which of the following is the alpha particle?\n(a) \\( { }_{+1}^{0} e \\)\n(b) \\( { }_{-1}^{0} e \\)\n(c) \\( { }_{1}^{1} H \\)\n(d) \\( { }_{2}^{4} \\mathrm{He} \\)",
-            "onlyq_text": "<p>Which of the following is the alpha particle?</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( { }_{+1}^{0} e \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( { }_{-1}^{0} e \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( { }_{1}^{1} H \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( { }_{2}^{4} \\mathrm{He} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) coulombian force does not act at small distances</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Memory",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/5/2024, 9:39:23 PM",
-            "ocrQuestion": "Which of the following is the \\( \\beta^{+} \\)particle\n(a) \\( { }_{+1}^{0} \\mathrm{e} \\)\n(b) \\( { }_{-1}^{0} e \\)\n(c) \\( { }_{0}^{1} n \\)\n(d) \\( { }_{1}^{1} \\mathrm{H} \\)",
-            "onlyq_text": "<p>Which of the following is the \\( \\beta^{+} \\)particle</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( { }_{+1}^{0} \\mathrm{e} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( { }_{-1}^{0} e \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( { }_{0}^{1} n \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( { }_{1}^{1} \\mathrm{H} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Memory",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/5/2024, 9:39:58 PM",
-            "ocrQuestion": "Which of the following is the \\( \\beta^{-} \\)particle?\n(a) \\( { }_{+1}^{0} e \\)\n(b) \\( { }_{-1}^{0} e \\)\n(c) \\( { }_{0}^{1} n \\)\n(d) \\( { }_{1}^{1} H \\)",
-            "onlyq_text": "<p>Which of the following is the \\( \\beta^{-} \\)particle?</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( { }_{+1}^{0} e \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( { }_{-1}^{0} e \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( { }_{0}^{1} n \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( { }_{1}^{1} H \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/5/2024, 9:41:40 PM",
-            "ocrQuestion": "The nuclei \\( C_{6}^{13} \\) and \\( N_{7}^{14} \\) can be described as\n[BHU-2019]\n(a) Isobars\n(b) Isotopes of nitrogen\n(c) Isotopes of carbon\n(d) isotones",
-            "onlyq_text": "<p>The nuclei \\( C_{6}^{13} \\) and \\( N_{7}^{14} \\) can be described as[BHU-2019]</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(a) Isobars</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(b) Isotopes of nitrogen</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(c) Isotopes of carbon</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(d) isotones</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": [
-                    "BHU"
-                ]
-            },
-            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/5/2024, 9:44:26 PM",
-            "ocrQuestion": "Two spherical nuclie have mass numbers 216 and 64 with their radii \\( R_{1} \\) and \\( R_{2} \\) respectively. The ratio \\( \\frac{R_{1}}{R_{2}} \\) is:\n[IIT JAM 2009]\n(a) 1.0\n(b) 1.5\n(c) 2.0\n(d) 2.5",
-            "onlyq_text": "<p>Two spherical nuclie have mass numbers 216 and 64 with their radii \\( R_{1} \\) and \\( R_{2} \\) respectively. The ratio \\( \\frac{R_{1}}{R_{2}} \\) is:[IIT JAM 2009]</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) 1.0</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) 1.5</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) 2.0</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) 2.5</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": [
-                    "IIT-JAM"
-                ]
-            },
-            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "ForJEE",
-                "ForNEET",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/5/2024, 9:48:14 PM",
-            "ocrQuestion": "The volume of a nucleus in an atom is proportional to the\n[GATE 2004]\n(a) mass number\n(b) Proton Number\n(c) neutron number\n(d) electron number",
-            "onlyq_text": "<p>The volume of a nucleus in an atom is proportional to the[GATE 2004]</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) mass number</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) Proton Number</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) neutron number</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) electron number</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": [
-                    "GATE-PHY"
-                ]
-            },
-            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast",
-                "Veriety",
-                "Practice",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/5/2024, 9:50:37 PM",
-            "ocrQuestion": "The intrinsic electric dipole moment of a nucleus \\( { }_{Z}^{A} X \\)\n[NET Dec. 2013]\n(a) increases with \\( Z \\), but independent of \\( A \\)\n(b) decreases with \\( Z \\), but independent of \\( A \\)\n(c) is always zero\n(d) increases with \\( Z \\) and \\( A \\)",
-            "onlyq_text": "<p>The intrinsic electric dipole moment of a nucleus \\( { }_{Z}^{A} X \\)[NET Dec. 2013]</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) increases with \\( Z \\), but independent of \\( A \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) decreases with \\( Z \\), but independent of \\( A \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) is always zero</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) increases with \\( Z \\) and \\( A \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": [
-                    "CSIR-NET"
-                ]
-            },
-            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 9:22:05 AM",
-            "ocrQuestion": "Some radioactive nucleus may emit\na. Only one \\( \\alpha, \\beta \\) or \\( \\gamma \\) at a time\nb. All the three \\( \\alpha, \\beta \\) and \\( \\gamma \\) one after another\nc. All the three \\( \\alpha, \\beta \\) and \\( \\gamma \\) simultaneously\nd. Only \\( \\alpha \\) and \\( \\beta \\) simultaneously",
-            "onlyq_text": "<p>Some radioactive nucleus may emit</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>a. Only one \\( \\alpha, \\beta \\) or \\( \\gamma \\) at a time</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>b. All the three \\( \\alpha, \\beta \\) and \\( \\gamma \\) one after another</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>c. All the three \\( \\alpha, \\beta \\) and \\( \\gamma \\) simultaneously</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>d. Only \\( \\alpha \\) and \\( \\beta \\) simultaneously</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(a) No radioactive substance emit both \\( \\alpha \\) and \\( \\beta \\) particles simultaneously. Some substances emit \\( \\alpha \\)-particles and some other emits \\( \\beta \\)-particles. \\( \\gamma \\) - rays are emitted along with both \\( \\alpha \\) and \\( \\beta \\)-particles.",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Memory",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 9:23:20 AM",
-            "ocrQuestion": "Which can pass through \\( 20 \\mathrm{~cm} \\) thickness of the steel\na. \\( \\alpha \\)-particles\nb. \\( \\beta \\)-particles\nc. \\( \\gamma \\)-rays\nd. Ultraviolet rays",
-            "onlyq_text": "<p>Which can pass through \\( 20 \\mathrm{~cm} \\) thickness of the steel</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( \\alpha \\)-particles</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( \\beta \\)-particles</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( \\gamma \\)-rays</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>d. Ultraviolet rays</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(c) \\( \\gamma \\)-rays are highly penetrating.",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "MultiConcept",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 9:27:43 AM",
-            "ocrQuestion": "The half-life period of radium is 1600 years. Its average life time will be\na. 3200 years\nb. 4800 years\nc. 2319 years\nd. 4217 years",
-            "onlyq_text": "<p>The half-life period of radium is 1600 years. Its average life time will be</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>a. 3200 years</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>b. 4800 years</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>c. 2319 years</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>d. 4217 years</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(c) Average life \\( \\frac{1}{\\lambda}=\\frac{1600}{0.693}=2308 \\approx 2319 \\) years.",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 9:30:54 AM",
-            "ocrQuestion": "What percentage of original radioactive atoms is left after five half lives\na. \\( 0.3 \\% \\)\nb. \\( 1 \\% \\)\nc. \\( 31 \\% \\)\nd. \\( 3.125 \\% \\)",
-            "onlyq_text": "<p>What percentage of original radioactive atoms is left after five half lives</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( 0.3 \\% \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( 1 \\% \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 31 \\% \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( 3.125 \\% \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(d) Fraction of atoms remains after five half lives\\[\\frac{N}{N_{0}}=\\left(\\frac{1}{2}\\right)^{t / T}=\\left(\\frac{1}{2}\\right)^{5 T / T}=\\frac{1}{32}\\]Percentage atom remains\\[=\\frac{1}{32} \\times 100=3.125 \\%\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast",
-                "Veriety",
-                "Practice",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 9:49:15 AM",
-            "ocrQuestion": "If \\( T \\) is the half life of a radioactive material, then the fraction that would remain after a time \\( \\frac{T}{2} \\) is\na. \\( \\frac{1}{2} \\)\nb. \\( \\frac{3}{4} \\)\nc. \\( \\frac{1}{\\sqrt{2}} \\)\nd. \\( \\frac{\\sqrt{2}-1}{\\sqrt{2}} \\)",
-            "onlyq_text": "<p>If \\( T \\) is the half life of a radioactive material, then the fraction that would remain after a time \\( \\frac{T}{2} \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( \\frac{1}{2} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( \\frac{3}{4} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( \\frac{1}{\\sqrt{2}} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( \\frac{\\sqrt{2}-1}{\\sqrt{2}} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(c) Fraction remains after \\( n \\) half lives\\[\\begin{array}{l}\\frac{N}{N_{0}}=\\left(\\frac{1}{2}\\right)^{n}=\\left(\\frac{1}{2}\\right)^{t / T} \\\\\\frac{N}{N_{0}}=\\left(\\frac{1}{2}\\right)^{\\frac{T / 2}{T}}=\\left(\\frac{1}{2}\\right)^{1 / 2}=\\frac{1}{\\sqrt{2}}\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Memory",
-                "Veriety",
-                "Practice",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 9:50:26 AM",
-            "ocrQuestion": "If the decay or disintegration constant of a radioactive substance is \\( \\lambda \\), then its half life and mean life are respectively\na. \\( \\frac{1}{\\lambda} \\) and \\( \\frac{\\log _{e} 2}{\\lambda} \\)\nb. \\( \\frac{\\log _{e} 2}{\\lambda} \\) and \\( \\frac{1}{\\lambda} \\)\nc. \\( \\lambda \\log _{e} 2 \\) and \\( \\frac{1}{\\lambda} \\)\nd. \\( \\frac{\\lambda}{\\log _{e} 2} \\) and \\( \\frac{1}{\\lambda} \\)",
-            "onlyq_text": "<p>If the decay or disintegration constant of a radioactive substance is \\( \\lambda \\), then its half life and mean life are respectively</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( \\frac{1}{\\lambda} \\) and \\( \\frac{\\log _{e} 2}{\\lambda} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( \\frac{\\log _{e} 2}{\\lambda} \\) and \\( \\frac{1}{\\lambda} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( \\lambda \\log _{e} 2 \\) and \\( \\frac{1}{\\lambda} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( \\frac{\\lambda}{\\log _{e} 2} \\) and \\( \\frac{1}{\\lambda} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Memory",
-                "Veriety",
-                "Practice",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 3:56:17 PM",
-            "ocrQuestion": "Which of the following is in the increasing order for penetrating power\na. \\( \\alpha, \\beta, \\gamma \\)\nb. \\( \\beta, \\alpha, \\gamma \\)\nc. \\( \\gamma, \\alpha, \\beta \\)\nd. \\( \\gamma, \\beta, \\alpha \\)",
-            "onlyq_text": "<p>Which of the following is in the increasing order for penetrating power</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( \\alpha, \\beta, \\gamma \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( \\beta, \\alpha, \\gamma \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( \\gamma, \\alpha, \\beta \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( \\gamma, \\beta, \\alpha \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(a) Penetration power of \\( \\gamma \\) is 100 times of \\( \\beta \\), while that of \\( \\beta \\) is 100 times of \\( \\alpha \\).",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast",
-                "Veriety",
-                "Practice",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 4:02:12 PM",
-            "ocrQuestion": "The half life of a radioactive element which has only \\( \\frac{1}{32} \\) of its original mass left after a lapse of 60 days is\na. 12 days\nb. 32 days\nc. 60 days\nd. 64 days",
-            "onlyq_text": "<p>The half life of a radioactive element which has only \\( \\frac{1}{32} \\) of its original mass left after a lapse of 60 days is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>a. 12 days</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>b. 32 days</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>c. 60 days</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>d. 64 days</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(a) \\( \\frac{N_{0}}{32}=N_{0}\\left(\\frac{1}{2}\\right)^{60 / T} \\Rightarrow 5=\\frac{60}{T} \\Rightarrow T=12 \\) days",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 4:04:07 PM",
-            "ocrQuestion": "The half-life of \\( B i^{210} \\) is 5 days. What time is taken by \\( (7 / 8)^{\\text {th }} \\) part of the sample to decay\na. 3.4 days\nb. 10 days\nc. 15 days\nd. 20 days",
-            "onlyq_text": "<p>The half-life of \\( B i^{210} \\) is 5 days. What time is taken by \\( (7 / 8)^{\\text {th }} \\) part of the sample to decay</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>a. 3.4 days</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>b. 10 days</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>c. 15 days</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>d. 20 days</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(c) By using \\( N=N_{0}\\left(\\frac{1}{2}\\right)^{t / T} \\); where \\( N=\\left(1-\\frac{7}{8}\\right) N_{0}=\\frac{1}{8} N_{0} \\)\\[\\begin{array}{l}\\frac{1}{8} N_{0}=N_{0}\\left(\\frac{1}{2}\\right)^{t / T} \\\\\\left(\\frac{1}{2}\\right)^{3}=\\left(\\frac{1}{2}\\right)^{t / 5} \\Rightarrow t=15 \\text { days. }\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 4:11:49 PM",
-            "ocrQuestion": "A sample contains \\( 16 \\mathrm{gm} \\) of a radioactive material, the half life of which is two days. After 32 days, the amount of radioactive material left in the sample is\na. Less than \\( 1 \\mathrm{mg} \\)\nb. \\( \\frac{1}{4} g m \\)\nc. \\( \\frac{1}{2} g m \\)\nd. \\( 1 \\mathrm{gm} \\)",
-            "onlyq_text": "<p>A sample contains \\( 16 \\mathrm{gm} \\) of a radioactive material, the half life of which is two days. After 32 days, the amount of radioactive material left in the sample is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>a. Less than \\( 1 \\mathrm{mg} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( \\frac{1}{4} g m \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( \\frac{1}{2} g m \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( 1 \\mathrm{gm} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(a) Remaining amount\\[=16 \\times\\left(\\frac{1}{2}\\right)^{32 / 2}=16 \\times\\left(\\frac{1}{2}\\right)^{16}=\\left(\\frac{1}{2}\\right)^{12}<1 \\mathrm{mg}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Memory",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 4:13:14 PM",
-            "ocrQuestion": "Consider a radioactive material of half-life 1.0 minute. If one of the nuclei decays now, the next one will decay\na. After 1 minute\nb. After \\( \\frac{1}{\\log _{e} 2} \\) minute\nc. After \\( \\frac{1}{N} \\) minute, where \\( \\mathrm{N} \\) is the number of nuclei present at that moment\nd. After any time",
-            "onlyq_text": "<p>Consider a radioactive material of half-life 1.0 minute. If one of the nuclei decays now, the next one will decay</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>a. After 1 minute</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>b. After \\( \\frac{1}{\\log _{e} 2} \\) minute</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>c. After \\( \\frac{1}{N} \\) minute, where \\( \\mathrm{N} \\) is the number of nuclei present at that moment</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>d. After any time</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(d) Because radioactivity is a spontaneous phenomenon.",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 4:15:38 PM",
-            "ocrQuestion": "The half life of the isotope \\( { }_{11} \\mathrm{Na}^{24} \\) is \\( 15 \\mathrm{hrs} \\). How much time does it take for \\( \\frac{7}{8} \\) th of a sample of this isotope to decay\na. \\( 75 \\mathrm{hrs} \\)\nb. \\( 65 \\mathrm{hrs} \\)\nc. \\( 55 \\mathrm{hrs} \\)\nd. \\( 45 \\mathrm{hrs} \\)",
-            "onlyq_text": "<p>The half life of the isotope \\( { }_{11} \\mathrm{Na}^{24} \\) is \\( 15 \\mathrm{hrs} \\). How much time does it take for \\( \\frac{7}{8} \\) th of a sample of this isotope to decay</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( 75 \\mathrm{hrs} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( 65 \\mathrm{hrs} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 55 \\mathrm{hrs} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( 45 \\mathrm{hrs} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "\\( \\begin{array}{l}\\text { (d) Undecayed isotope }=1-\\frac{7}{8}=\\frac{1}{8} \\\\ \\frac{N}{N_{0}}=\\left(\\frac{1}{2}\\right)^{t / T} \\Rightarrow\\left(\\frac{1}{8}\\right)=\\left(\\frac{1}{2}\\right)^{t / 15} \\Rightarrow \\frac{t}{15}=3 \\\\ t=45 \\text { hours }\\end{array} \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 4:21:29 PM",
-            "ocrQuestion": "The counting rate observed from a radioactive source at \\( t=0 \\) second was 1600 counts per second and at \\( t=8 \\) seconds it was 100 counts per second. The counting rate observed, as counts per second at \\( t=6 \\) seconds, will be\na. 400\nb. 300\nc. 200\nd. 150",
-            "onlyq_text": "<p>The counting rate observed from a radioactive source at \\( t=0 \\) second was 1600 counts per second and at \\( t=8 \\) seconds it was 100 counts per second. The counting rate observed, as counts per second at \\( t=6 \\) seconds, will be</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>a. 400</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>b. 300</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>c. 200</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>d. 150</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "\\[\\begin{array}{l}\\text { (c) } A=A_{0}\\left(\\frac{1}{2}\\right)^{\\frac{t}{T_{1 / 2}}} \\\\100=1600\\left(\\frac{1}{2}\\right)^{\\frac{8}{T_{1 / 2}}} \\\\T_{1 / 2}=2 \\mathrm{sec}\\end{array}\\]Again at \\( t=6 \\mathrm{sec}, A=1600\\left(\\frac{1}{2}\\right)^{\\frac{6}{2}}=200 \\) counts \\( / \\mathrm{sec} \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Memory",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 4:23:46 PM",
-            "ocrQuestion": "The relationship between \\( \\lambda \\) and half life \\( \\left(T_{1 / 2}\\right) \\) of a radioactive substance is\na. \\( \\lambda=\\frac{\\log _{10} 2}{T_{1 / 2}} \\)\nb. \\( \\lambda=\\frac{\\log _{e} 2}{T_{1 / 2}} \\)\nc. \\( \\lambda=\\frac{\\log _{2} 10}{T_{1 / 2}} \\)\nd. \\( \\lambda=\\frac{\\log _{2} e}{T_{1 / 2}} \\)",
-            "onlyq_text": "<p>The relationship between \\( \\lambda \\) and half life \\( \\left(T_{1 / 2}\\right) \\) of a radioactive substance is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( \\lambda=\\frac{\\log _{10} 2}{T_{1 / 2}} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( \\lambda=\\frac{\\log _{e} 2}{T_{1 / 2}} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( \\lambda=\\frac{\\log _{2} 10}{T_{1 / 2}} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( \\lambda=\\frac{\\log _{2} e}{T_{1 / 2}} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Memory",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 4:25:19 PM",
-            "ocrQuestion": "The half life \\( (\\mathrm{T}) \\) and the disintegration constant \\( (\\lambda) \\) of a radioactive substance are related as\na. \\( \\lambda T=1 \\)\nb. \\( \\lambda T=0.693 \\)\nc. \\( \\frac{T}{\\lambda}=0.693 \\)\nd. \\( \\frac{\\lambda}{T}=0.693 \\)",
-            "onlyq_text": "<p>The half life \\( (\\mathrm{T}) \\) and the disintegration constant \\( (\\lambda) \\) of a radioactive substance are related as</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( \\lambda T=1 \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( \\lambda T=0.693 \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( \\frac{T}{\\lambda}=0.693 \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( \\frac{\\lambda}{T}=0.693 \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "20. (b) By using \\( N=N_{0} e^{-\\lambda t} \\)\\[\\begin{array}{l}\\Rightarrow \\quad \\frac{N_{0}}{2}=N_{0} e^{-\\lambda T_{1 / 2}} \\\\\\Rightarrow \\quad 2=e^{\\lambda T_{1 / 2}}\\end{array}\\]By taking \\( \\log _{e} \\) both the side \\( \\log _{e} 2=\\lambda T_{1 / 2} \\)\\[\\Rightarrow \\quad \\lambda T_{1 / 2}=0.693\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 4:27:30 PM",
-            "ocrQuestion": "The half life period of a radioactive substance is \\( 5 \\mathrm{~min} \\). The amount of substance decayed in \\( 20 \\mathrm{~min} \\) will be\na. \\( 93.75 \\% \\)\nb. \\( 75 \\% \\)\nc. \\( 25 \\% \\)\nd. \\( 6.25 \\% \\)",
-            "onlyq_text": "<p>The half life period of a radioactive substance is \\( 5 \\mathrm{~min} \\). The amount of substance decayed in \\( 20 \\mathrm{~min} \\) will be</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( 93.75 \\% \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( 75 \\% \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 25 \\% \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( 6.25 \\% \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(a) Number of half lives in \\( 20 \\mathrm{~min}=n=\\frac{20}{5}=4 \\)Fraction of material remains after four half lives \\( =\\frac{1}{16} \\)Hence fraction that decays\\[=1-\\frac{1}{16}=\\frac{15}{16}=93.75 \\%\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 4:29:17 PM",
-            "ocrQuestion": "Radon \\( (R a) \\) decays into Polonium \\( \\left(P_{0}\\right) \\) by emitting an \\( \\alpha \\)-particle with half-life of 4 days. A sample contains \\( 6.4 \\times 10^{10} \\) atoms of \\( R n \\). After 12 days, the number of atoms of \\( R_{n} \\) left in the sample will be\na. \\( 3.2 \\times 10^{10} \\)\nb. \\( 0.53 \\times 10^{10} \\)\nc. \\( 2.1 \\times 10^{10} \\)\nd. \\( 0.8 \\times 10^{10} \\)",
-            "onlyq_text": "<p>Radon \\( (R a) \\) decays into Polonium \\( \\left(P_{0}\\right) \\) by emitting an \\( \\alpha \\)-particle with half-life of 4 days. A sample contains \\( 6.4 \\times 10^{10} \\) atoms of \\( R n \\). After 12 days, the number of atoms of \\( R_{n} \\) left in the sample will be</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( 3.2 \\times 10^{10} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>b. \\( 0.53 \\times 10^{10} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>c. \\( 2.1 \\times 10^{10} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>d. \\( 0.8 \\times 10^{10} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(d) In the given case, 12 days \\( =3 \\) half lives Number of atoms left after 3 half lives.\\[=6.4 \\times 10^{10} \\times \\frac{1}{2^{3}}=0.8 \\times 10^{10}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "RADIO ACTIVITY",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "ForJEE",
-                "ForNEET",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Nuclear & Particle Physics",
-            "concept_html": "",
-            "date": "3/6/2024, 4:32:47 PM",
-            "ocrQuestion": "The mass number of \\( \\mathrm{He} \\) is 4 and that for sulphur is 32 . The radius of sulphur nucleus is larger than that of helium, by times\na. \\( \\sqrt{8} \\)\nb. 4\nc. 2\nd. 8",
-            "onlyq_text": "<p>The mass number of \\( \\mathrm{He} \\) is 4 and that for sulphur is 32 . The radius of sulphur nucleus is larger than that of helium, by times</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>a. \\( \\sqrt{8} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>b. 4</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>c. 2</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>d. 8</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "(c) \\( r \\propto(A)^{1 / 3} \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
-            "subject": "PHYSICS",
-            "topic_name": "NUCLEAR PHYSICS",
-            "toughness": "EASY"
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) due to reasons other the mentioned above</p>"
         }
-    ]
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/5/2024, 9:23:13 PM",
+      "ocrQuestion": "The approximate ratio of nuclear densities of \\( { }_{26} \\mathrm{Fe}^{56} \\) and \\( { }_{92} U^{238} \\) is\n(a) 0\n(b) \\( \\infty \\)\n(c) 1\n(d) None of these",
+      "onlyq_text": "<p>The approximate ratio of nuclear densities of \\( { }_{26} \\mathrm{Fe}^{56} \\) and \\( { }_{92} U^{238} \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) 0</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\infty \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) 1</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) None of these</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Memory",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/5/2024, 9:37:45 PM",
+      "ocrQuestion": "Which of the following is the alpha particle?\n(a) \\( { }_{+1}^{0} e \\)\n(b) \\( { }_{-1}^{0} e \\)\n(c) \\( { }_{1}^{1} H \\)\n(d) \\( { }_{2}^{4} \\mathrm{He} \\)",
+      "onlyq_text": "<p>Which of the following is the alpha particle?</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(a) \\( { }_{+1}^{0} e \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(b) \\( { }_{-1}^{0} e \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(c) \\( { }_{1}^{1} H \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(d) \\( { }_{2}^{4} \\mathrm{He} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Memory",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/5/2024, 9:39:23 PM",
+      "ocrQuestion": "Which of the following is the \\( \\beta^{+} \\)particle\n(a) \\( { }_{+1}^{0} \\mathrm{e} \\)\n(b) \\( { }_{-1}^{0} e \\)\n(c) \\( { }_{0}^{1} n \\)\n(d) \\( { }_{1}^{1} \\mathrm{H} \\)",
+      "onlyq_text": "<p>Which of the following is the \\( \\beta^{+} \\)particle</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) \\( { }_{+1}^{0} \\mathrm{e} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) \\( { }_{-1}^{0} e \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) \\( { }_{0}^{1} n \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) \\( { }_{1}^{1} \\mathrm{H} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Memory",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/5/2024, 9:39:58 PM",
+      "ocrQuestion": "Which of the following is the \\( \\beta^{-} \\)particle?\n(a) \\( { }_{+1}^{0} e \\)\n(b) \\( { }_{-1}^{0} e \\)\n(c) \\( { }_{0}^{1} n \\)\n(d) \\( { }_{1}^{1} H \\)",
+      "onlyq_text": "<p>Which of the following is the \\( \\beta^{-} \\)particle?</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( { }_{+1}^{0} e \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( { }_{-1}^{0} e \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( { }_{0}^{1} n \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( { }_{1}^{1} H \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/5/2024, 9:41:40 PM",
+      "ocrQuestion": "The nuclei \\( C_{6}^{13} \\) and \\( N_{7}^{14} \\) can be described as\n[BHU-2019]\n(a) Isobars\n(b) Isotopes of nitrogen\n(c) Isotopes of carbon\n(d) isotones",
+      "onlyq_text": "<p>The nuclei \\( C_{6}^{13} \\) and \\( N_{7}^{14} \\) can be described as[BHU-2019]</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(a) Isobars</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(b) Isotopes of nitrogen</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(c) Isotopes of carbon</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(d) isotones</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": [
+          "BHU"
+        ]
+      },
+      "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/5/2024, 9:44:26 PM",
+      "ocrQuestion": "Two spherical nuclie have mass numbers 216 and 64 with their radii \\( R_{1} \\) and \\( R_{2} \\) respectively. The ratio \\( \\frac{R_{1}}{R_{2}} \\) is:\n[IIT JAM 2009]\n(a) 1.0\n(b) 1.5\n(c) 2.0\n(d) 2.5",
+      "onlyq_text": "<p>Two spherical nuclie have mass numbers 216 and 64 with their radii \\( R_{1} \\) and \\( R_{2} \\) respectively. The ratio \\( \\frac{R_{1}}{R_{2}} \\) is:[IIT JAM 2009]</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) 1.0</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) 1.5</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) 2.0</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) 2.5</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": [
+          "IIT-JAM"
+        ]
+      },
+      "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "ForJEE",
+        "ForNEET",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/5/2024, 9:48:14 PM",
+      "ocrQuestion": "The volume of a nucleus in an atom is proportional to the\n[GATE 2004]\n(a) mass number\n(b) Proton Number\n(c) neutron number\n(d) electron number",
+      "onlyq_text": "<p>The volume of a nucleus in an atom is proportional to the[GATE 2004]</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) mass number</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) Proton Number</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) neutron number</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) electron number</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": [
+          "GATE-PHY"
+        ]
+      },
+      "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast",
+        "Veriety",
+        "Practice",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/5/2024, 9:50:37 PM",
+      "ocrQuestion": "The intrinsic electric dipole moment of a nucleus \\( { }_{Z}^{A} X \\)\n[NET Dec. 2013]\n(a) increases with \\( Z \\), but independent of \\( A \\)\n(b) decreases with \\( Z \\), but independent of \\( A \\)\n(c) is always zero\n(d) increases with \\( Z \\) and \\( A \\)",
+      "onlyq_text": "<p>The intrinsic electric dipole moment of a nucleus \\( { }_{Z}^{A} X \\)[NET Dec. 2013]</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) increases with \\( Z \\), but independent of \\( A \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) decreases with \\( Z \\), but independent of \\( A \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) is always zero</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) increases with \\( Z \\) and \\( A \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": [
+          "CSIR-NET"
+        ]
+      },
+      "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 9:22:05 AM",
+      "ocrQuestion": "Some radioactive nucleus may emit\na. Only one \\( \\alpha, \\beta \\) or \\( \\gamma \\) at a time\nb. All the three \\( \\alpha, \\beta \\) and \\( \\gamma \\) one after another\nc. All the three \\( \\alpha, \\beta \\) and \\( \\gamma \\) simultaneously\nd. Only \\( \\alpha \\) and \\( \\beta \\) simultaneously",
+      "onlyq_text": "<p>Some radioactive nucleus may emit</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>a. Only one \\( \\alpha, \\beta \\) or \\( \\gamma \\) at a time</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>b. All the three \\( \\alpha, \\beta \\) and \\( \\gamma \\) one after another</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>c. All the three \\( \\alpha, \\beta \\) and \\( \\gamma \\) simultaneously</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>d. Only \\( \\alpha \\) and \\( \\beta \\) simultaneously</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(a) No radioactive substance emit both \\( \\alpha \\) and \\( \\beta \\) particles simultaneously. Some substances emit \\( \\alpha \\)-particles and some other emits \\( \\beta \\)-particles. \\( \\gamma \\) - rays are emitted along with both \\( \\alpha \\) and \\( \\beta \\)-particles.",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Memory",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 9:23:20 AM",
+      "ocrQuestion": "Which can pass through \\( 20 \\mathrm{~cm} \\) thickness of the steel\na. \\( \\alpha \\)-particles\nb. \\( \\beta \\)-particles\nc. \\( \\gamma \\)-rays\nd. Ultraviolet rays",
+      "onlyq_text": "<p>Which can pass through \\( 20 \\mathrm{~cm} \\) thickness of the steel</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>a. \\( \\alpha \\)-particles</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>b. \\( \\beta \\)-particles</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>c. \\( \\gamma \\)-rays</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>d. Ultraviolet rays</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(c) \\( \\gamma \\)-rays are highly penetrating.",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "MultiConcept",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 9:27:43 AM",
+      "ocrQuestion": "The half-life period of radium is 1600 years. Its average life time will be\na. 3200 years\nb. 4800 years\nc. 2319 years\nd. 4217 years",
+      "onlyq_text": "<p>The half-life period of radium is 1600 years. Its average life time will be</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>a. 3200 years</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>b. 4800 years</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>c. 2319 years</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>d. 4217 years</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(c) Average life \\( \\frac{1}{\\lambda}=\\frac{1600}{0.693}=2308 \\approx 2319 \\) years.",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 9:30:54 AM",
+      "ocrQuestion": "What percentage of original radioactive atoms is left after five half lives\na. \\( 0.3 \\% \\)\nb. \\( 1 \\% \\)\nc. \\( 31 \\% \\)\nd. \\( 3.125 \\% \\)",
+      "onlyq_text": "<p>What percentage of original radioactive atoms is left after five half lives</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>a. \\( 0.3 \\% \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>b. \\( 1 \\% \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>c. \\( 31 \\% \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>d. \\( 3.125 \\% \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(d) Fraction of atoms remains after five half lives\\[\\frac{N}{N_{0}}=\\left(\\frac{1}{2}\\right)^{t / T}=\\left(\\frac{1}{2}\\right)^{5 T / T}=\\frac{1}{32}\\]Percentage atom remains\\[=\\frac{1}{32} \\times 100=3.125 \\%\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast",
+        "Veriety",
+        "Practice",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 9:49:15 AM",
+      "ocrQuestion": "If \\( T \\) is the half life of a radioactive material, then the fraction that would remain after a time \\( \\frac{T}{2} \\) is\na. \\( \\frac{1}{2} \\)\nb. \\( \\frac{3}{4} \\)\nc. \\( \\frac{1}{\\sqrt{2}} \\)\nd. \\( \\frac{\\sqrt{2}-1}{\\sqrt{2}} \\)",
+      "onlyq_text": "<p>If \\( T \\) is the half life of a radioactive material, then the fraction that would remain after a time \\( \\frac{T}{2} \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>a. \\( \\frac{1}{2} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>b. \\( \\frac{3}{4} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>c. \\( \\frac{1}{\\sqrt{2}} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>d. \\( \\frac{\\sqrt{2}-1}{\\sqrt{2}} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(c) Fraction remains after \\( n \\) half lives\\[\\begin{array}{l}\\frac{N}{N_{0}}=\\left(\\frac{1}{2}\\right)^{n}=\\left(\\frac{1}{2}\\right)^{t / T} \\\\\\frac{N}{N_{0}}=\\left(\\frac{1}{2}\\right)^{\\frac{T / 2}{T}}=\\left(\\frac{1}{2}\\right)^{1 / 2}=\\frac{1}{\\sqrt{2}}\\end{array}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Memory",
+        "Veriety",
+        "Practice",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 9:50:26 AM",
+      "ocrQuestion": "If the decay or disintegration constant of a radioactive substance is \\( \\lambda \\), then its half life and mean life are respectively\na. \\( \\frac{1}{\\lambda} \\) and \\( \\frac{\\log _{e} 2}{\\lambda} \\)\nb. \\( \\frac{\\log _{e} 2}{\\lambda} \\) and \\( \\frac{1}{\\lambda} \\)\nc. \\( \\lambda \\log _{e} 2 \\) and \\( \\frac{1}{\\lambda} \\)\nd. \\( \\frac{\\lambda}{\\log _{e} 2} \\) and \\( \\frac{1}{\\lambda} \\)",
+      "onlyq_text": "<p>If the decay or disintegration constant of a radioactive substance is \\( \\lambda \\), then its half life and mean life are respectively</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a. \\( \\frac{1}{\\lambda} \\) and \\( \\frac{\\log _{e} 2}{\\lambda} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b. \\( \\frac{\\log _{e} 2}{\\lambda} \\) and \\( \\frac{1}{\\lambda} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c. \\( \\lambda \\log _{e} 2 \\) and \\( \\frac{1}{\\lambda} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d. \\( \\frac{\\lambda}{\\log _{e} 2} \\) and \\( \\frac{1}{\\lambda} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Memory",
+        "Veriety",
+        "Practice",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 3:56:17 PM",
+      "ocrQuestion": "Which of the following is in the increasing order for penetrating power\na. \\( \\alpha, \\beta, \\gamma \\)\nb. \\( \\beta, \\alpha, \\gamma \\)\nc. \\( \\gamma, \\alpha, \\beta \\)\nd. \\( \\gamma, \\beta, \\alpha \\)",
+      "onlyq_text": "<p>Which of the following is in the increasing order for penetrating power</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>a. \\( \\alpha, \\beta, \\gamma \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>b. \\( \\beta, \\alpha, \\gamma \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>c. \\( \\gamma, \\alpha, \\beta \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>d. \\( \\gamma, \\beta, \\alpha \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(a) Penetration power of \\( \\gamma \\) is 100 times of \\( \\beta \\), while that of \\( \\beta \\) is 100 times of \\( \\alpha \\).",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast",
+        "Veriety",
+        "Practice",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 4:02:12 PM",
+      "ocrQuestion": "The half life of a radioactive element which has only \\( \\frac{1}{32} \\) of its original mass left after a lapse of 60 days is\na. 12 days\nb. 32 days\nc. 60 days\nd. 64 days",
+      "onlyq_text": "<p>The half life of a radioactive element which has only \\( \\frac{1}{32} \\) of its original mass left after a lapse of 60 days is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>a. 12 days</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>b. 32 days</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>c. 60 days</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>d. 64 days</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(a) \\( \\frac{N_{0}}{32}=N_{0}\\left(\\frac{1}{2}\\right)^{60 / T} \\Rightarrow 5=\\frac{60}{T} \\Rightarrow T=12 \\) days",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 4:04:07 PM",
+      "ocrQuestion": "The half-life of \\( B i^{210} \\) is 5 days. What time is taken by \\( (7 / 8)^{\\text {th }} \\) part of the sample to decay\na. 3.4 days\nb. 10 days\nc. 15 days\nd. 20 days",
+      "onlyq_text": "<p>The half-life of \\( B i^{210} \\) is 5 days. What time is taken by \\( (7 / 8)^{\\text {th }} \\) part of the sample to decay</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>a. 3.4 days</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>b. 10 days</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>c. 15 days</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>d. 20 days</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(c) By using \\( N=N_{0}\\left(\\frac{1}{2}\\right)^{t / T} \\); where \\( N=\\left(1-\\frac{7}{8}\\right) N_{0}=\\frac{1}{8} N_{0} \\)\\[\\begin{array}{l}\\frac{1}{8} N_{0}=N_{0}\\left(\\frac{1}{2}\\right)^{t / T} \\\\\\left(\\frac{1}{2}\\right)^{3}=\\left(\\frac{1}{2}\\right)^{t / 5} \\Rightarrow t=15 \\text { days. }\\end{array}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 4:11:49 PM",
+      "ocrQuestion": "A sample contains \\( 16 \\mathrm{gm} \\) of a radioactive material, the half life of which is two days. After 32 days, the amount of radioactive material left in the sample is\na. Less than \\( 1 \\mathrm{mg} \\)\nb. \\( \\frac{1}{4} g m \\)\nc. \\( \\frac{1}{2} g m \\)\nd. \\( 1 \\mathrm{gm} \\)",
+      "onlyq_text": "<p>A sample contains \\( 16 \\mathrm{gm} \\) of a radioactive material, the half life of which is two days. After 32 days, the amount of radioactive material left in the sample is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>a. Less than \\( 1 \\mathrm{mg} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>b. \\( \\frac{1}{4} g m \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>c. \\( \\frac{1}{2} g m \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>d. \\( 1 \\mathrm{gm} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(a) Remaining amount\\[=16 \\times\\left(\\frac{1}{2}\\right)^{32 / 2}=16 \\times\\left(\\frac{1}{2}\\right)^{16}=\\left(\\frac{1}{2}\\right)^{12}<1 \\mathrm{mg}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Memory",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 4:13:14 PM",
+      "ocrQuestion": "Consider a radioactive material of half-life 1.0 minute. If one of the nuclei decays now, the next one will decay\na. After 1 minute\nb. After \\( \\frac{1}{\\log _{e} 2} \\) minute\nc. After \\( \\frac{1}{N} \\) minute, where \\( \\mathrm{N} \\) is the number of nuclei present at that moment\nd. After any time",
+      "onlyq_text": "<p>Consider a radioactive material of half-life 1.0 minute. If one of the nuclei decays now, the next one will decay</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>a. After 1 minute</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>b. After \\( \\frac{1}{\\log _{e} 2} \\) minute</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>c. After \\( \\frac{1}{N} \\) minute, where \\( \\mathrm{N} \\) is the number of nuclei present at that moment</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>d. After any time</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(d) Because radioactivity is a spontaneous phenomenon.",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 4:15:38 PM",
+      "ocrQuestion": "The half life of the isotope \\( { }_{11} \\mathrm{Na}^{24} \\) is \\( 15 \\mathrm{hrs} \\). How much time does it take for \\( \\frac{7}{8} \\) th of a sample of this isotope to decay\na. \\( 75 \\mathrm{hrs} \\)\nb. \\( 65 \\mathrm{hrs} \\)\nc. \\( 55 \\mathrm{hrs} \\)\nd. \\( 45 \\mathrm{hrs} \\)",
+      "onlyq_text": "<p>The half life of the isotope \\( { }_{11} \\mathrm{Na}^{24} \\) is \\( 15 \\mathrm{hrs} \\). How much time does it take for \\( \\frac{7}{8} \\) th of a sample of this isotope to decay</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>a. \\( 75 \\mathrm{hrs} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>b. \\( 65 \\mathrm{hrs} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>c. \\( 55 \\mathrm{hrs} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>d. \\( 45 \\mathrm{hrs} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "\\( \\begin{array}{l}\\text { (d) Undecayed isotope }=1-\\frac{7}{8}=\\frac{1}{8} \\\\ \\frac{N}{N_{0}}=\\left(\\frac{1}{2}\\right)^{t / T} \\Rightarrow\\left(\\frac{1}{8}\\right)=\\left(\\frac{1}{2}\\right)^{t / 15} \\Rightarrow \\frac{t}{15}=3 \\\\ t=45 \\text { hours }\\end{array} \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 4:21:29 PM",
+      "ocrQuestion": "The counting rate observed from a radioactive source at \\( t=0 \\) second was 1600 counts per second and at \\( t=8 \\) seconds it was 100 counts per second. The counting rate observed, as counts per second at \\( t=6 \\) seconds, will be\na. 400\nb. 300\nc. 200\nd. 150",
+      "onlyq_text": "<p>The counting rate observed from a radioactive source at \\( t=0 \\) second was 1600 counts per second and at \\( t=8 \\) seconds it was 100 counts per second. The counting rate observed, as counts per second at \\( t=6 \\) seconds, will be</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>a. 400</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>b. 300</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>c. 200</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>d. 150</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "MEDIUM",
+      "solutions": [
+        {
+          "sol_html": "\\[\\begin{array}{l}\\text { (c) } A=A_{0}\\left(\\frac{1}{2}\\right)^{\\frac{t}{T_{1 / 2}}} \\\\100=1600\\left(\\frac{1}{2}\\right)^{\\frac{8}{T_{1 / 2}}} \\\\T_{1 / 2}=2 \\mathrm{sec}\\end{array}\\]Again at \\( t=6 \\mathrm{sec}, A=1600\\left(\\frac{1}{2}\\right)^{\\frac{6}{2}}=200 \\) counts \\( / \\mathrm{sec} \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Memory",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 4:23:46 PM",
+      "ocrQuestion": "The relationship between \\( \\lambda \\) and half life \\( \\left(T_{1 / 2}\\right) \\) of a radioactive substance is\na. \\( \\lambda=\\frac{\\log _{10} 2}{T_{1 / 2}} \\)\nb. \\( \\lambda=\\frac{\\log _{e} 2}{T_{1 / 2}} \\)\nc. \\( \\lambda=\\frac{\\log _{2} 10}{T_{1 / 2}} \\)\nd. \\( \\lambda=\\frac{\\log _{2} e}{T_{1 / 2}} \\)",
+      "onlyq_text": "<p>The relationship between \\( \\lambda \\) and half life \\( \\left(T_{1 / 2}\\right) \\) of a radioactive substance is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a. \\( \\lambda=\\frac{\\log _{10} 2}{T_{1 / 2}} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b. \\( \\lambda=\\frac{\\log _{e} 2}{T_{1 / 2}} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c. \\( \\lambda=\\frac{\\log _{2} 10}{T_{1 / 2}} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d. \\( \\lambda=\\frac{\\log _{2} e}{T_{1 / 2}} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Memory",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 4:25:19 PM",
+      "ocrQuestion": "The half life \\( (\\mathrm{T}) \\) and the disintegration constant \\( (\\lambda) \\) of a radioactive substance are related as\na. \\( \\lambda T=1 \\)\nb. \\( \\lambda T=0.693 \\)\nc. \\( \\frac{T}{\\lambda}=0.693 \\)\nd. \\( \\frac{\\lambda}{T}=0.693 \\)",
+      "onlyq_text": "<p>The half life \\( (\\mathrm{T}) \\) and the disintegration constant \\( (\\lambda) \\) of a radioactive substance are related as</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a. \\( \\lambda T=1 \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b. \\( \\lambda T=0.693 \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c. \\( \\frac{T}{\\lambda}=0.693 \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d. \\( \\frac{\\lambda}{T}=0.693 \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "20. (b) By using \\( N=N_{0} e^{-\\lambda t} \\)\\[\\begin{array}{l}\\Rightarrow \\quad \\frac{N_{0}}{2}=N_{0} e^{-\\lambda T_{1 / 2}} \\\\\\Rightarrow \\quad 2=e^{\\lambda T_{1 / 2}}\\end{array}\\]By taking \\( \\log _{e} \\) both the side \\( \\log _{e} 2=\\lambda T_{1 / 2} \\)\\[\\Rightarrow \\quad \\lambda T_{1 / 2}=0.693\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 4:27:30 PM",
+      "ocrQuestion": "The half life period of a radioactive substance is \\( 5 \\mathrm{~min} \\). The amount of substance decayed in \\( 20 \\mathrm{~min} \\) will be\na. \\( 93.75 \\% \\)\nb. \\( 75 \\% \\)\nc. \\( 25 \\% \\)\nd. \\( 6.25 \\% \\)",
+      "onlyq_text": "<p>The half life period of a radioactive substance is \\( 5 \\mathrm{~min} \\). The amount of substance decayed in \\( 20 \\mathrm{~min} \\) will be</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>a. \\( 93.75 \\% \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>b. \\( 75 \\% \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>c. \\( 25 \\% \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>d. \\( 6.25 \\% \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(a) Number of half lives in \\( 20 \\mathrm{~min}=n=\\frac{20}{5}=4 \\)Fraction of material remains after four half lives \\( =\\frac{1}{16} \\)Hence fraction that decays\\[=1-\\frac{1}{16}=\\frac{15}{16}=93.75 \\%\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 4:29:17 PM",
+      "ocrQuestion": "Radon \\( (R a) \\) decays into Polonium \\( \\left(P_{0}\\right) \\) by emitting an \\( \\alpha \\)-particle with half-life of 4 days. A sample contains \\( 6.4 \\times 10^{10} \\) atoms of \\( R n \\). After 12 days, the number of atoms of \\( R_{n} \\) left in the sample will be\na. \\( 3.2 \\times 10^{10} \\)\nb. \\( 0.53 \\times 10^{10} \\)\nc. \\( 2.1 \\times 10^{10} \\)\nd. \\( 0.8 \\times 10^{10} \\)",
+      "onlyq_text": "<p>Radon \\( (R a) \\) decays into Polonium \\( \\left(P_{0}\\right) \\) by emitting an \\( \\alpha \\)-particle with half-life of 4 days. A sample contains \\( 6.4 \\times 10^{10} \\) atoms of \\( R n \\). After 12 days, the number of atoms of \\( R_{n} \\) left in the sample will be</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>a. \\( 3.2 \\times 10^{10} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>b. \\( 0.53 \\times 10^{10} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>c. \\( 2.1 \\times 10^{10} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>d. \\( 0.8 \\times 10^{10} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "RADIO ACTIVITY",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(d) In the given case, 12 days \\( =3 \\) half lives Number of atoms left after 3 half lives.\\[=6.4 \\times 10^{10} \\times \\frac{1}{2^{3}}=0.8 \\times 10^{10}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "ForJEE",
+        "ForNEET",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Nuclear & Particle Physics",
+      "concept_html": "",
+      "date": "3/6/2024, 4:32:47 PM",
+      "ocrQuestion": "The mass number of \\( \\mathrm{He} \\) is 4 and that for sulphur is 32 . The radius of sulphur nucleus is larger than that of helium, by times\na. \\( \\sqrt{8} \\)\nb. 4\nc. 2\nd. 8",
+      "onlyq_text": "<p>The mass number of \\( \\mathrm{He} \\) is 4 and that for sulphur is 32 . The radius of sulphur nucleus is larger than that of helium, by times</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>a. \\( \\sqrt{8} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>b. 4</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>c. 2</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>d. 8</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+      "subject": "PHYSICS",
+      "topic_name": "NUCLEAR PHYSICS",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "(c) \\( r \\propto(A)^{1 / 3} \\)",
+          "solved_by": "sai"
+        }
+      ]
+    }
+  ]
 }

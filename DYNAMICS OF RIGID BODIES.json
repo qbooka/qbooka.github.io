@@ -1,747 +1,752 @@
 {
-    "questions": [
+  "questions": [
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Memory",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Classical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 1:26:45 PM",
+      "ocrQuestion": "A square is made by joining four thin rods of length \\( L \\) and mass \\( M \\). Moment of inertia of square about one of its diagonal is\n(a) \\( \\frac{4}{3} M L^{2} \\)\n(b) \\( \\frac{2}{3} M L^{2} \\)\n(c) \\( \\frac{M L^{2}}{2} \\)\n(d) \\( \\frac{M L^{2}}{3} \\)",
+      "onlyq_text": "<p>A square is made by joining four thin rods of length \\( L \\) and mass \\( M \\). Moment of inertia of square about one of its diagonal is</p>",
+      "option_hindi": [],
+      "options": [
         {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Memory",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Classical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 1:26:45 PM",
-            "ocrQuestion": "A square is made by joining four thin rods of length \\( L \\) and mass \\( M \\). Moment of inertia of square about one of its diagonal is\n(a) \\( \\frac{4}{3} M L^{2} \\)\n(b) \\( \\frac{2}{3} M L^{2} \\)\n(c) \\( \\frac{M L^{2}}{2} \\)\n(d) \\( \\frac{M L^{2}}{3} \\)",
-            "onlyq_text": "<p>A square is made by joining four thin rods of length \\( L \\) and mass \\( M \\). Moment of inertia of square about one of its diagonal is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\frac{4}{3} M L^{2} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{2}{3} M L^{2} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\frac{M L^{2}}{2} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{M L^{2}}{3} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
-            "subject": "PHYSICS",
-            "topic_name": "DYNAMICS OF RIGID BODIES",
-            "toughness": "EASY"
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\frac{4}{3} M L^{2} \\)</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast",
-                "MultiConcept",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Classical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 1:28:19 PM",
-            "ocrQuestion": "Moment of inertia of a cube is maximum about\n(a) body diagonal\n(b) face diagonal\n(c) edge\n(d) an axis perpendicular to face and passing through its centre",
-            "onlyq_text": "<p>Moment of inertia of a cube is maximum about</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) body diagonal</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) face diagonal</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) edge</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) an axis perpendicular to face and passing through its centre</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
-            "subject": "PHYSICS",
-            "topic_name": "DYNAMICS OF RIGID BODIES",
-            "toughness": "EASY"
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{2}{3} M L^{2} \\)</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Classical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 1:29:20 PM",
-            "ocrQuestion": "Moment of inertia of a square plate of mass \\( m \\) and side \\( a \\) about an axis through its corner and perpendicular to its plane is\n(a) \\( \\frac{m a^{2}}{6} \\)\n(b) \\( \\frac{2}{3} m a^{2} \\)\n(c) \\( \\frac{1}{3} m a^{2} \\)\n(d) \\( \\frac{1}{4} m a^{2} \\)",
-            "onlyq_text": "<p>Moment of inertia of a square plate of mass \\( m \\) and side \\( a \\) about an axis through its corner and perpendicular to its plane is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\frac{m a^{2}}{6} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{2}{3} m a^{2} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\frac{1}{3} m a^{2} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{1}{4} m a^{2} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
-            "subject": "PHYSICS",
-            "topic_name": "DYNAMICS OF RIGID BODIES",
-            "toughness": "EASY"
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\frac{M L^{2}}{2} \\)</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast",
-                "MultiConcept",
-                "Practice",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Classical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 1:35:19 PM",
-            "ocrQuestion": "Four thin rods each of mass \\( M \\) and length \\( L \\) are joined together to form a square loop. M.I. of the loop about its axis is (axis is \\( \\perp \\) to plane through centre)\n(a) \\( \\frac{M L^{2}}{3} \\)\n(b) \\( \\frac{M L^{2}}{4} \\)\n(c) \\( \\frac{4 M L^{2}}{3} \\)\n(d) \\( \\frac{3 M L^{2}}{4} \\)",
-            "onlyq_text": "<p>Four thin rods each of mass \\( M \\) and length \\( L \\) are joined together to form a square loop. M.I. of the loop about its axis is (axis is \\( \\perp \\) to plane through centre)</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\frac{M L^{2}}{3} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{M L^{2}}{4} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\frac{4 M L^{2}}{3} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{3 M L^{2}}{4} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
-            "subject": "PHYSICS",
-            "topic_name": "DYNAMICS OF RIGID BODIES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Practice",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Classical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 1:49:03 PM",
-            "ocrQuestion": "Four thin rods each of mass \\( M \\) and length \\( L \\) are joined together to form a square loop. M.I. of the loop about Its Diagonal\n(a) \\( \\frac{M L^{2}}{6} \\)\n(b) \\( \\frac{2}{3} M L^{2} \\)\n(c) \\( \\frac{M L^{2}}{3} \\)\n(d) \\( \\frac{M L^{2}}{4} \\)",
-            "onlyq_text": "<p>Four thin rods each of mass \\( M \\) and length \\( L \\) are joined together to form a square loop. M.I. of the loop about Its Diagonal</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\frac{M L^{2}}{6} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{2}{3} M L^{2} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\frac{M L^{2}}{3} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{M L^{2}}{4} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
-            "subject": "PHYSICS",
-            "topic_name": "DYNAMICS OF RIGID BODIES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "calculative",
-                "Practice",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Classical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 1:51:05 PM",
-            "ocrQuestion": "We have two spheres, one of which is hollow and the other is solid. The two have equal masses and equal moment of inertia about their diametres, ratio of their radii is (hollow to solid)\n(a) \\( 5: 7 \\)\n(b) \\( 3: 5 \\)\n(c) \\( \\sqrt{3}: \\sqrt{5} \\)\n(d) \\( \\sqrt{3}: \\sqrt{7} \\)",
-            "onlyq_text": "<p>We have two spheres, one of which is hollow and the other is solid. The two have equal masses and equal moment of inertia about their diametres, ratio of their radii is (hollow to solid)</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( 5: 7 \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( 3: 5 \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\sqrt{3}: \\sqrt{5} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\sqrt{3}: \\sqrt{7} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
-            "subject": "PHYSICS",
-            "topic_name": "DYNAMICS OF RIGID BODIES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "calculative",
-                "Memory",
-                "ForJEE",
-                "MultiConcept",
-                "Practice",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Classical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 2:53:55 PM",
-            "ocrQuestion": "A right circular cone has mass \\( M \\), radius \\( R \\), and height \\( h \\). Moment of inertia of cone about a diameter of its base is\n(a) \\( \\frac{M}{20}\\left(3 R^{2}+2 h^{2}\\right) \\)\n(b) \\( \\frac{M}{20}\\left(3 h^{2}+2 R^{2}\\right) \\)\n(c) \\( \\frac{M}{10}\\left(3 R^{2}+2 h^{2}\\right) \\)\n(d) \\( \\frac{M}{10}\\left(3 h^{2}+2 R^{2}\\right) \\)",
-            "onlyq_text": "<p>A right circular cone has mass \\( M \\), radius \\( R \\), and height \\( h \\). Moment of inertia of cone about a diameter of its base is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\frac{M}{20}\\left(3 R^{2}+2 h^{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{M}{20}\\left(3 h^{2}+2 R^{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\frac{M}{10}\\left(3 R^{2}+2 h^{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{M}{10}\\left(3 h^{2}+2 R^{2}\\right) \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
-            "subject": "PHYSICS",
-            "topic_name": "DYNAMICS OF RIGID BODIES",
-            "toughness": "HARD"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "leanthy",
-                "calculative",
-                "Memory",
-                "ForJEE",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Classical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 3:21:26 PM",
-            "ocrQuestion": "A thick hollow sphere of mass ' \\( M \\) ' has inner and outer adii \\( R_{1} \\) and \\( R_{2} \\). Moment of inertia of sphere about its diameter is\n(a) \\( \\frac{1}{5} M\\left(R_{1}^{2}+R_{2}^{2}\\right) \\)\n(b) \\( \\frac{2}{3} M\\left(R_{1}^{2}+R_{2}^{2}\\right) \\)\n(c) \\( \\frac{1}{3} M\\left(R_{1}^{2}+R_{2}^{2}\\right) \\)\n(d) \\( \\frac{2}{5} M\\left(\\frac{R_{2}^{5}-R_{1}^{5}}{R_{2}^{3}-R_{1}^{3}}\\right) \\)",
-            "onlyq_text": "<p>A thick hollow sphere of mass ' \\( M \\) ' has inner and outer adii \\( R_{1} \\) and \\( R_{2} \\). Moment of inertia of sphere about its diameter is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\frac{1}{5} M\\left(R_{1}^{2}+R_{2}^{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{2}{3} M\\left(R_{1}^{2}+R_{2}^{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\frac{1}{3} M\\left(R_{1}^{2}+R_{2}^{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{2}{5} M\\left(\\frac{R_{2}^{5}-R_{1}^{5}}{R_{2}^{3}-R_{1}^{3}}\\right) \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
-            "subject": "PHYSICS",
-            "topic_name": "DYNAMICS OF RIGID BODIES",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "calculative",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Classical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 3:24:02 PM",
-            "ocrQuestion": "A spherical shell of mass \\( M \\) has inner and outer radii \\( R \\) and \\( 2 R \\) respectively. Moment of inertia of the shell about its diameter is\n(a) \\( \\frac{20}{9} M R^{2} \\)\n(b) \\( \\frac{15}{7} M R^{2} \\)\n(c) \\( \\frac{62}{35} M R^{2} \\)\n(d) \\( \\frac{10}{7} M R^{2} \\)",
-            "onlyq_text": "<p>A spherical shell of mass \\( M \\) has inner and outer radii \\( R \\) and \\( 2 R \\) respectively. Moment of inertia of the shell about its diameter is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\frac{20}{9} M R^{2} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{15}{7} M R^{2} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\frac{62}{35} M R^{2} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{10}{7} M R^{2} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
-            "subject": "PHYSICS",
-            "topic_name": "DYNAMICS OF RIGID BODIES",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Memory",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Classical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 3:30:24 PM",
-            "ocrQuestion": "Moment of inertia of a solid cube about an axis perpendicular to its face and passing through its centre is \\( [ \\) Mass of cube \\( =M \\), side length \\( =a] \\)\n(a) \\( \\frac{M a^{2}}{12} \\)\n(b) \\( \\frac{M a^{2}}{6} \\)\n(c) \\( \\frac{M a^{2}}{3} \\)\n(d) \\( \\frac{M a^{2}}{4} \\)",
-            "onlyq_text": "<p>Moment of inertia of a solid cube about an axis perpendicular to its face and passing through its centre is \\( [ \\) Mass of cube \\( =M \\), side length \\( =a] \\)</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\frac{M a^{2}}{12} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{M a^{2}}{6} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\frac{M a^{2}}{3} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{M a^{2}}{4} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
-            "subject": "PHYSICS",
-            "topic_name": "DYNAMICS OF RIGID BODIES",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Classical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 3:33:16 PM",
-            "ocrQuestion": "A circular disc of radius \\( R \\) and thickness \\( R / 6 \\) has moment of inertia \\( I \\) about its perpendicular axis through centre. The disc is melted and recasted into a sphere. M. I. of sphere about its axis is\n(a) \\( I / 2 \\)\n(b) \\( I / 5 \\)\n(c) \\( I / 6 \\)\n(d) \\( I / 7 \\)",
-            "onlyq_text": "<p>A circular disc of radius \\( R \\) and thickness \\( R / 6 \\) has moment of inertia \\( I \\) about its perpendicular axis through centre. The disc is melted and recasted into a sphere. M. I. of sphere about its axis is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( I / 2 \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( I / 5 \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( I / 6 \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( I / 7 \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
-            "subject": "PHYSICS",
-            "topic_name": "DYNAMICS OF RIGID BODIES",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Classical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 3:35:40 PM",
-            "ocrQuestion": "Two right circular solid cones have same base radius. Ratio of their heights is \\( 2: 3 \\). If the two cones have uniform density and their masses are equal, then ratio of moment of interia about their axes is.\n(a) \\( 2: 3 \\)\n(b) \\( 3: 2 \\)\n(c) \\( 9: 4 \\)\n(d) \\( 1: 1 \\)",
-            "onlyq_text": "<p>Two right circular solid cones have same base radius. Ratio of their heights is \\( 2: 3 \\). If the two cones have uniform density and their masses are equal, then ratio of moment of interia about their axes is.</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( 2: 3 \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( 3: 2 \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( 9: 4 \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( 1: 1 \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
-            "subject": "PHYSICS",
-            "topic_name": "DYNAMICS OF RIGID BODIES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Memory",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Classical Mechanics",
-            "concept_html": "",
-            "date": "3/9/2024, 3:40:37 PM",
-            "ocrQuestion": "The moment of inertia of a hollow cylinder of mass \\( M \\) and inner radius \\( R_{1} \\) and outer radius \\( R_{2} \\) abouts its central axis is\n(a) \\( \\frac{1}{2} M\\left(R_{2}^{2}-R_{1}^{2}\\right) \\)\n(b) \\( \\frac{1}{2} M\\left(R_{2}^{2}+R_{1}^{2}\\right) \\)\n(c) \\( M\\left(R_{2}^{2}-R_{1}^{2}\\right) \\)\n(d) \\( \\frac{1}{2} M\\left(R_{2}-R_{1}\\right)^{2} \\)",
-            "onlyq_text": "<p>The moment of inertia of a hollow cylinder of mass \\( M \\) and inner radius \\( R_{1} \\) and outer radius \\( R_{2} \\) abouts its central axis is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\frac{1}{2} M\\left(R_{2}^{2}-R_{1}^{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{1}{2} M\\left(R_{2}^{2}+R_{1}^{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( M\\left(R_{2}^{2}-R_{1}^{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{1}{2} M\\left(R_{2}-R_{1}\\right)^{2} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "opti"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
-            "subject": "PHYSICS",
-            "topic_name": "DYNAMICS OF RIGID BODIES",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "ForJEE",
-                "ForNEET",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Classical Mechanics",
-            "concept_html": "",
-            "date": "3/11/2024, 10:17:36 AM",
-            "ocrQuestion": "A solid sphere of mass \\( m \\) and radius \\( a \\) is rolling with a linear speed \\( v \\) on a flat surface without slipping. The magnitude of the angular momentum of the sphere with respect to a point along the path of the sphere on the surface is\n(A) \\( \\frac{2}{5} m a v \\)\n(B) \\( \\frac{7}{5} m a v \\)\n(C) \\( m a v \\)\n(D) \\( \\frac{3}{2} m a v \\)",
-            "onlyq_text": "<p>A solid sphere of mass \\( m \\) and radius \\( a \\) is rolling with a linear speed \\( v \\) on a flat surface without slipping. The magnitude of the angular momentum of the sphere with respect to a point along the path of the sphere on the surface is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(A) \\( \\frac{2}{5} m a v \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(B) \\( \\frac{7}{5} m a v \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(C) \\( m a v \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(D) \\( \\frac{3}{2} m a v \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Angular momentum about the contact print Can be written as\\[\\begin{aligned}\\vec{L} & =\\vec{L}_{\\text {of com about that point }}+\\vec{L}_{\\text {of object about com }} \\\\& =\\vec{R} \\times \\vec{P}_{\\text {com }}+I \\vec{\\omega}\\end{aligned}\\]Imagine sphere is moving right side on the surface\\[\\begin{array}{l}=R m V_{\\text {com }}(\\text { clock-wise })+\\frac{2}{5} m R^{2} \\omega \\quad(\\text { clock-wise }) \\\\=R m V+\\frac{2}{5} m R v \\quad\\left(\\therefore v=R \\omega=V_{\\text {com }}\\right) \\\\=\\frac{7}{5} m R v\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": [
-                    "IIT-JAM"
-                ]
-            },
-            "sub_topic_name": "INSTANTANEOUS AXIS,ROLLING & SLIPPING",
-            "subject": "PHYSICS",
-            "topic_name": "DYNAMICS OF RIGID BODIES",
-            "toughness": "MEDIUM"
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{M L^{2}}{3} \\)</p>"
         }
-    ]
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
+      "subject": "PHYSICS",
+      "topic_name": "DYNAMICS OF RIGID BODIES",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast",
+        "MultiConcept",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Classical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 1:28:19 PM",
+      "ocrQuestion": "Moment of inertia of a cube is maximum about\n(a) body diagonal\n(b) face diagonal\n(c) edge\n(d) an axis perpendicular to face and passing through its centre",
+      "onlyq_text": "<p>Moment of inertia of a cube is maximum about</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) body diagonal</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) face diagonal</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) edge</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) an axis perpendicular to face and passing through its centre</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
+      "subject": "PHYSICS",
+      "topic_name": "DYNAMICS OF RIGID BODIES",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Classical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 1:29:20 PM",
+      "ocrQuestion": "Moment of inertia of a square plate of mass \\( m \\) and side \\( a \\) about an axis through its corner and perpendicular to its plane is\n(a) \\( \\frac{m a^{2}}{6} \\)\n(b) \\( \\frac{2}{3} m a^{2} \\)\n(c) \\( \\frac{1}{3} m a^{2} \\)\n(d) \\( \\frac{1}{4} m a^{2} \\)",
+      "onlyq_text": "<p>Moment of inertia of a square plate of mass \\( m \\) and side \\( a \\) about an axis through its corner and perpendicular to its plane is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\frac{m a^{2}}{6} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{2}{3} m a^{2} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\frac{1}{3} m a^{2} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{1}{4} m a^{2} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
+      "subject": "PHYSICS",
+      "topic_name": "DYNAMICS OF RIGID BODIES",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast",
+        "MultiConcept",
+        "Practice",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Classical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 1:35:19 PM",
+      "ocrQuestion": "Four thin rods each of mass \\( M \\) and length \\( L \\) are joined together to form a square loop. M.I. of the loop about its axis is (axis is \\( \\perp \\) to plane through centre)\n(a) \\( \\frac{M L^{2}}{3} \\)\n(b) \\( \\frac{M L^{2}}{4} \\)\n(c) \\( \\frac{4 M L^{2}}{3} \\)\n(d) \\( \\frac{3 M L^{2}}{4} \\)",
+      "onlyq_text": "<p>Four thin rods each of mass \\( M \\) and length \\( L \\) are joined together to form a square loop. M.I. of the loop about its axis is (axis is \\( \\perp \\) to plane through centre)</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\frac{M L^{2}}{3} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{M L^{2}}{4} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\frac{4 M L^{2}}{3} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{3 M L^{2}}{4} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
+      "subject": "PHYSICS",
+      "topic_name": "DYNAMICS OF RIGID BODIES",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Practice",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Classical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 1:49:03 PM",
+      "ocrQuestion": "Four thin rods each of mass \\( M \\) and length \\( L \\) are joined together to form a square loop. M.I. of the loop about Its Diagonal\n(a) \\( \\frac{M L^{2}}{6} \\)\n(b) \\( \\frac{2}{3} M L^{2} \\)\n(c) \\( \\frac{M L^{2}}{3} \\)\n(d) \\( \\frac{M L^{2}}{4} \\)",
+      "onlyq_text": "<p>Four thin rods each of mass \\( M \\) and length \\( L \\) are joined together to form a square loop. M.I. of the loop about Its Diagonal</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\frac{M L^{2}}{6} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{2}{3} M L^{2} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\frac{M L^{2}}{3} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{M L^{2}}{4} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
+      "subject": "PHYSICS",
+      "topic_name": "DYNAMICS OF RIGID BODIES",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "calculative",
+        "Practice",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Classical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 1:51:05 PM",
+      "ocrQuestion": "We have two spheres, one of which is hollow and the other is solid. The two have equal masses and equal moment of inertia about their diametres, ratio of their radii is (hollow to solid)\n(a) \\( 5: 7 \\)\n(b) \\( 3: 5 \\)\n(c) \\( \\sqrt{3}: \\sqrt{5} \\)\n(d) \\( \\sqrt{3}: \\sqrt{7} \\)",
+      "onlyq_text": "<p>We have two spheres, one of which is hollow and the other is solid. The two have equal masses and equal moment of inertia about their diametres, ratio of their radii is (hollow to solid)</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) \\( 5: 7 \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) \\( 3: 5 \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\sqrt{3}: \\sqrt{5} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\sqrt{3}: \\sqrt{7} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
+      "subject": "PHYSICS",
+      "topic_name": "DYNAMICS OF RIGID BODIES",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "calculative",
+        "Memory",
+        "ForJEE",
+        "MultiConcept",
+        "Practice",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Classical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 2:53:55 PM",
+      "ocrQuestion": "A right circular cone has mass \\( M \\), radius \\( R \\), and height \\( h \\). Moment of inertia of cone about a diameter of its base is\n(a) \\( \\frac{M}{20}\\left(3 R^{2}+2 h^{2}\\right) \\)\n(b) \\( \\frac{M}{20}\\left(3 h^{2}+2 R^{2}\\right) \\)\n(c) \\( \\frac{M}{10}\\left(3 R^{2}+2 h^{2}\\right) \\)\n(d) \\( \\frac{M}{10}\\left(3 h^{2}+2 R^{2}\\right) \\)",
+      "onlyq_text": "<p>A right circular cone has mass \\( M \\), radius \\( R \\), and height \\( h \\). Moment of inertia of cone about a diameter of its base is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\frac{M}{20}\\left(3 R^{2}+2 h^{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{M}{20}\\left(3 h^{2}+2 R^{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\frac{M}{10}\\left(3 R^{2}+2 h^{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{M}{10}\\left(3 h^{2}+2 R^{2}\\right) \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
+      "subject": "PHYSICS",
+      "topic_name": "DYNAMICS OF RIGID BODIES",
+      "toughness": "HARD",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "leanthy",
+        "calculative",
+        "Memory",
+        "ForJEE",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Classical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 3:21:26 PM",
+      "ocrQuestion": "A thick hollow sphere of mass ' \\( M \\) ' has inner and outer adii \\( R_{1} \\) and \\( R_{2} \\). Moment of inertia of sphere about its diameter is\n(a) \\( \\frac{1}{5} M\\left(R_{1}^{2}+R_{2}^{2}\\right) \\)\n(b) \\( \\frac{2}{3} M\\left(R_{1}^{2}+R_{2}^{2}\\right) \\)\n(c) \\( \\frac{1}{3} M\\left(R_{1}^{2}+R_{2}^{2}\\right) \\)\n(d) \\( \\frac{2}{5} M\\left(\\frac{R_{2}^{5}-R_{1}^{5}}{R_{2}^{3}-R_{1}^{3}}\\right) \\)",
+      "onlyq_text": "<p>A thick hollow sphere of mass ' \\( M \\) ' has inner and outer adii \\( R_{1} \\) and \\( R_{2} \\). Moment of inertia of sphere about its diameter is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\frac{1}{5} M\\left(R_{1}^{2}+R_{2}^{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{2}{3} M\\left(R_{1}^{2}+R_{2}^{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\frac{1}{3} M\\left(R_{1}^{2}+R_{2}^{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{2}{5} M\\left(\\frac{R_{2}^{5}-R_{1}^{5}}{R_{2}^{3}-R_{1}^{3}}\\right) \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
+      "subject": "PHYSICS",
+      "topic_name": "DYNAMICS OF RIGID BODIES",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "calculative",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Classical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 3:24:02 PM",
+      "ocrQuestion": "A spherical shell of mass \\( M \\) has inner and outer radii \\( R \\) and \\( 2 R \\) respectively. Moment of inertia of the shell about its diameter is\n(a) \\( \\frac{20}{9} M R^{2} \\)\n(b) \\( \\frac{15}{7} M R^{2} \\)\n(c) \\( \\frac{62}{35} M R^{2} \\)\n(d) \\( \\frac{10}{7} M R^{2} \\)",
+      "onlyq_text": "<p>A spherical shell of mass \\( M \\) has inner and outer radii \\( R \\) and \\( 2 R \\) respectively. Moment of inertia of the shell about its diameter is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\frac{20}{9} M R^{2} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{15}{7} M R^{2} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\frac{62}{35} M R^{2} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{10}{7} M R^{2} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
+      "subject": "PHYSICS",
+      "topic_name": "DYNAMICS OF RIGID BODIES",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Memory",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Classical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 3:30:24 PM",
+      "ocrQuestion": "Moment of inertia of a solid cube about an axis perpendicular to its face and passing through its centre is \\( [ \\) Mass of cube \\( =M \\), side length \\( =a] \\)\n(a) \\( \\frac{M a^{2}}{12} \\)\n(b) \\( \\frac{M a^{2}}{6} \\)\n(c) \\( \\frac{M a^{2}}{3} \\)\n(d) \\( \\frac{M a^{2}}{4} \\)",
+      "onlyq_text": "<p>Moment of inertia of a solid cube about an axis perpendicular to its face and passing through its centre is \\( [ \\) Mass of cube \\( =M \\), side length \\( =a] \\)</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\frac{M a^{2}}{12} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{M a^{2}}{6} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\frac{M a^{2}}{3} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{M a^{2}}{4} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
+      "subject": "PHYSICS",
+      "topic_name": "DYNAMICS OF RIGID BODIES",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Classical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 3:33:16 PM",
+      "ocrQuestion": "A circular disc of radius \\( R \\) and thickness \\( R / 6 \\) has moment of inertia \\( I \\) about its perpendicular axis through centre. The disc is melted and recasted into a sphere. M. I. of sphere about its axis is\n(a) \\( I / 2 \\)\n(b) \\( I / 5 \\)\n(c) \\( I / 6 \\)\n(d) \\( I / 7 \\)",
+      "onlyq_text": "<p>A circular disc of radius \\( R \\) and thickness \\( R / 6 \\) has moment of inertia \\( I \\) about its perpendicular axis through centre. The disc is melted and recasted into a sphere. M. I. of sphere about its axis is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( I / 2 \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( I / 5 \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( I / 6 \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( I / 7 \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
+      "subject": "PHYSICS",
+      "topic_name": "DYNAMICS OF RIGID BODIES",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Classical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 3:35:40 PM",
+      "ocrQuestion": "Two right circular solid cones have same base radius. Ratio of their heights is \\( 2: 3 \\). If the two cones have uniform density and their masses are equal, then ratio of moment of interia about their axes is.\n(a) \\( 2: 3 \\)\n(b) \\( 3: 2 \\)\n(c) \\( 9: 4 \\)\n(d) \\( 1: 1 \\)",
+      "onlyq_text": "<p>Two right circular solid cones have same base radius. Ratio of their heights is \\( 2: 3 \\). If the two cones have uniform density and their masses are equal, then ratio of moment of interia about their axes is.</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(a) \\( 2: 3 \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(b) \\( 3: 2 \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(c) \\( 9: 4 \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(d) \\( 1: 1 \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
+      "subject": "PHYSICS",
+      "topic_name": "DYNAMICS OF RIGID BODIES",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Memory",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Classical Mechanics",
+      "concept_html": "",
+      "date": "3/9/2024, 3:40:37 PM",
+      "ocrQuestion": "The moment of inertia of a hollow cylinder of mass \\( M \\) and inner radius \\( R_{1} \\) and outer radius \\( R_{2} \\) abouts its central axis is\n(a) \\( \\frac{1}{2} M\\left(R_{2}^{2}-R_{1}^{2}\\right) \\)\n(b) \\( \\frac{1}{2} M\\left(R_{2}^{2}+R_{1}^{2}\\right) \\)\n(c) \\( M\\left(R_{2}^{2}-R_{1}^{2}\\right) \\)\n(d) \\( \\frac{1}{2} M\\left(R_{2}-R_{1}\\right)^{2} \\)",
+      "onlyq_text": "<p>The moment of inertia of a hollow cylinder of mass \\( M \\) and inner radius \\( R_{1} \\) and outer radius \\( R_{2} \\) abouts its central axis is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\frac{1}{2} M\\left(R_{2}^{2}-R_{1}^{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{1}{2} M\\left(R_{2}^{2}+R_{1}^{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( M\\left(R_{2}^{2}-R_{1}^{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{1}{2} M\\left(R_{2}-R_{1}\\right)^{2} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "opti"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "MOMENT OF INERTIA TENSOR AND THEOREMS",
+      "subject": "PHYSICS",
+      "topic_name": "DYNAMICS OF RIGID BODIES",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "ForJEE",
+        "ForNEET",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Classical Mechanics",
+      "concept_html": "",
+      "date": "3/11/2024, 10:17:36 AM",
+      "ocrQuestion": "A solid sphere of mass \\( m \\) and radius \\( a \\) is rolling with a linear speed \\( v \\) on a flat surface without slipping. The magnitude of the angular momentum of the sphere with respect to a point along the path of the sphere on the surface is\n(A) \\( \\frac{2}{5} m a v \\)\n(B) \\( \\frac{7}{5} m a v \\)\n(C) \\( m a v \\)\n(D) \\( \\frac{3}{2} m a v \\)",
+      "onlyq_text": "<p>A solid sphere of mass \\( m \\) and radius \\( a \\) is rolling with a linear speed \\( v \\) on a flat surface without slipping. The magnitude of the angular momentum of the sphere with respect to a point along the path of the sphere on the surface is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(A) \\( \\frac{2}{5} m a v \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(B) \\( \\frac{7}{5} m a v \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(C) \\( m a v \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(D) \\( \\frac{3}{2} m a v \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": [
+          "IIT-JAM"
+        ]
+      },
+      "sub_topic_name": "INSTANTANEOUS AXIS,ROLLING & SLIPPING",
+      "subject": "PHYSICS",
+      "topic_name": "DYNAMICS OF RIGID BODIES",
+      "toughness": "MEDIUM",
+      "solutions": [
+        {
+          "sol_html": "Angular momentum about the contact print Can be written as\\[\\begin{aligned}\\vec{L} & =\\vec{L}_{\\text {of com about that point }}+\\vec{L}_{\\text {of object about com }} \\\\& =\\vec{R} \\times \\vec{P}_{\\text {com }}+I \\vec{\\omega}\\end{aligned}\\]Imagine sphere is moving right side on the surface\\[\\begin{array}{l}=R m V_{\\text {com }}(\\text { clock-wise })+\\frac{2}{5} m R^{2} \\omega \\quad(\\text { clock-wise }) \\\\=R m V+\\frac{2}{5} m R v \\quad\\left(\\therefore v=R \\omega=V_{\\text {com }}\\right) \\\\=\\frac{7}{5} m R v\\end{array}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    }
+  ]
 }

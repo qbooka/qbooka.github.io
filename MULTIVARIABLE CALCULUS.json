@@ -1,1731 +1,1829 @@
 {
-    "questions": [
+  "questions": [
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "date": "2/29/2024, 11:41:37 PM",
+      "ocrQuestion": "If \\( u=\\ln \\left(x^{2}+y^{2}\\right) \\), then \\( \\frac{\\partial u}{\\partial y} \\) is\n(a) \\( \\frac{2 y}{x^{2}+y^{2}} \\)\n(b) \\( \\frac{y}{x^{2}+y^{2}} \\)\n(c) \\( \\frac{2 x}{x^{2}+y^{2}} \\)\n(d) \\( \\frac{x}{x^{2}+y^{2}} \\)",
+      "onlyq_text": "<p>If \\( u=\\ln \\left(x^{2}+y^{2}\\right) \\), then \\( \\frac{\\partial u}{\\partial y} \\) is</p>",
+      "options": [
         {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "date": "2/29/2024, 11:41:37 PM",
-            "ocrQuestion": "If \\( u=\\ln \\left(x^{2}+y^{2}\\right) \\), then \\( \\frac{\\partial u}{\\partial y} \\) is\n(a) \\( \\frac{2 y}{x^{2}+y^{2}} \\)\n(b) \\( \\frac{y}{x^{2}+y^{2}} \\)\n(c) \\( \\frac{2 x}{x^{2}+y^{2}} \\)\n(d) \\( \\frac{x}{x^{2}+y^{2}} \\)",
-            "onlyq_text": "<p>If \\( u=\\ln \\left(x^{2}+y^{2}\\right) \\), then \\( \\frac{\\partial u}{\\partial y} \\) is</p>",
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\frac{2 y}{x^{2}+y^{2}} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{y}{x^{2}+y^{2}} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\frac{2 x}{x^{2}+y^{2}} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{x}{x^{2}+y^{2}} \\)</p>"
-                }
-            ],
-            "option_hindi": [],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "PARTIAL DIFFERENTIATION",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\frac{2 y}{x^{2}+y^{2}} \\)</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "leanthy",
-                "calculative"
-            ],
-            "added_By": "sai",
-            "date": "2/29/2024, 11:47:50 PM",
-            "ocrQuestion": "If \\( z=e^{a x+b y} \\cdot f(a x-b y) \\), then \\( b \\frac{\\partial z}{\\partial x}+a \\frac{\\partial z}{\\partial y} \\) will be\n(a) \\( a b z \\)\n(b) \\( 2 a b z \\)\n(c) \\( 4 a b z \\)\n(d) \\( 8 a b z \\)",
-            "onlyq_text": "<p>If \\( z=e^{a x+b y} \\cdot f(a x-b y) \\), then \\( b \\frac{\\partial z}{\\partial x}+a \\frac{\\partial z}{\\partial y} \\) will be</p>",
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( a b z \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( 2 a b z \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( 4 a b z \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( 8 a b z \\)</p>"
-                }
-            ],
-            "option_hindi": [],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "PARTIAL DIFFERENTIATION",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{y}{x^{2}+y^{2}} \\)</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual"
-            ],
-            "added_By": "sai",
-            "date": "2/29/2024, 11:51:03 PM",
-            "ocrQuestion": "If \\( u=x^{y} \\), then \\( \\frac{\\partial^{2} u}{\\partial x \\partial y} \\) is\n(a) \\( x^{y-1}[y \\ln x+1] \\)\n(b) \\( x^{y}[y \\ln x+1] \\)\n(c) \\( x^{y-1}[x \\ln y+1] \\)\n(d) \\( x^{y}[x \\ln y+1] \\)",
-            "onlyq_text": "<p>If \\( u=x^{y} \\), then \\( \\frac{\\partial^{2} u}{\\partial x \\partial y} \\) is</p>",
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( x^{y-1}[y \\ln x+1] \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( x^{y}[y \\ln x+1] \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( x^{y-1}[x \\ln y+1] \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( x^{y}[x \\ln y+1] \\)</p>"
-                }
-            ],
-            "option_hindi": [],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "PARTIAL DIFFERENTIATION",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\frac{2 x}{x^{2}+y^{2}} \\)</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "leanthy",
-                "calculative"
-            ],
-            "added_By": "sai",
-            "date": "3/1/2024, 12:07:24 AM",
-            "ocrQuestion": "If \\( u=y^{n} \\exp \\left(-\\frac{x^{2}}{4 y}\\right) \\), then the value of \\( n \\) for which \\( \\frac{1}{x^{2}} \\frac{\\partial}{\\partial x}\\left(x^{2} \\frac{\\partial u}{\\partial x}\\right)=\\frac{\\partial u}{\\partial y} \\), is\n(a) 2\n(b) -2\n(c) \\( 3 / 2 \\)\n(d) \\( -3 / 2 \\)",
-            "onlyq_text": "<p>If \\( u=y^{n} \\exp \\left(-\\frac{x^{2}}{4 y}\\right) \\), then the value of \\( n \\) for which \\( \\frac{1}{x^{2}} \\frac{\\partial}{\\partial x}\\left(x^{2} \\frac{\\partial u}{\\partial x}\\right)=\\frac{\\partial u}{\\partial y} \\), is</p>",
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(a) 2</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(b) -2</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( 3 / 2 \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( -3 / 2 \\)</p>"
-                }
-            ],
-            "option_hindi": [],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "PARTIAL DIFFERENTIATION",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "HARD"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "leanthy",
-                "calculative",
-                "MultiConcept",
-                "CAN BE MULTIPLE"
-            ],
-            "added_By": "sai",
-            "date": "3/1/2024, 12:16:45 AM",
-            "ocrQuestion": "Which of following functions does not satisfy Laplace's equation i.e. \\( \\frac{\\partial^{2} u}{\\partial x^{2}}+\\frac{\\partial^{2} u}{\\partial y^{2}}=0 \\) ?\n(a) \\( u=x^{3}-3 x y^{2} \\)\n(b) \\( u=\\sin x \\cosh y \\)\n(c) \\( u=y^{3}+x y^{2} \\)\n(d) \\( u=\\frac{1}{2} \\ln \\left(x^{2}+y^{2}\\right) \\)",
-            "onlyq_text": "<p>Which of following functions does not satisfy Laplace's equation i.e. \\( \\frac{\\partial^{2} u}{\\partial x^{2}}+\\frac{\\partial^{2} u}{\\partial y^{2}}=0 \\) ?</p>",
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( u=x^{3}-3 x y^{2} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( u=\\sin x \\cosh y \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( u=y^{3}+x y^{2} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( u=\\frac{1}{2} \\ln \\left(x^{2}+y^{2}\\right) \\)</p>"
-                }
-            ],
-            "option_hindi": [],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "PARTIAL DIFFERENTIATION",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "HARD"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "leanthy",
-                "calculative",
-                "MultiConcept"
-            ],
-            "added_By": "sai",
-            "date": "3/1/2024, 12:28:24 AM",
-            "ocrQuestion": "If \\( u=\\sin ^{-1} \\frac{x^{2}+y^{2}}{x+y} \\), then \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) will be\n(a) \\( \\sin u \\)\n(b) \\( \\tan u \\)\n(c) \\( \\cos u \\)\n(d) \\( \\cot u \\)",
-            "onlyq_text": "<p>If \\( u=\\sin ^{-1} \\frac{x^{2}+y^{2}}{x+y} \\), then \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) will be</p>",
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\sin u \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\tan u \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\cos u \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\cot u \\)</p>"
-                }
-            ],
-            "option_hindi": [],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "PARTIAL DIFFERENTIATION",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "HARD"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "date": "3/1/2024, 12:31:05 AM",
-            "ocrQuestion": "If \\( u=\\exp \\left(x^{2}+y^{2}\\right) \\), then \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) will be\n(a) \\( 2 \\ln u \\)\n(b) \\( u \\ln u \\)\n(c) \\( 2 u \\ln u \\)\n(d) \\( 2 \\ln u / u \\)",
-            "onlyq_text": "<p>If \\( u=\\exp \\left(x^{2}+y^{2}\\right) \\), then \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) will be</p>",
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( 2 \\ln u \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( u \\ln u \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( 2 u \\ln u \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( 2 \\ln u / u \\)</p>"
-                }
-            ],
-            "option_hindi": [],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "PARTIAL DIFFERENTIATION",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual"
-            ],
-            "added_By": "sai",
-            "date": "3/1/2024, 12:39:00 AM",
-            "ocrQuestion": " If \\( u=x^{2} \\tan ^{-1} \\frac{y}{x}-y^{2} \\tan ^{-1} \\frac{x}{y} \\), then \\( \\frac{\\partial^{2} u}{\\partial x \\partial y} \\) an be written as\n(a) \\( \\frac{x^{2}+y^{2}}{x^{2}-y^{2}} \\)\n(b) \\( \\frac{x^{2}-y^{2}}{x^{2}+y^{2}} \\)\n(c) \\( \\frac{x^{2}+2 y^{2}}{x^{2}-2 y^{2}} \\)\n(d) \\( \\frac{x^{2}-2 y^{2}}{x^{2}+2 y^{2}} \\)",
-            "onlyq_text": "<p>Question: If \\( u=x^{2} \\tan ^{-1} \\frac{y}{x}-y^{2} \\tan ^{-1} \\frac{x}{y} \\), then \\( \\frac{\\partial^{2} u}{\\partial x \\partial y} \\) an be written as</p>",
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\frac{x^{2}+y^{2}}{x^{2}-y^{2}} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{x^{2}-y^{2}}{x^{2}+y^{2}} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\frac{x^{2}+2 y^{2}}{x^{2}-2 y^{2}} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{x^{2}-2 y^{2}}{x^{2}+2 y^{2}} \\)</p>"
-                }
-            ],
-            "option_hindi": [],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "cec"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "PARTIAL DIFFERENTIATION",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual"
-            ],
-            "added_By": "sai",
-            "date": "3/1/2024, 4:22:10 PM",
-            "ocrQuestion": "Question: If \\( \\ln u=\\frac{x^{3}+y^{3}}{3 x+4 y} \\), then \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) is equal to\n(a) \\( 2 u \\ln u \\)\n(b) \\( u \\ln u \\)\n(c) \\( \\frac{2}{u} \\ln u \\)\n(d) \\( \\frac{1}{u} \\ln u \\)",
-            "onlyq_text": "<p>Question: If \\( \\ln u=\\frac{x^{3}+y^{3}}{3 x+4 y} \\), then \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) is equal to</p>",
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( 2 u \\ln u \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( u \\ln u \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\frac{2}{u} \\ln u \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{1}{u} \\ln u \\)</p>"
-                }
-            ],
-            "option_hindi": [],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Soln. \\( \\quad z=\\ln u=\\frac{x^{3}+y^{3}}{3 x+4 y} \\longrightarrow \\) homogenous \\( f_{n} \\) of degree 2\\[z(\\alpha x, \\alpha y)=\\alpha^{2} \\cdot z(x, y)\\]\\[\\begin{array}{l}x \\cdot \\frac{\\partial z}{\\partial x}+y \\frac{\\partial z}{\\partial y}=2 z \\\\\\Rightarrow x \\cdot \\frac{1}{u} \\frac{\\partial u}{\\partial x}+y \\cdot \\frac{1}{u} \\frac{\\partial u}{\\partial y}=2(\\ln u) \\\\\\Rightarrow x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=2 u \\ln u\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "cec"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision"
-            ],
-            "added_By": "sai",
-            "date": "3/1/2024, 4:26:05 PM",
-            "ocrQuestion": "If \\( u(x, y)=x^{4} \\tan ^{-1}\\left(\\frac{y}{x}\\right)+\\left(\\frac{x^{5}+y^{5}}{x+y}\\right) \\), then \\( x \\frac{\\partial v}{\\partial x}+y \\frac{\\partial v}{\\partial y} \\) is.\n1. \\( 4 \\mathrm{u} \\)\n2. \\( 12 \\mathrm{u} \\)\n3. \\( -4 \\mathrm{u} \\)\n4. \\( -12 \\mathrm{u} \\)",
-            "onlyq_text": "<p>If \\( u(x, y)=x^{4} \\tan ^{-1}\\left(\\frac{y}{x}\\right)+\\left(\\frac{x^{5}+y^{5}}{x+y}\\right) \\), then \\( x \\frac{\\partial v}{\\partial x}+y \\frac{\\partial v}{\\partial y} \\) is.</p>",
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>1. \\( 4 \\mathrm{u} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>2. \\( 12 \\mathrm{u} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>3. \\( -4 \\mathrm{u} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>4. \\( -12 \\mathrm{u} \\)</p>"
-                }
-            ],
-            "option_hindi": [],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Concept:Euler's theorem for homogeneous function of degree (n)\\[x \\frac{\\partial v}{\\partial x}+y \\frac{\\partial v}{\\partial y}=n u\\]\\( u(\\lambda x, \\lambda y)=\\lambda^{n}(x, y), n \\) is degree.Calculation:\\[\\begin{array}{l}u(x, y)=x^{4}\\left[\\tan ^{-1}\\left(\\frac{y}{x}\\right)+\\left(\\frac{1+\\left(\\frac{y}{x}\\right)^{5}}{1+\\left(\\frac{y}{x}\\right)}\\right)\\right] \\\\\\mathrm{n}=4 \\\\\\therefore x \\frac{\\partial v}{\\partial x}+y \\frac{\\partial v}{\\partial y}=4 u\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "leanthy"
-            ],
-            "added_By": "sai",
-            "date": "3/1/2024, 4:28:23 PM",
-            "ocrQuestion": "If \\( u=\\sin ^{-1}\\left(\\frac{x}{y}\\right)+\\tan ^{-1}\\left(\\frac{y}{x}\\right) \\), then the value of \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) is\n1. U\n2. \\( 2 \\mathrm{u} \\)\n3. \\( 3 \\mathrm{u} \\)\n4. 0",
-            "onlyq_text": "<p>If \\( u=\\sin ^{-1}\\left(\\frac{x}{y}\\right)+\\tan ^{-1}\\left(\\frac{y}{x}\\right) \\), then the value of \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) is</p>",
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>1. U</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>2. \\( 2 \\mathrm{u} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>3. \\( 3 \\mathrm{u} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>4. 0</p>"
-                }
-            ],
-            "option_hindi": [],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Explanation:\\[\\begin{array}{l}\\text { If } u=\\sin ^{-1}\\left(\\frac{x}{y}\\right)+\\tan ^{-1}\\left(\\frac{y}{x}\\right) \\\\x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=? \\\\\\frac{\\partial u}{\\partial x}=\\frac{1}{\\sqrt{1-\\left(\\frac{x}{y}\\right)^{2}}} \\times \\frac{1}{y}+\\frac{1}{1+\\left(\\frac{y}{x}\\right)^{2}} \\times y\\left(\\frac{-1}{x^{2}}\\right) \\\\\\frac{\\partial u}{\\partial y}=\\frac{-1}{\\sqrt{1-\\left(\\frac{x}{y}\\right)^{2}}} \\times\\left(\\frac{x}{y^{2}}\\right)+\\frac{1}{1+\\left(\\frac{1}{x}\\right)^{2}} \\times \\frac{1}{x} \\\\x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=\\frac{x}{y} \\times \\frac{1}{\\sqrt{1-\\left(\\frac{x}{y}\\right)^{2}}}-x \\times \\frac{y}{x^{2}} \\times \\frac{1}{\\left[1+\\left(\\frac{y}{x}\\right)^{2}\\right]} \\\\-y \\times\\left(\\frac{x}{y^{2}}\\right) \\times \\frac{1}{\\sqrt{1-\\left(\\frac{x}{y}\\right)^{2}}}+y \\times \\frac{1}{x} \\frac{1}{\\left(1+\\left(\\frac{y}{x}\\right)^{2}\\right)} \\\\\\therefore x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=0 \\\\\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "HARD"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "calculative",
-                "MultiConcept"
-            ],
-            "added_By": "sai",
-            "concept_html": "Concept:Since \\( z \\) is a homogeneous function of \\( x \\), \\( y \\) of degree \\( n \\), we can use Euler's Theorem defined as:\\[\\mathrm{x} \\frac{d \\mathrm{z}}{\\partial \\mathrm{x}}+y \\frac{\\partial \\mathrm{z}}{\\partial \\mathrm{y}}=\\mathrm{nz}\\]Now, \\( z=f(u) \\)\\( \\frac{\\partial \\mathrm{z}}{\\partial \\mathrm{x}}=\\mathrm{f}^{\\prime}(\\mathrm{u}) \\frac{\\partial \\mathrm{u}}{\\partial \\mathrm{x}} \\), and\\[\\frac{\\partial \\mathrm{z}}{\\partial \\mathrm{y}}=\\mathrm{f}^{\\prime}(\\mathrm{u}) \\frac{\\partial \\mathrm{u}}{\\partial \\mathrm{y}}\\]Substituting this in Equation (1), we get:\\[\\mathrm{xf}^{\\prime}(\\mathrm{u}) \\frac{\\partial \\mathrm{u}}{\\partial \\mathrm{x}}+\\mathrm{yf}^{\\prime}(\\mathrm{u}) \\frac{\\partial \\mathrm{u}}{\\partial \\mathrm{y}}=\\mathrm{nf}(\\mathrm{u})\\]\\[x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=n \\frac{f(u)}{f^{\\prime}(u)}\\]",
-            "date": "3/1/2024, 5:06:54 PM",
-            "ocrQuestion": "If \\( u=\\sin ^{-1}\\left(\\frac{x+y}{\\sqrt{x}+\\sqrt{y}}\\right) \\) then by Euler's theorem, \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) equals to\n1. \\( \\frac{1}{2} \\sin u \\)\n2. \\( \\frac{1}{2} \\tan u \\)\n3. \\( x+y \\)\n4. \\( \\sin x+\\sin y \\)",
-            "onlyq_text": "<p>If \\( u=\\sin ^{-1}\\left(\\frac{x+y}{\\sqrt{x}+\\sqrt{y}}\\right) \\) then by Euler's theorem, \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) equals to</p>",
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>1. \\( \\frac{1}{2} \\sin u \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>2. \\( \\frac{1}{2} \\tan u \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>3. \\( x+y \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>4. \\( \\sin x+\\sin y \\)</p>"
-                }
-            ],
-            "option_hindi": [],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Given:\\[\\mathrm{u}=\\sin ^{-1}\\left(\\frac{\\mathrm{x}+\\mathrm{y}}{\\sqrt{\\mathrm{x}}+\\sqrt{\\mathrm{y}}}\\right)\\]\\( \\mathrm{u} \\) is not a homogenous function.\\[\\begin{array}{l}z=\\sin u=\\frac{x+y}{\\sqrt{x}+\\sqrt{y}} \\\\z=\\frac{x\\left(1+\\frac{y}{x}\\right)}{\\sqrt{x}\\left(1+\\frac{\\sqrt{y}}{\\sqrt{x}}\\right)} \\\\z=x^{\\frac{1}{2}} \\phi\\left(\\frac{y}{x}\\right) \\\\f(u)=\\tan u\\end{array}\\]Now, \\( z \\) is a homogeneous function of \\( x \\) and \\( y \\) of degree \\( 1 / 2 \\).Since \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=n \\frac{f(u)}{f^{\\prime}(u)} \\), we can write:\\[\\begin{array}{l}x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=\\frac{1}{2} \\times \\frac{\\sin u}{\\cos u} \\\\x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=\\frac{1}{2} \\tan u\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "HARD"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual"
-            ],
-            "added_By": "sai",
-            "concept_html": "Concept:Euler's theorem for the homogeneous equation of degree ' \\( n \\) ' with ' \\( x \\) ' and ' \\( y \\) ' as variables states that:\\[x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=n u\\]",
-            "date": "3/1/2024, 5:11:36 PM",
-            "ocrQuestion": "If \\( u=x^{n-1} y f\\left(\\frac{y}{x}\\right) \\) then \\( \\frac{x \\partial^{2} u}{\\partial x^{2}}+\\frac{y \\partial^{2} u}{\\partial y \\partial x} \\) is equal to\n1. \\( (n-1) \\frac{\\partial u}{\\partial x} \\)\n2. \\( (n-1) \\frac{\\partial u}{\\partial y} \\)\n3. nu\n4. \\( n(n-1) u \\)",
-            "onlyq_text": "<p>If \\( u=x^{n-1} y f\\left(\\frac{y}{x}\\right) \\) then \\( \\frac{x \\partial^{2} u}{\\partial x^{2}}+\\frac{y \\partial^{2} u}{\\partial y \\partial x} \\) is equal to</p>",
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>1. \\( (n-1) \\frac{\\partial u}{\\partial x} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>2. \\( (n-1) \\frac{\\partial u}{\\partial y} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>3. nu</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>4. \\( n(n-1) u \\)</p>"
-                }
-            ],
-            "option_hindi": [],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "We have:\\[\\begin{array}{l}u=x^{n-1} \\cdot y f\\left(\\frac{y}{x}\\right) \\\\u=x^{n} \\cdot\\left(\\frac{y}{x}\\right) f\\left(\\frac{y}{x}\\right)\\end{array}\\]\\( u \\) is a homogenous function of degree \\( n \\).\\[x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=n u\\]Now differentiate partially w.r.t. x again, we get:\\[\\begin{array}{l}x \\frac{\\partial^{2} u}{\\partial x}+\\frac{\\partial u}{\\partial x}+y \\frac{\\partial^{2} u}{\\partial x \\partial y}=n\\left(\\frac{\\partial u}{\\partial x}\\right) \\\\\\therefore x \\frac{\\partial^{2} u}{\\partial x}+y \\frac{\\partial^{2} u}{\\partial x \\partial y}=(n-1) \\frac{\\partial u}{\\partial x}\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "HARD"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual"
-            ],
-            "added_By": "sai",
-            "concept_html": "Concept:Euler's theorem for the homogeneous equation of degree ' \\( n \\) ' with ' \\( x \\) ' and ' \\( y \\) ' as variables states that:\\[x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=n u\\]",
-            "date": "3/1/2024, 5:13:17 PM",
-            "ocrQuestion": "If \\( u=\\tan ^{-1}\\left(\\frac{y^{3}-x^{3}}{x^{2}+y^{2}+x y}\\right) \\) the value of \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) at \\( \\mathrm{x}=1 \\) and \\( \\mathrm{y}=3 \\) is\n1. 0.6\n2. 0.4\n3. 0.8\n4. 1.2",
-            "onlyq_text": "<p>If \\( u=\\tan ^{-1}\\left(\\frac{y^{3}-x^{3}}{x^{2}+y^{2}+x y}\\right) \\) the value of \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) at \\( \\mathrm{x}=1 \\) and \\( \\mathrm{y}=3 \\) is</p>",
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>1. 0.6</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>2. 0.4</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>3. 0.8</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>4. 1.2</p>"
-                }
-            ],
-            "option_hindi": [],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "\\[\\begin{array}{l}u=\\tan ^{-1}\\left(\\frac{y^{3}-x^{3}}{x^{2}+y^{2}+x y}\\right) \\\\\\tan u=\\frac{y^{3}-x^{3}}{x^{2}+y^{2}+x y}=\\frac{(y-x)\\left(x^{2}+y^{2}+x y\\right)}{\\left(x^{2}+y^{2}+x y\\right)}\\end{array}\\]Now,\\( \\tan u=y\\left[1-\\left(\\frac{x}{y}\\right)\\right] \\) is a homogeneous function of degree ' 1 '\\[\\begin{array}{l}\\therefore x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=\\frac{n f(u)}{f^{\\prime}(u)}=1 \\times \\frac{\\tan u}{\\sec ^{2} u} \\\\=\\frac{\\tan u}{1+\\tan ^{2} u}=\\frac{(y-x)}{1+(y-x)^{2}} \\\\=\\frac{(3-1)}{1+(3-1)^{2}}=\\frac{2}{5}=0.4\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/1/2024, 10:38:43 PM",
-            "ocrQuestion": "The jacobian of \\( p, q, r \\) w.r.t \\( x, y, z \\) given \\( p=x+y+z, q=y+z, r=z \\) is\na) 0\nb) 1\nc) 2\nd) -1",
-            "onlyq_text": "<p>The jacobian of \\( p, q, r \\) w.r.t \\( x, y, z \\) given \\( p=x+y+z, q=y+z, r=z \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a) 0</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b) 1</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c) 2</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d) -1</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Explanation: We have to find\\[J=\\frac{\\partial(p, q, r)}{\\partial(x, y, z)}=\\left|\\begin{array}{lll}\\frac{\\partial p}{\\partial x} & \\frac{\\partial p}{\\partial y} & \\frac{\\partial p}{\\partial z} \\\\\\frac{\\partial q}{\\partial x} & \\frac{\\partial q}{\\partial y} & \\frac{\\partial q}{\\partial z} \\\\\\frac{\\partial r}{\\partial x} & \\frac{\\partial r}{\\partial y} & \\frac{\\partial r}{\\partial z}\\end{array}\\right|\\]But \\( p=x+y+z, q=y+z, r=z \\) (taking partial derivative)\\[\\begin{array}{l}J=\\left|\\begin{array}{lll}1 & 1 & 1 \\\\0 & 1 & 1 \\\\0 & 0 & 1\\end{array}\\right|\\left(\\frac{\\partial p}{\\partial x}=1, \\frac{\\partial p}{\\partial y}=1, \\frac{\\partial p}{\\partial z}=1, \\frac{\\partial q}{\\partial x}=0, \\frac{\\partial q}{\\partial y}=1, \\frac{\\partial q}{\\partial z}=1, \\frac{\\partial r}{\\partial x}=0,\\right. \\\\\\left.\\frac{\\partial r}{\\partial y}=0, \\frac{\\partial r}{\\partial z}=1\\right)\\end{array}\\]On expanding we get\\[J=1(1-0)=1\\]Thus \\( \\mathrm{j}=1 \\).",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "leanthy",
-                "calculative"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/1/2024, 10:46:11 PM",
-            "ocrQuestion": "Given \\( u=\\frac{y z}{x}, v=\\frac{z x}{y}, w=\\frac{x y}{z} \\) then the value of \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\) is\na) 4\nb) -4\nc) 0\nd) 1",
-            "onlyq_text": "<p>Given \\( u=\\frac{y z}{x}, v=\\frac{z x}{y}, w=\\frac{x y}{z} \\) then the value of \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>a) 4</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>b) -4</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>c) 0</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>d) 1</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Explanation: By Data \\( u=\\frac{y z}{x}, v=\\frac{z x}{y}, w=\\frac{x y}{z} \\)\\[\\begin{array}{l}J=\\frac{\\partial(u, v, w)}{\\partial(x, y, z)}=\\left|\\begin{array}{lll}\\frac{\\partial u}{\\partial x} & \\frac{\\partial u}{\\partial y} & \\frac{\\partial u}{\\partial z} \\\\\\frac{\\partial v}{\\partial x} & \\frac{\\partial v}{\\partial y} & \\frac{\\partial v}{\\partial z} \\\\\\frac{\\partial w}{\\partial x} & \\frac{\\partial w}{\\partial y} & \\frac{\\partial w}{\\partial z}\\end{array}\\right|=\\left|\\begin{array}{ccc}\\frac{-y z}{x^{2}} & \\frac{z}{x} & \\frac{y}{x} \\\\\\frac{z}{y} & \\frac{-z x}{y^{2}} & \\frac{x}{y} \\\\\\frac{y}{z} & \\frac{x}{z} & \\frac{-x y}{z^{2}}\\end{array}\\right| \\\\=\\frac{-y z}{x^{2}}\\left\\{\\left(\\frac{-z x}{y^{2}}\\right)\\left(\\frac{-x y}{y^{2}}\\right)-\\left(\\frac{x}{z}\\right)\\left(\\frac{x}{y}\\right)\\right\\}-\\left(\\frac{z}{x}\\right)\\left\\{\\left(\\frac{z}{y}\\right)\\left(\\frac{-x y}{z^{2}}\\right)-\\left(\\frac{y}{z}\\right)\\left(\\frac{x}{y}\\right)\\right\\} \\\\+\\frac{y}{x}\\left\\{\\left(\\frac{z}{y}\\right)\\left(\\frac{x}{z}\\right)-\\left(\\frac{y}{z}\\right)\\left(\\frac{-z x}{y^{2}}\\right)\\right\\} \\\\=\\frac{-y z}{x^{2}}\\left\\{\\frac{x^{2}}{y z}-\\frac{x^{2}}{y z}\\right\\}-\\frac{z}{x}\\left\\{\\frac{-x}{z}-\\frac{x}{z}\\right\\}+\\frac{y}{x}\\left\\{\\frac{x}{y}+\\frac{x}{y}\\right\\}=0+1+1+1=4\\end{array}\\]Therefore \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)}=4 \\).",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "calculative"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/1/2024, 10:53:26 PM",
-            "ocrQuestion": "If \\( \\mathrm{u}=\\mathrm{x}+3 \\mathrm{y}^{2}-\\mathrm{z}^{3}, \\mathrm{v}=4 \\mathrm{x}^{2} \\mathrm{yz}, \\mathrm{w}=2 \\mathrm{z}^{2}-\\mathrm{xy} \\) then \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\) at \\( (1,1,1) \\).\na) -184\nb) -90\nc) 20\nd) 40",
-            "onlyq_text": "<p>If \\( \\mathrm{u}=\\mathrm{x}+3 \\mathrm{y}^{2}-\\mathrm{z}^{3}, \\mathrm{v}=4 \\mathrm{x}^{2} \\mathrm{yz}, \\mathrm{w}=2 \\mathrm{z}^{2}-\\mathrm{xy} \\) then \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\) at \\( (1,1,1) \\).</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>a) -184</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>b) -90</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>c) 20</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>d) 40</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Explanation: Given that \\( u=x+3 y^{2}-z^{3}, v=4 x^{2} y z, w=2 z^{2}-x y \\)\\[\\begin{array}{l}\\frac{\\partial(u, v, w)}{\\partial(x, y, z)}=\\left|\\begin{array}{lll}\\frac{\\partial u}{\\partial x} & \\frac{\\partial u}{\\partial y} & \\frac{\\partial u}{\\partial z} \\\\\\frac{\\partial v}{\\partial x} & \\frac{\\partial v}{\\partial y} & \\frac{\\partial v}{\\partial z} \\\\\\frac{\\partial w}{\\partial x} & \\frac{\\partial w}{\\partial y} & \\frac{\\partial w}{\\partial z}\\end{array}\\right|=\\left|\\begin{array}{ccc}1 & 6 y & -3 z^{2} \\\\8 x y z & 4 x^{2} z & 4 x^{2} y \\\\-y & -x & 4 z\\end{array}\\right| \\\\\\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\text { at }(1,1,1)=\\left|\\begin{array}{ccc}1 & 6 & -3 \\\\8 & 4 & 4 \\\\-1 & -1 & 4\\end{array}\\right| \\\\=1(16+4)-6(32+4)-3(-8+4)=-184 .\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/1/2024, 10:55:51 PM",
-            "ocrQuestion": "If \\( \\mathrm{x}=\\mathrm{r} \\cos \\theta, \\mathrm{y}=\\mathrm{r} \\sin \\theta \\) then the value of \\( \\frac{\\partial(x, y)}{\\partial(r, \\theta)} \\) is\na) 1\nb) 0\nc) \\( r \\)\nd) \\( \\frac{1}{r} \\)",
-            "onlyq_text": "<p>If \\( \\mathrm{x}=\\mathrm{r} \\cos \\theta, \\mathrm{y}=\\mathrm{r} \\sin \\theta \\) then the value of \\( \\frac{\\partial(x, y)}{\\partial(r, \\theta)} \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>a) 1</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>b) 0</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>c) \\( r \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>d) \\( \\frac{1}{r} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Explanation: Wkt, \\( \\frac{\\partial(x, y)}{\\partial(r, \\theta)}=\\left|\\begin{array}{ll}\\frac{\\partial x}{\\partial r} & \\frac{\\partial x}{\\partial \\theta} \\\\ \\frac{\\partial y}{\\partial r} & \\frac{\\partial y}{\\partial \\theta}\\end{array}\\right| \\) but \\( x=r \\cos \\theta, y=r \\sin \\theta \\) Thus \\( \\left|\\begin{array}{cc}\\cos \\theta & -r \\sin \\theta \\\\ \\sin \\theta & r \\cos \\theta\\end{array}\\right|=r \\cos ^{2} \\theta+r \\sin ^{2} \\theta=r \\).",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Conceptual",
-                "leanthy"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/1/2024, 11:01:55 PM",
-            "ocrQuestion": "If \\( \\mathrm{u}+\\mathrm{v}=\\mathrm{e}^{\\mathrm{x}} \\cos \\mathrm{y} \\) and \\( \\mathrm{u}-\\mathrm{v}=\\mathrm{e}^{\\mathrm{x}} \\sin \\mathrm{y} \\) the value of \\( J\\left(\\frac{u, v}{x, y}\\right) \\) is\na) \\( e^{2 x} \\)\nb) \\( \\frac{e^{2} x}{2} \\)\nc) \\( \\frac{-e^{2} x}{2} \\)\nd) 0",
-            "onlyq_text": "<p>If \\( \\mathrm{u}+\\mathrm{v}=\\mathrm{e}^{\\mathrm{x}} \\cos \\mathrm{y} \\) and \\( \\mathrm{u}-\\mathrm{v}=\\mathrm{e}^{\\mathrm{x}} \\sin \\mathrm{y} \\) the value of \\( J\\left(\\frac{u, v}{x, y}\\right) \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>a) \\( e^{2 x} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>b) \\( \\frac{e^{2x} }{2} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>c) \\( \\frac{-e^{2x} }{2} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>d) 0</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Explanation: wkt \\( J\\left(\\frac{u, v}{x, y}\\right)=\\frac{\\partial(u, v)}{\\partial(x, y)}=\\left|\\begin{array}{ll}\\frac{\\partial u}{\\partial x} & \\frac{\\partial u}{\\partial y} \\\\ \\frac{\\partial v}{\\partial x} & \\frac{\\partial v}{\\partial y}\\end{array}\\right| \\)But we have to find \\( u \\) and \\( v \\) first using given equation\\[u+v=e^{x} \\cos y \\text {. }\\]\\[u-v=e^{x} \\sin y \\text {. }\\]solving (1)\\&(2)we get \\( \\mathrm{u}=\\frac{e^{x}}{2} \\) (cosy+siny)\\[\\begin{array}{l}\\mathrm{v}=\\frac{e^{x}}{2}(\\cos y-\\sin y) \\\\\\frac{\\partial u}{\\partial x}=\\frac{e^{x}}{2}(\\cos y+\\sin y) \\\\\\frac{\\partial v}{\\partial x}=\\frac{e^{x}}{2}(\\cos y-\\sin y) \\\\\\frac{\\partial u}{\\partial y}=\\frac{e^{x}}{2}(\\cos y-\\sin y) \\\\\\frac{\\partial v}{\\partial y}=\\frac{e^{x}}{2}(-\\cos y-\\sin y)\\end{array}\\]\\[J\\left(\\frac{u, v}{x, y}\\right)=\\left|\\begin{array}{cc}\\frac{e^{x}}{2}(\\cos y+\\sin y) & \\frac{e^{x}}{2}(\\cos y-\\sin y) \\\\\\frac{e^{x}}{2}(\\cos y-\\sin y) & \\frac{e^{x}}{2}(-\\cos y-\\sin y)\\end{array}\\right|\\]\\( \\left(\\frac{e^{x}}{2}\\right)\\left(\\frac{e^{x}}{2}\\right)\\left\\{-(\\text { cosy }+\\sin y)^{2}-(\\text { cosy-siny })^{2}\\right\\} \\ldots . . .\\left(\\right. \\) expanding \\& solving by taking \\( \\left.\\cos ^{2} y+\\sin ^{2} y=1\\right) \\) \\( =\\frac{-e^{2} x}{2} \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "CAN BE MULTIPLE"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/1/2024, 11:04:07 PM",
-            "ocrQuestion": "Which among the following is the definition of Jacobian of \\( u \\) and \\( v \\) w.r.t \\( x \\) and \\( y \\) ?\na) \\( J\\left(\\frac{x, y}{u, v}\\right) \\)\nb) \\( J\\left(\\frac{u, v}{x, y}\\right) \\)\nc) \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)\nd) \\( \\frac{\\partial(u, x)}{\\partial(v, y)} \\)",
-            "onlyq_text": "<p>Which among the following is the definition of Jacobian of \\( u \\) and \\( v \\) w.r.t \\( x \\) and \\( y \\) ?</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a) \\( J\\left(\\frac{x, y}{u, v}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b) \\( J\\left(\\frac{u, v}{x, y}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c) \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d) \\( \\frac{\\partial(u, x)}{\\partial(v, y)} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Explanation: \\( J\\left(\\frac{u, v}{x, y}\\right)=\\frac{\\partial(u, v)}{\\partial(x, y)}=\\left|\\begin{array}{ll}\\frac{\\partial u}{\\partial x} & \\frac{\\partial u}{\\partial y} \\\\ \\frac{\\partial v}{\\partial x} & \\frac{\\partial v}{\\partial y}\\end{array}\\right| \\)",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/1/2024, 11:06:46 PM",
-            "ocrQuestion": "Compute the Jacobian, \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\), of the coordinate transformation \\( x=u^{2}-v^{4} \\), \\( y=u v \\).\n(a) \\( 2 u^{2}+4 v^{4} \\)\n(b) \\( x u-y v \\)\n(c) \\( 3 u^{2}+7 v^{6} \\)\n(d) \\( 2 u^{2} \\)",
-            "onlyq_text": "<p>Compute the Jacobian, \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\), of the coordinate transformation \\( x=u^{2}-v^{4} \\), \\( y=u v \\).",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( 2 u^{2}+4 v^{4} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( x u-y v \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( 3 u^{2}+7 v^{6} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( 2 u^{2} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Solution. \\( \\left|\\begin{array}{rr}2 u & -4 v^{3} \\\\ v & u\\end{array}\\right|=2 u^{2}+4 v^{4} \\).",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/1/2024, 11:09:26 PM",
-            "ocrQuestion": "If \\( u \\) and \\( v \\) are continuous and differentiable functions of two independent variables \\( x \\) and \\( y \\), then Jacobian of \\( u, v \\) with respect to \\( \\mathrm{x}, \\mathrm{y} \\) is\nA. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)\nB. \\( \\frac{\\partial(u, y)}{\\partial(x, y)} \\)\nC. \\( \\frac{\\partial(x, v)}{\\partial(x, y)} \\)\nD. \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)",
-            "onlyq_text": "<p>If \\( u \\) and \\( v \\) are continuous and differentiable functions of two independent variables \\( x \\) and \\( y \\), then Jacobian of \\( u, v \\) with respect to \\( \\mathrm{x}, \\mathrm{y} \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>A. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>B. \\( \\frac{\\partial(u, y)}{\\partial(x, y)} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>C. \\( \\frac{\\partial(x, v)}{\\partial(x, y)} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>D. \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Solution. \\( \\left|\\begin{array}{rr}2 u & -4 v^{3} \\\\ v & u\\end{array}\\right|=2 u^{2}+4 v^{4} \\).",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/1/2024, 11:10:56 PM",
-            "ocrQuestion": "If \\( u v, w \\) are continuous and differentiable functions of three independent variables \\( x, y, z \\) then Jacobian of \\( u, v, w \\) with respect to \\( \\mathrm{x} \\), \\( y, z \\) is\nE. \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\)\nF. \\( \\frac{\\partial(u, y, w)}{\\partial(x, y, z)} \\)\nG. \\( \\frac{\\partial(x, v, z)}{\\partial(x, y, w)} \\)\nH. \\( \\frac{\\partial(x, y, z)}{\\partial(u, v, w)} \\)",
-            "onlyq_text": "<p>If \\( u v, w \\) are continuous and differentiable functions of three independent variables \\( x, y, z \\) then Jacobian of \\( u, v, w \\) with respect to \\( \\mathrm{x} \\), \\( y, z \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>A. \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>B. \\( \\frac{\\partial(u, y, w)}{\\partial(x, y, z)} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>C. \\( \\frac{\\partial(x, v, z)}{\\partial(x, y, w)} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>D. \\( \\frac{\\partial(x, y, z)}{\\partial(u, v, w)} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Solution. \\( \\left|\\begin{array}{rr}2 u & -4 v^{3} \\\\ v & u\\end{array}\\right|=2 u^{2}+4 v^{4} \\).",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/1/2024, 11:12:08 PM",
-            "ocrQuestion": "Let \\( u \\) and \\( v \\) are functions of two independent variables \\( x \\) and \\( y \\). If Jacobian of \\( u, v \\) with respect to \\( \\mathrm{x}, \\mathrm{y} \\) is \\( \\mathrm{J} \\), then \\( \\mathrm{J} \\) ' is\nA. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)\nB. \\( \\frac{\\partial(u, y)}{\\partial(x, y)} \\)\nC. \\( \\frac{\\partial(x, v)}{\\partial(x, y)} \\)\nD. \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)",
-            "onlyq_text": "<p>Let \\( u \\) and \\( v \\) are functions of two independent variables \\( x \\) and \\( y \\). If Jacobian of \\( u, v \\) with respect to \\( \\mathrm{x}, \\mathrm{y} \\) is \\( \\mathrm{J} \\), then \\( \\mathrm{J} \\) ' is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>A. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>B. \\( \\frac{\\partial(u, y)}{\\partial(x, y)} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>C. \\( \\frac{\\partial(x, v)}{\\partial(x, y)} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>D. \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Solution. \\( \\left|\\begin{array}{rr}2 u & -4 v^{3} \\\\ v & u\\end{array}\\right|=2 u^{2}+4 v^{4} \\).",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/1/2024, 11:14:40 PM",
-            "ocrQuestion": "If \\( x=r \\cos \\theta \\) and \\( y=r \\sin \\theta \\), then JJ' is equal to\nA. 2\nB. -1\nC. 1\nD. \\( \\frac{1}{2} \\)",
-            "onlyq_text": "<p>If \\( x=r \\cos \\theta \\) and \\( y=r \\sin \\theta \\), then JJ' is equal to</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>A. 2</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>B. -1</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>C. 1</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>D. \\( \\frac{1}{2} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Solution. \\( \\left|\\begin{array}{rr}2 u & -4 v^{3} \\\\ v & u\\end{array}\\right|=2 u^{2}+4 v^{4} \\).",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/1/2024, 11:16:41 PM",
-            "ocrQuestion": "If \\( u=f_{1}(x, y), v=f_{2}(x, y) \\) and \\( x=\\Phi_{1}(r, \\theta), y=\\Phi_{1}(r, \\theta) \\) then \\( \\frac{\\partial(u, v)}{\\partial(r, \\theta)} \\)\nis equal to\nA. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\cdot \\frac{\\partial(u, y)}{\\partial(x, y)} \\)\nB. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\cdot \\frac{\\partial(r, \\theta)}{\\partial(x, y)} \\)\nC. \\( \\frac{\\partial(u, v)}{\\partial(r, \\theta)} \\cdot \\frac{\\partial(r, \\theta)}{\\partial(x, y)} \\)\nD. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\cdot \\frac{\\partial(x, y)}{\\partial(r, \\theta)} \\)",
-            "onlyq_text": "<p>If \\( u=f_{1}(x, y), v=f_{2}(x, y) \\) and \\( x=\\Phi_{1}(r, \\theta), y=\\Phi_{1}(r, \\theta) \\) then \\( \\frac{\\partial(u, v)}{\\partial(r, \\theta)} \\)is equal to</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>A. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\cdot \\frac{\\partial(u, y)}{\\partial(x, y)} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>B. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\cdot \\frac{\\partial(r, \\theta)}{\\partial(x, y)} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>C. \\( \\frac{\\partial(u, v)}{\\partial(r, \\theta)} \\cdot \\frac{\\partial(r, \\theta)}{\\partial(x, y)} \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>D. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\cdot \\frac{\\partial(x, y)}{\\partial(r, \\theta)} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Solution. \\( \\left|\\begin{array}{rr}2 u & -4 v^{3} \\\\ v & u\\end{array}\\right|=2 u^{2}+4 v^{4} \\).",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "calculative",
-                "NOT SOLVED BY ME"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 1:11:10 AM",
-            "ocrQuestion": "If \\( f_{1}(x, y, u, v)=0 \\) and \\( f_{2}(x, y, u, v)=0 \\) are two implicit functions then \\( \\frac{\\partial(x, y)}{\\partial(u, v)}= \\)\na) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}\\right) \\)\nb) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}\\right) \\)\nc) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}\\right) \\)\nd) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}\\right) \\)",
-            "onlyq_text": "<p>If \\( f_{1}(x, y, u, v)=0 \\) and \\( f_{2}(x, y, u, v)=0 \\) are two implicit functions then \\( \\frac{\\partial(x, y)}{\\partial(u, v)}= \\)</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>a) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>b) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>c) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>d) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}\\right) \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "calculative",
-                "NOT SOLVED BY ME"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 1:12:36 AM",
-            "ocrQuestion": "If \\( f_{1}(x, y, z, u, v, w)=0, f_{2}(x, y, z, u, v, w)=0 \\) and \\( f_{3}(x, y, z, u, v, w)=0 \\) are three implicit functions then \\( \\frac{\\partial x}{\\partial w}= \\) a) \\( -\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial\\left(w_{1}, z\\right)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(x, y, z)}}\\right) \\)\nb) \\( -\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial\\left(w_{1}, z\\right)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(u, v, w)}}\\right) \\)\nc) - \\( \\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(x, v, w)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(u, v, w)}}\\right) \\)\nd) \\( -\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(x, y, z)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(u, v, w)}}\\right) \\)",
-            "onlyq_text": "<p>If \\( f_{1}(x, y, z, u, v, w)=0, f_{2}(x, y, z, u, v, w)=0 \\) and \\( f_{3}(x, y, z, u, v, w)=0 \\) are three implicit functions then \\( \\frac{\\partial x}{\\partial w}= \\) </p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>a) \\( -\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial\\left(w_{1}, z\\right)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(x, y, z)}}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>b) \\( -\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial\\left(w_{1}, z\\right)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(u, v, w)}}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>c) - \\( \\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(x, v, w)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(u, v, w)}}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>d) \\( -\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(x, y, z)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(u, v, w)}}\\right) \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 10:53:24 AM",
-            "ocrQuestion": "If \\( u=x^{2}-y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)\na) \\( 4\\left(x^{2}+y^{2}\\right) \\)\nb) \\( 2\\left(x^{2}+y^{2}\\right) \\)\nc) \\( 4\\left(x^{2}-y^{2}\\right) \\)\nd) \\( 2\\left(x^{2}-y^{2}\\right) \\)",
-            "onlyq_text": "<p>If \\( u=x^{2}-y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>a) \\( 4\\left(x^{2}+y^{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>b) \\( 2\\left(x^{2}+y^{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>c) \\( 4\\left(x^{2}-y^{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>d) \\( 2\\left(x^{2}-y^{2}\\right) \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 10:54:28 AM",
-            "ocrQuestion": "If \\( \\mathrm{u}=x^{2}+y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)\na) \\( 4\\left(x^{2}-y^{2}\\right) \\)\nb) \\( 4\\left(x^{2}+y^{2}\\right) \\)\nc) \\( 2\\left(x^{2}+y^{2}\\right) \\)\nd) \\( 2\\left(x^{2}-y^{2}\\right) \\)",
-            "onlyq_text": "<p>If \\( \\mathrm{u}=x^{2}+y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>a) \\( 4\\left(x^{2}-y^{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>b) \\( 4\\left(x^{2}+y^{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>c) \\( 2\\left(x^{2}+y^{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>d) \\( 2\\left(x^{2}-y^{2}\\right) \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 10:58:12 AM",
-            "ocrQuestion": "If \\( x=u+v \\quad \\) and \\( y=u v \\quad \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)\na) \\( u+v \\)\nb) \\( u-v \\)\nc) \\( v-u \\)\nd) \\( 2 u+v \\)",
-            "onlyq_text": "<p>If \\( x=u+v \\quad \\) and \\( y=u v \\quad \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a) \\( u+v \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b) \\( u-v \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c) \\( v-u \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d) \\( 2 u+v \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 10:58:57 AM",
-            "ocrQuestion": "If \\( u=x+2 y, v=x^{2}+y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\) is\na) \\( 2-4 x \\)\nb) \\( 1-4 x \\)\nc) \\( 2+4 x \\)\nd) \\( 1+4 x \\)",
-            "onlyq_text": "<p>If \\( u=x+2 y, v=x^{2}+y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a) \\( 2-4 x \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b) \\( 1-4 x \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c) \\( 2+4 x \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d) \\( 1+4 x \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "MultiConcept",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 11:11:33 AM",
-            "ocrQuestion": "If \\( x=e^{v} \\sec u, y=e^{v} \\tan u \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is\na) \\( -e^{2 v} \\) secu\nb) \\( e^{-2 v} \\operatorname{secu} \\)\nc) \\( -e^{2 v} \\tan u \\)\nd) \\( e^{2 v} \\mathrm{secu} \\)",
-            "onlyq_text": "<p>If \\( x=e^{v} \\sec u, y=e^{v} \\tan u \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>a) \\( -e^{2 v} \\) secu</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>b) \\( e^{-2 v} \\operatorname{secu} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>c) \\( -e^{2 v} \\tan u \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>d) \\( e^{2 v} \\mathrm{secu} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 11:13:58 AM",
-            "ocrQuestion": "If \\( x=u \\cos v \\) and \\( y=u \\sin v \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is\na) \\( -\\mathrm{u} \\)\nb) \\( u \\)\nc) 1\nd) -1",
-            "onlyq_text": "<p>If \\( x=u \\cos v \\) and \\( y=u \\sin v \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a) \\( -\\mathrm{u} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b) \\( u \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c) 1</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d) -1</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 11:23:26 AM",
-            "ocrQuestion": "If \\( x=\\sin \\vartheta \\cos \\varphi \\quad \\) and \\( y=\\sin \\vartheta \\sin \\varphi \\) then \\( \\frac{\\partial(x, y)}{\\partial(\\vartheta, \\varphi)} \\) is\na) \\( \\sin \\vartheta \\cos \\varphi \\)\nb) \\( \\sin \\varphi \\cos \\vartheta \\)\nc) \\( \\sin \\vartheta-\\cos \\varphi \\)\nd) \\( \\sin \\vartheta \\cos \\vartheta \\)",
-            "onlyq_text": "<p>If \\( x=\\sin \\vartheta \\cos \\varphi \\quad \\) and \\( y=\\sin \\vartheta \\sin \\varphi \\) then \\( \\frac{\\partial(x, y)}{\\partial(\\vartheta, \\varphi)} \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>a) \\( \\sin \\vartheta \\cos \\varphi \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>b) \\( \\sin \\varphi \\cos \\vartheta \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>c) \\( \\sin \\vartheta-\\cos \\varphi \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>d) \\( \\sin \\vartheta \\cos \\vartheta \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 11:24:10 AM",
-            "ocrQuestion": "If \\( x=u v, y=\\frac{1}{v} \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is\na) \\( \\frac{1}{v} \\)\nb) \\( -\\frac{1}{v} \\)\nc) \\( \\frac{2}{v} \\)\nd) \\( \\frac{-2}{v} \\)",
-            "onlyq_text": "<p>If \\( x=u v, y=\\frac{1}{v} \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a) \\( \\frac{1}{v} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b) \\( -\\frac{1}{v} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c) \\( \\frac{2}{v} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d) \\( \\frac{-2}{v} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "JACOBIAN",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{x}{x^{2}+y^{2}} \\)</p>"
         }
-    ]
+      ],
+      "option_hindi": [],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "PARTIAL DIFFERENTIATION",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "leanthy",
+        "calculative"
+      ],
+      "added_By": "sai",
+      "date": "2/29/2024, 11:47:50 PM",
+      "ocrQuestion": "If \\( z=e^{a x+b y} \\cdot f(a x-b y) \\), then \\( b \\frac{\\partial z}{\\partial x}+a \\frac{\\partial z}{\\partial y} \\) will be\n(a) \\( a b z \\)\n(b) \\( 2 a b z \\)\n(c) \\( 4 a b z \\)\n(d) \\( 8 a b z \\)",
+      "onlyq_text": "<p>If \\( z=e^{a x+b y} \\cdot f(a x-b y) \\), then \\( b \\frac{\\partial z}{\\partial x}+a \\frac{\\partial z}{\\partial y} \\) will be</p>",
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( a b z \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( 2 a b z \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( 4 a b z \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( 8 a b z \\)</p>"
+        }
+      ],
+      "option_hindi": [],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "PARTIAL DIFFERENTIATION",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual"
+      ],
+      "added_By": "sai",
+      "date": "2/29/2024, 11:51:03 PM",
+      "ocrQuestion": "If \\( u=x^{y} \\), then \\( \\frac{\\partial^{2} u}{\\partial x \\partial y} \\) is\n(a) \\( x^{y-1}[y \\ln x+1] \\)\n(b) \\( x^{y}[y \\ln x+1] \\)\n(c) \\( x^{y-1}[x \\ln y+1] \\)\n(d) \\( x^{y}[x \\ln y+1] \\)",
+      "onlyq_text": "<p>If \\( u=x^{y} \\), then \\( \\frac{\\partial^{2} u}{\\partial x \\partial y} \\) is</p>",
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) \\( x^{y-1}[y \\ln x+1] \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) \\( x^{y}[y \\ln x+1] \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) \\( x^{y-1}[x \\ln y+1] \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) \\( x^{y}[x \\ln y+1] \\)</p>"
+        }
+      ],
+      "option_hindi": [],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "PARTIAL DIFFERENTIATION",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "leanthy",
+        "calculative"
+      ],
+      "added_By": "sai",
+      "date": "3/1/2024, 12:07:24 AM",
+      "ocrQuestion": "If \\( u=y^{n} \\exp \\left(-\\frac{x^{2}}{4 y}\\right) \\), then the value of \\( n \\) for which \\( \\frac{1}{x^{2}} \\frac{\\partial}{\\partial x}\\left(x^{2} \\frac{\\partial u}{\\partial x}\\right)=\\frac{\\partial u}{\\partial y} \\), is\n(a) 2\n(b) -2\n(c) \\( 3 / 2 \\)\n(d) \\( -3 / 2 \\)",
+      "onlyq_text": "<p>If \\( u=y^{n} \\exp \\left(-\\frac{x^{2}}{4 y}\\right) \\), then the value of \\( n \\) for which \\( \\frac{1}{x^{2}} \\frac{\\partial}{\\partial x}\\left(x^{2} \\frac{\\partial u}{\\partial x}\\right)=\\frac{\\partial u}{\\partial y} \\), is</p>",
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(a) 2</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(b) -2</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(c) \\( 3 / 2 \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(d) \\( -3 / 2 \\)</p>"
+        }
+      ],
+      "option_hindi": [],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "PARTIAL DIFFERENTIATION",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "HARD",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "leanthy",
+        "calculative",
+        "MultiConcept",
+        "CAN BE MULTIPLE"
+      ],
+      "added_By": "sai",
+      "date": "3/1/2024, 12:16:45 AM",
+      "ocrQuestion": "Which of following functions does not satisfy Laplace's equation i.e. \\( \\frac{\\partial^{2} u}{\\partial x^{2}}+\\frac{\\partial^{2} u}{\\partial y^{2}}=0 \\) ?\n(a) \\( u=x^{3}-3 x y^{2} \\)\n(b) \\( u=\\sin x \\cosh y \\)\n(c) \\( u=y^{3}+x y^{2} \\)\n(d) \\( u=\\frac{1}{2} \\ln \\left(x^{2}+y^{2}\\right) \\)",
+      "onlyq_text": "<p>Which of following functions does not satisfy Laplace's equation i.e. \\( \\frac{\\partial^{2} u}{\\partial x^{2}}+\\frac{\\partial^{2} u}{\\partial y^{2}}=0 \\) ?</p>",
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) \\( u=x^{3}-3 x y^{2} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) \\( u=\\sin x \\cosh y \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) \\( u=y^{3}+x y^{2} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) \\( u=\\frac{1}{2} \\ln \\left(x^{2}+y^{2}\\right) \\)</p>"
+        }
+      ],
+      "option_hindi": [],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "PARTIAL DIFFERENTIATION",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "HARD",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "leanthy",
+        "calculative",
+        "MultiConcept"
+      ],
+      "added_By": "sai",
+      "date": "3/1/2024, 12:28:24 AM",
+      "ocrQuestion": "If \\( u=\\sin ^{-1} \\frac{x^{2}+y^{2}}{x+y} \\), then \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) will be\n(a) \\( \\sin u \\)\n(b) \\( \\tan u \\)\n(c) \\( \\cos u \\)\n(d) \\( \\cot u \\)",
+      "onlyq_text": "<p>If \\( u=\\sin ^{-1} \\frac{x^{2}+y^{2}}{x+y} \\), then \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) will be</p>",
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\sin u \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\tan u \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\cos u \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\cot u \\)</p>"
+        }
+      ],
+      "option_hindi": [],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "PARTIAL DIFFERENTIATION",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "HARD",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "date": "3/1/2024, 12:31:05 AM",
+      "ocrQuestion": "If \\( u=\\exp \\left(x^{2}+y^{2}\\right) \\), then \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) will be\n(a) \\( 2 \\ln u \\)\n(b) \\( u \\ln u \\)\n(c) \\( 2 u \\ln u \\)\n(d) \\( 2 \\ln u / u \\)",
+      "onlyq_text": "<p>If \\( u=\\exp \\left(x^{2}+y^{2}\\right) \\), then \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) will be</p>",
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) \\( 2 \\ln u \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) \\( u \\ln u \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) \\( 2 u \\ln u \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) \\( 2 \\ln u / u \\)</p>"
+        }
+      ],
+      "option_hindi": [],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "PARTIAL DIFFERENTIATION",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual"
+      ],
+      "added_By": "sai",
+      "date": "3/1/2024, 12:39:00 AM",
+      "ocrQuestion": " If \\( u=x^{2} \\tan ^{-1} \\frac{y}{x}-y^{2} \\tan ^{-1} \\frac{x}{y} \\), then \\( \\frac{\\partial^{2} u}{\\partial x \\partial y} \\) an be written as\n(a) \\( \\frac{x^{2}+y^{2}}{x^{2}-y^{2}} \\)\n(b) \\( \\frac{x^{2}-y^{2}}{x^{2}+y^{2}} \\)\n(c) \\( \\frac{x^{2}+2 y^{2}}{x^{2}-2 y^{2}} \\)\n(d) \\( \\frac{x^{2}-2 y^{2}}{x^{2}+2 y^{2}} \\)",
+      "onlyq_text": "<p>Question: If \\( u=x^{2} \\tan ^{-1} \\frac{y}{x}-y^{2} \\tan ^{-1} \\frac{x}{y} \\), then \\( \\frac{\\partial^{2} u}{\\partial x \\partial y} \\) an be written as</p>",
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\frac{x^{2}+y^{2}}{x^{2}-y^{2}} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{x^{2}-y^{2}}{x^{2}+y^{2}} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\frac{x^{2}+2 y^{2}}{x^{2}-2 y^{2}} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{x^{2}-2 y^{2}}{x^{2}+2 y^{2}} \\)</p>"
+        }
+      ],
+      "option_hindi": [],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "cec"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "PARTIAL DIFFERENTIATION",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual"
+      ],
+      "added_By": "sai",
+      "date": "3/1/2024, 4:22:10 PM",
+      "ocrQuestion": "Question: If \\( \\ln u=\\frac{x^{3}+y^{3}}{3 x+4 y} \\), then \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) is equal to\n(a) \\( 2 u \\ln u \\)\n(b) \\( u \\ln u \\)\n(c) \\( \\frac{2}{u} \\ln u \\)\n(d) \\( \\frac{1}{u} \\ln u \\)",
+      "onlyq_text": "<p>Question: If \\( \\ln u=\\frac{x^{3}+y^{3}}{3 x+4 y} \\), then \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) is equal to</p>",
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) \\( 2 u \\ln u \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) \\( u \\ln u \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\frac{2}{u} \\ln u \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{1}{u} \\ln u \\)</p>"
+        }
+      ],
+      "option_hindi": [],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "cec"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "MEDIUM",
+      "solutions": [
+        {
+          "sol_html": "Soln. \\( \\quad z=\\ln u=\\frac{x^{3}+y^{3}}{3 x+4 y} \\longrightarrow \\) homogenous \\( f_{n} \\) of degree 2\\[z(\\alpha x, \\alpha y)=\\alpha^{2} \\cdot z(x, y)\\]\\[\\begin{array}{l}x \\cdot \\frac{\\partial z}{\\partial x}+y \\frac{\\partial z}{\\partial y}=2 z \\\\\\Rightarrow x \\cdot \\frac{1}{u} \\frac{\\partial u}{\\partial x}+y \\cdot \\frac{1}{u} \\frac{\\partial u}{\\partial y}=2(\\ln u) \\\\\\Rightarrow x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=2 u \\ln u\\end{array}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision"
+      ],
+      "added_By": "sai",
+      "date": "3/1/2024, 4:26:05 PM",
+      "ocrQuestion": "If \\( u(x, y)=x^{4} \\tan ^{-1}\\left(\\frac{y}{x}\\right)+\\left(\\frac{x^{5}+y^{5}}{x+y}\\right) \\), then \\( x \\frac{\\partial v}{\\partial x}+y \\frac{\\partial v}{\\partial y} \\) is.\n1. \\( 4 \\mathrm{u} \\)\n2. \\( 12 \\mathrm{u} \\)\n3. \\( -4 \\mathrm{u} \\)\n4. \\( -12 \\mathrm{u} \\)",
+      "onlyq_text": "<p>If \\( u(x, y)=x^{4} \\tan ^{-1}\\left(\\frac{y}{x}\\right)+\\left(\\frac{x^{5}+y^{5}}{x+y}\\right) \\), then \\( x \\frac{\\partial v}{\\partial x}+y \\frac{\\partial v}{\\partial y} \\) is.</p>",
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>1. \\( 4 \\mathrm{u} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>2. \\( 12 \\mathrm{u} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>3. \\( -4 \\mathrm{u} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>4. \\( -12 \\mathrm{u} \\)</p>"
+        }
+      ],
+      "option_hindi": [],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "MEDIUM",
+      "solutions": [
+        {
+          "sol_html": "Concept:Euler's theorem for homogeneous function of degree (n)\\[x \\frac{\\partial v}{\\partial x}+y \\frac{\\partial v}{\\partial y}=n u\\]\\( u(\\lambda x, \\lambda y)=\\lambda^{n}(x, y), n \\) is degree.Calculation:\\[\\begin{array}{l}u(x, y)=x^{4}\\left[\\tan ^{-1}\\left(\\frac{y}{x}\\right)+\\left(\\frac{1+\\left(\\frac{y}{x}\\right)^{5}}{1+\\left(\\frac{y}{x}\\right)}\\right)\\right] \\\\\\mathrm{n}=4 \\\\\\therefore x \\frac{\\partial v}{\\partial x}+y \\frac{\\partial v}{\\partial y}=4 u\\end{array}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "leanthy"
+      ],
+      "added_By": "sai",
+      "date": "3/1/2024, 4:28:23 PM",
+      "ocrQuestion": "If \\( u=\\sin ^{-1}\\left(\\frac{x}{y}\\right)+\\tan ^{-1}\\left(\\frac{y}{x}\\right) \\), then the value of \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) is\n1. U\n2. \\( 2 \\mathrm{u} \\)\n3. \\( 3 \\mathrm{u} \\)\n4. 0",
+      "onlyq_text": "<p>If \\( u=\\sin ^{-1}\\left(\\frac{x}{y}\\right)+\\tan ^{-1}\\left(\\frac{y}{x}\\right) \\), then the value of \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) is</p>",
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>1. U</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>2. \\( 2 \\mathrm{u} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>3. \\( 3 \\mathrm{u} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>4. 0</p>"
+        }
+      ],
+      "option_hindi": [],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "HARD",
+      "solutions": [
+        {
+          "sol_html": "Explanation:\\[\\begin{array}{l}\\text { If } u=\\sin ^{-1}\\left(\\frac{x}{y}\\right)+\\tan ^{-1}\\left(\\frac{y}{x}\\right) \\\\x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=? \\\\\\frac{\\partial u}{\\partial x}=\\frac{1}{\\sqrt{1-\\left(\\frac{x}{y}\\right)^{2}}} \\times \\frac{1}{y}+\\frac{1}{1+\\left(\\frac{y}{x}\\right)^{2}} \\times y\\left(\\frac{-1}{x^{2}}\\right) \\\\\\frac{\\partial u}{\\partial y}=\\frac{-1}{\\sqrt{1-\\left(\\frac{x}{y}\\right)^{2}}} \\times\\left(\\frac{x}{y^{2}}\\right)+\\frac{1}{1+\\left(\\frac{1}{x}\\right)^{2}} \\times \\frac{1}{x} \\\\x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=\\frac{x}{y} \\times \\frac{1}{\\sqrt{1-\\left(\\frac{x}{y}\\right)^{2}}}-x \\times \\frac{y}{x^{2}} \\times \\frac{1}{\\left[1+\\left(\\frac{y}{x}\\right)^{2}\\right]} \\\\-y \\times\\left(\\frac{x}{y^{2}}\\right) \\times \\frac{1}{\\sqrt{1-\\left(\\frac{x}{y}\\right)^{2}}}+y \\times \\frac{1}{x} \\frac{1}{\\left(1+\\left(\\frac{y}{x}\\right)^{2}\\right)} \\\\\\therefore x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=0 \\\\\\end{array}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "calculative",
+        "MultiConcept"
+      ],
+      "added_By": "sai",
+      "concept_html": "Concept:Since \\( z \\) is a homogeneous function of \\( x \\), \\( y \\) of degree \\( n \\), we can use Euler's Theorem defined as:\\[\\mathrm{x} \\frac{d \\mathrm{z}}{\\partial \\mathrm{x}}+y \\frac{\\partial \\mathrm{z}}{\\partial \\mathrm{y}}=\\mathrm{nz}\\]Now, \\( z=f(u) \\)\\( \\frac{\\partial \\mathrm{z}}{\\partial \\mathrm{x}}=\\mathrm{f}^{\\prime}(\\mathrm{u}) \\frac{\\partial \\mathrm{u}}{\\partial \\mathrm{x}} \\), and\\[\\frac{\\partial \\mathrm{z}}{\\partial \\mathrm{y}}=\\mathrm{f}^{\\prime}(\\mathrm{u}) \\frac{\\partial \\mathrm{u}}{\\partial \\mathrm{y}}\\]Substituting this in Equation (1), we get:\\[\\mathrm{xf}^{\\prime}(\\mathrm{u}) \\frac{\\partial \\mathrm{u}}{\\partial \\mathrm{x}}+\\mathrm{yf}^{\\prime}(\\mathrm{u}) \\frac{\\partial \\mathrm{u}}{\\partial \\mathrm{y}}=\\mathrm{nf}(\\mathrm{u})\\]\\[x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=n \\frac{f(u)}{f^{\\prime}(u)}\\]",
+      "date": "3/1/2024, 5:06:54 PM",
+      "ocrQuestion": "If \\( u=\\sin ^{-1}\\left(\\frac{x+y}{\\sqrt{x}+\\sqrt{y}}\\right) \\) then by Euler's theorem, \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) equals to\n1. \\( \\frac{1}{2} \\sin u \\)\n2. \\( \\frac{1}{2} \\tan u \\)\n3. \\( x+y \\)\n4. \\( \\sin x+\\sin y \\)",
+      "onlyq_text": "<p>If \\( u=\\sin ^{-1}\\left(\\frac{x+y}{\\sqrt{x}+\\sqrt{y}}\\right) \\) then by Euler's theorem, \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) equals to</p>",
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>1. \\( \\frac{1}{2} \\sin u \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>2. \\( \\frac{1}{2} \\tan u \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>3. \\( x+y \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>4. \\( \\sin x+\\sin y \\)</p>"
+        }
+      ],
+      "option_hindi": [],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "HARD",
+      "solutions": [
+        {
+          "sol_html": "Given:\\[\\mathrm{u}=\\sin ^{-1}\\left(\\frac{\\mathrm{x}+\\mathrm{y}}{\\sqrt{\\mathrm{x}}+\\sqrt{\\mathrm{y}}}\\right)\\]\\( \\mathrm{u} \\) is not a homogenous function.\\[\\begin{array}{l}z=\\sin u=\\frac{x+y}{\\sqrt{x}+\\sqrt{y}} \\\\z=\\frac{x\\left(1+\\frac{y}{x}\\right)}{\\sqrt{x}\\left(1+\\frac{\\sqrt{y}}{\\sqrt{x}}\\right)} \\\\z=x^{\\frac{1}{2}} \\phi\\left(\\frac{y}{x}\\right) \\\\f(u)=\\tan u\\end{array}\\]Now, \\( z \\) is a homogeneous function of \\( x \\) and \\( y \\) of degree \\( 1 / 2 \\).Since \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=n \\frac{f(u)}{f^{\\prime}(u)} \\), we can write:\\[\\begin{array}{l}x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=\\frac{1}{2} \\times \\frac{\\sin u}{\\cos u} \\\\x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=\\frac{1}{2} \\tan u\\end{array}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual"
+      ],
+      "added_By": "sai",
+      "concept_html": "Concept:Euler's theorem for the homogeneous equation of degree ' \\( n \\) ' with ' \\( x \\) ' and ' \\( y \\) ' as variables states that:\\[x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=n u\\]",
+      "date": "3/1/2024, 5:11:36 PM",
+      "ocrQuestion": "If \\( u=x^{n-1} y f\\left(\\frac{y}{x}\\right) \\) then \\( \\frac{x \\partial^{2} u}{\\partial x^{2}}+\\frac{y \\partial^{2} u}{\\partial y \\partial x} \\) is equal to\n1. \\( (n-1) \\frac{\\partial u}{\\partial x} \\)\n2. \\( (n-1) \\frac{\\partial u}{\\partial y} \\)\n3. nu\n4. \\( n(n-1) u \\)",
+      "onlyq_text": "<p>If \\( u=x^{n-1} y f\\left(\\frac{y}{x}\\right) \\) then \\( \\frac{x \\partial^{2} u}{\\partial x^{2}}+\\frac{y \\partial^{2} u}{\\partial y \\partial x} \\) is equal to</p>",
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>1. \\( (n-1) \\frac{\\partial u}{\\partial x} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>2. \\( (n-1) \\frac{\\partial u}{\\partial y} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>3. nu</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>4. \\( n(n-1) u \\)</p>"
+        }
+      ],
+      "option_hindi": [],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "HARD",
+      "solutions": [
+        {
+          "sol_html": "We have:\\[\\begin{array}{l}u=x^{n-1} \\cdot y f\\left(\\frac{y}{x}\\right) \\\\u=x^{n} \\cdot\\left(\\frac{y}{x}\\right) f\\left(\\frac{y}{x}\\right)\\end{array}\\]\\( u \\) is a homogenous function of degree \\( n \\).\\[x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=n u\\]Now differentiate partially w.r.t. x again, we get:\\[\\begin{array}{l}x \\frac{\\partial^{2} u}{\\partial x}+\\frac{\\partial u}{\\partial x}+y \\frac{\\partial^{2} u}{\\partial x \\partial y}=n\\left(\\frac{\\partial u}{\\partial x}\\right) \\\\\\therefore x \\frac{\\partial^{2} u}{\\partial x}+y \\frac{\\partial^{2} u}{\\partial x \\partial y}=(n-1) \\frac{\\partial u}{\\partial x}\\end{array}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual"
+      ],
+      "added_By": "sai",
+      "concept_html": "Concept:Euler's theorem for the homogeneous equation of degree ' \\( n \\) ' with ' \\( x \\) ' and ' \\( y \\) ' as variables states that:\\[x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=n u\\]",
+      "date": "3/1/2024, 5:13:17 PM",
+      "ocrQuestion": "If \\( u=\\tan ^{-1}\\left(\\frac{y^{3}-x^{3}}{x^{2}+y^{2}+x y}\\right) \\) the value of \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) at \\( \\mathrm{x}=1 \\) and \\( \\mathrm{y}=3 \\) is\n1. 0.6\n2. 0.4\n3. 0.8\n4. 1.2",
+      "onlyq_text": "<p>If \\( u=\\tan ^{-1}\\left(\\frac{y^{3}-x^{3}}{x^{2}+y^{2}+x y}\\right) \\) the value of \\( x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y} \\) at \\( \\mathrm{x}=1 \\) and \\( \\mathrm{y}=3 \\) is</p>",
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>1. 0.6</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>2. 0.4</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>3. 0.8</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>4. 1.2</p>"
+        }
+      ],
+      "option_hindi": [],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "EULERS THEOREM OF HOMOGENEOUS FUNCTION",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "MEDIUM",
+      "solutions": [
+        {
+          "sol_html": "\\[\\begin{array}{l}u=\\tan ^{-1}\\left(\\frac{y^{3}-x^{3}}{x^{2}+y^{2}+x y}\\right) \\\\\\tan u=\\frac{y^{3}-x^{3}}{x^{2}+y^{2}+x y}=\\frac{(y-x)\\left(x^{2}+y^{2}+x y\\right)}{\\left(x^{2}+y^{2}+x y\\right)}\\end{array}\\]Now,\\( \\tan u=y\\left[1-\\left(\\frac{x}{y}\\right)\\right] \\) is a homogeneous function of degree ' 1 '\\[\\begin{array}{l}\\therefore x \\frac{\\partial u}{\\partial x}+y \\frac{\\partial u}{\\partial y}=\\frac{n f(u)}{f^{\\prime}(u)}=1 \\times \\frac{\\tan u}{\\sec ^{2} u} \\\\=\\frac{\\tan u}{1+\\tan ^{2} u}=\\frac{(y-x)}{1+(y-x)^{2}} \\\\=\\frac{(3-1)}{1+(3-1)^{2}}=\\frac{2}{5}=0.4\\end{array}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/1/2024, 10:38:43 PM",
+      "ocrQuestion": "The jacobian of \\( p, q, r \\) w.r.t \\( x, y, z \\) given \\( p=x+y+z, q=y+z, r=z \\) is\na) 0\nb) 1\nc) 2\nd) -1",
+      "onlyq_text": "<p>The jacobian of \\( p, q, r \\) w.r.t \\( x, y, z \\) given \\( p=x+y+z, q=y+z, r=z \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a) 0</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b) 1</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c) 2</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d) -1</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "Explanation: We have to find\\[J=\\frac{\\partial(p, q, r)}{\\partial(x, y, z)}=\\left|\\begin{array}{lll}\\frac{\\partial p}{\\partial x} & \\frac{\\partial p}{\\partial y} & \\frac{\\partial p}{\\partial z} \\\\\\frac{\\partial q}{\\partial x} & \\frac{\\partial q}{\\partial y} & \\frac{\\partial q}{\\partial z} \\\\\\frac{\\partial r}{\\partial x} & \\frac{\\partial r}{\\partial y} & \\frac{\\partial r}{\\partial z}\\end{array}\\right|\\]But \\( p=x+y+z, q=y+z, r=z \\) (taking partial derivative)\\[\\begin{array}{l}J=\\left|\\begin{array}{lll}1 & 1 & 1 \\\\0 & 1 & 1 \\\\0 & 0 & 1\\end{array}\\right|\\left(\\frac{\\partial p}{\\partial x}=1, \\frac{\\partial p}{\\partial y}=1, \\frac{\\partial p}{\\partial z}=1, \\frac{\\partial q}{\\partial x}=0, \\frac{\\partial q}{\\partial y}=1, \\frac{\\partial q}{\\partial z}=1, \\frac{\\partial r}{\\partial x}=0,\\right. \\\\\\left.\\frac{\\partial r}{\\partial y}=0, \\frac{\\partial r}{\\partial z}=1\\right)\\end{array}\\]On expanding we get\\[J=1(1-0)=1\\]Thus \\( \\mathrm{j}=1 \\).",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "leanthy",
+        "calculative"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/1/2024, 10:46:11 PM",
+      "ocrQuestion": "Given \\( u=\\frac{y z}{x}, v=\\frac{z x}{y}, w=\\frac{x y}{z} \\) then the value of \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\) is\na) 4\nb) -4\nc) 0\nd) 1",
+      "onlyq_text": "<p>Given \\( u=\\frac{y z}{x}, v=\\frac{z x}{y}, w=\\frac{x y}{z} \\) then the value of \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>a) 4</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>b) -4</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>c) 0</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>d) 1</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "MEDIUM",
+      "solutions": [
+        {
+          "sol_html": "Explanation: By Data \\( u=\\frac{y z}{x}, v=\\frac{z x}{y}, w=\\frac{x y}{z} \\)\\[\\begin{array}{l}J=\\frac{\\partial(u, v, w)}{\\partial(x, y, z)}=\\left|\\begin{array}{lll}\\frac{\\partial u}{\\partial x} & \\frac{\\partial u}{\\partial y} & \\frac{\\partial u}{\\partial z} \\\\\\frac{\\partial v}{\\partial x} & \\frac{\\partial v}{\\partial y} & \\frac{\\partial v}{\\partial z} \\\\\\frac{\\partial w}{\\partial x} & \\frac{\\partial w}{\\partial y} & \\frac{\\partial w}{\\partial z}\\end{array}\\right|=\\left|\\begin{array}{ccc}\\frac{-y z}{x^{2}} & \\frac{z}{x} & \\frac{y}{x} \\\\\\frac{z}{y} & \\frac{-z x}{y^{2}} & \\frac{x}{y} \\\\\\frac{y}{z} & \\frac{x}{z} & \\frac{-x y}{z^{2}}\\end{array}\\right| \\\\=\\frac{-y z}{x^{2}}\\left\\{\\left(\\frac{-z x}{y^{2}}\\right)\\left(\\frac{-x y}{y^{2}}\\right)-\\left(\\frac{x}{z}\\right)\\left(\\frac{x}{y}\\right)\\right\\}-\\left(\\frac{z}{x}\\right)\\left\\{\\left(\\frac{z}{y}\\right)\\left(\\frac{-x y}{z^{2}}\\right)-\\left(\\frac{y}{z}\\right)\\left(\\frac{x}{y}\\right)\\right\\} \\\\+\\frac{y}{x}\\left\\{\\left(\\frac{z}{y}\\right)\\left(\\frac{x}{z}\\right)-\\left(\\frac{y}{z}\\right)\\left(\\frac{-z x}{y^{2}}\\right)\\right\\} \\\\=\\frac{-y z}{x^{2}}\\left\\{\\frac{x^{2}}{y z}-\\frac{x^{2}}{y z}\\right\\}-\\frac{z}{x}\\left\\{\\frac{-x}{z}-\\frac{x}{z}\\right\\}+\\frac{y}{x}\\left\\{\\frac{x}{y}+\\frac{x}{y}\\right\\}=0+1+1+1=4\\end{array}\\]Therefore \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)}=4 \\).",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "calculative"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/1/2024, 10:53:26 PM",
+      "ocrQuestion": "If \\( \\mathrm{u}=\\mathrm{x}+3 \\mathrm{y}^{2}-\\mathrm{z}^{3}, \\mathrm{v}=4 \\mathrm{x}^{2} \\mathrm{yz}, \\mathrm{w}=2 \\mathrm{z}^{2}-\\mathrm{xy} \\) then \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\) at \\( (1,1,1) \\).\na) -184\nb) -90\nc) 20\nd) 40",
+      "onlyq_text": "<p>If \\( \\mathrm{u}=\\mathrm{x}+3 \\mathrm{y}^{2}-\\mathrm{z}^{3}, \\mathrm{v}=4 \\mathrm{x}^{2} \\mathrm{yz}, \\mathrm{w}=2 \\mathrm{z}^{2}-\\mathrm{xy} \\) then \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\) at \\( (1,1,1) \\).</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>a) -184</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>b) -90</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>c) 20</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>d) 40</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "Explanation: Given that \\( u=x+3 y^{2}-z^{3}, v=4 x^{2} y z, w=2 z^{2}-x y \\)\\[\\begin{array}{l}\\frac{\\partial(u, v, w)}{\\partial(x, y, z)}=\\left|\\begin{array}{lll}\\frac{\\partial u}{\\partial x} & \\frac{\\partial u}{\\partial y} & \\frac{\\partial u}{\\partial z} \\\\\\frac{\\partial v}{\\partial x} & \\frac{\\partial v}{\\partial y} & \\frac{\\partial v}{\\partial z} \\\\\\frac{\\partial w}{\\partial x} & \\frac{\\partial w}{\\partial y} & \\frac{\\partial w}{\\partial z}\\end{array}\\right|=\\left|\\begin{array}{ccc}1 & 6 y & -3 z^{2} \\\\8 x y z & 4 x^{2} z & 4 x^{2} y \\\\-y & -x & 4 z\\end{array}\\right| \\\\\\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\text { at }(1,1,1)=\\left|\\begin{array}{ccc}1 & 6 & -3 \\\\8 & 4 & 4 \\\\-1 & -1 & 4\\end{array}\\right| \\\\=1(16+4)-6(32+4)-3(-8+4)=-184 .\\end{array}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/1/2024, 10:55:51 PM",
+      "ocrQuestion": "If \\( \\mathrm{x}=\\mathrm{r} \\cos \\theta, \\mathrm{y}=\\mathrm{r} \\sin \\theta \\) then the value of \\( \\frac{\\partial(x, y)}{\\partial(r, \\theta)} \\) is\na) 1\nb) 0\nc) \\( r \\)\nd) \\( \\frac{1}{r} \\)",
+      "onlyq_text": "<p>If \\( \\mathrm{x}=\\mathrm{r} \\cos \\theta, \\mathrm{y}=\\mathrm{r} \\sin \\theta \\) then the value of \\( \\frac{\\partial(x, y)}{\\partial(r, \\theta)} \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>a) 1</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>b) 0</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>c) \\( r \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>d) \\( \\frac{1}{r} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "Explanation: Wkt, \\( \\frac{\\partial(x, y)}{\\partial(r, \\theta)}=\\left|\\begin{array}{ll}\\frac{\\partial x}{\\partial r} & \\frac{\\partial x}{\\partial \\theta} \\\\ \\frac{\\partial y}{\\partial r} & \\frac{\\partial y}{\\partial \\theta}\\end{array}\\right| \\) but \\( x=r \\cos \\theta, y=r \\sin \\theta \\) Thus \\( \\left|\\begin{array}{cc}\\cos \\theta & -r \\sin \\theta \\\\ \\sin \\theta & r \\cos \\theta\\end{array}\\right|=r \\cos ^{2} \\theta+r \\sin ^{2} \\theta=r \\).",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Conceptual",
+        "leanthy"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/1/2024, 11:01:55 PM",
+      "ocrQuestion": "If \\( \\mathrm{u}+\\mathrm{v}=\\mathrm{e}^{\\mathrm{x}} \\cos \\mathrm{y} \\) and \\( \\mathrm{u}-\\mathrm{v}=\\mathrm{e}^{\\mathrm{x}} \\sin \\mathrm{y} \\) the value of \\( J\\left(\\frac{u, v}{x, y}\\right) \\) is\na) \\( e^{2 x} \\)\nb) \\( \\frac{e^{2} x}{2} \\)\nc) \\( \\frac{-e^{2} x}{2} \\)\nd) 0",
+      "onlyq_text": "<p>If \\( \\mathrm{u}+\\mathrm{v}=\\mathrm{e}^{\\mathrm{x}} \\cos \\mathrm{y} \\) and \\( \\mathrm{u}-\\mathrm{v}=\\mathrm{e}^{\\mathrm{x}} \\sin \\mathrm{y} \\) the value of \\( J\\left(\\frac{u, v}{x, y}\\right) \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>a) \\( e^{2 x} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>b) \\( \\frac{e^{2x} }{2} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>c) \\( \\frac{-e^{2x} }{2} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>d) 0</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "Explanation: wkt \\( J\\left(\\frac{u, v}{x, y}\\right)=\\frac{\\partial(u, v)}{\\partial(x, y)}=\\left|\\begin{array}{ll}\\frac{\\partial u}{\\partial x} & \\frac{\\partial u}{\\partial y} \\\\ \\frac{\\partial v}{\\partial x} & \\frac{\\partial v}{\\partial y}\\end{array}\\right| \\)But we have to find \\( u \\) and \\( v \\) first using given equation\\[u+v=e^{x} \\cos y \\text {. }\\]\\[u-v=e^{x} \\sin y \\text {. }\\]solving (1)\\&(2)we get \\( \\mathrm{u}=\\frac{e^{x}}{2} \\) (cosy+siny)\\[\\begin{array}{l}\\mathrm{v}=\\frac{e^{x}}{2}(\\cos y-\\sin y) \\\\\\frac{\\partial u}{\\partial x}=\\frac{e^{x}}{2}(\\cos y+\\sin y) \\\\\\frac{\\partial v}{\\partial x}=\\frac{e^{x}}{2}(\\cos y-\\sin y) \\\\\\frac{\\partial u}{\\partial y}=\\frac{e^{x}}{2}(\\cos y-\\sin y) \\\\\\frac{\\partial v}{\\partial y}=\\frac{e^{x}}{2}(-\\cos y-\\sin y)\\end{array}\\]\\[J\\left(\\frac{u, v}{x, y}\\right)=\\left|\\begin{array}{cc}\\frac{e^{x}}{2}(\\cos y+\\sin y) & \\frac{e^{x}}{2}(\\cos y-\\sin y) \\\\\\frac{e^{x}}{2}(\\cos y-\\sin y) & \\frac{e^{x}}{2}(-\\cos y-\\sin y)\\end{array}\\right|\\]\\( \\left(\\frac{e^{x}}{2}\\right)\\left(\\frac{e^{x}}{2}\\right)\\left\\{-(\\text { cosy }+\\sin y)^{2}-(\\text { cosy-siny })^{2}\\right\\} \\ldots . . .\\left(\\right. \\) expanding \\& solving by taking \\( \\left.\\cos ^{2} y+\\sin ^{2} y=1\\right) \\) \\( =\\frac{-e^{2} x}{2} \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "CAN BE MULTIPLE"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/1/2024, 11:04:07 PM",
+      "ocrQuestion": "Which among the following is the definition of Jacobian of \\( u \\) and \\( v \\) w.r.t \\( x \\) and \\( y \\) ?\na) \\( J\\left(\\frac{x, y}{u, v}\\right) \\)\nb) \\( J\\left(\\frac{u, v}{x, y}\\right) \\)\nc) \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)\nd) \\( \\frac{\\partial(u, x)}{\\partial(v, y)} \\)",
+      "onlyq_text": "<p>Which among the following is the definition of Jacobian of \\( u \\) and \\( v \\) w.r.t \\( x \\) and \\( y \\) ?</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a) \\( J\\left(\\frac{x, y}{u, v}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b) \\( J\\left(\\frac{u, v}{x, y}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c) \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d) \\( \\frac{\\partial(u, x)}{\\partial(v, y)} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "Explanation: \\( J\\left(\\frac{u, v}{x, y}\\right)=\\frac{\\partial(u, v)}{\\partial(x, y)}=\\left|\\begin{array}{ll}\\frac{\\partial u}{\\partial x} & \\frac{\\partial u}{\\partial y} \\\\ \\frac{\\partial v}{\\partial x} & \\frac{\\partial v}{\\partial y}\\end{array}\\right| \\)",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/1/2024, 11:06:46 PM",
+      "ocrQuestion": "Compute the Jacobian, \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\), of the coordinate transformation \\( x=u^{2}-v^{4} \\), \\( y=u v \\).\n(a) \\( 2 u^{2}+4 v^{4} \\)\n(b) \\( x u-y v \\)\n(c) \\( 3 u^{2}+7 v^{6} \\)\n(d) \\( 2 u^{2} \\)",
+      "onlyq_text": "<p>Compute the Jacobian, \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\), of the coordinate transformation \\( x=u^{2}-v^{4} \\), \\( y=u v \\).",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) \\( 2 u^{2}+4 v^{4} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) \\( x u-y v \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) \\( 3 u^{2}+7 v^{6} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) \\( 2 u^{2} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "Solution. \\( \\left|\\begin{array}{rr}2 u & -4 v^{3} \\\\ v & u\\end{array}\\right|=2 u^{2}+4 v^{4} \\).",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/1/2024, 11:09:26 PM",
+      "ocrQuestion": "If \\( u \\) and \\( v \\) are continuous and differentiable functions of two independent variables \\( x \\) and \\( y \\), then Jacobian of \\( u, v \\) with respect to \\( \\mathrm{x}, \\mathrm{y} \\) is\nA. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)\nB. \\( \\frac{\\partial(u, y)}{\\partial(x, y)} \\)\nC. \\( \\frac{\\partial(x, v)}{\\partial(x, y)} \\)\nD. \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)",
+      "onlyq_text": "<p>If \\( u \\) and \\( v \\) are continuous and differentiable functions of two independent variables \\( x \\) and \\( y \\), then Jacobian of \\( u, v \\) with respect to \\( \\mathrm{x}, \\mathrm{y} \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>A. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>B. \\( \\frac{\\partial(u, y)}{\\partial(x, y)} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>C. \\( \\frac{\\partial(x, v)}{\\partial(x, y)} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>D. \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "Solution. \\( \\left|\\begin{array}{rr}2 u & -4 v^{3} \\\\ v & u\\end{array}\\right|=2 u^{2}+4 v^{4} \\).",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/1/2024, 11:10:56 PM",
+      "ocrQuestion": "If \\( u v, w \\) are continuous and differentiable functions of three independent variables \\( x, y, z \\) then Jacobian of \\( u, v, w \\) with respect to \\( \\mathrm{x} \\), \\( y, z \\) is\nE. \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\)\nF. \\( \\frac{\\partial(u, y, w)}{\\partial(x, y, z)} \\)\nG. \\( \\frac{\\partial(x, v, z)}{\\partial(x, y, w)} \\)\nH. \\( \\frac{\\partial(x, y, z)}{\\partial(u, v, w)} \\)",
+      "onlyq_text": "<p>If \\( u v, w \\) are continuous and differentiable functions of three independent variables \\( x, y, z \\) then Jacobian of \\( u, v, w \\) with respect to \\( \\mathrm{x} \\), \\( y, z \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>A. \\( \\frac{\\partial(u, v, w)}{\\partial(x, y, z)} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>B. \\( \\frac{\\partial(u, y, w)}{\\partial(x, y, z)} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>C. \\( \\frac{\\partial(x, v, z)}{\\partial(x, y, w)} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>D. \\( \\frac{\\partial(x, y, z)}{\\partial(u, v, w)} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "Solution. \\( \\left|\\begin{array}{rr}2 u & -4 v^{3} \\\\ v & u\\end{array}\\right|=2 u^{2}+4 v^{4} \\).",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/1/2024, 11:12:08 PM",
+      "ocrQuestion": "Let \\( u \\) and \\( v \\) are functions of two independent variables \\( x \\) and \\( y \\). If Jacobian of \\( u, v \\) with respect to \\( \\mathrm{x}, \\mathrm{y} \\) is \\( \\mathrm{J} \\), then \\( \\mathrm{J} \\) ' is\nA. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)\nB. \\( \\frac{\\partial(u, y)}{\\partial(x, y)} \\)\nC. \\( \\frac{\\partial(x, v)}{\\partial(x, y)} \\)\nD. \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)",
+      "onlyq_text": "<p>Let \\( u \\) and \\( v \\) are functions of two independent variables \\( x \\) and \\( y \\). If Jacobian of \\( u, v \\) with respect to \\( \\mathrm{x}, \\mathrm{y} \\) is \\( \\mathrm{J} \\), then \\( \\mathrm{J} \\) ' is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>A. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>B. \\( \\frac{\\partial(u, y)}{\\partial(x, y)} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>C. \\( \\frac{\\partial(x, v)}{\\partial(x, y)} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>D. \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "Solution. \\( \\left|\\begin{array}{rr}2 u & -4 v^{3} \\\\ v & u\\end{array}\\right|=2 u^{2}+4 v^{4} \\).",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/1/2024, 11:14:40 PM",
+      "ocrQuestion": "If \\( x=r \\cos \\theta \\) and \\( y=r \\sin \\theta \\), then JJ' is equal to\nA. 2\nB. -1\nC. 1\nD. \\( \\frac{1}{2} \\)",
+      "onlyq_text": "<p>If \\( x=r \\cos \\theta \\) and \\( y=r \\sin \\theta \\), then JJ' is equal to</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>A. 2</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>B. -1</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>C. 1</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>D. \\( \\frac{1}{2} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "Solution. \\( \\left|\\begin{array}{rr}2 u & -4 v^{3} \\\\ v & u\\end{array}\\right|=2 u^{2}+4 v^{4} \\).",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/1/2024, 11:16:41 PM",
+      "ocrQuestion": "If \\( u=f_{1}(x, y), v=f_{2}(x, y) \\) and \\( x=\\Phi_{1}(r, \\theta), y=\\Phi_{1}(r, \\theta) \\) then \\( \\frac{\\partial(u, v)}{\\partial(r, \\theta)} \\)\nis equal to\nA. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\cdot \\frac{\\partial(u, y)}{\\partial(x, y)} \\)\nB. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\cdot \\frac{\\partial(r, \\theta)}{\\partial(x, y)} \\)\nC. \\( \\frac{\\partial(u, v)}{\\partial(r, \\theta)} \\cdot \\frac{\\partial(r, \\theta)}{\\partial(x, y)} \\)\nD. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\cdot \\frac{\\partial(x, y)}{\\partial(r, \\theta)} \\)",
+      "onlyq_text": "<p>If \\( u=f_{1}(x, y), v=f_{2}(x, y) \\) and \\( x=\\Phi_{1}(r, \\theta), y=\\Phi_{1}(r, \\theta) \\) then \\( \\frac{\\partial(u, v)}{\\partial(r, \\theta)} \\)is equal to</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>A. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\cdot \\frac{\\partial(u, y)}{\\partial(x, y)} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>B. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\cdot \\frac{\\partial(r, \\theta)}{\\partial(x, y)} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>C. \\( \\frac{\\partial(u, v)}{\\partial(r, \\theta)} \\cdot \\frac{\\partial(r, \\theta)}{\\partial(x, y)} \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>D. \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\cdot \\frac{\\partial(x, y)}{\\partial(r, \\theta)} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "MEDIUM",
+      "solutions": [
+        {
+          "sol_html": "Solution. \\( \\left|\\begin{array}{rr}2 u & -4 v^{3} \\\\ v & u\\end{array}\\right|=2 u^{2}+4 v^{4} \\).",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "calculative",
+        "NOT SOLVED BY ME"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/2/2024, 1:11:10 AM",
+      "ocrQuestion": "If \\( f_{1}(x, y, u, v)=0 \\) and \\( f_{2}(x, y, u, v)=0 \\) are two implicit functions then \\( \\frac{\\partial(x, y)}{\\partial(u, v)}= \\)\na) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}\\right) \\)\nb) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}\\right) \\)\nc) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}\\right) \\)\nd) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}\\right) \\)",
+      "onlyq_text": "<p>If \\( f_{1}(x, y, u, v)=0 \\) and \\( f_{2}(x, y, u, v)=0 \\) are two implicit functions then \\( \\frac{\\partial(x, y)}{\\partial(u, v)}= \\)</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>a) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>b) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>c) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(u, v)}}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>d) \\( (-1)^{2}\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}{\\frac{\\partial\\left(f_{1}, f_{2}\\right)}{\\partial(x, y)}}\\right) \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "calculative",
+        "NOT SOLVED BY ME"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/2/2024, 1:12:36 AM",
+      "ocrQuestion": "If \\( f_{1}(x, y, z, u, v, w)=0, f_{2}(x, y, z, u, v, w)=0 \\) and \\( f_{3}(x, y, z, u, v, w)=0 \\) are three implicit functions then \\( \\frac{\\partial x}{\\partial w}= \\) a) \\( -\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial\\left(w_{1}, z\\right)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(x, y, z)}}\\right) \\)\nb) \\( -\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial\\left(w_{1}, z\\right)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(u, v, w)}}\\right) \\)\nc) - \\( \\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(x, v, w)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(u, v, w)}}\\right) \\)\nd) \\( -\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(x, y, z)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(u, v, w)}}\\right) \\)",
+      "onlyq_text": "<p>If \\( f_{1}(x, y, z, u, v, w)=0, f_{2}(x, y, z, u, v, w)=0 \\) and \\( f_{3}(x, y, z, u, v, w)=0 \\) are three implicit functions then \\( \\frac{\\partial x}{\\partial w}= \\) </p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>a) \\( -\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial\\left(w_{1}, z\\right)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(x, y, z)}}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>b) \\( -\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial\\left(w_{1}, z\\right)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(u, v, w)}}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>c) - \\( \\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(x, v, w)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(u, v, w)}}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>d) \\( -\\left(\\frac{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(x, y, z)}}{\\frac{\\partial\\left(f_{1}, f_{2}, f_{3}\\right)}{\\partial(u, v, w)}}\\right) \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/2/2024, 10:53:24 AM",
+      "ocrQuestion": "If \\( u=x^{2}-y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)\na) \\( 4\\left(x^{2}+y^{2}\\right) \\)\nb) \\( 2\\left(x^{2}+y^{2}\\right) \\)\nc) \\( 4\\left(x^{2}-y^{2}\\right) \\)\nd) \\( 2\\left(x^{2}-y^{2}\\right) \\)",
+      "onlyq_text": "<p>If \\( u=x^{2}-y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>a) \\( 4\\left(x^{2}+y^{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>b) \\( 2\\left(x^{2}+y^{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>c) \\( 4\\left(x^{2}-y^{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>d) \\( 2\\left(x^{2}-y^{2}\\right) \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/2/2024, 10:54:28 AM",
+      "ocrQuestion": "If \\( \\mathrm{u}=x^{2}+y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)\na) \\( 4\\left(x^{2}-y^{2}\\right) \\)\nb) \\( 4\\left(x^{2}+y^{2}\\right) \\)\nc) \\( 2\\left(x^{2}+y^{2}\\right) \\)\nd) \\( 2\\left(x^{2}-y^{2}\\right) \\)",
+      "onlyq_text": "<p>If \\( \\mathrm{u}=x^{2}+y^{2} \\) and \\( v=2 x y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\)</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>a) \\( 4\\left(x^{2}-y^{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>b) \\( 4\\left(x^{2}+y^{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>c) \\( 2\\left(x^{2}+y^{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>d) \\( 2\\left(x^{2}-y^{2}\\right) \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/2/2024, 10:58:12 AM",
+      "ocrQuestion": "If \\( x=u+v \\quad \\) and \\( y=u v \\quad \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)\na) \\( u+v \\)\nb) \\( u-v \\)\nc) \\( v-u \\)\nd) \\( 2 u+v \\)",
+      "onlyq_text": "<p>If \\( x=u+v \\quad \\) and \\( y=u v \\quad \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\)</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a) \\( u+v \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b) \\( u-v \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c) \\( v-u \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d) \\( 2 u+v \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/2/2024, 10:58:57 AM",
+      "ocrQuestion": "If \\( u=x+2 y, v=x^{2}+y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\) is\na) \\( 2-4 x \\)\nb) \\( 1-4 x \\)\nc) \\( 2+4 x \\)\nd) \\( 1+4 x \\)",
+      "onlyq_text": "<p>If \\( u=x+2 y, v=x^{2}+y \\) then \\( \\frac{\\partial(u, v)}{\\partial(x, y)} \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a) \\( 2-4 x \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b) \\( 1-4 x \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c) \\( 2+4 x \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d) \\( 1+4 x \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "MultiConcept",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/2/2024, 11:11:33 AM",
+      "ocrQuestion": "If \\( x=e^{v} \\sec u, y=e^{v} \\tan u \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is\na) \\( -e^{2 v} \\) secu\nb) \\( e^{-2 v} \\operatorname{secu} \\)\nc) \\( -e^{2 v} \\tan u \\)\nd) \\( e^{2 v} \\mathrm{secu} \\)",
+      "onlyq_text": "<p>If \\( x=e^{v} \\sec u, y=e^{v} \\tan u \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>a) \\( -e^{2 v} \\) secu</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>b) \\( e^{-2 v} \\operatorname{secu} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>c) \\( -e^{2 v} \\tan u \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>d) \\( e^{2 v} \\mathrm{secu} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/2/2024, 11:13:58 AM",
+      "ocrQuestion": "If \\( x=u \\cos v \\) and \\( y=u \\sin v \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is\na) \\( -\\mathrm{u} \\)\nb) \\( u \\)\nc) 1\nd) -1",
+      "onlyq_text": "<p>If \\( x=u \\cos v \\) and \\( y=u \\sin v \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a) \\( -\\mathrm{u} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b) \\( u \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c) 1</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d) -1</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/2/2024, 11:23:26 AM",
+      "ocrQuestion": "If \\( x=\\sin \\vartheta \\cos \\varphi \\quad \\) and \\( y=\\sin \\vartheta \\sin \\varphi \\) then \\( \\frac{\\partial(x, y)}{\\partial(\\vartheta, \\varphi)} \\) is\na) \\( \\sin \\vartheta \\cos \\varphi \\)\nb) \\( \\sin \\varphi \\cos \\vartheta \\)\nc) \\( \\sin \\vartheta-\\cos \\varphi \\)\nd) \\( \\sin \\vartheta \\cos \\vartheta \\)",
+      "onlyq_text": "<p>If \\( x=\\sin \\vartheta \\cos \\varphi \\quad \\) and \\( y=\\sin \\vartheta \\sin \\varphi \\) then \\( \\frac{\\partial(x, y)}{\\partial(\\vartheta, \\varphi)} \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>a) \\( \\sin \\vartheta \\cos \\varphi \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>b) \\( \\sin \\varphi \\cos \\vartheta \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>c) \\( \\sin \\vartheta-\\cos \\varphi \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>d) \\( \\sin \\vartheta \\cos \\vartheta \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/2/2024, 11:24:10 AM",
+      "ocrQuestion": "If \\( x=u v, y=\\frac{1}{v} \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is\na) \\( \\frac{1}{v} \\)\nb) \\( -\\frac{1}{v} \\)\nc) \\( \\frac{2}{v} \\)\nd) \\( \\frac{-2}{v} \\)",
+      "onlyq_text": "<p>If \\( x=u v, y=\\frac{1}{v} \\) then \\( \\frac{\\partial(x, y)}{\\partial(u, v)} \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a) \\( \\frac{1}{v} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b) \\( -\\frac{1}{v} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c) \\( \\frac{2}{v} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d) \\( \\frac{-2}{v} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "JACOBIAN",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": []
+    }
+  ]
 }

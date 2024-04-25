@@ -1,293 +1,313 @@
 {
-    "questions": [
+  "questions": [
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/2/2024, 2:23:29 PM",
+      "ocrQuestion": "A \"periodic function\" is given by a function which\n(A) has a period \\( T=2 \\pi \\)\n(B) satisfies \\( f(t+T)=f(t) \\)\n(C) satisfies \\( f(t+T)=-f(t) \\)\n(D) has a period \\( T=\\pi \\)",
+      "onlyq_text": "<p>A \"periodic function\" is given by a function which</p>",
+      "option_hindi": [],
+      "options": [
         {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 2:23:29 PM",
-            "ocrQuestion": "A \"periodic function\" is given by a function which\n(A) has a period \\( T=2 \\pi \\)\n(B) satisfies \\( f(t+T)=f(t) \\)\n(C) satisfies \\( f(t+T)=-f(t) \\)\n(D) has a period \\( T=\\pi \\)",
-            "onlyq_text": "<p>A \"periodic function\" is given by a function which</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(A) has a period \\( T=2 \\pi \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(B) satisfies \\( f(t+T)=f(t) \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(C) satisfies \\( f(t+T)=-f(t) \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(D) has a period \\( T=\\pi \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "SolutionThe correct answer is (B).Since the function's value remains the same value after a period (or multiple periods) has passed!",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "FOURIER SERIES",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(A) has a period \\( T=2 \\pi \\)</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Veriety"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 2:25:03 PM",
-            "ocrQuestion": "Which of the following is an \"even\" function of \\( t \\) ?\n(A) \\( t^{2} \\)\n(B) \\( t^{2}-4 t \\)\n(C) \\( \\sin (2 t)+3 t \\)\n(D) \\( t^{3}+6 \\)",
-            "onlyq_text": "<p>Which of the following is an \"even\" function of \\( t \\) ?</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(A) \\( t^{2} \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(B) \\( t^{2}-4 t \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(C) \\( \\sin (2 t)+3 t \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(D) \\( t^{3}+6 \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "SolutionThe correct answer is (A).Since if we replace \\\" \\( t \\) \\\" by \\\" \\( -t \\) \\\", then the function value remains the same!",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "FOURIER SERIES",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(B) satisfies \\( f(t+T)=f(t) \\)</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 2:49:15 PM",
-            "ocrQuestion": "MCQ 3: The product of two even or two odd functions is\nA) even\nB) odd\nC) prime\nD) aliasing",
-            "onlyq_text": "<p>MCQ 3: The product of two even or two odd functions is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>A) even</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>B) odd</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>C) prime</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>D) aliasing</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "FOURIER SERIES",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(C) satisfies \\( f(t+T)=-f(t) \\)</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Fast"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 3:00:18 PM",
-            "ocrQuestion": "4. If the function \\( f(x) \\) is even, then which of the following is zero?\na) \\( a_{n} \\)\nb) \\( b_{n} \\)\nc) \\( a_{0} \\)\nd) nothing is zero",
-            "onlyq_text": "<p>4. If the function \\( f(x) \\) is even, then which of the following is zero?</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>a) \\( a_{n} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>b) \\( b_{n} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>c) \\( a_{0} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>d) nothing is zero</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "FOURIER SERIES",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "calculative",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 3:52:04 PM",
-            "ocrQuestion": "For the given periodic function \\( f(t)=\\left\\{\\begin{array}{l}2 t \\text { for } 0 \\leq t \\leq 2 \\\\ 4 \\text { for } 2 \\leq t \\leq 6(=T)\\end{array}\\right. \\). The coefficient \\( b_{1} \\) of the continuous Fourier series associated with the given function \\( f(t) \\) can be computed as\n(A) -75.6800\n(B) -7.5680\n(C) -6.8968\n(D) -0.7468",
-            "onlyq_text": "<p>For the given periodic function \\( f(t)=\\left\\{\\begin{array}{l}2 t \\text { for } 0 \\leq t \\leq 2 \\\\ 4 \\text { for } 2 \\leq t \\leq 6(=T)\\end{array}\\right. \\). The coefficient \\( b_{1} \\) of the continuous Fourier series associated with the given function \\( f(t) \\) can be computed as</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(A) -75.6800</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(B) -7.5680</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(C) -6.8968</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(D) -0.7468</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "The correct answer is (D).The coefficient \\( b_{1} \\) of the continuous Fourier series associated with the above given function \\( f(t) \\) can be computed as (see Eq. 4, in Chapter 11.02)\\[b_{1}=\\left(\\frac{2}{T}\\right) \\int\\left\\{f(t) \\times \\sin \\left(w_{0} t\\right) d t\\right\\}\\]Since\\[w_{0}=\\left(\\frac{2 \\pi}{T}\\right)=\\left(\\frac{2 \\times 3.1416}{6}\\right)=1.0472\\]and\\[\\left(\\frac{2}{T}\\right)=\\left(\\frac{2}{6}\\right)=0.3333,\\]Hence\\[\\begin{array}{l}b_{1}=(0.3333) \\int_{0}^{2}\\{2 t \\sin (1.0472 t)\\} d t+(0.3333) \\times \\int_{2}^{6}\\{4 \\sin (1.0472 t)\\} d t \\\\b_{1}=-0.7468\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "FOURIER SERIES",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "calculative",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "concept_html": "",
-            "date": "3/2/2024, 3:54:18 PM",
-            "ocrQuestion": "For the given periodic function \\( f(t)=\\left\\{\\begin{array}{l}2 t \\text { for } 0 \\leq t \\leq 2 \\\\ 4 \\text { for } 2 \\leq t \\leq 6\\end{array}\\right. \\) with a period \\( T=6 \\). The Fourier coefficient \\( a_{1} \\) can be computed as\n(A) -9.2642\n(B) -8.1275\n(C) -0.9119\n(D) -0.5116",
-            "onlyq_text": "<p>For the given periodic function \\( f(t)=\\left\\{\\begin{array}{l}2 t \\text { for } 0 \\leq t \\leq 2 \\\\ 4 \\text { for } 2 \\leq t \\leq 6\\end{array}\\right. \\) with a period \\( T=6 \\). The Fourier coefficient \\( a_{1} \\) can be computed as</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(A) -9.2642</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(B) -8.1275</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(C) -0.9119</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(D) -0.5116</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "SolutionThe correct answer is (C).The coefficient \\( a_{1} \\) of the continuous Fourier series associated with the above given function \\( f(t) \\) can be computed from Eq.(3), with \\( k=1 \\) and \\( T=6 \\) as following:\\[\\begin{array}{l}w_{0}=\\left(\\frac{2 \\pi}{T}\\right)=\\left(\\frac{2 \\times 3.1416}{6}\\right)=1.0472 \\\\a_{1} \\times\\left(\\frac{T}{2}\\right)=\\int_{0}^{2}((2 t) \\cos (1.0472 t)) d t+\\int_{2}^{6}((4) \\cos (1.0472 t)) d t \\\\a_{1}=-0.9119\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "FOURIER SERIES",
-            "subject": "PHYSICS",
-            "topic_name": "MP",
-            "toughness": "MEDIUM"
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(D) has a period \\( T=\\pi \\)</p>"
         }
-    ]
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "FOURIER SERIES",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "SolutionThe correct answer is (B).Since the function's value remains the same value after a period (or multiple periods) has passed!",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Veriety"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/2/2024, 2:25:03 PM",
+      "ocrQuestion": "Which of the following is an \"even\" function of \\( t \\) ?\n(A) \\( t^{2} \\)\n(B) \\( t^{2}-4 t \\)\n(C) \\( \\sin (2 t)+3 t \\)\n(D) \\( t^{3}+6 \\)",
+      "onlyq_text": "<p>Which of the following is an \"even\" function of \\( t \\) ?</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(A) \\( t^{2} \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(B) \\( t^{2}-4 t \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(C) \\( \\sin (2 t)+3 t \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(D) \\( t^{3}+6 \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "FOURIER SERIES",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "SolutionThe correct answer is (A).Since if we replace \\\" \\( t \\) \\\" by \\\" \\( -t \\) \\\", then the function value remains the same!",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/2/2024, 2:49:15 PM",
+      "ocrQuestion": "MCQ 3: The product of two even or two odd functions is\nA) even\nB) odd\nC) prime\nD) aliasing",
+      "onlyq_text": "<p>MCQ 3: The product of two even or two odd functions is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>A) even</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>B) odd</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>C) prime</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>D) aliasing</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "FOURIER SERIES",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/2/2024, 3:00:18 PM",
+      "ocrQuestion": "4. If the function \\( f(x) \\) is even, then which of the following is zero?\na) \\( a_{n} \\)\nb) \\( b_{n} \\)\nc) \\( a_{0} \\)\nd) nothing is zero",
+      "onlyq_text": "<p>4. If the function \\( f(x) \\) is even, then which of the following is zero?</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>a) \\( a_{n} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>b) \\( b_{n} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>c) \\( a_{0} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>d) nothing is zero</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "FOURIER SERIES",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "calculative",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/2/2024, 3:52:04 PM",
+      "ocrQuestion": "For the given periodic function \\( f(t)=\\left\\{\\begin{array}{l}2 t \\text { for } 0 \\leq t \\leq 2 \\\\ 4 \\text { for } 2 \\leq t \\leq 6(=T)\\end{array}\\right. \\). The coefficient \\( b_{1} \\) of the continuous Fourier series associated with the given function \\( f(t) \\) can be computed as\n(A) -75.6800\n(B) -7.5680\n(C) -6.8968\n(D) -0.7468",
+      "onlyq_text": "<p>For the given periodic function \\( f(t)=\\left\\{\\begin{array}{l}2 t \\text { for } 0 \\leq t \\leq 2 \\\\ 4 \\text { for } 2 \\leq t \\leq 6(=T)\\end{array}\\right. \\). The coefficient \\( b_{1} \\) of the continuous Fourier series associated with the given function \\( f(t) \\) can be computed as</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(A) -75.6800</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(B) -7.5680</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(C) -6.8968</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(D) -0.7468</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "FOURIER SERIES",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "MEDIUM",
+      "solutions": [
+        {
+          "sol_html": "The correct answer is (D).The coefficient \\( b_{1} \\) of the continuous Fourier series associated with the above given function \\( f(t) \\) can be computed as (see Eq. 4, in Chapter 11.02)\\[b_{1}=\\left(\\frac{2}{T}\\right) \\int\\left\\{f(t) \\times \\sin \\left(w_{0} t\\right) d t\\right\\}\\]Since\\[w_{0}=\\left(\\frac{2 \\pi}{T}\\right)=\\left(\\frac{2 \\times 3.1416}{6}\\right)=1.0472\\]and\\[\\left(\\frac{2}{T}\\right)=\\left(\\frac{2}{6}\\right)=0.3333,\\]Hence\\[\\begin{array}{l}b_{1}=(0.3333) \\int_{0}^{2}\\{2 t \\sin (1.0472 t)\\} d t+(0.3333) \\times \\int_{2}^{6}\\{4 \\sin (1.0472 t)\\} d t \\\\b_{1}=-0.7468\\end{array}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "calculative",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "concept_html": "",
+      "date": "3/2/2024, 3:54:18 PM",
+      "ocrQuestion": "For the given periodic function \\( f(t)=\\left\\{\\begin{array}{l}2 t \\text { for } 0 \\leq t \\leq 2 \\\\ 4 \\text { for } 2 \\leq t \\leq 6\\end{array}\\right. \\) with a period \\( T=6 \\). The Fourier coefficient \\( a_{1} \\) can be computed as\n(A) -9.2642\n(B) -8.1275\n(C) -0.9119\n(D) -0.5116",
+      "onlyq_text": "<p>For the given periodic function \\( f(t)=\\left\\{\\begin{array}{l}2 t \\text { for } 0 \\leq t \\leq 2 \\\\ 4 \\text { for } 2 \\leq t \\leq 6\\end{array}\\right. \\) with a period \\( T=6 \\). The Fourier coefficient \\( a_{1} \\) can be computed as</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(A) -9.2642</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(B) -8.1275</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(C) -0.9119</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(D) -0.5116</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "FOURIER SERIES",
+      "subject": "PHYSICS",
+      "topic_name": "MP",
+      "toughness": "MEDIUM",
+      "solutions": [
+        {
+          "sol_html": "SolutionThe correct answer is (C).The coefficient \\( a_{1} \\) of the continuous Fourier series associated with the above given function \\( f(t) \\) can be computed from Eq.(3), with \\( k=1 \\) and \\( T=6 \\) as following:\\[\\begin{array}{l}w_{0}=\\left(\\frac{2 \\pi}{T}\\right)=\\left(\\frac{2 \\times 3.1416}{6}\\right)=1.0472 \\\\a_{1} \\times\\left(\\frac{T}{2}\\right)=\\int_{0}^{2}((2 t) \\cos (1.0472 t)) d t+\\int_{2}^{6}((4) \\cos (1.0472 t)) d t \\\\a_{1}=-0.9119\\end{array}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    }
+  ]
 }

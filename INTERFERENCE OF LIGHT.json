@@ -1,1257 +1,1267 @@
 {
-    "questions": [
+  "questions": [
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 3:57:36 PM",
+      "ocrQuestion": "If two waves represented by \\( y_{1}=4 \\sin \\omega t \\) and \\( y_{2}=3 \\sin \\left(\\omega t+\\frac{\\pi}{3}\\right) \\) interfere at a point, the amplitude of the resulting wave will be about\n(a) 7\n(b) 6\n(c) 5\n(d) 3",
+      "onlyq_text": "<p>If two waves represented by \\( y_{1}=4 \\sin \\omega t \\) and \\( y_{2}=3 \\sin \\left(\\omega t+\\frac{\\pi}{3}\\right) \\) interfere at a point, the amplitude of the resulting wave will be about</p>",
+      "option_hindi": [],
+      "options": [
         {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 3:57:36 PM",
-            "ocrQuestion": "If two waves represented by \\( y_{1}=4 \\sin \\omega t \\) and \\( y_{2}=3 \\sin \\left(\\omega t+\\frac{\\pi}{3}\\right) \\) interfere at a point, the amplitude of the resulting wave will be about\n(a) 7\n(b) 6\n(c) 5\n(d) 3",
-            "onlyq_text": "<p>If two waves represented by \\( y_{1}=4 \\sin \\omega t \\) and \\( y_{2}=3 \\sin \\left(\\omega t+\\frac{\\pi}{3}\\right) \\) interfere at a point, the amplitude of the resulting wave will be about</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) 7</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) 6</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) 5</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) 3</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Superposition of Waves",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) 7</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 3:59:25 PM",
-            "ocrQuestion": "Two interfering waves having intensities \\( x \\) and \\( y \\) meets a point with time difference \\( 3 T / 2 \\). What will be the resultant intensity at that point\n(a) \\( (\\sqrt{x}+\\sqrt{y}) \\)\n(b) \\( (\\sqrt{x}+\\sqrt{y}+\\sqrt{x y}) \\)\n(c) \\( x+y-2 \\sqrt{x y} \\)\n(d) \\( \\frac{x+y}{2 x y} \\)",
-            "onlyq_text": "<p>Two interfering waves having intensities \\( x \\) and \\( y \\) meets a point with time difference \\( 3 T / 2 \\). What will be the resultant intensity at that point</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( (\\sqrt{x}+\\sqrt{y}) \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( (\\sqrt{x}+\\sqrt{y}+\\sqrt{x y}) \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( x+y-2 \\sqrt{x y} \\)</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{x+y}{2 x y} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Superposition of Waves",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) 6</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "calculative",
-                "MultiConcept",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 4:03:46 PM",
-            "ocrQuestion": "In the Young's double slit experiment, calculate \\( I / I_{\\max } \\). where \\( I \\) represents the intensity at a point where the path difference is \\( \\lambda / 5 \\).\n(a) 0.65\n(b) 0.25\n(c) 0.15\n(d) 0.5",
-            "onlyq_text": "<p>In the Young's double slit experiment, calculate \\( I / I_{\\max } \\). where \\( I \\) represents the intensity at a point where the path difference is \\( \\lambda / 5 \\).</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) 0.65</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) 0.25</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) 0.15</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) 0.5</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "MEDIUM"
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) 5</p>"
         },
         {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 4:08:22 PM",
-            "ocrQuestion": "In a double slit experiment instead of taking slits of equal widths, one slit is made twice as wide as the other. Then in the interference pattern.\n(a) the intensities of both the maxima and minima increase.\n(b) the intensity of maxima increases and the minima have zero intensity.\n(c) the intensity of maxima decreases and that of minima increases.\n(d) the intensity of maxima decreases and the minima have zero intensity.",
-            "onlyq_text": "<p>In a double slit experiment instead of taking slits of equal widths, one slit is made twice as wide as the other. Then in the interference pattern.</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) the intensities of both the maxima and minima increase.</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) the intensity of maxima increases and the minima have zero intensity.</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) the intensity of maxima decreases and that of minima increases.</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) the intensity of maxima decreases and the minima have zero intensity.</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Case 1: When slit are of equal width, if \\( \\mathrm{I}_{\\mathrm{O}} \\) is intensity of light then,\\[\\begin{array}{l}I_{\\max }=I_{0}+I_{0}+2 \\sqrt{I_{0} I_{0}}=4 I_{0} \\\\I_{\\min }=I_{o}+I_{o}-2 \\sqrt{I_{0} I_{o}}=0 \\\\\\end{array}\\]Case 2: When slit are of unequal width, intensity from one slit would increase to twice then,\\[\\begin{array}{l}\\mathrm{I}_{\\text {newmax }}=2 \\mathrm{I}_{\\mathrm{o}}+\\mathrm{I}_{\\mathrm{o}}+2 \\sqrt{2 \\mathrm{I}_{\\mathrm{o}} \\mathrm{I}_{\\mathrm{o}}}=5.83 \\mathrm{I}_{\\mathrm{o}} \\\\\\mathrm{I}_{\\text {newmin }}=2 \\mathrm{I}_{\\mathrm{o}}+\\mathrm{I}_{\\mathrm{o}}-2 \\sqrt{2 \\mathrm{I}_{\\mathrm{o}} \\mathrm{I}_{\\mathrm{o}}}=0.17 \\mathrm{I}_{\\mathrm{o}}\\end{array}\\]Therefore, intensities of both the maxima and the minima increase",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "calculative",
-                "Mathematical",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 4:24:41 PM",
-            "ocrQuestion": "In Young's double slit experiment, one of the slit is wider than other, so that amplitude of the light from one slit is double of that from other slit. If \\( I_{m} \\) be the maximum intensity, the resultant intensity \\( I \\) when they interfere at phase difference \\( \\phi \\) is given by:\n(a) \\( \\frac{I_{m}}{9}(4+5 \\cos \\phi) \\)\n(b) \\( \\frac{I_{m}}{3}\\left(1+2 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)\n(c) \\( \\frac{I_{m}}{5}\\left(1+4 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)\n(d) \\( \\frac{I_{m}}{9}\\left(1+8 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)",
-            "onlyq_text": "<p>In Young's double slit experiment, one of the slit is wider than other, so that amplitude of the light from one slit is double of that from other slit. If \\( I_{m} \\) be the maximum intensity, the resultant intensity \\( I \\) when they interfere at phase difference \\( \\phi \\) is given by:</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\frac{I_{m}}{9}(4+5 \\cos \\phi) \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{I_{m}}{3}\\left(1+2 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\frac{I_{m}}{5}\\left(1+4 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{I_{m}}{9}\\left(1+8 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "Solution:We know that, Intensity \\( \\propto \\) Amplitude \\( ^{2} \\)Given : \\( A_{1}=2 A_{2} \\)\\[\\begin{array}{l}\\therefore I_{1}=4 I_{2} \\\\I_{\\max }=\\left(\\sqrt{I_{1}}+\\sqrt{I_{2}}\\right)^{2}=\\left(3 \\sqrt{I_{2}}\\right)^{2}=9 I_{2}=I_{m} \\\\I=I_{1}+I_{2}+2 \\sqrt{I_{1} I_{2}} \\cos \\phi=4 I_{2}+I_{2}+2 \\sqrt{4 I_{2} \\cdot I_{2}} \\cos \\phi=5 I_{2}+4 I_{2} \\cos \\phi \\\\\\quad=\\frac{I_{m}}{9}(5+4 \\cos \\phi) \\quad\\left[\\because I_{0}=\\frac{I_{m}}{9}\\right] \\\\\\quad=\\frac{I_{m}}{9}[1+4(1+\\cos \\phi)] \\\\\\quad=\\frac{I_{m}}{9}\\left(1+8 \\cos ^{2} \\frac{\\phi}{2}\\right) \\quad\\left[\\because \\cos \\phi=2 \\cos ^{2} \\frac{\\phi}{2}-1\\right]\\end{array}\\]",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 4:30:38 PM",
-            "ocrQuestion": "An interference is observed due to two coherent sources \\( A \\) and \\( B \\) separated by a distance \\( 4 \\lambda \\) along \\( Y \\)-axis where \\( \\lambda \\) is the wavelength of source. Adetector \\( D \\) is moved along the positive \\( X \\)-axis. The number of points on the \\( X \\)-axis excluding the points \\( x=0 \\) and \\( x=\\infty \\) at which maximum will be observed is\n(a) 3\n(b) 4\n(c) 5\n(d) 6",
-            "onlyq_text": "<p>An interference is observed due to two coherent sources \\( A \\) and \\( B \\) separated by a distance \\( 4 \\lambda \\) along \\( Y \\)-axis where \\( \\lambda \\) is the wavelength of source. Adetector \\( D \\) is moved along the positive \\( X \\)-axis. The number of points on the \\( X \\)-axis excluding the points \\( x=0 \\) and \\( x=\\infty \\) at which maximum will be observed is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) 3</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) 4</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) 5</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) 6</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 4:32:07 PM",
-            "ocrQuestion": "If two light waves having same frequency have intensity ratio \\( 4: 1 \\) and they interfere, the ratio of maximum to minimum intensity in the pattern will be\n(a) \\( 9: 1 \\)\n(b) \\( 3: 1 \\)\n(c) \\( 25: 9 \\)\n(d) \\( 16: 25 \\)",
-            "onlyq_text": "<p>If two light waves having same frequency have intensity ratio \\( 4: 1 \\) and they interfere, the ratio of maximum to minimum intensity in the pattern will be</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( 9: 1 \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( 3: 1 \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( 25: 9 \\)</p>"
-                },
-                {
-                    "is_correct": 1,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( 16: 25 \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "No of fringes \\( \\times \\lambda= \\) constant",
-            "date": "3/5/2024, 5:47:08 PM",
-            "ocrQuestion": "In Young's double slit experiment using sodium light \\( (\\lambda=5898 \\unicode{xC5}), 92 \\) fringes are seen. If given colour ( \\( \\lambda=5461 \\unicode{xC5}) \\) is used, how many fringes will be seen\n(a) 62\n(b) 67\n(c) 85\n(d) 99",
-            "onlyq_text": "<p>In Young's double slit experiment using sodium light \\( (\\lambda=5898 \\unicode{xC5}), 92 \\) fringes are seen. If given colour ( \\( \\lambda=5461 \\unicode{xC5}) \\) is used, how many fringes will be seen</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(a) 62</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(b) 67</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(c) 85</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(d) 99</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 5:49:29 PM",
-            "ocrQuestion": "Two beams of light having intensities \\( I \\) and \\( 4 I \\) interfere to produce a fringe pattern on a screen. The phase difference between the beams is \\( \\frac{\\pi}{2} \\) at point \\( A \\) and \\( \\pi \\) at point \\( B \\). Then the difference between the resultant intensities at \\( A \\) and \\( B \\) is\n(a) \\( 2 I \\)\n(b) \\( 4 I \\)\n(c) \\( 5 \\mathrm{I} \\)\n(d) \\( 7 I \\)",
-            "onlyq_text": "<p>Two beams of light having intensities \\( I \\) and \\( 4 I \\) interfere to produce a fringe pattern on a screen. The phase difference between the beams is \\( \\frac{\\pi}{2} \\) at point \\( A \\) and \\( \\pi \\) at point \\( B \\). Then the difference between the resultant intensities at \\( A \\) and \\( B \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( 2 I \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( 4 I \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( 5 \\mathrm{I} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( 7 I \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 5:51:04 PM",
-            "ocrQuestion": "Two waves being produced by two sources \\( S_{1} \\) and \\( S_{2} \\). Both sources have zero phase difference and have wavelength \\( \\lambda \\). The destructive interference of both the waves will occur of point \\( P \\) if \\( \\left(S_{1} P-S_{2} P\\right) \\) has the value\n(a) \\( 5 \\lambda \\)\n(b) \\( \\frac{3}{4} \\lambda \\)\n(c) \\( 2 \\lambda \\)\n(d) \\( \\frac{11}{2} \\lambda \\)",
-            "onlyq_text": "<p>Two waves being produced by two sources \\( S_{1} \\) and \\( S_{2} \\). Both sources have zero phase difference and have wavelength \\( \\lambda \\). The destructive interference of both the waves will occur of point \\( P \\) if \\( \\left(S_{1} P-S_{2} P\\right) \\) has the value</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( 5 \\lambda \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{3}{4} \\lambda \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( 2 \\lambda \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{11}{2} \\lambda \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 5:52:28 PM",
-            "ocrQuestion": "Two interfering wave (having intensities are \\( 9 I \\) and \\( 4 I \\) ) path difference between them is \\( 11 \\lambda \\). The resultant intensity at this point will be\n(a) \\( I \\)\n(b) 9 I\n(c) \\( 4 I \\)\n(d) \\( 25 I \\)",
-            "onlyq_text": "<p>Two interfering wave (having intensities are \\( 9 I \\) and \\( 4 I \\) ) path difference between them is \\( 11 \\lambda \\). The resultant intensity at this point will be</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( I \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(b) 9 I</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( 4 I \\)</p>"
-                },
-                {
-                    "is_correct": 4,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( 25 I \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 5:56:29 PM",
-            "ocrQuestion": "In interference if \\( \\frac{I_{\\max }}{I_{\\min }}=\\frac{144}{81} \\) then what will be the ratio of amplitudes of the interfering wave\n(a) \\( \\frac{144}{81} \\)\n(b) \\( \\frac{7}{1} \\)\n(c) \\( \\frac{1}{7} \\)\n(d) \\( \\frac{12}{9} \\)",
-            "onlyq_text": "<p>In interference if \\( \\frac{I_{\\max }}{I_{\\min }}=\\frac{144}{81} \\) then what will be the ratio of amplitudes of the interfering wave</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\frac{144}{81} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{7}{1} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\frac{1}{7} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{12}{9} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "calculative",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 6:00:25 PM",
-            "ocrQuestion": "In Young's double-slit experiment, an interference pattern is obtained on a screen by a light of wavelength \\( 6000 \\unicode{xC5} \\), coming from the coherent sources \\( S_{1} \\) and \\( S_{2} \\). At certain point \\( P \\) on the screen third dark fringe is formed. Then the path difference \\( S_{1} P-S_{2} P \\) in microns is\n(a) 0.75\n(b) 1.5\n(c) 3.0\n(d) 4.5",
-            "onlyq_text": "<p>In Young's double-slit experiment, an interference pattern is obtained on a screen by a light of wavelength \\( 6000 \\unicode{xC5} \\), coming from the coherent sources \\( S_{1} \\) and \\( S_{2} \\). At certain point \\( P \\) on the screen third dark fringe is formed. Then the path difference \\( S_{1} P-S_{2} P \\) in microns is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) 0.75</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) 1.5</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) 3.0</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) 4.5</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 6:02:47 PM",
-            "ocrQuestion": "In a Young's double slit experiment, the slit separation is \\( 1 \\mathrm{~mm} \\) and the screen is \\( 1 \\mathrm{~m} \\) from the slit. For a monochromatic light of wavelength \\( 500 \\mathrm{~nm} \\), the distance of 3rd minima from the central maxima is \n(a) \\( 0.50 \\mathrm{~mm} \\)\n(b) \\( 1.25 \\mathrm{~mm} \\)\n(c) \\( 1.50 \\mathrm{~mm} \\)\n(d) \\( 1.75 \\mathrm{~mm} \\)",
-            "onlyq_text": "<p>In a Young's double slit experiment, the slit separation is \\( 1 \\mathrm{~mm} \\) and the screen is \\( 1 \\mathrm{~m} \\) from the slit. For a monochromatic light of wavelength \\( 500 \\mathrm{~nm} \\), the distance of 3rd minima from the central maxima is </p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( 0.50 \\mathrm{~mm} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( 1.25 \\mathrm{~mm} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( 1.50 \\mathrm{~mm} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( 1.75 \\mathrm{~mm} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "calculative",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 6:08:25 PM",
-            "ocrQuestion": "The two slits at a distance of \\( 1 \\mathrm{~mm} \\) are illuminated by the light of wavelength \\( 6.5 \\times 10^{-7} \\mathrm{~m} \\). The interference fringes are observed on a screen placed at a distance of \\( 1 \\mathrm{~m} \\). The distance between third dark fringe and fifth bright fringe will be\n(a) \\( 0.65 \\mathrm{~mm} \\)\n(b) \\( 1.63 \\mathrm{~mm} \\)\n(c) \\( 3.25 \\mathrm{~mm} \\)\n(d) \\( 4.88 \\mathrm{~mm} \\)",
-            "onlyq_text": "<p>The two slits at a distance of \\( 1 \\mathrm{~mm} \\) are illuminated by the light of wavelength \\( 6.5 \\times 10^{-7} \\mathrm{~m} \\). The interference fringes are observed on a screen placed at a distance of \\( 1 \\mathrm{~m} \\). The distance between third dark fringe and fifth bright fringe will be</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( 0.65 \\mathrm{~mm} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( 1.63 \\mathrm{~mm} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( 3.25 \\mathrm{~mm} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( 4.88 \\mathrm{~mm} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 6:09:35 PM",
-            "ocrQuestion": "The slits in a Young's double slit experiment have equal widths and the source is placed symmetrically relative to the slits. The intensity at the central fringes is \\( I_{0} \\). If one of the slits is closed, the intensity at this point will be\n(a) \\( I_{0} \\)\n(b) \\( I_{0} / 4 \\)\n(c) \\( I_{0} / 2 \\)\n(d) \\( 4 \\mathrm{I}_{0} \\)",
-            "onlyq_text": "<p>The slits in a Young's double slit experiment have equal widths and the source is placed symmetrically relative to the slits. The intensity at the central fringes is \\( I_{0} \\). If one of the slits is closed, the intensity at this point will be</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( I_{0} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( I_{0} / 4 \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( I_{0} / 2 \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( 4 \\mathrm{I}_{0} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 6:15:15 PM",
-            "ocrQuestion": "The maximum number of possible interference maxima for silt separartion equal to twice the wavelength in Young's double silt experiment is\n(a) Infinite\n(b) zero'\n(c) five\n(d) three",
-            "onlyq_text": "<p>The maximum number of possible interference maxima for silt separartion equal to twice the wavelength in Young's double silt experiment is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) Infinite</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) zero'</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) five</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) three</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast",
-                "calculative",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "\\( V=\\frac{2 \\sqrt{I_{1} I_{2}}}{I_{1}+I_{2}} \\)",
-            "date": "3/5/2024, 6:38:20 PM",
-            "ocrQuestion": "The fringe visibility of an interference pattern formed by two interfering light beams of intensity ratio \\( \\alpha \\) is\n(a) \\( \\frac{2 \\sqrt{\\alpha}}{1+\\sqrt{\\alpha}} \\)\n(b) \\( \\frac{2 \\sqrt{\\alpha}}{1+\\alpha} \\)\n(c) \\( \\frac{2 \\sqrt{\\alpha}}{1-\\sqrt{\\alpha}} \\)\n(d) \\( \\frac{2 \\sqrt{\\alpha}}{1-\\alpha} \\)",
-            "onlyq_text": "<p>The fringe visibility of an interference pattern formed by two interfering light beams of intensity ratio \\( \\alpha \\) is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\frac{2 \\sqrt{\\alpha}}{1+\\sqrt{\\alpha}} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\frac{2 \\sqrt{\\alpha}}{1+\\alpha} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\frac{2 \\sqrt{\\alpha}}{1-\\sqrt{\\alpha}} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\frac{2 \\sqrt{\\alpha}}{1-\\alpha} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "MEDIUM"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Conceptual",
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 6:42:08 PM",
-            "ocrQuestion": "If the source of light used in a Young's double slit experiment is changed from red to violet, then\n(a) the bright fringes will become more bright\n(b) the bright fringes will become less bright\n(c) the consecutive fringes will come closer\n(d) none of these are possible",
-            "onlyq_text": "<p>If the source of light used in a Young's double slit experiment is changed from red to violet, then</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(a) the bright fringes will become more bright</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(b) the bright fringes will become less bright</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(c) the consecutive fringes will come closer</p>"
-                },
-                {
-                    "is_correct": 3,
-                    "lang_id": 1,
-                    "option": "<p>(d) none of these are possible</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Conceptual",
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 6:45:00 PM",
-            "ocrQuestion": "The displacements of the two light beams in \\( \\mathrm{cm} \\) are \\( y_{1}=a_{1} \\sin \\omega t \\) and \\( y_{2}=a_{2} \\sin 4 \\omega t \\). Is interference possible with these light beams?\n(a) Yes\n(b) \\( \\mathrm{No} \\)\n(c) Sometimes possible and sometimes not\n(d) Nothing can be predicted",
-            "onlyq_text": "<p>The displacements of the two light beams in \\( \\mathrm{cm} \\) are \\( y_{1}=a_{1} \\sin \\omega t \\) and \\( y_{2}=a_{2} \\sin 4 \\omega t \\). Is interference possible with these light beams?</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) Yes</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\mathrm{No} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) Sometimes possible and sometimes not</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) Nothing can be predicted</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Superposition of Waves",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 7:40:54 PM",
-            "ocrQuestion": "In a young's double slit experiment, 70 fringes are visible in the field of view with yellow light of wavelength \\( 5880 \\unicode{xC5} \\). The number of fringes visible in the field of view with violet light of wavelength \\( 4358 \\unicode{xC5} \\) will be\n(a) 73\n(b) 93\n(c) 33\n(d) 53",
-            "onlyq_text": "<p>In a young's double slit experiment, 70 fringes are visible in the field of view with yellow light of wavelength \\( 5880 \\unicode{xC5} \\). The number of fringes visible in the field of view with violet light of wavelength \\( 4358 \\unicode{xC5} \\) will be</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) 73</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) 93</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) 33</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) 53</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Fast",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 7:44:48 PM",
-            "ocrQuestion": "In a young's double slit experiment, the distance between two slits \\( S_{1} \\) and \\( S_{2} \\) is \\( d \\). An interference pattern is obtained by these slits on a screen at a distance \\( D \\) from the slits. A dark fringe is produced at a point \\( P \\) just in front of \\( S_{1} \\). The wavelength of light used is\n(a) \\( \\lambda=\\frac{D}{d^{2}} \\)\n(b) \\( \\lambda=\\frac{d^{2}}{D} \\)\n(c) \\( \\lambda=\\frac{D}{d} \\)\n(d) \\( \\lambda=\\frac{d}{D} \\)",
-            "onlyq_text": "<p>In a young's double slit experiment, the distance between two slits \\( S_{1} \\) and \\( S_{2} \\) is \\( d \\). An interference pattern is obtained by these slits on a screen at a distance \\( D \\) from the slits. A dark fringe is produced at a point \\( P \\) just in front of \\( S_{1} \\). The wavelength of light used is</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) \\( \\lambda=\\frac{D}{d^{2}} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) \\( \\lambda=\\frac{d^{2}}{D} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) \\( \\lambda=\\frac{D}{d} \\)</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) \\( \\lambda=\\frac{d}{D} \\)</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Fast",
-                "Veriety",
-                "Practice"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 7:46:16 PM",
-            "ocrQuestion": "Two independent monochromatic sodium lamps cannot produce interference because\n(a) the frequencies of the two sources are different\n(b) the phase difference between the two sources changes with respect to time\n(c) the two sources become coherent\n(d) the amplitudes of the two sources are different",
-            "onlyq_text": "<p>Two independent monochromatic sodium lamps cannot produce interference because</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) the frequencies of the two sources are different</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) the phase difference between the two sources changes with respect to time</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) the two sources become coherent</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) the amplitudes of the two sources are different</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "EASY"
-        },
-        {
-            "QCount": "",
-            "Tags": [
-                "Revision",
-                "Conceptual",
-                "Veriety",
-                "Practice",
-                "TEST"
-            ],
-            "added_By": "sai",
-            "branch": "Waves & oscillation",
-            "concept_html": "",
-            "date": "3/5/2024, 7:49:59 PM",
-            "ocrQuestion": "The ratio of intensity at the centre of a bright fringe to the intensity at a point distant one-fourth of the distance between two successive bright fringes will be\n(a) 1\n(b) 2\n(c) 3\n(d) 4",
-            "onlyq_text": "<p>The ratio of intensity at the centre of a bright fringe to the intensity at a point distant one-fourth of the distance between two successive bright fringes will be</p>",
-            "option_hindi": [],
-            "options": [
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(a) 1</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(b) 2</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(c) 3</p>"
-                },
-                {
-                    "is_correct": 2,
-                    "lang_id": 1,
-                    "option": "<p>(d) 4</p>"
-                }
-            ],
-            "optype": 1,
-            "q_text_hindi": "",
-            "qid": "",
-            "sol_html": "",
-            "sol_text": "",
-            "sources": {
-                "BOOKsource": [
-                    "ce"
-                ],
-                "Examsource": []
-            },
-            "sub_topic_name": "Young's Double slit experiment",
-            "subject": "PHYSICS",
-            "topic_name": "INTERFERENCE OF LIGHT",
-            "toughness": "MEDIUM"
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) 3</p>"
         }
-    ]
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Superposition of Waves",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 3:59:25 PM",
+      "ocrQuestion": "Two interfering waves having intensities \\( x \\) and \\( y \\) meets a point with time difference \\( 3 T / 2 \\). What will be the resultant intensity at that point\n(a) \\( (\\sqrt{x}+\\sqrt{y}) \\)\n(b) \\( (\\sqrt{x}+\\sqrt{y}+\\sqrt{x y}) \\)\n(c) \\( x+y-2 \\sqrt{x y} \\)\n(d) \\( \\frac{x+y}{2 x y} \\)",
+      "onlyq_text": "<p>Two interfering waves having intensities \\( x \\) and \\( y \\) meets a point with time difference \\( 3 T / 2 \\). What will be the resultant intensity at that point</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) \\( (\\sqrt{x}+\\sqrt{y}) \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) \\( (\\sqrt{x}+\\sqrt{y}+\\sqrt{x y}) \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) \\( x+y-2 \\sqrt{x y} \\)</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{x+y}{2 x y} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Superposition of Waves",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "calculative",
+        "MultiConcept",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 4:03:46 PM",
+      "ocrQuestion": "In the Young's double slit experiment, calculate \\( I / I_{\\max } \\). where \\( I \\) represents the intensity at a point where the path difference is \\( \\lambda / 5 \\).\n(a) 0.65\n(b) 0.25\n(c) 0.15\n(d) 0.5",
+      "onlyq_text": "<p>In the Young's double slit experiment, calculate \\( I / I_{\\max } \\). where \\( I \\) represents the intensity at a point where the path difference is \\( \\lambda / 5 \\).</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) 0.65</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) 0.25</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) 0.15</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) 0.5</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 4:08:22 PM",
+      "ocrQuestion": "In a double slit experiment instead of taking slits of equal widths, one slit is made twice as wide as the other. Then in the interference pattern.\n(a) the intensities of both the maxima and minima increase.\n(b) the intensity of maxima increases and the minima have zero intensity.\n(c) the intensity of maxima decreases and that of minima increases.\n(d) the intensity of maxima decreases and the minima have zero intensity.",
+      "onlyq_text": "<p>In a double slit experiment instead of taking slits of equal widths, one slit is made twice as wide as the other. Then in the interference pattern.</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) the intensities of both the maxima and minima increase.</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) the intensity of maxima increases and the minima have zero intensity.</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) the intensity of maxima decreases and that of minima increases.</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) the intensity of maxima decreases and the minima have zero intensity.</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": [
+        {
+          "sol_html": "Case 1: When slit are of equal width, if \\( \\mathrm{I}_{\\mathrm{O}} \\) is intensity of light then,\\[\\begin{array}{l}I_{\\max }=I_{0}+I_{0}+2 \\sqrt{I_{0} I_{0}}=4 I_{0} \\\\I_{\\min }=I_{o}+I_{o}-2 \\sqrt{I_{0} I_{o}}=0 \\\\\\end{array}\\]Case 2: When slit are of unequal width, intensity from one slit would increase to twice then,\\[\\begin{array}{l}\\mathrm{I}_{\\text {newmax }}=2 \\mathrm{I}_{\\mathrm{o}}+\\mathrm{I}_{\\mathrm{o}}+2 \\sqrt{2 \\mathrm{I}_{\\mathrm{o}} \\mathrm{I}_{\\mathrm{o}}}=5.83 \\mathrm{I}_{\\mathrm{o}} \\\\\\mathrm{I}_{\\text {newmin }}=2 \\mathrm{I}_{\\mathrm{o}}+\\mathrm{I}_{\\mathrm{o}}-2 \\sqrt{2 \\mathrm{I}_{\\mathrm{o}} \\mathrm{I}_{\\mathrm{o}}}=0.17 \\mathrm{I}_{\\mathrm{o}}\\end{array}\\]Therefore, intensities of both the maxima and the minima increase",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "calculative",
+        "Mathematical",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 4:24:41 PM",
+      "ocrQuestion": "In Young's double slit experiment, one of the slit is wider than other, so that amplitude of the light from one slit is double of that from other slit. If \\( I_{m} \\) be the maximum intensity, the resultant intensity \\( I \\) when they interfere at phase difference \\( \\phi \\) is given by:\n(a) \\( \\frac{I_{m}}{9}(4+5 \\cos \\phi) \\)\n(b) \\( \\frac{I_{m}}{3}\\left(1+2 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)\n(c) \\( \\frac{I_{m}}{5}\\left(1+4 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)\n(d) \\( \\frac{I_{m}}{9}\\left(1+8 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)",
+      "onlyq_text": "<p>In Young's double slit experiment, one of the slit is wider than other, so that amplitude of the light from one slit is double of that from other slit. If \\( I_{m} \\) be the maximum intensity, the resultant intensity \\( I \\) when they interfere at phase difference \\( \\phi \\) is given by:</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\frac{I_{m}}{9}(4+5 \\cos \\phi) \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{I_{m}}{3}\\left(1+2 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\frac{I_{m}}{5}\\left(1+4 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{I_{m}}{9}\\left(1+8 \\cos ^{2} \\frac{\\phi}{2}\\right) \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "MEDIUM",
+      "solutions": [
+        {
+          "sol_html": "Solution:We know that, Intensity \\( \\propto \\) Amplitude \\( ^{2} \\)Given : \\( A_{1}=2 A_{2} \\)\\[\\begin{array}{l}\\therefore I_{1}=4 I_{2} \\\\I_{\\max }=\\left(\\sqrt{I_{1}}+\\sqrt{I_{2}}\\right)^{2}=\\left(3 \\sqrt{I_{2}}\\right)^{2}=9 I_{2}=I_{m} \\\\I=I_{1}+I_{2}+2 \\sqrt{I_{1} I_{2}} \\cos \\phi=4 I_{2}+I_{2}+2 \\sqrt{4 I_{2} \\cdot I_{2}} \\cos \\phi=5 I_{2}+4 I_{2} \\cos \\phi \\\\\\quad=\\frac{I_{m}}{9}(5+4 \\cos \\phi) \\quad\\left[\\because I_{0}=\\frac{I_{m}}{9}\\right] \\\\\\quad=\\frac{I_{m}}{9}[1+4(1+\\cos \\phi)] \\\\\\quad=\\frac{I_{m}}{9}\\left(1+8 \\cos ^{2} \\frac{\\phi}{2}\\right) \\quad\\left[\\because \\cos \\phi=2 \\cos ^{2} \\frac{\\phi}{2}-1\\right]\\end{array}\\]",
+          "solved_by": "sai"
+        }
+      ]
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 4:30:38 PM",
+      "ocrQuestion": "An interference is observed due to two coherent sources \\( A \\) and \\( B \\) separated by a distance \\( 4 \\lambda \\) along \\( Y \\)-axis where \\( \\lambda \\) is the wavelength of source. Adetector \\( D \\) is moved along the positive \\( X \\)-axis. The number of points on the \\( X \\)-axis excluding the points \\( x=0 \\) and \\( x=\\infty \\) at which maximum will be observed is\n(a) 3\n(b) 4\n(c) 5\n(d) 6",
+      "onlyq_text": "<p>An interference is observed due to two coherent sources \\( A \\) and \\( B \\) separated by a distance \\( 4 \\lambda \\) along \\( Y \\)-axis where \\( \\lambda \\) is the wavelength of source. Adetector \\( D \\) is moved along the positive \\( X \\)-axis. The number of points on the \\( X \\)-axis excluding the points \\( x=0 \\) and \\( x=\\infty \\) at which maximum will be observed is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) 3</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) 4</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) 5</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) 6</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 4:32:07 PM",
+      "ocrQuestion": "If two light waves having same frequency have intensity ratio \\( 4: 1 \\) and they interfere, the ratio of maximum to minimum intensity in the pattern will be\n(a) \\( 9: 1 \\)\n(b) \\( 3: 1 \\)\n(c) \\( 25: 9 \\)\n(d) \\( 16: 25 \\)",
+      "onlyq_text": "<p>If two light waves having same frequency have intensity ratio \\( 4: 1 \\) and they interfere, the ratio of maximum to minimum intensity in the pattern will be</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(a) \\( 9: 1 \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(b) \\( 3: 1 \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(c) \\( 25: 9 \\)</p>"
+        },
+        {
+          "is_correct": 1,
+          "lang_id": 1,
+          "option": "<p>(d) \\( 16: 25 \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "No of fringes \\( \\times \\lambda= \\) constant",
+      "date": "3/5/2024, 5:47:08 PM",
+      "ocrQuestion": "In Young's double slit experiment using sodium light \\( (\\lambda=5898 \\unicode{xC5}), 92 \\) fringes are seen. If given colour ( \\( \\lambda=5461 \\unicode{xC5}) \\) is used, how many fringes will be seen\n(a) 62\n(b) 67\n(c) 85\n(d) 99",
+      "onlyq_text": "<p>In Young's double slit experiment using sodium light \\( (\\lambda=5898 \\unicode{xC5}), 92 \\) fringes are seen. If given colour ( \\( \\lambda=5461 \\unicode{xC5}) \\) is used, how many fringes will be seen</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(a) 62</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(b) 67</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(c) 85</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(d) 99</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 5:49:29 PM",
+      "ocrQuestion": "Two beams of light having intensities \\( I \\) and \\( 4 I \\) interfere to produce a fringe pattern on a screen. The phase difference between the beams is \\( \\frac{\\pi}{2} \\) at point \\( A \\) and \\( \\pi \\) at point \\( B \\). Then the difference between the resultant intensities at \\( A \\) and \\( B \\) is\n(a) \\( 2 I \\)\n(b) \\( 4 I \\)\n(c) \\( 5 \\mathrm{I} \\)\n(d) \\( 7 I \\)",
+      "onlyq_text": "<p>Two beams of light having intensities \\( I \\) and \\( 4 I \\) interfere to produce a fringe pattern on a screen. The phase difference between the beams is \\( \\frac{\\pi}{2} \\) at point \\( A \\) and \\( \\pi \\) at point \\( B \\). Then the difference between the resultant intensities at \\( A \\) and \\( B \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( 2 I \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( 4 I \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( 5 \\mathrm{I} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( 7 I \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 5:51:04 PM",
+      "ocrQuestion": "Two waves being produced by two sources \\( S_{1} \\) and \\( S_{2} \\). Both sources have zero phase difference and have wavelength \\( \\lambda \\). The destructive interference of both the waves will occur of point \\( P \\) if \\( \\left(S_{1} P-S_{2} P\\right) \\) has the value\n(a) \\( 5 \\lambda \\)\n(b) \\( \\frac{3}{4} \\lambda \\)\n(c) \\( 2 \\lambda \\)\n(d) \\( \\frac{11}{2} \\lambda \\)",
+      "onlyq_text": "<p>Two waves being produced by two sources \\( S_{1} \\) and \\( S_{2} \\). Both sources have zero phase difference and have wavelength \\( \\lambda \\). The destructive interference of both the waves will occur of point \\( P \\) if \\( \\left(S_{1} P-S_{2} P\\right) \\) has the value</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(a) \\( 5 \\lambda \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{3}{4} \\lambda \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(c) \\( 2 \\lambda \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{11}{2} \\lambda \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 5:52:28 PM",
+      "ocrQuestion": "Two interfering wave (having intensities are \\( 9 I \\) and \\( 4 I \\) ) path difference between them is \\( 11 \\lambda \\). The resultant intensity at this point will be\n(a) \\( I \\)\n(b) 9 I\n(c) \\( 4 I \\)\n(d) \\( 25 I \\)",
+      "onlyq_text": "<p>Two interfering wave (having intensities are \\( 9 I \\) and \\( 4 I \\) ) path difference between them is \\( 11 \\lambda \\). The resultant intensity at this point will be</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(a) \\( I \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(b) 9 I</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(c) \\( 4 I \\)</p>"
+        },
+        {
+          "is_correct": 4,
+          "lang_id": 1,
+          "option": "<p>(d) \\( 25 I \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 5:56:29 PM",
+      "ocrQuestion": "In interference if \\( \\frac{I_{\\max }}{I_{\\min }}=\\frac{144}{81} \\) then what will be the ratio of amplitudes of the interfering wave\n(a) \\( \\frac{144}{81} \\)\n(b) \\( \\frac{7}{1} \\)\n(c) \\( \\frac{1}{7} \\)\n(d) \\( \\frac{12}{9} \\)",
+      "onlyq_text": "<p>In interference if \\( \\frac{I_{\\max }}{I_{\\min }}=\\frac{144}{81} \\) then what will be the ratio of amplitudes of the interfering wave</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\frac{144}{81} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{7}{1} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\frac{1}{7} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{12}{9} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "calculative",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 6:00:25 PM",
+      "ocrQuestion": "In Young's double-slit experiment, an interference pattern is obtained on a screen by a light of wavelength \\( 6000 \\unicode{xC5} \\), coming from the coherent sources \\( S_{1} \\) and \\( S_{2} \\). At certain point \\( P \\) on the screen third dark fringe is formed. Then the path difference \\( S_{1} P-S_{2} P \\) in microns is\n(a) 0.75\n(b) 1.5\n(c) 3.0\n(d) 4.5",
+      "onlyq_text": "<p>In Young's double-slit experiment, an interference pattern is obtained on a screen by a light of wavelength \\( 6000 \\unicode{xC5} \\), coming from the coherent sources \\( S_{1} \\) and \\( S_{2} \\). At certain point \\( P \\) on the screen third dark fringe is formed. Then the path difference \\( S_{1} P-S_{2} P \\) in microns is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) 0.75</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) 1.5</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) 3.0</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) 4.5</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 6:02:47 PM",
+      "ocrQuestion": "In a Young's double slit experiment, the slit separation is \\( 1 \\mathrm{~mm} \\) and the screen is \\( 1 \\mathrm{~m} \\) from the slit. For a monochromatic light of wavelength \\( 500 \\mathrm{~nm} \\), the distance of 3rd minima from the central maxima is \n(a) \\( 0.50 \\mathrm{~mm} \\)\n(b) \\( 1.25 \\mathrm{~mm} \\)\n(c) \\( 1.50 \\mathrm{~mm} \\)\n(d) \\( 1.75 \\mathrm{~mm} \\)",
+      "onlyq_text": "<p>In a Young's double slit experiment, the slit separation is \\( 1 \\mathrm{~mm} \\) and the screen is \\( 1 \\mathrm{~m} \\) from the slit. For a monochromatic light of wavelength \\( 500 \\mathrm{~nm} \\), the distance of 3rd minima from the central maxima is </p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( 0.50 \\mathrm{~mm} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( 1.25 \\mathrm{~mm} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( 1.50 \\mathrm{~mm} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( 1.75 \\mathrm{~mm} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "calculative",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 6:08:25 PM",
+      "ocrQuestion": "The two slits at a distance of \\( 1 \\mathrm{~mm} \\) are illuminated by the light of wavelength \\( 6.5 \\times 10^{-7} \\mathrm{~m} \\). The interference fringes are observed on a screen placed at a distance of \\( 1 \\mathrm{~m} \\). The distance between third dark fringe and fifth bright fringe will be\n(a) \\( 0.65 \\mathrm{~mm} \\)\n(b) \\( 1.63 \\mathrm{~mm} \\)\n(c) \\( 3.25 \\mathrm{~mm} \\)\n(d) \\( 4.88 \\mathrm{~mm} \\)",
+      "onlyq_text": "<p>The two slits at a distance of \\( 1 \\mathrm{~mm} \\) are illuminated by the light of wavelength \\( 6.5 \\times 10^{-7} \\mathrm{~m} \\). The interference fringes are observed on a screen placed at a distance of \\( 1 \\mathrm{~m} \\). The distance between third dark fringe and fifth bright fringe will be</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( 0.65 \\mathrm{~mm} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( 1.63 \\mathrm{~mm} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( 3.25 \\mathrm{~mm} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( 4.88 \\mathrm{~mm} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 6:09:35 PM",
+      "ocrQuestion": "The slits in a Young's double slit experiment have equal widths and the source is placed symmetrically relative to the slits. The intensity at the central fringes is \\( I_{0} \\). If one of the slits is closed, the intensity at this point will be\n(a) \\( I_{0} \\)\n(b) \\( I_{0} / 4 \\)\n(c) \\( I_{0} / 2 \\)\n(d) \\( 4 \\mathrm{I}_{0} \\)",
+      "onlyq_text": "<p>The slits in a Young's double slit experiment have equal widths and the source is placed symmetrically relative to the slits. The intensity at the central fringes is \\( I_{0} \\). If one of the slits is closed, the intensity at this point will be</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( I_{0} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( I_{0} / 4 \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( I_{0} / 2 \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( 4 \\mathrm{I}_{0} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 6:15:15 PM",
+      "ocrQuestion": "The maximum number of possible interference maxima for silt separartion equal to twice the wavelength in Young's double silt experiment is\n(a) Infinite\n(b) zero'\n(c) five\n(d) three",
+      "onlyq_text": "<p>The maximum number of possible interference maxima for silt separartion equal to twice the wavelength in Young's double silt experiment is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) Infinite</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) zero'</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) five</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) three</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast",
+        "calculative",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "\\( V=\\frac{2 \\sqrt{I_{1} I_{2}}}{I_{1}+I_{2}} \\)",
+      "date": "3/5/2024, 6:38:20 PM",
+      "ocrQuestion": "The fringe visibility of an interference pattern formed by two interfering light beams of intensity ratio \\( \\alpha \\) is\n(a) \\( \\frac{2 \\sqrt{\\alpha}}{1+\\sqrt{\\alpha}} \\)\n(b) \\( \\frac{2 \\sqrt{\\alpha}}{1+\\alpha} \\)\n(c) \\( \\frac{2 \\sqrt{\\alpha}}{1-\\sqrt{\\alpha}} \\)\n(d) \\( \\frac{2 \\sqrt{\\alpha}}{1-\\alpha} \\)",
+      "onlyq_text": "<p>The fringe visibility of an interference pattern formed by two interfering light beams of intensity ratio \\( \\alpha \\) is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\frac{2 \\sqrt{\\alpha}}{1+\\sqrt{\\alpha}} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\frac{2 \\sqrt{\\alpha}}{1+\\alpha} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\frac{2 \\sqrt{\\alpha}}{1-\\sqrt{\\alpha}} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\frac{2 \\sqrt{\\alpha}}{1-\\alpha} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "MEDIUM",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Conceptual",
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 6:42:08 PM",
+      "ocrQuestion": "If the source of light used in a Young's double slit experiment is changed from red to violet, then\n(a) the bright fringes will become more bright\n(b) the bright fringes will become less bright\n(c) the consecutive fringes will come closer\n(d) none of these are possible",
+      "onlyq_text": "<p>If the source of light used in a Young's double slit experiment is changed from red to violet, then</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(a) the bright fringes will become more bright</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(b) the bright fringes will become less bright</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(c) the consecutive fringes will come closer</p>"
+        },
+        {
+          "is_correct": 3,
+          "lang_id": 1,
+          "option": "<p>(d) none of these are possible</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Conceptual",
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 6:45:00 PM",
+      "ocrQuestion": "The displacements of the two light beams in \\( \\mathrm{cm} \\) are \\( y_{1}=a_{1} \\sin \\omega t \\) and \\( y_{2}=a_{2} \\sin 4 \\omega t \\). Is interference possible with these light beams?\n(a) Yes\n(b) \\( \\mathrm{No} \\)\n(c) Sometimes possible and sometimes not\n(d) Nothing can be predicted",
+      "onlyq_text": "<p>The displacements of the two light beams in \\( \\mathrm{cm} \\) are \\( y_{1}=a_{1} \\sin \\omega t \\) and \\( y_{2}=a_{2} \\sin 4 \\omega t \\). Is interference possible with these light beams?</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) Yes</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\mathrm{No} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) Sometimes possible and sometimes not</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) Nothing can be predicted</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Superposition of Waves",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 7:40:54 PM",
+      "ocrQuestion": "In a young's double slit experiment, 70 fringes are visible in the field of view with yellow light of wavelength \\( 5880 \\unicode{xC5} \\). The number of fringes visible in the field of view with violet light of wavelength \\( 4358 \\unicode{xC5} \\) will be\n(a) 73\n(b) 93\n(c) 33\n(d) 53",
+      "onlyq_text": "<p>In a young's double slit experiment, 70 fringes are visible in the field of view with yellow light of wavelength \\( 5880 \\unicode{xC5} \\). The number of fringes visible in the field of view with violet light of wavelength \\( 4358 \\unicode{xC5} \\) will be</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) 73</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) 93</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) 33</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) 53</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Fast",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 7:44:48 PM",
+      "ocrQuestion": "In a young's double slit experiment, the distance between two slits \\( S_{1} \\) and \\( S_{2} \\) is \\( d \\). An interference pattern is obtained by these slits on a screen at a distance \\( D \\) from the slits. A dark fringe is produced at a point \\( P \\) just in front of \\( S_{1} \\). The wavelength of light used is\n(a) \\( \\lambda=\\frac{D}{d^{2}} \\)\n(b) \\( \\lambda=\\frac{d^{2}}{D} \\)\n(c) \\( \\lambda=\\frac{D}{d} \\)\n(d) \\( \\lambda=\\frac{d}{D} \\)",
+      "onlyq_text": "<p>In a young's double slit experiment, the distance between two slits \\( S_{1} \\) and \\( S_{2} \\) is \\( d \\). An interference pattern is obtained by these slits on a screen at a distance \\( D \\) from the slits. A dark fringe is produced at a point \\( P \\) just in front of \\( S_{1} \\). The wavelength of light used is</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) \\( \\lambda=\\frac{D}{d^{2}} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) \\( \\lambda=\\frac{d^{2}}{D} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) \\( \\lambda=\\frac{D}{d} \\)</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) \\( \\lambda=\\frac{d}{D} \\)</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Fast",
+        "Veriety",
+        "Practice"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 7:46:16 PM",
+      "ocrQuestion": "Two independent monochromatic sodium lamps cannot produce interference because\n(a) the frequencies of the two sources are different\n(b) the phase difference between the two sources changes with respect to time\n(c) the two sources become coherent\n(d) the amplitudes of the two sources are different",
+      "onlyq_text": "<p>Two independent monochromatic sodium lamps cannot produce interference because</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) the frequencies of the two sources are different</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) the phase difference between the two sources changes with respect to time</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) the two sources become coherent</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) the amplitudes of the two sources are different</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "EASY",
+      "solutions": []
+    },
+    {
+      "QCount": "",
+      "Tags": [
+        "Revision",
+        "Conceptual",
+        "Veriety",
+        "Practice",
+        "TEST"
+      ],
+      "added_By": "sai",
+      "branch": "Waves & oscillation",
+      "concept_html": "",
+      "date": "3/5/2024, 7:49:59 PM",
+      "ocrQuestion": "The ratio of intensity at the centre of a bright fringe to the intensity at a point distant one-fourth of the distance between two successive bright fringes will be\n(a) 1\n(b) 2\n(c) 3\n(d) 4",
+      "onlyq_text": "<p>The ratio of intensity at the centre of a bright fringe to the intensity at a point distant one-fourth of the distance between two successive bright fringes will be</p>",
+      "option_hindi": [],
+      "options": [
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(a) 1</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(b) 2</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(c) 3</p>"
+        },
+        {
+          "is_correct": 2,
+          "lang_id": 1,
+          "option": "<p>(d) 4</p>"
+        }
+      ],
+      "optype": 1,
+      "q_text_hindi": "",
+      "qid": "",
+      "sol_text": "",
+      "sources": {
+        "BOOKsource": [
+          "ce"
+        ],
+        "Examsource": []
+      },
+      "sub_topic_name": "Young's Double slit experiment",
+      "subject": "PHYSICS",
+      "topic_name": "INTERFERENCE OF LIGHT",
+      "toughness": "MEDIUM",
+      "solutions": []
+    }
+  ]
 }
