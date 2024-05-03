@@ -1,0 +1,52 @@
+{
+   "questions": [
+      {
+         "QCount": "",
+         "Tags": [],
+         "added_By": "sai",
+         "branch": "Atomic & Molecular Physics",
+         "concept_html": "",
+         "date": "5/3/2024, 11:05:04 PM",
+         "ocrQuestion": "A cavity contains blackbody radiation in equilib-rium at temperature \\(T\\). The specific heat per unit voluem of the photon gas in the cavity is of the form \\(C_{V}=\\gamma T^{3}\\) where \\(\\gamma\\) is a constant. The cav-ity is expanded to twice its original volume and then allowed to equilibrate at the same tempera-ture \\(T\\). The new internal energy per unit volume is:\n[CSIR NET June 2011]\n(a) \\({\\color[rgb]{0.0, 1.0, 1.0}4}\\gamma T^4\\)\n(b) \\(2 \\gamma T^{4}\\)\n(c) \\(\\frac{\\gamma T^{4}}{4}\\)\n(d) \\(\\gamma T^{4}\\)",
+         "onlyq_text": "<p>A cavity contains blackbody radiation in equilib-rium at temperature \\(T\\). The specific heat per unit voluem of the photon gas in the cavity is of the form \\(C_{V}=\\gamma T^{3}\\) where \\(\\gamma\\) is a constant. The cav-ity is expanded to twice its original volume and then allowed to equilibrate at the same tempera-ture \\(T\\). The new internal energy per unit volume is:\n[CSIR NET June 2011]</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(a) \\({\\color[rgb]{0.0, 1.0, 1.0}4}\\gamma T^4\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(b) \\(2 \\gamma T^{4}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(c) \\(\\frac{\\gamma T^{4}}{4}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(d) \\(\\gamma T^{4}\\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [],
+         "sources": {
+            "BOOKsource": [],
+            "Examsource": [
+               "IIT-JAM"
+            ]
+         },
+         "sub_topic_name": "GAS LAWS",
+         "subject": "PHYSICS",
+         "topic_name": "ELECTROSTATICS",
+         "toughness": "EASY"
+      }
+   ]
+}
