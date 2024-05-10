@@ -261,13 +261,14 @@
          "QCount": "",
          "Tags": [
             "Revision",
+            "calculative",
             "MultiConcept",
             "Practice"
          ],
          "added_By": "sai",
          "branch": "Quantum Mechanics",
          "concept_html": "",
-         "date": "5/10/2024, 8:18:27 AM",
+         "date": "5/10/2024, 8:37:09 AM",
          "ocrQuestion": "The wave function of a particle at a certain time is given as following:\n\\[\n\\psi(x)=\\frac{A}{\\sqrt{x^{2}+a^{2}}} e^{i k x}[a, k \\text { are positive real constants }]\n\\]\n\nThe real value of \\(A\\) such that \\(\\psi(x)\\) is normalized, is\n(a) \\(\\frac{a}{\\pi}\\)\n(b) \\(\\sqrt{\\frac{a}{\\pi}}\\)\n(c) \\(\\sqrt{\\frac{2 a}{\\pi}}\\)\n(d) \\(\\sqrt{\\frac{a}{2 \\pi}}\\)",
          "onlyq_text": "<p>The wave function of a particle at a certain time is given as following:\n\\[\n\\psi(x)=\\frac{A}{\\sqrt{x^{2}+a^{2}}} e^{i k x}[a, k \\text { are positive real constants }]\n\\]\n\nThe real value of \\(A\\) such that \\(\\psi(x)\\) is normalized, is</p>",
          "option_hindi": [],
@@ -297,10 +298,12 @@
          "q_text_hindi": "",
          "qid": "",
          "sol_text": "",
-         "solutions": {
-            "sol_html": "<p>for normalized wave function&nbsp;</p><p>\\[ \\begin{aligned} &amp; \\int_{-\\infty}^{\\infty} \\psi^{*}(x) \\psi(x) d x=1 \\\\ \\Rightarrow &amp; \\int_{-\\infty}^{\\infty} \\frac{A^{2}}{\\left(x^{2}+a^{2}\\right)} e^{i k x} e^{-i k x} d x=1 \\\\ \\Rightarrow &amp; {A^{2}} \\int_{-\\infty}^{\\infty} \\frac{1}{x^{2}+a^{2}} d x=1 \\\\ \\Rightarrow &amp; A^{2} \\frac{\\pi}{a}=1 \\quad\\left[\\therefore \\int_{-\\infty}^{\\infty} \\frac{1}{x^{2}+a^{2}} d x=\\frac{\\pi}{a}\\right] \\\\ \\Rightarrow &amp; A=\\sqrt{\\frac{a}{\\pi}} \\end{aligned} \\]</p>",
-            "solved_by": "sai"
-         },
+         "solutions": [
+            {
+               "sol_html": "<p>for normalized wave function&nbsp;</p><p>\\[ \\begin{aligned} &amp; \\int_{-\\infty}^{\\infty} \\psi^{*}(x) \\psi(x) d x=1 \\\\ \\Rightarrow &amp; \\int_{-\\infty}^{\\infty} \\frac{A^{2}}{\\left(x^{2}+a^{2}\\right)} e^{i k x} e^{-i k x} d x=1 \\\\ \\Rightarrow &amp; {A^{2}} \\int_{-\\infty}^{\\infty} \\frac{1}{x^{2}+a^{2}} d x=1 \\\\ \\Rightarrow &amp; A^{2} \\frac{\\pi}{a}=1 \\quad\\left[\\therefore \\int_{-\\infty}^{\\infty} \\frac{1}{x^{2}+a^{2}} d x=\\frac{\\pi}{a}\\right] \\\\ \\Rightarrow &amp; A=\\sqrt{\\frac{a}{\\pi}} \\end{aligned} \\]</p>",
+               "solved_by": "sai"
+            }
+         ],
          "sources": {
             "BOOKsource": [
                "ce"
