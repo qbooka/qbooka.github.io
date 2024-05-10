@@ -434,6 +434,77 @@
          "subject": "PHYSICS",
          "topic_name": "WAVE FUNCTION",
          "toughness": "EASY"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "MultiConcept",
+            "Mathematical",
+            "Practice",
+            "TEST"
+         ],
+         "added_By": "sai",
+         "branch": "Quantum Mechanics",
+         "concept_html": "",
+         "date": "5/10/2024, 5:16:03 PM",
+         "ocrQuestion": "The wave function of a particle, constraint to move along \\(x\\) axis at certain instant of time is given as\n\\[\n\\psi(x)=A \\exp \\left[-\\frac{x^{2}}{a^{2}}+i b x\\right][a, b \\text { are positive real constants }]\n\\]\n\nThe normalization constant ' \\(A\\) ' is\n(a) \\(\\sqrt{\\frac{\\sqrt{2}}{a \\sqrt{\\pi}}}\\)\n(b) \\(\\sqrt{\\frac{2 \\sqrt{2}}{a \\sqrt{\\pi}}}\\)\n(c) \\(\\frac{2 \\sqrt{2}}{\\sqrt{\\pi a}}\\)\n(d) \\(\\frac{2 \\sqrt{2}}{a \\sqrt{\\pi}}\\)",
+         "onlyq_text": "<p>The wave function of a particle, constraint to move along \\(x\\) axis at certain instant of time is given as\n\\[\n\\psi(x)=A \\exp \\left[-\\frac{x^{2}}{a^{2}}+i b x\\right][a, b \\text { are positive real constants }]\n\\]\n\nThe normalization constant ' \\(A\\) ' is</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": [
+                  "1",
+                  "4"
+               ],
+               "lang_id": 1,
+               "option": "<p>(a) \\(\\sqrt{\\frac{\\sqrt{2}}{a \\sqrt{\\pi}}}\\)</p>"
+            },
+            {
+               "is_correct": [
+                  "1",
+                  "4"
+               ],
+               "lang_id": 1,
+               "option": "<p>(b) \\(\\sqrt{\\frac{2 \\sqrt{2}}{a \\sqrt{\\pi}}}\\)</p>"
+            },
+            {
+               "is_correct": [
+                  "1",
+                  "4"
+               ],
+               "lang_id": 1,
+               "option": "<p>(c) \\(\\frac{2 \\sqrt{2}}{\\sqrt{\\pi a}}\\)</p>"
+            },
+            {
+               "is_correct": [
+                  "1",
+                  "4"
+               ],
+               "lang_id": 1,
+               "option": "<p>(d) \\(\\frac{2 \\sqrt{2}}{a \\sqrt{\\pi}}\\)</p>"
+            }
+         ],
+         "optype": 2,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [
+            {
+               "sol_html": "<p>\\(\\begin{array}{l} \\text { Given, } \\Psi(x)=A \\exp \\left[-\\frac{x^{2}}{a^{2}}+i b x\\right] \\\\ \\int_{-\\infty}^{\\infty} \\psi^{*}{(x)} &nbsp;\\psi(x) d x=1 \\quad(\\text { Normalization condition) } \\\\ \\Rightarrow A^{2} \\int_{-\\infty}^{\\infty} e^{-2 \\frac{ x^{2}}{a^{2}}} d x=1 \\\\ \\Rightarrow 2 A^{2} \\int_{0}^{\\infty} e^{\\frac{-2 x^{2}}{a^{2}}} d x=1 \\quad\\left(\\therefore e^{-\\frac{2 x^{2}}{a^{2}}} \\text { is an even function) }\\right. \\\\ \\Rightarrow2A^2\\times\\frac12\\frac{\\Gamma\\left(\\frac{0+1}2\\right)}{\\left(\\alpha\\right)^\\frac{o+1}2}=1\\quad\\left(\\therefore\\int_0^\\infty x^ne^{-\\alpha x^2}dx=\\frac12\\frac{\\Gamma\\left(\\frac{n+1}2\\right)}{\\left(\\alpha\\right)^\\frac{n+1}2}\\right) \\\\ \\Rightarrow A^{2} \\frac{\\sqrt{\\pi}}{\\sqrt{2}} a=1 \\\\ \\Rightarrow A=\\sqrt{\\frac{\\sqrt{2}}{\\sqrt{\\pi} a}}\\end{array}\\)</p>",
+               "solved_by": "sai"
+            }
+         ],
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "CONCEPT OF WAVE FUNCTION",
+         "subject": "PHYSICS",
+         "topic_name": "WAVE FUNCTION",
+         "toughness": "MEDIUM"
       }
    ]
 }
