@@ -652,6 +652,64 @@
          "subject": "PHYSICS",
          "topic_name": "WAVE FUNCTION",
          "toughness": "EASY"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "calculative",
+            "Practice",
+            "TEST"
+         ],
+         "added_By": "sai",
+         "branch": "Quantum Mechanics",
+         "concept_html": "",
+         "date": "5/10/2024, 11:33:26 PM",
+         "ocrQuestion": "A one dimensional wave function corresponding to a particle is given by\n\\[\n\\psi(x)=\\sqrt{a} e^{-a|x|}[a \\text { are positive real constant }]\n\\]\n\nThe probability of finding the particle between \\(x=1 / \\mathrm{a}\\) to \\(x=2 / \\mathrm{a}\\) is equal to\n(a) \\(e^{-2}-e^{-4}\\)\n(b) \\(\\frac{e^{-2}-e^{-4}}{2}\\)\n(c) \\(\\frac{e^{-2}-e^{-4}}{4}\\)\n(d) \\(\\frac{e^{-2}+e^{-4}}{4}\\)",
+         "onlyq_text": "<p>A one dimensional wave function corresponding to a particle is given by\n\\[\n\\psi(x)=\\sqrt{a} e^{-a|x|}[a \\text { are positive real constant }]\n\\]\n\nThe probability of finding the particle between \\(x=1 / \\mathrm{a}\\) to \\(x=2 / \\mathrm{a}\\) is equal to</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(a) \\(e^{-2}-e^{-4}\\)</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(b) \\(\\frac{e^{-2}-e^{-4}}{2}\\)</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(c) \\(\\frac{e^{-2}-e^{-4}}{4}\\)</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(d) \\(\\frac{e^{-2}+e^{-4}}{4}\\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [
+            {
+               "sol_html": "<p>Given, \\(\\psi(x)=\\sqrt{a} e^{-a|x|}\\)</p><p>Probability of finding the particle between \\(x=\\frac{1}{a}\\) to \\(x=\\frac{2}{a}\\) is&nbsp;</p><p>\\[ \\begin{aligned} P &amp; =\\int_{1 / a}^{2 / a} \\psi^{*} \\psi d x \\\\ &amp; =a \\int_{1 / a}^{2 / a} e^{-2 a(x)} d x \\\\ &amp; =\\frac{a}{-2 a}\\left[e^{-2 a x}\\right]_{1 / a}^{2 / a} \\\\ &amp; =-\\frac{1}{2}\\left[e^{-2 a \\times \\frac{2}{a}}-e^{-2 a \\times \\frac{1}{a}}\\right] \\\\ &amp; =-\\frac{1}{2}\\left[e^{-4}-e^{-2}\\right] \\\\ P &amp; =\\frac{e^{-2}-e^{-4}}{2} \\end{aligned} \\]</p>",
+               "solved_by": "sai"
+            }
+         ],
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "CONCEPT OF WAVE FUNCTION",
+         "subject": "PHYSICS",
+         "topic_name": "WAVE FUNCTION",
+         "toughness": "EASY"
       }
    ]
 }
