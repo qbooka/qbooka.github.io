@@ -369,6 +369,71 @@
          "subject": "PHYSICS",
          "topic_name": "WAVE FUNCTION",
          "toughness": "EASY"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Fast",
+            "Practice",
+            "TEST"
+         ],
+         "added_By": "sai",
+         "branch": "Quantum Mechanics",
+         "concept_html": "",
+         "date": "5/10/2024, 4:47:49 PM",
+         "ocrQuestion": "Which of the following wave function is an allowed wavefunction for a particle in a bound state for all values of \\(x\\) ? (A is a real constant)\n(a) \\(\\psi(x)=A \\exp \\left[-\\frac{|x|}{a}+i k x\\right]\\)\n(b) \\(\\psi(x)=A \\exp \\left[\\frac{x^{2}}{a^{2}}+i k x\\right]\\)\n(c) \\(\\psi(x)=A \\frac{\\sin k x}{x^{2}}\\)\n(d) \\(\\psi(x)=A \\exp \\left[-\\frac{|x|}{a}\\right]\\)",
+         "onlyq_text": "<p>Which of the following wave function is an allowed wavefunction for a particle in a bound state for all values of \\(x\\) ? (A is a real constant)</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": [
+                  "1",
+                  "4"
+               ],
+               "lang_id": 1,
+               "option": "<p>(a) \\(\\psi(x)=A \\exp \\left[-\\frac{|x|}{a}+i k x\\right]\\)</p>"
+            },
+            {
+               "is_correct": [
+                  "1",
+                  "4"
+               ],
+               "lang_id": 1,
+               "option": "<p>(b) \\(\\psi(x)=A \\exp \\left[\\frac{x^{2}}{a^{2}}+i k x\\right]\\)</p>"
+            },
+            {
+               "is_correct": [
+                  "1",
+                  "4"
+               ],
+               "lang_id": 1,
+               "option": "<p>(c) \\(\\psi(x)=A \\frac{\\sin k x}{x^{2}}\\)</p>"
+            },
+            {
+               "is_correct": [
+                  "1",
+                  "4"
+               ],
+               "lang_id": 1,
+               "option": "<p>(d) \\(\\psi(x)=A \\exp \\left[-\\frac{|x|}{a}\\right]\\)</p>"
+            }
+         ],
+         "optype": 2,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [],
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "CONCEPT OF WAVE FUNCTION",
+         "subject": "PHYSICS",
+         "topic_name": "WAVE FUNCTION",
+         "toughness": "EASY"
       }
    ]
 }
