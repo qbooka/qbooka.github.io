@@ -544,6 +544,114 @@
          "subject": "PHYSICS",
          "topic_name": "WAVE FUNCTION",
          "toughness": "EASY"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Fast",
+            "Memory",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Quantum Mechanics",
+         "concept_html": "",
+         "date": "5/10/2024, 10:54:13 PM",
+         "ocrQuestion": "The wave function \\(\\psi(\\vec{r})\\) of a particle moving in three-dimensional space has the physical dimensions of\n(a) \\((\\text { Length })^{-3 / 2}\\)\n(b) \\((\\text { Length })^{3 / 2}\\)\n(c) \\((\\text { Length })^{-1}\\)\n(d) (Length)",
+         "onlyq_text": "<p>The wave function \\(\\psi(\\vec{r})\\) of a particle moving in three-dimensional space has the physical dimensions of</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(a) \\((\\text { Length })^{-3 / 2}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(b) \\((\\text { Length })^{3 / 2}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(c) \\((\\text { Length })^{-1}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(d) (Length)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [],
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "CONCEPT OF WAVE FUNCTION",
+         "subject": "PHYSICS",
+         "topic_name": "WAVE FUNCTION",
+         "toughness": "EASY"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Quantum Mechanics",
+         "concept_html": "",
+         "date": "5/10/2024, 11:09:51 PM",
+         "ocrQuestion": "The normalized wave function of the particle is given as following:\n\\[\n\\psi(x)=\\left\\{\\begin{array}{ll}\nC\\left(1-x^{2}\\right) & \\text { for }-1 \\leq x \\leq 1 \\\\\n0 & \\text { otherwise }\n\\end{array}\\right.\n\\]\n\nThe value of the constant \\(C\\) is\n(a) \\(\\sqrt{15} / 4\\)\n(b) \\(\\sqrt{15} / 2\\)\n(c) \\(\\sqrt{15} / 8\\)\n(d) \\(\\sqrt{2 / 3}\\)",
+         "onlyq_text": "<p>The normalized wave function of the particle is given as following:\n\\[\n\\psi(x)=\\left\\{\\begin{array}{ll}\nC\\left(1-x^{2}\\right) & \\text { for }-1 \\leq x \\leq 1 \\\\\n0 & \\text { otherwise }\n\\end{array}\\right.\n\\]\n\nThe value of the constant \\(C\\) is</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(a) \\(\\sqrt{15} / 4\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(b) \\(\\sqrt{15} / 2\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(c) \\(\\sqrt{15} / 8\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(d) \\(\\sqrt{2 / 3}\\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [
+            {
+               "sol_html": "<p>\\(\\psi\\) is normalized</p><p>\\[ \\begin{aligned} &amp; \\Rightarrow \\int_{-\\infty}^{\\infty} \\psi^{*} \\psi d x=1 \\\\ \\Rightarrow &amp; \\int_{-1}^{1} c^{2}\\left(1-x^{2}\\right)^{2} d x=1 \\\\ \\Rightarrow &amp; c^{2} \\int_{-1}^{1}\\left(1+x^{4}-2 x^{2}\\right) d x=1 \\\\ \\Rightarrow &amp; c^{2}\\left[x+\\frac{x^{5}}{5}-\\frac{2}{3} x^{3}\\right]_{-1}^{1}=1 \\\\ \\Rightarrow &amp; c^{2}\\left(1+\\frac{1}{5}-\\frac{2}{3}+1+\\frac{1}{5}-\\frac{2}{3}\\right)=1 \\\\ \\Rightarrow &amp; c^{2} \\times \\frac{16}{15}=1 \\\\ \\Rightarrow &amp; c=\\frac{\\sqrt{15}}{4} \\end{aligned} \\]</p>",
+               "solved_by": "sai"
+            }
+         ],
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "CONCEPT OF WAVE FUNCTION",
+         "subject": "PHYSICS",
+         "topic_name": "WAVE FUNCTION",
+         "toughness": "EASY"
       }
    ]
 }
