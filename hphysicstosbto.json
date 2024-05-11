@@ -63,7 +63,6 @@
                 "topic_name": "PARTIAL DIFFERENTIATION",
                 "sub_topic_name": [
                     "EULERS THEOREM OF HOMOGENEOUS FUNCTION"
-                    
                 ]
             },
             "JACOBIAN": {
@@ -281,7 +280,19 @@
             "DYNAMICS OF RIGID BODIES": {
                 "topic_name": "DYNAMICS OF RIGID BODIES",
                 "sub_topic_name": [
-                    "MOMENT OF INERTIA TENSOR AND THEOREMS","INSTANTANEOUS AXIS,ROLLING & SLIPPING","FIXED AXIS ROTATION","ROTATIONAL STATICS(BASICS,TORQUE AND EQUILLIBRIUM)"
+                    "MOMENT OF INERTIA TENSOR AND THEOREMS",
+                    "INSTANTANEOUS AXIS,ROLLING & SLIPPING",
+                    "FIXED AXIS ROTATION",
+                    "ROTATIONAL STATICS(BASICS,TORQUE AND EQUILLIBRIUM)"
+                ]
+            },
+            "KINEMATICS": {
+                "topic_name": "KINEMATICS",
+                "sub_topic_name": [
+                    "BASICS,DISTANCE,DISPLACEMENT & UNIFORM SPEED ",
+                    "VARIABLE ACCELERATION",
+                    "CONSTANT ACCELERATION ",
+                    "ROTATIONAL STATICS(BASICS,TORQUE AND EQUILLIBRIUM)"
                 ]
             }
         }
