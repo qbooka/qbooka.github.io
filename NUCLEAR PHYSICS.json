@@ -1599,6 +1599,66 @@
          "subject": "PHYSICS",
          "topic_name": "NUCLEAR PHYSICS",
          "toughness": "EASY"
+      },
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Fast",
+            "Memory",
+            "ForJEE",
+            "ForNEET",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Nuclear & Particle Physics",
+         "concept_html": "<p>Density of Nucleus:&nbsp;</p><p>\\[ \\begin{array}{l} \\text { Density of nuclear mass }=\\frac{\\text { Mass of nucleons }}{\\text { Volume of nucleus }} \\\\ \\therefore \\text { Density of nuclear mass }=\\frac{\\mathrm{A} \\times \\text { Mass of each Nucleon }}{\\frac{4}{3} \\pi R_{o}^{3} A} \\\\ \\therefore \\text { Density of nuclear mass }=\\frac{\\mathrm{m}}{\\frac{4}{3} \\pi R_{o}^{3}}=\\frac{3 \\mathrm{~m}}{4 \\pi R_{o}^{3}} \\end{array} \\]</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where \\(\\mathrm{m}=\\) mass of each nucleon</p><p>\\[ \\begin{array}{c} \\text { Density of nucleus }=\\frac{3 \\mathrm{~m}}{4 \\pi R_{o}^{3}}=\\frac{3 \\times 1.66 \\times 10^{-27}}{4 \\times 3.142 \\times\\left(1.2 \\times 10^{-55}\\right)} \\\\ \\therefore \\text { Density of nucleus }=2.29 \\times 10^{17} \\mathrm{~kg} \\mathrm{~m}^{-3} \\end{array} \\]</p><p><strong><u>Notes:</u></strong></p><ul><li>Nuclear density is independent of mass number of nucleus.</li><li>It is nearly same for all nuclei</li><li>It has very high value. Such high densities can be found in white dwarf stars.</li><li>Its value is not same inside the nucleus. It is maximum at the centre and gradually decreases as we move away from the centre of the nucleus.</li><li>The nuclear radius is the distance from the centre of the nucleus at which the density of nuclear material decreases to one-half of its maximum value at the centre.</li></ul>",
+         "date": "5/11/2024, 12:31:37 PM",
+         "ocrQuestion": "The nuclear density of \\(U^{235}\\) is \\(\\left(R_{0}=1.2 \\mathrm{fm}\\right.\\), mass of 1 nucleon \\(\\left.=1.66 \\times 10^{-27} \\mathrm{~kg}\\right)\\)\n(a) \\(2.29 \\times 10^{17} \\mathrm{~kg} / \\mathrm{m}^{3}\\)\n(b) \\(1.29 \\times 10^{17} \\mathrm{~kg} / \\mathrm{m}^{3}\\)\n(c) \\(3.24 \\times 10^{17} \\mathrm{~kg} / \\mathrm{m}^{3}\\)\n(d) \\(5.31 \\times 10^{17} \\mathrm{~kg} / \\mathrm{m}^{3}\\)",
+         "onlyq_text": "<p>The nuclear density of \\(U^{235}\\) is \\(\\left(R_{0}=1.2 \\mathrm{fm}\\right.\\), mass of 1 nucleon \\(\\left.=1.66 \\times 10^{-27} \\mathrm{~kg}\\right)\\)</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(a) \\(2.29 \\times 10^{17} \\mathrm{~kg} / \\mathrm{m}^{3}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(b) \\(1.29 \\times 10^{17} \\mathrm{~kg} / \\mathrm{m}^{3}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(c) \\(3.24 \\times 10^{17} \\mathrm{~kg} / \\mathrm{m}^{3}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(d) \\(5.31 \\times 10^{17} \\mathrm{~kg} / \\mathrm{m}^{3}\\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [
+            {
+               "sol_html": "<p>Density of nucleus \\(=2.29 \\times 10^{17} \\mathrm{~kg} \\mathrm{~m}^{-3}\\)</p>",
+               "solved_by": "sai"
+            }
+         ],
+         "sources": {
+            "BOOKsource": [
+               "ce"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "BASICS OF NUCLEAR PHYSICS",
+         "subject": "PHYSICS",
+         "topic_name": "NUCLEAR PHYSICS",
+         "toughness": "EASY"
       }
    ]
 }
