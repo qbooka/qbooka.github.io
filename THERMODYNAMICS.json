@@ -1,980 +1,1042 @@
 {
-  "questions": [
-    {
-      "QCount": "",
-      "Tags": [
-        "Fast"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/9/2024, 5:01:34 PM",
-      "ocrQuestion": "Which of the following parameters does not characterize the thermodynamic state of matter?\n(a) Work\n(b) Pressure\n(c) Temperature\n(d) Volume",
-      "onlyq_text": "<p>Which of the following parameters does not characterize the thermodynamic state of matter?</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(a) Work</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(b) Pressure</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(c) Temperature</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(d) Volume</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [],
-        "Examsource": []
+   "questions": [
+      {
+         "QCount": "",
+         "Tags": [
+            "Fast"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/9/2024, 5:01:34 PM",
+         "ocrQuestion": "Which of the following parameters does not characterize the thermodynamic state of matter?\n(a) Work\n(b) Pressure\n(c) Temperature\n(d) Volume",
+         "onlyq_text": "<p>Which of the following parameters does not characterize the thermodynamic state of matter?</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(a) Work</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(b) Pressure</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(c) Temperature</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(d) Volume</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [],
+         "sources": {
+            "BOOKsource": [],
+            "Examsource": []
+         },
+         "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "EASY"
       },
-      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "EASY",
-      "solutions": []
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Fast"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/9/2024, 5:02:10 PM",
-      "ocrQuestion": "The zeroth law of thermodynamics\n(a) Gives a fundamental limitation of the efficiency of a heat engine\n(b) Deals with thermal equilibrium leading to the concept of temperature\n(c) Is a direct consequence of the general law of conservation of energy\n(d) Implies that the co-efficient of performance of a refrigerator can never be infinite",
-      "onlyq_text": "<p>The zeroth law of thermodynamics</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 2,
-          "lang_id": 1,
-          "option": "<p>(a) Gives a fundamental limitation of the efficiency of a heat engine</p>"
-        },
-        {
-          "is_correct": 2,
-          "lang_id": 1,
-          "option": "<p>(b) Deals with thermal equilibrium leading to the concept of temperature</p>"
-        },
-        {
-          "is_correct": 2,
-          "lang_id": 1,
-          "option": "<p>(c) Is a direct consequence of the general law of conservation of energy</p>"
-        },
-        {
-          "is_correct": 2,
-          "lang_id": 1,
-          "option": "<p>(d) Implies that the co-efficient of performance of a refrigerator can never be infinite</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [],
-        "Examsource": []
+      {
+         "QCount": "",
+         "Tags": [
+            "Fast"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/9/2024, 5:02:10 PM",
+         "ocrQuestion": "The zeroth law of thermodynamics\n(a) Gives a fundamental limitation of the efficiency of a heat engine\n(b) Deals with thermal equilibrium leading to the concept of temperature\n(c) Is a direct consequence of the general law of conservation of energy\n(d) Implies that the co-efficient of performance of a refrigerator can never be infinite",
+         "onlyq_text": "<p>The zeroth law of thermodynamics</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(a) Gives a fundamental limitation of the efficiency of a heat engine</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(b) Deals with thermal equilibrium leading to the concept of temperature</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(c) Is a direct consequence of the general law of conservation of energy</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(d) Implies that the co-efficient of performance of a refrigerator can never be infinite</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [],
+         "sources": {
+            "BOOKsource": [],
+            "Examsource": []
+         },
+         "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "EASY"
       },
-      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "EASY",
-      "solutions": []
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Revision",
-        "Conceptual",
-        "Fast",
-        "Practice"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/9/2024, 5:06:57 PM",
-      "ocrQuestion": "An ideal gas has initial volume \\( V \\), pressure \\( P \\). In doubling its volume, the minimum work will be done in which of the following process?\n(a) Isobaric process\n(b) Isothermal process\n(c) Adiabatic process\n(d) Same in all given processes.",
-      "onlyq_text": "<p>An ideal gas has initial volume \\( V \\), pressure \\( P \\). In doubling its volume, the minimum work will be done in which of the following process?</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(a) Isobaric process</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(b) Isothermal process</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(c) Adiabatic process</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(d) Same in all given processes.</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [],
-        "Examsource": []
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Conceptual",
+            "Fast",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/9/2024, 5:06:57 PM",
+         "ocrQuestion": "An ideal gas has initial volume \\( V \\), pressure \\( P \\). In doubling its volume, the minimum work will be done in which of the following process?\n(a) Isobaric process\n(b) Isothermal process\n(c) Adiabatic process\n(d) Same in all given processes.",
+         "onlyq_text": "<p>An ideal gas has initial volume \\( V \\), pressure \\( P \\). In doubling its volume, the minimum work will be done in which of the following process?</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(a) Isobaric process</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(b) Isothermal process</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(c) Adiabatic process</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(d) Same in all given processes.</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [],
+         "sources": {
+            "BOOKsource": [],
+            "Examsource": []
+         },
+         "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "EASY"
       },
-      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "EASY",
-      "solutions": []
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Revision",
-        "Fast",
-        "Practice"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/9/2024, 5:07:52 PM",
-      "ocrQuestion": "Two gases separated by an impermeable but movable partition are allowed to freely exchange energy. At equilibrium, the two sides will have the same\n(a) pressure and temperature\n(b) volume and temperature\n(c) pressure and volume\n(d) volume and energy",
-      "onlyq_text": "<p>Two gases separated by an impermeable but movable partition are allowed to freely exchange energy. At equilibrium, the two sides will have the same</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(a) pressure and temperature</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(b) volume and temperature</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(c) pressure and volume</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(d) volume and energy</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [],
-        "Examsource": []
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Fast",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/9/2024, 5:07:52 PM",
+         "ocrQuestion": "Two gases separated by an impermeable but movable partition are allowed to freely exchange energy. At equilibrium, the two sides will have the same\n(a) pressure and temperature\n(b) volume and temperature\n(c) pressure and volume\n(d) volume and energy",
+         "onlyq_text": "<p>Two gases separated by an impermeable but movable partition are allowed to freely exchange energy. At equilibrium, the two sides will have the same</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(a) pressure and temperature</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(b) volume and temperature</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(c) pressure and volume</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(d) volume and energy</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [],
+         "sources": {
+            "BOOKsource": [],
+            "Examsource": []
+         },
+         "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "EASY"
       },
-      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "EASY",
-      "solutions": []
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Revision",
-        "Conceptual",
-        "Fast",
-        "Practice",
-        "TEST"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/9/2024, 5:24:00 PM",
-      "ocrQuestion": "During free expansion of an ideal gas under adiabatic condition, the internal energy of the gas\n[JAM 2019]\n(a) Decreases\n(b) Initially decreases and then increases\n(c) Increases\n(d) Remains constant",
-      "onlyq_text": "<p>During free expansion of an ideal gas under adiabatic condition, the internal energy of the gas[JAM 2019]</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 4,
-          "lang_id": 1,
-          "option": "<p>(a) Decreases</p>"
-        },
-        {
-          "is_correct": 4,
-          "lang_id": 1,
-          "option": "<p>(b) Initially decreases and then increases</p>"
-        },
-        {
-          "is_correct": 4,
-          "lang_id": 1,
-          "option": "<p>(c) Increases</p>"
-        },
-        {
-          "is_correct": 4,
-          "lang_id": 1,
-          "option": "<p>(d) Remains constant</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [
-          "opti"
-        ],
-        "Examsource": [
-          "IIT-JAM"
-        ]
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Conceptual",
+            "Fast",
+            "Practice",
+            "TEST"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/9/2024, 5:24:00 PM",
+         "ocrQuestion": "During free expansion of an ideal gas under adiabatic condition, the internal energy of the gas\n[JAM 2019]\n(a) Decreases\n(b) Initially decreases and then increases\n(c) Increases\n(d) Remains constant",
+         "onlyq_text": "<p>During free expansion of an ideal gas under adiabatic condition, the internal energy of the gas[JAM 2019]</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(a) Decreases</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(b) Initially decreases and then increases</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(c) Increases</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(d) Remains constant</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [],
+         "sources": {
+            "BOOKsource": [
+               "opti"
+            ],
+            "Examsource": [
+               "IIT-JAM"
+            ]
+         },
+         "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "EASY"
       },
-      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "EASY",
-      "solutions": []
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Fast",
-        "InterView",
-        "Practice"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/9/2024, 5:29:02 PM",
-      "ocrQuestion": "There are two systems \\( A \\) and \\( B \\) at temperature \\( T_{1} \\) and \\( T_{2}\\left(T_{2}>T_{1}\\right) \\) respectively. They are kept in thermal equilibrium and their final temperature becomes \\( T_{f} \\). Which of the following option is correct?\n(a) \\( T_{1} < T_{f} < T_{2} \\)\n(b) \\( T_{1}>T_{f} < T_{2} \\)\n(c) \\( T_{f}=\\frac{T_{1}+T_{2}}{2} \\)\n(d) Can't say",
-      "onlyq_text": "<p>There are two systems \\( A \\) and \\( B \\) at temperature \\( T_{1} \\) and \\( T_{2}\\left(T_{2}>T_{1}\\right) \\) respectively. They are kept in thermal equilibrium and their final temperature becomes \\( T_{f} \\). Which of the following option is correct?</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(a) \\( T_{1} < T_{f} < T_{2} \\)</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(b) \\( T_{1}>T_{f} < T_{2} \\)</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(c) \\( T_{f}=\\frac{T_{1}+T_{2}}{2} \\)</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(d) Can't say</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [
-          "opti"
-        ],
-        "Examsource": []
+      {
+         "QCount": "",
+         "Tags": [
+            "Fast",
+            "InterView",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/9/2024, 5:29:02 PM",
+         "ocrQuestion": "There are two systems \\( A \\) and \\( B \\) at temperature \\( T_{1} \\) and \\( T_{2}\\left(T_{2}>T_{1}\\right) \\) respectively. They are kept in thermal equilibrium and their final temperature becomes \\( T_{f} \\). Which of the following option is correct?\n(a) \\( T_{1} < T_{f} < T_{2} \\)\n(b) \\( T_{1}>T_{f} < T_{2} \\)\n(c) \\( T_{f}=\\frac{T_{1}+T_{2}}{2} \\)\n(d) Can't say",
+         "onlyq_text": "<p>There are two systems \\( A \\) and \\( B \\) at temperature \\( T_{1} \\) and \\( T_{2}\\left(T_{2}>T_{1}\\right) \\) respectively. They are kept in thermal equilibrium and their final temperature becomes \\( T_{f} \\). Which of the following option is correct?</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(a) \\( T_{1} < T_{f} < T_{2} \\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(b) \\( T_{1}>T_{f} < T_{2} \\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(c) \\( T_{f}=\\frac{T_{1}+T_{2}}{2} \\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(d) Can't say</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [],
+         "sources": {
+            "BOOKsource": [
+               "opti"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "EASY"
       },
-      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "EASY",
-      "solutions": []
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Revision",
-        "Conceptual",
-        "MultiConcept",
-        "Practice"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/9/2024, 5:35:40 PM",
-      "ocrQuestion": "The pressure \\( P \\) of a fluid is related to its density \\( \\rho \\) by the equation of the state \\( P=a \\rho+b \\rho^{2} \\), wher \\( a \\) and \\( b \\) are constants. If the initial volume of th fluid is \\( V_{0} \\), the work done on the system when it compressed so as to increases the number den sity from an initial value of \\( \\rho_{0} \\) to \\( 2 \\rho_{0} \\) is\n(a) \\( 2 \\rho_{0} V_{0} \\)\n(b) \\( \\left(a+b \\rho_{0}\\right) \\rho_{0} V_{0} \\)\n(c) \\( \\left(\\frac{3 a}{2}+\\frac{7 \\rho_{0} b}{3}\\right) \\rho_{0} V_{0} \\)\n(d) \\( \\left(a \\ln 2+b \\rho_{0}\\right) \\rho_{0} V_{0} \\)",
-      "onlyq_text": "<p>The pressure \\( P \\) of a fluid is related to its density \\( \\rho \\) by the equation of the state \\( P=a \\rho+b \\rho^{2} \\), wher \\( a \\) and \\( b \\) are constants. If the initial volume of th fluid is \\( V_{0} \\), the work done on the system when it compressed so as to increases the number den sity from an initial value of \\( \\rho_{0} \\) to \\( 2 \\rho_{0} \\) is</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 4,
-          "lang_id": 1,
-          "option": "<p>(a) \\( 2 \\rho_{0} V_{0} \\)</p>"
-        },
-        {
-          "is_correct": 4,
-          "lang_id": 1,
-          "option": "<p>(b) \\( \\left(a+b \\rho_{0}\\right) \\rho_{0} V_{0} \\)</p>"
-        },
-        {
-          "is_correct": 4,
-          "lang_id": 1,
-          "option": "<p>(c) \\( \\left(\\frac{3 a}{2}+\\frac{7 \\rho_{0} b}{3}\\right) \\rho_{0} V_{0} \\)</p>"
-        },
-        {
-          "is_correct": 4,
-          "lang_id": 1,
-          "option": "<p>(d) \\( \\left(a \\ln 2+b \\rho_{0}\\right) \\rho_{0} V_{0} \\)</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [
-          "opti"
-        ],
-        "Examsource": []
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Conceptual",
+            "MultiConcept",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/9/2024, 5:35:40 PM",
+         "ocrQuestion": "The pressure \\( P \\) of a fluid is related to its density \\( \\rho \\) by the equation of the state \\( P=a \\rho+b \\rho^{2} \\), wher \\( a \\) and \\( b \\) are constants. If the initial volume of th fluid is \\( V_{0} \\), the work done on the system when it compressed so as to increases the number den sity from an initial value of \\( \\rho_{0} \\) to \\( 2 \\rho_{0} \\) is\n(a) \\( 2 \\rho_{0} V_{0} \\)\n(b) \\( \\left(a+b \\rho_{0}\\right) \\rho_{0} V_{0} \\)\n(c) \\( \\left(\\frac{3 a}{2}+\\frac{7 \\rho_{0} b}{3}\\right) \\rho_{0} V_{0} \\)\n(d) \\( \\left(a \\ln 2+b \\rho_{0}\\right) \\rho_{0} V_{0} \\)",
+         "onlyq_text": "<p>The pressure \\( P \\) of a fluid is related to its density \\( \\rho \\) by the equation of the state \\( P=a \\rho+b \\rho^{2} \\), wher \\( a \\) and \\( b \\) are constants. If the initial volume of th fluid is \\( V_{0} \\), the work done on the system when it compressed so as to increases the number den sity from an initial value of \\( \\rho_{0} \\) to \\( 2 \\rho_{0} \\) is</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(a) \\( 2 \\rho_{0} V_{0} \\)</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(b) \\( \\left(a+b \\rho_{0}\\right) \\rho_{0} V_{0} \\)</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(c) \\( \\left(\\frac{3 a}{2}+\\frac{7 \\rho_{0} b}{3}\\right) \\rho_{0} V_{0} \\)</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(d) \\( \\left(a \\ln 2+b \\rho_{0}\\right) \\rho_{0} V_{0} \\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [],
+         "sources": {
+            "BOOKsource": [
+               "opti"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "MEDIUM"
       },
-      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "MEDIUM",
-      "solutions": []
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Revision",
-        "Fast",
-        "Memory",
-        "Veriety",
-        "Practice"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/9/2024, 5:38:55 PM",
-      "ocrQuestion": "Work done by a gas under isothermal change from volume \\( V_{1} \\) to \\( V_{2} \\), which obeys Vander Waal's equation of state \\( \\left(P+\\frac{n^{2} a}{V^{2}}\\right)(V-n b)=n R T \\) is\n(a) \\( n R T \\operatorname{In}\\left(\\frac{V_{2}-n b}{V_{1}-n b}\\right)+a n^{2}\\left(\\frac{V_{1}-V_{2}}{V_{1} V_{2}}\\right) \\)\n(b) \\( n R T \\operatorname{In}\\left(\\frac{V_{2}-n b}{V_{1}-n b}\\right)+a n^{2}\\left(\\frac{V_{2}-V_{1}}{V_{1} V_{2}}\\right) \\)\n(c) \\( n R T \\operatorname{In}\\left(\\frac{V_{1}-n b}{V_{2}-n b}\\right)+a n^{2}\\left(\\frac{V_{2}-V_{1}}{V_{1} V_{2}}\\right) \\)\n(d) \\( n R T \\operatorname{In}\\left(\\frac{V_{1}-n b}{V_{2}-n b}\\right)+a n^{2}\\left(\\frac{V_{1}-V_{2}}{V_{1} V_{2}}\\right) \\)",
-      "onlyq_text": "<p>Work done by a gas under isothermal change from volume \\( V_{1} \\) to \\( V_{2} \\), which obeys Vander Waal's equation of state \\( \\left(P+\\frac{n^{2} a}{V^{2}}\\right)(V-n b)=n R T \\) is</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(a) \\( n R T \\operatorname{In}\\left(\\frac{V_{2}-n b}{V_{1}-n b}\\right)+a n^{2}\\left(\\frac{V_{1}-V_{2}}{V_{1} V_{2}}\\right) \\)</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(b) \\( n R T \\operatorname{In}\\left(\\frac{V_{2}-n b}{V_{1}-n b}\\right)+a n^{2}\\left(\\frac{V_{2}-V_{1}}{V_{1} V_{2}}\\right) \\)</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(c) \\( n R T \\operatorname{In}\\left(\\frac{V_{1}-n b}{V_{2}-n b}\\right)+a n^{2}\\left(\\frac{V_{2}-V_{1}}{V_{1} V_{2}}\\right) \\)</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(d) \\( n R T \\operatorname{In}\\left(\\frac{V_{1}-n b}{V_{2}-n b}\\right)+a n^{2}\\left(\\frac{V_{1}-V_{2}}{V_{1} V_{2}}\\right) \\)</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [
-          "opti"
-        ],
-        "Examsource": []
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Fast",
+            "Memory",
+            "Veriety",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/9/2024, 5:38:55 PM",
+         "ocrQuestion": "Work done by a gas under isothermal change from volume \\( V_{1} \\) to \\( V_{2} \\), which obeys Vander Waal's equation of state \\( \\left(P+\\frac{n^{2} a}{V^{2}}\\right)(V-n b)=n R T \\) is\n(a) \\( n R T \\operatorname{In}\\left(\\frac{V_{2}-n b}{V_{1}-n b}\\right)+a n^{2}\\left(\\frac{V_{1}-V_{2}}{V_{1} V_{2}}\\right) \\)\n(b) \\( n R T \\operatorname{In}\\left(\\frac{V_{2}-n b}{V_{1}-n b}\\right)+a n^{2}\\left(\\frac{V_{2}-V_{1}}{V_{1} V_{2}}\\right) \\)\n(c) \\( n R T \\operatorname{In}\\left(\\frac{V_{1}-n b}{V_{2}-n b}\\right)+a n^{2}\\left(\\frac{V_{2}-V_{1}}{V_{1} V_{2}}\\right) \\)\n(d) \\( n R T \\operatorname{In}\\left(\\frac{V_{1}-n b}{V_{2}-n b}\\right)+a n^{2}\\left(\\frac{V_{1}-V_{2}}{V_{1} V_{2}}\\right) \\)",
+         "onlyq_text": "<p>Work done by a gas under isothermal change from volume \\( V_{1} \\) to \\( V_{2} \\), which obeys Vander Waal's equation of state \\( \\left(P+\\frac{n^{2} a}{V^{2}}\\right)(V-n b)=n R T \\) is</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(a) \\( n R T \\operatorname{In}\\left(\\frac{V_{2}-n b}{V_{1}-n b}\\right)+a n^{2}\\left(\\frac{V_{1}-V_{2}}{V_{1} V_{2}}\\right) \\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(b) \\( n R T \\operatorname{In}\\left(\\frac{V_{2}-n b}{V_{1}-n b}\\right)+a n^{2}\\left(\\frac{V_{2}-V_{1}}{V_{1} V_{2}}\\right) \\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(c) \\( n R T \\operatorname{In}\\left(\\frac{V_{1}-n b}{V_{2}-n b}\\right)+a n^{2}\\left(\\frac{V_{2}-V_{1}}{V_{1} V_{2}}\\right) \\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(d) \\( n R T \\operatorname{In}\\left(\\frac{V_{1}-n b}{V_{2}-n b}\\right)+a n^{2}\\left(\\frac{V_{1}-V_{2}}{V_{1} V_{2}}\\right) \\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [],
+         "sources": {
+            "BOOKsource": [
+               "opti"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "MEDIUM"
       },
-      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "MEDIUM",
-      "solutions": []
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Fast",
-        "Veriety",
-        "Practice"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/9/2024, 5:41:37 PM",
-      "ocrQuestion": "The volume of \\( 1 \\mathrm{~m}^{3} \\) of gas is doubled at atmospheric pressure. The work done at constant pressure will be\n(a) 0\n(b) \\( 10^{5} \\mathrm{cal} \\)\n(c) \\( 10^{5} \\) joule\n(d) \\( 10^{5} \\mathrm{erg} \\)",
-      "onlyq_text": "<p>The volume of \\( 1 \\mathrm{~m}^{3} \\) of gas is doubled at atmospheric pressure. The work done at constant pressure will be</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(a) 0</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(b) \\( 10^{5} \\mathrm{cal} \\)</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(c) \\( 10^{5} \\) joule</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(d) \\( 10^{5} \\mathrm{erg} \\)</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [
-          "opti"
-        ],
-        "Examsource": []
+      {
+         "QCount": "",
+         "Tags": [
+            "Fast",
+            "Veriety",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/9/2024, 5:41:37 PM",
+         "ocrQuestion": "The volume of \\( 1 \\mathrm{~m}^{3} \\) of gas is doubled at atmospheric pressure. The work done at constant pressure will be\n(a) 0\n(b) \\( 10^{5} \\mathrm{cal} \\)\n(c) \\( 10^{5} \\) joule\n(d) \\( 10^{5} \\mathrm{erg} \\)",
+         "onlyq_text": "<p>The volume of \\( 1 \\mathrm{~m}^{3} \\) of gas is doubled at atmospheric pressure. The work done at constant pressure will be</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(a) 0</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(b) \\( 10^{5} \\mathrm{cal} \\)</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(c) \\( 10^{5} \\) joule</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(d) \\( 10^{5} \\mathrm{erg} \\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [],
+         "sources": {
+            "BOOKsource": [
+               "opti"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "EASY"
       },
-      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "EASY",
-      "solutions": []
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Revision",
-        "Fast",
-        "Memory",
-        "Veriety",
-        "Practice"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "Fraction of energy utillised for work \\( =\\frac{2}{f+2} \\)\nfraction of energy utillised for changing internal energy \\( =1-\\frac{2}{f+2} \\)",
-      "date": "3/9/2024, 5:54:10 PM",
-      "ocrQuestion": "When an ideal monoatomic gas is heated at constant pressure then what fraction of heat given is used to increase internal energy of gas?\n(a) \\( \\frac{2}{5} \\)\n(b) \\( \\frac{3}{5} \\)\n(c) \\( \\frac{5}{3} \\)\n(d) \\( \\frac{3}{2} \\)",
-      "onlyq_text": "<p>When an ideal monoatomic gas is heated at constant pressure then what fraction of heat given is used to increase internal energy of gas?</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 2,
-          "lang_id": 1,
-          "option": "<p>(a) \\( \\frac{2}{5} \\)</p>"
-        },
-        {
-          "is_correct": 2,
-          "lang_id": 1,
-          "option": "<p>(b) \\( \\frac{3}{5} \\)</p>"
-        },
-        {
-          "is_correct": 2,
-          "lang_id": 1,
-          "option": "<p>(c) \\( \\frac{5}{3} \\)</p>"
-        },
-        {
-          "is_correct": 2,
-          "lang_id": 1,
-          "option": "<p>(d) \\( \\frac{3}{2} \\)</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [
-          "opti"
-        ],
-        "Examsource": []
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Fast",
+            "Memory",
+            "Veriety",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "Fraction of energy utillised for work \\( =\\frac{2}{f+2} \\)\nfraction of energy utillised for changing internal energy \\( =1-\\frac{2}{f+2} \\)",
+         "date": "3/9/2024, 5:54:10 PM",
+         "ocrQuestion": "When an ideal monoatomic gas is heated at constant pressure then what fraction of heat given is used to increase internal energy of gas?\n(a) \\( \\frac{2}{5} \\)\n(b) \\( \\frac{3}{5} \\)\n(c) \\( \\frac{5}{3} \\)\n(d) \\( \\frac{3}{2} \\)",
+         "onlyq_text": "<p>When an ideal monoatomic gas is heated at constant pressure then what fraction of heat given is used to increase internal energy of gas?</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(a) \\( \\frac{2}{5} \\)</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(b) \\( \\frac{3}{5} \\)</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(c) \\( \\frac{5}{3} \\)</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(d) \\( \\frac{3}{2} \\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [],
+         "sources": {
+            "BOOKsource": [
+               "opti"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "EASY"
       },
-      "sub_topic_name": "BASICS & FIRST LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "EASY",
-      "solutions": []
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Conceptual",
-        "Fast",
-        "ForJEE",
-        "ForNEET",
-        "Veriety",
-        "Practice"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/9/2024, 5:59:43 PM",
-      "ocrQuestion": "For any process, the second law of thermodynamic requires that the change of entropy of the universe be\n(a) positive only\n(b) positive or zero\n(c) zero only\n(d) negative or zero",
-      "onlyq_text": "<p>For any process, the second law of thermodynamic requires that the change of entropy of the universe be</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 2,
-          "lang_id": 1,
-          "option": "<p>(a) positive only</p>"
-        },
-        {
-          "is_correct": 2,
-          "lang_id": 1,
-          "option": "<p>(b) positive or zero</p>"
-        },
-        {
-          "is_correct": 2,
-          "lang_id": 1,
-          "option": "<p>(c) zero only</p>"
-        },
-        {
-          "is_correct": 2,
-          "lang_id": 1,
-          "option": "<p>(d) negative or zero</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [
-          "opti"
-        ],
-        "Examsource": []
+      {
+         "QCount": "",
+         "Tags": [
+            "Conceptual",
+            "Fast",
+            "ForJEE",
+            "ForNEET",
+            "Veriety",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/9/2024, 5:59:43 PM",
+         "ocrQuestion": "For any process, the second law of thermodynamic requires that the change of entropy of the universe be\n(a) positive only\n(b) positive or zero\n(c) zero only\n(d) negative or zero",
+         "onlyq_text": "<p>For any process, the second law of thermodynamic requires that the change of entropy of the universe be</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(a) positive only</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(b) positive or zero</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(c) zero only</p>"
+            },
+            {
+               "is_correct": 2,
+               "lang_id": 1,
+               "option": "<p>(d) negative or zero</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [],
+         "sources": {
+            "BOOKsource": [
+               "opti"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "EASY"
       },
-      "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "EASY",
-      "solutions": []
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Fast",
-        "Veriety",
-        "Practice"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/9/2024, 6:01:07 PM",
-      "ocrQuestion": "Which of the following integral depends only on the initial and final states of a thermo dynamic system (i.e., independent of the path of transformation)?\n[JUNE 2009]\n(a) \\( \\int P d V \\)\n(b) \\( \\int d Q \\)\n(c) \\( \\int \\frac{d Q}{T} \\)\n(d) \\( \\int T^{2} d Q \\)",
-      "onlyq_text": "<p>Which of the following integral depends only on the initial and final states of a thermo dynamic system (i.e., independent of the path of transformation)?[JUNE 2009]</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(a) \\( \\int P d V \\)</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(b) \\( \\int d Q \\)</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(c) \\( \\int \\frac{d Q}{T} \\)</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(d) \\( \\int T^{2} d Q \\)</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [
-          "opti"
-        ],
-        "Examsource": [
-          "CSIR-NET"
-        ]
+      {
+         "QCount": "",
+         "Tags": [
+            "Fast",
+            "Veriety",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/9/2024, 6:01:07 PM",
+         "ocrQuestion": "Which of the following integral depends only on the initial and final states of a thermo dynamic system (i.e., independent of the path of transformation)?\n[JUNE 2009]\n(a) \\( \\int P d V \\)\n(b) \\( \\int d Q \\)\n(c) \\( \\int \\frac{d Q}{T} \\)\n(d) \\( \\int T^{2} d Q \\)",
+         "onlyq_text": "<p>Which of the following integral depends only on the initial and final states of a thermo dynamic system (i.e., independent of the path of transformation)?[JUNE 2009]</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(a) \\( \\int P d V \\)</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(b) \\( \\int d Q \\)</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(c) \\( \\int \\frac{d Q}{T} \\)</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(d) \\( \\int T^{2} d Q \\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [],
+         "sources": {
+            "BOOKsource": [
+               "opti"
+            ],
+            "Examsource": [
+               "CSIR-NET"
+            ]
+         },
+         "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "EASY"
       },
-      "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "EASY",
-      "solutions": []
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Fast",
-        "Veriety",
-        "Practice"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/9/2024, 6:06:49 PM",
-      "ocrQuestion": "At very low temperatures the heat capacity of crystals is equal to \\( C=a T^{3} \\), where ' \\( \\mathrm{a} \\) ' is a constant . The entropy of a crystal as a function of temperature in this temperature interval is\n(a) \\( 3 a T+ \\) constant\n(b) \\( 3 a T^{3} \\)\n(c) \\( \\frac{a T^{3}}{3}+ \\) constant\n(d) \\( \\frac{a T^{3}}{3} \\)",
-      "onlyq_text": "<p>At very low temperatures the heat capacity of crystals is equal to \\( C=a T^{3} \\), where ' \\( \\mathrm{a} \\) ' is a constant . The entropy of a crystal as a function of temperature in this temperature interval is</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(a) \\( 3 a T+ \\) constant</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(b) \\( 3 a T^{3} \\)</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(c) \\( \\frac{a T^{3}}{3}+ \\) constant</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(d) \\( \\frac{a T^{3}}{3} \\)</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [
-          "opti"
-        ],
-        "Examsource": []
+      {
+         "QCount": "",
+         "Tags": [
+            "Fast",
+            "Veriety",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/9/2024, 6:06:49 PM",
+         "ocrQuestion": "At very low temperatures the heat capacity of crystals is equal to \\( C=a T^{3} \\), where ' \\( \\mathrm{a} \\) ' is a constant . The entropy of a crystal as a function of temperature in this temperature interval is\n(a) \\( 3 a T+ \\) constant\n(b) \\( 3 a T^{3} \\)\n(c) \\( \\frac{a T^{3}}{3}+ \\) constant\n(d) \\( \\frac{a T^{3}}{3} \\)",
+         "onlyq_text": "<p>At very low temperatures the heat capacity of crystals is equal to \\( C=a T^{3} \\), where ' \\( \\mathrm{a} \\) ' is a constant . The entropy of a crystal as a function of temperature in this temperature interval is</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(a) \\( 3 a T+ \\) constant</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(b) \\( 3 a T^{3} \\)</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(c) \\( \\frac{a T^{3}}{3}+ \\) constant</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(d) \\( \\frac{a T^{3}}{3} \\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [
+            {
+               "sol_html": "\\( \\begin{array}{l}C=\\frac{d Q}{d T} \\quad(\\therefore C=\\text { Heat Capacity) } \\\\ \\Rightarrow d Q=c d T \\\\ S=\\int \\frac{d Q}{T}=\\int c \\frac{d T}{T} \\\\ =a \\int T^{2} d T \\\\ S=\\frac{a T^{3}}{3}+c \\\\\\end{array} \\)",
+               "solved_by": "sai"
+            }
+         ],
+         "sources": {
+            "BOOKsource": [
+               "opti"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "EASY"
       },
-      "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "EASY",
-      "solutions": [
-        {
-          "sol_html": "\\( \\begin{array}{l}C=\\frac{d Q}{d T} \\quad(\\therefore C=\\text { Heat Capacity) } \\\\ \\Rightarrow d Q=c d T \\\\ S=\\int \\frac{d Q}{T}=\\int c \\frac{d T}{T} \\\\ =a \\int T^{2} d T \\\\ S=\\frac{a T^{3}}{3}+c \\\\\\end{array} \\)",
-          "solved_by": "sai"
-        }
-      ]
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Revision",
-        "Conceptual",
-        "Fast",
-        "Veriety",
-        "Practice"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/9/2024, 6:14:23 PM",
-      "ocrQuestion": "The value of entropy at absolute zero of temperature would be\n[JAM 2005]\n(a) Zero for all the materials.\n(b) Finite for all the materials.\n(c) Zero for some materials and non-zero for others.\n(d) Unpredictable for any material.",
-      "onlyq_text": "<p>The value of entropy at absolute zero of temperature would be[JAM 2005]</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(a) Zero for all the materials.</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(b) Finite for all the materials.</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(c) Zero for some materials and non-zero for others.</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(d) Unpredictable for any material.</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [
-          "opti"
-        ],
-        "Examsource": [
-          "IIT-JAM"
-        ]
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Conceptual",
+            "Fast",
+            "Veriety",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/9/2024, 6:14:23 PM",
+         "ocrQuestion": "The value of entropy at absolute zero of temperature would be\n[JAM 2005]\n(a) Zero for all the materials.\n(b) Finite for all the materials.\n(c) Zero for some materials and non-zero for others.\n(d) Unpredictable for any material.",
+         "onlyq_text": "<p>The value of entropy at absolute zero of temperature would be[JAM 2005]</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(a) Zero for all the materials.</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(b) Finite for all the materials.</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(c) Zero for some materials and non-zero for others.</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(d) Unpredictable for any material.</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [
+            {
+               "sol_html": "Sol. According to the third law of thermodynamics - \\\"The entropy of any system vanishes at the absolute zero temperature\\\"\\[\\lim _{\\mathrm{T} \\rightarrow 0} \\mathrm{~S}=0\\]And according to Nernst's heat theorem: \\\"Any entropy changes in an isotherm at reversible process approach zero as the temperature approaches zero\\\".\\[\\lim _{\\mathrm{T} \\rightarrow 0} \\Delta \\mathrm{S}=0\\]For an example, in crystal of \\( \\mathrm{CO} \\) has finite entropy at absolute zero temperature.",
+               "solved_by": "sai"
+            }
+         ],
+         "sources": {
+            "BOOKsource": [
+               "opti"
+            ],
+            "Examsource": [
+               "IIT-JAM"
+            ]
+         },
+         "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "EASY"
       },
-      "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "EASY",
-      "solutions": [
-        {
-          "sol_html": "Sol. According to the third law of thermodynamics - \\\"The entropy of any system vanishes at the absolute zero temperature\\\"\\[\\lim _{\\mathrm{T} \\rightarrow 0} \\mathrm{~S}=0\\]And according to Nernst's heat theorem: \\\"Any entropy changes in an isotherm at reversible process approach zero as the temperature approaches zero\\\".\\[\\lim _{\\mathrm{T} \\rightarrow 0} \\Delta \\mathrm{S}=0\\]For an example, in crystal of \\( \\mathrm{CO} \\) has finite entropy at absolute zero temperature.",
-          "solved_by": "sai"
-        }
-      ]
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Revision",
-        "Fast",
-        "Veriety",
-        "Practice"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/10/2024, 8:13:15 AM",
-      "ocrQuestion": "Experimental measurment of heat capacity per mole of aluminium at low temperature shows that the data can be fitted to the formula, \\( C_{V}=a T+b T^{3} \\) where \\( a=0.00135 J^{-2} \\mathrm{~mole}^{-1} \\), \\( b=2.48 \\times 10^{-5} \\mathrm{JK}^{-4} \\mathrm{~mole}^{-1} \\) and \\( T \\) is the temperature in Kelvin. The entropy of a mole of aluminium at such temperature is given by the formula is\n[JAM 2007]\n(a) \\( a T+\\frac{b}{3} T^{3}+c \\), where \\( c>0 \\) is a constant.\n(b) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3}+c \\), where \\( c>0 \\) is a constant\n(c) \\( a T+\\frac{b}{3} T^{3} \\)\n(d) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3} \\)",
-      "onlyq_text": "<p>Experimental measurment of heat capacity per mole of aluminium at low temperature shows that the data can be fitted to the formula, \\( C_{V}=a T+b T^{3} \\) where \\( a=0.00135 J^{-2} \\mathrm{~mole}^{-1} \\), \\( b=2.48 \\times 10^{-5} \\mathrm{JK}^{-4} \\mathrm{~mole}^{-1} \\) and \\( T \\) is the temperature in Kelvin. The entropy of a mole of aluminium at such temperature is given by the formula is[JAM 2007]</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(a) \\( a T+\\frac{b}{3} T^{3}+c \\), where \\( c>0 \\) is a constant.</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(b) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3}+c \\), where \\( c>0 \\) is a constant</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(c) \\( a T+\\frac{b}{3} T^{3} \\)</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(d) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3} \\)</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [
-          "opti"
-        ],
-        "Examsource": [
-          "IIT-JAM"
-        ]
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Fast",
+            "Veriety",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/10/2024, 8:13:15 AM",
+         "ocrQuestion": "Experimental measurment of heat capacity per mole of aluminium at low temperature shows that the data can be fitted to the formula, \\( C_{V}=a T+b T^{3} \\) where \\( a=0.00135 J^{-2} \\mathrm{~mole}^{-1} \\), \\( b=2.48 \\times 10^{-5} \\mathrm{JK}^{-4} \\mathrm{~mole}^{-1} \\) and \\( T \\) is the temperature in Kelvin. The entropy of a mole of aluminium at such temperature is given by the formula is\n[JAM 2007]\n(a) \\( a T+\\frac{b}{3} T^{3}+c \\), where \\( c>0 \\) is a constant.\n(b) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3}+c \\), where \\( c>0 \\) is a constant\n(c) \\( a T+\\frac{b}{3} T^{3} \\)\n(d) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3} \\)",
+         "onlyq_text": "<p>Experimental measurment of heat capacity per mole of aluminium at low temperature shows that the data can be fitted to the formula, \\( C_{V}=a T+b T^{3} \\) where \\( a=0.00135 J^{-2} \\mathrm{~mole}^{-1} \\), \\( b=2.48 \\times 10^{-5} \\mathrm{JK}^{-4} \\mathrm{~mole}^{-1} \\) and \\( T \\) is the temperature in Kelvin. The entropy of a mole of aluminium at such temperature is given by the formula is[JAM 2007]</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(a) \\( a T+\\frac{b}{3} T^{3}+c \\), where \\( c>0 \\) is a constant.</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(b) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3}+c \\), where \\( c>0 \\) is a constant</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(c) \\( a T+\\frac{b}{3} T^{3} \\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(d) \\( \\frac{a T}{2}+\\frac{b}{4} T^{3} \\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [
+            {
+               "sol_html": "Change in entropy \\( \\quad \\Delta \\mathrm{s}=\\int \\frac{\\mathrm{dQ}}{\\mathrm{T}}=\\int \\frac{\\mathrm{C}_{\\mathrm{V}} \\mathrm{dT}}{\\mathrm{T}}=\\int\\left(\\mathrm{a}+\\mathrm{bT}^{2}\\right) \\mathrm{dT}=\\mathrm{aT}+\\frac{\\mathrm{b}}{3} \\mathrm{~T}^{3}+\\mathrm{C} \\)",
+               "solved_by": "sai"
+            }
+         ],
+         "sources": {
+            "BOOKsource": [
+               "opti"
+            ],
+            "Examsource": [
+               "IIT-JAM"
+            ]
+         },
+         "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "EASY"
       },
-      "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "EASY",
-      "solutions": [
-        {
-          "sol_html": "Change in entropy \\( \\quad \\Delta \\mathrm{s}=\\int \\frac{\\mathrm{dQ}}{\\mathrm{T}}=\\int \\frac{\\mathrm{C}_{\\mathrm{V}} \\mathrm{dT}}{\\mathrm{T}}=\\int\\left(\\mathrm{a}+\\mathrm{bT}^{2}\\right) \\mathrm{dT}=\\mathrm{aT}+\\frac{\\mathrm{b}}{3} \\mathrm{~T}^{3}+\\mathrm{C} \\)",
-          "solved_by": "sai"
-        }
-      ]
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Fast",
-        "Practice"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/10/2024, 8:29:23 AM",
-      "ocrQuestion": "The specific heat at constant volume of the electrons in a metal \\( C_{V}=\\alpha \\) T where ' \\( T \\) ' is the temperature and \\( \\alpha \\) is a constant . The specific entropy is given by\n[IISc 2012]\n(a) \\( k_{B} \\)\n(b) \\( \\sqrt{k_{B} \\alpha T} \\)\n(c) \\( \\alpha T \\)\n(d) \\( \\frac{\\alpha^{2} T^{2}}{k_{B}} \\)",
-      "onlyq_text": "<p>The specific heat at constant volume of the electrons in a metal \\( C_{V}=\\alpha \\) T where ' \\( T \\) ' is the temperature and \\( \\alpha \\) is a constant . The specific entropy is given by[IISc 2012]</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(a) \\( k_{B} \\)</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(b) \\( \\sqrt{k_{B} \\alpha T} \\)</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(c) \\( \\alpha T \\)</p>"
-        },
-        {
-          "is_correct": 3,
-          "lang_id": 1,
-          "option": "<p>(d) \\( \\frac{\\alpha^{2} T^{2}}{k_{B}} \\)</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [
-          "opti"
-        ],
-        "Examsource": [
-          "IISC"
-        ]
+      {
+         "QCount": "",
+         "Tags": [
+            "Fast",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/10/2024, 8:29:23 AM",
+         "ocrQuestion": "The specific heat at constant volume of the electrons in a metal \\( C_{V}=\\alpha \\) T where ' \\( T \\) ' is the temperature and \\( \\alpha \\) is a constant . The specific entropy is given by\n[IISc 2012]\n(a) \\( k_{B} \\)\n(b) \\( \\sqrt{k_{B} \\alpha T} \\)\n(c) \\( \\alpha T \\)\n(d) \\( \\frac{\\alpha^{2} T^{2}}{k_{B}} \\)",
+         "onlyq_text": "<p>The specific heat at constant volume of the electrons in a metal \\( C_{V}=\\alpha \\) T where ' \\( T \\) ' is the temperature and \\( \\alpha \\) is a constant . The specific entropy is given by[IISc 2012]</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(a) \\( k_{B} \\)</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(b) \\( \\sqrt{k_{B} \\alpha T} \\)</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(c) \\( \\alpha T \\)</p>"
+            },
+            {
+               "is_correct": 3,
+               "lang_id": 1,
+               "option": "<p>(d) \\( \\frac{\\alpha^{2} T^{2}}{k_{B}} \\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [
+            {
+               "sol_html": "Given \\( \\quad C_{v}=\\alpha T \\)we know, \\( \\quad C_{v}=\\frac{1}{n}\\left(\\frac{\\partial Q}{\\partial T}\\right)_{v} \\) and \\( d Q=T d s \\)\\[\\begin{array}{l}\\Rightarrow C_{v}=\\frac{1}{n} T\\left(\\frac{\\partial S}{\\partial T}\\right)_{v} \\\\\\Rightarrow \\alpha T=\\frac{T}{n}\\left(\\frac{\\partial S}{\\partial T}\\right)_{v}\\end{array}\\]for specific entropy\\[\\begin{aligned}\\int d s & =\\int \\alpha d T \\\\s & =\\alpha T\\end{aligned}\\]",
+               "solved_by": "sai"
+            }
+         ],
+         "sources": {
+            "BOOKsource": [
+               "opti"
+            ],
+            "Examsource": [
+               "IISC"
+            ]
+         },
+         "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "EASY"
       },
-      "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "EASY",
-      "solutions": [
-        {
-          "sol_html": "Given \\( \\quad C_{v}=\\alpha T \\)we know, \\( \\quad C_{v}=\\frac{1}{n}\\left(\\frac{\\partial Q}{\\partial T}\\right)_{v} \\) and \\( d Q=T d s \\)\\[\\begin{array}{l}\\Rightarrow C_{v}=\\frac{1}{n} T\\left(\\frac{\\partial S}{\\partial T}\\right)_{v} \\\\\\Rightarrow \\alpha T=\\frac{T}{n}\\left(\\frac{\\partial S}{\\partial T}\\right)_{v}\\end{array}\\]for specific entropy\\[\\begin{aligned}\\int d s & =\\int \\alpha d T \\\\s & =\\alpha T\\end{aligned}\\]",
-          "solved_by": "sai"
-        }
-      ]
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Fast",
-        "Practice"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/10/2024, 2:48:46 PM",
-      "ocrQuestion": "In a cyrogenic experiment, heat is supplied to a sample at a constant rate of 0.01 watts. The entropy of the sample increases with time as shown in the table as\n\\begin{tabular}{lllllll} \nTime & \\( : \\) & 400 & 600 & 800 & 1000 & \\( (\\mathrm{see}) \\) \\\\\nEntropy & \\( : \\) & 3.00 & 3.20 & 3.40 & 3.60 & \\( (\\mathrm{~J} / \\mathrm{K}) \\)\n\\end{tabular}\n\nThe temperature of the sample is\n(a) \\( 10 \\mathrm{~K} \\)\n(b) \\( 12 \\mathrm{~K} \\)\n(c) \\( 8 \\mathrm{~K} \\)\n(d) \\( 9 \\mathrm{~K} \\)",
-      "onlyq_text": "<p>In a cyrogenic experiment, heat is supplied to a sample at a constant rate of 0.01 watts. The entropy of the sample increases with time as shown in the table as\\begin{array}{lllllll} Time &  :  & 400 & 600 & 800 & 1000 &  (\\mathrm{see})  \\\\Entropy &  :  & 3.00 & 3.20 & 3.40 & 3.60 &  (\\mathrm{~J} / \\mathrm{K}) \\end{array}The temperature of the sample is</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(a) \\( 10 \\mathrm{~K} \\)</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(b) \\( 12 \\mathrm{~K} \\)</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(c) \\( 8 \\mathrm{~K} \\)</p>"
-        },
-        {
-          "is_correct": 1,
-          "lang_id": 1,
-          "option": "<p>(d) \\( 9 \\mathrm{~K} \\)</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [
-          "opti"
-        ],
-        "Examsource": []
+      {
+         "QCount": "",
+         "Tags": [
+            "Fast",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/10/2024, 2:48:46 PM",
+         "ocrQuestion": "In a cyrogenic experiment, heat is supplied to a sample at a constant rate of 0.01 watts. The entropy of the sample increases with time as shown in the table as\n\\begin{tabular}{lllllll} \nTime & \\( : \\) & 400 & 600 & 800 & 1000 & \\( (\\mathrm{see}) \\) \\\\\nEntropy & \\( : \\) & 3.00 & 3.20 & 3.40 & 3.60 & \\( (\\mathrm{~J} / \\mathrm{K}) \\)\n\\end{tabular}\n\nThe temperature of the sample is\n(a) \\( 10 \\mathrm{~K} \\)\n(b) \\( 12 \\mathrm{~K} \\)\n(c) \\( 8 \\mathrm{~K} \\)\n(d) \\( 9 \\mathrm{~K} \\)",
+         "onlyq_text": "<p>In a cyrogenic experiment, heat is supplied to a sample at a constant rate of 0.01 watts. The entropy of the sample increases with time as shown in the table as\\begin{array}{lllllll} Time &  :  & 400 & 600 & 800 & 1000 &  (\\mathrm{see})  \\\\Entropy &  :  & 3.00 & 3.20 & 3.40 & 3.60 &  (\\mathrm{~J} / \\mathrm{K}) \\end{array}The temperature of the sample is</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(a) \\( 10 \\mathrm{~K} \\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(b) \\( 12 \\mathrm{~K} \\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(c) \\( 8 \\mathrm{~K} \\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(d) \\( 9 \\mathrm{~K} \\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [
+            {
+               "sol_html": "Power \\( (P)=0.01 \\) wattsfrom the dato given\\[\\frac{\\Delta s}{\\Delta t}=\\frac{0.20}{200} \\frac{\\mathrm{J}}{\\mathrm{ksec}}\\]Now \\( P=\\frac{d Q}{d t}=T \\frac{d s}{d t} \\)\\[\\begin{aligned}\\Rightarrow 0.01 & =T \\times \\frac{0.20}{200} \\\\\\Rightarrow \\quad T & =200 \\times \\frac{0.01}{0.20} \\mathrm{~K} \\\\\\Rightarrow T & =10 \\mathrm{~K}\\end{aligned}\\]",
+               "solved_by": "sai"
+            }
+         ],
+         "sources": {
+            "BOOKsource": [
+               "opti"
+            ],
+            "Examsource": []
+         },
+         "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "EASY"
       },
-      "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "EASY",
-      "solutions": [
-        {
-          "sol_html": "Power \\( (P)=0.01 \\) wattsfrom the dato given\\[\\frac{\\Delta s}{\\Delta t}=\\frac{0.20}{200} \\frac{\\mathrm{J}}{\\mathrm{ksec}}\\]Now \\( P=\\frac{d Q}{d t}=T \\frac{d s}{d t} \\)\\[\\begin{aligned}\\Rightarrow 0.01 & =T \\times \\frac{0.20}{200} \\\\\\Rightarrow \\quad T & =200 \\times \\frac{0.01}{0.20} \\mathrm{~K} \\\\\\Rightarrow T & =10 \\mathrm{~K}\\end{aligned}\\]",
-          "solved_by": "sai"
-        }
-      ]
-    },
-    {
-      "QCount": "",
-      "Tags": [
-        "Revision",
-        "Veriety",
-        "Practice"
-      ],
-      "added_By": "sai",
-      "branch": "Thermodynamics & Statistical Mechanics",
-      "concept_html": "",
-      "date": "3/11/2024, 10:25:12 AM",
-      "ocrQuestion": "The molar specific heat of a gas as given from the kinetic theory is \\( \\frac{5}{2} R \\). If it is not specified whether it is \\( C_{p} \\) or \\( C_{v} \\), one could conclude that the molecules of the gas\n(A) are definitely monatomic\n(B) are definitely rigid diatomic\n(C) are definitely non-rigid diatomic\n(D) can be monatomic or rigid diatomic",
-      "onlyq_text": "<p>The molar specific heat of a gas as given from the kinetic theory is \\( \\frac{5}{2} R \\). If it is not specified whether it is \\( C_{p} \\) or \\( C_{v} \\), one could conclude that the molecules of the gas</p>",
-      "option_hindi": [],
-      "options": [
-        {
-          "is_correct": 4,
-          "lang_id": 1,
-          "option": "<p>(A) are definitely monatomic</p>"
-        },
-        {
-          "is_correct": 4,
-          "lang_id": 1,
-          "option": "<p>(B) are definitely rigid diatomic</p>"
-        },
-        {
-          "is_correct": 4,
-          "lang_id": 1,
-          "option": "<p>(C) are definitely non-rigid diatomic</p>"
-        },
-        {
-          "is_correct": 4,
-          "lang_id": 1,
-          "option": "<p>(D) can be monatomic or rigid diatomic</p>"
-        }
-      ],
-      "optype": 1,
-      "q_text_hindi": "",
-      "qid": "",
-      "sol_text": "",
-      "sources": {
-        "BOOKsource": [],
-        "Examsource": [
-          "IIT-JAM"
-        ]
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Veriety",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "3/11/2024, 10:25:12 AM",
+         "ocrQuestion": "The molar specific heat of a gas as given from the kinetic theory is \\( \\frac{5}{2} R \\). If it is not specified whether it is \\( C_{p} \\) or \\( C_{v} \\), one could conclude that the molecules of the gas\n(A) are definitely monatomic\n(B) are definitely rigid diatomic\n(C) are definitely non-rigid diatomic\n(D) can be monatomic or rigid diatomic",
+         "onlyq_text": "<p>The molar specific heat of a gas as given from the kinetic theory is \\( \\frac{5}{2} R \\). If it is not specified whether it is \\( C_{p} \\) or \\( C_{v} \\), one could conclude that the molecules of the gas</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(A) are definitely monatomic</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(B) are definitely rigid diatomic</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(C) are definitely non-rigid diatomic</p>"
+            },
+            {
+               "is_correct": 4,
+               "lang_id": 1,
+               "option": "<p>(D) can be monatomic or rigid diatomic</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [
+            {
+               "sol_html": "Sol. We know, the specific heat at constant volume of a gas is given by\\[\\mathrm{C}_{\\mathrm{V}}=\\left(\\frac{\\mathrm{d}}{\\mathrm{dT}} \\overrightarrow{\\mathrm{u}}\\right)_{\\mathrm{V}}\\]and \\( \\mathrm{C}_{\\mathrm{P}}-\\mathrm{C}_{\\mathrm{V}}=\\mathrm{R} \\)where, \\( \\overrightarrow{\\mathrm{u}} \\) is the average energy.According to the kinetic theory of gas,\\( \\overrightarrow{\\mathrm{u}}=\\frac{3}{2} \\mathrm{RT} \\) for monoatomic gas.\\( \\overrightarrow{\\mathrm{u}}=\\frac{6}{2} \\mathrm{RT}=3 \\mathrm{RT} \\)\\( \\overrightarrow{\\mathrm{u}}=\\frac{5}{2} \\mathrm{RT} \\)for non rigid diatomic gas.for rigid diatomic gas.For monoatomic,\\[\\mathrm{C}_{\\mathrm{V}}=\\frac{3}{2} \\mathrm{R} \\text { and } \\mathrm{C}_{\\mathrm{P}}=\\frac{5}{2} \\mathrm{R}\\]For rigid diatomic,\\[\\mathrm{C}_{\\mathrm{V}}=\\frac{5}{2} \\mathrm{R} \\text { and } \\mathrm{C}_{\\mathrm{P}}=\\frac{7}{2} \\mathrm{R}\\]",
+               "solved_by": "sai"
+            }
+         ],
+         "sources": {
+            "BOOKsource": [],
+            "Examsource": [
+               "IIT-JAM"
+            ]
+         },
+         "sub_topic_name": "THERMODYNAMICS POTENTIALS AND MEXWELL\u2019S RELATION",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "MEDIUM"
       },
-      "sub_topic_name": "THERMODYNAMICS POTENTIALS AND MEXWELL\u2019S RELATION",
-      "subject": "PHYSICS",
-      "topic_name": "THERMODYNAMICS",
-      "toughness": "MEDIUM",
-      "solutions": [
-        {
-          "sol_html": "Sol. We know, the specific heat at constant volume of a gas is given by\\[\\mathrm{C}_{\\mathrm{V}}=\\left(\\frac{\\mathrm{d}}{\\mathrm{dT}} \\overrightarrow{\\mathrm{u}}\\right)_{\\mathrm{V}}\\]and \\( \\mathrm{C}_{\\mathrm{P}}-\\mathrm{C}_{\\mathrm{V}}=\\mathrm{R} \\)where, \\( \\overrightarrow{\\mathrm{u}} \\) is the average energy.According to the kinetic theory of gas,\\( \\overrightarrow{\\mathrm{u}}=\\frac{3}{2} \\mathrm{RT} \\) for monoatomic gas.\\( \\overrightarrow{\\mathrm{u}}=\\frac{6}{2} \\mathrm{RT}=3 \\mathrm{RT} \\)\\( \\overrightarrow{\\mathrm{u}}=\\frac{5}{2} \\mathrm{RT} \\)for non rigid diatomic gas.for rigid diatomic gas.For monoatomic,\\[\\mathrm{C}_{\\mathrm{V}}=\\frac{3}{2} \\mathrm{R} \\text { and } \\mathrm{C}_{\\mathrm{P}}=\\frac{5}{2} \\mathrm{R}\\]For rigid diatomic,\\[\\mathrm{C}_{\\mathrm{V}}=\\frac{5}{2} \\mathrm{R} \\text { and } \\mathrm{C}_{\\mathrm{P}}=\\frac{7}{2} \\mathrm{R}\\]",
-          "solved_by": "sai"
-        }
-      ]
-    }
-  ]
+      {
+         "QCount": "",
+         "Tags": [
+            "Revision",
+            "Conceptual",
+            "InterView",
+            "MultiConcept",
+            "Mathematical",
+            "Practice"
+         ],
+         "added_By": "sai",
+         "branch": "Thermodynamics & Statistical Mechanics",
+         "concept_html": "",
+         "date": "5/14/2024, 4:57:33 PM",
+         "ocrQuestion": "Consider two identical block of constant specific heat capacity, one of which is at temperature \\(T_{1}\\) and the other at \\(\\mathrm{T}_{2}\\). A reversible engine transfers heat from the hotter block to the colder until they reach the same temperature which is &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\n(a) \\(\\sqrt{\\mathrm{T}_{1} \\mathrm{~T}_{2}}\\)\n(b) \\(\\frac{T_{1}+T_{2}}{2}\\)\n(c) \\(\\frac{T_{1} T_{2}}{T_{1}+T_{2}}\\)\n(d) \\(\\mathrm{T}_{2}\\)",
+         "onlyq_text": "<p>Consider two identical block of constant specific heat capacity, one of which is at temperature \\(T_{1}\\) and the other at \\(\\mathrm{T}_{2}\\). A reversible engine transfers heat from the hotter block to the colder until they reach the same temperature which is &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>",
+         "option_hindi": [],
+         "options": [
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(a) \\(\\sqrt{\\mathrm{T}_{1} \\mathrm{~T}_{2}}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(b) \\(\\frac{T_{1}+T_{2}}{2}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(c) \\(\\frac{T_{1} T_{2}}{T_{1}+T_{2}}\\)</p>"
+            },
+            {
+               "is_correct": 1,
+               "lang_id": 1,
+               "option": "<p>(d) \\(\\mathrm{T}_{2}\\)</p>"
+            }
+         ],
+         "optype": 1,
+         "q_text_hindi": "",
+         "qid": "",
+         "sol_text": "",
+         "solutions": [
+            {
+               "sol_html": "<p><img class=\"image_resized\" style=\"aspect-ratio:732/779;width:192px;\" src=\"data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiID8+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgd2lkdGg9IjczMiIgaGVpZ2h0PSI3NzkiPgoJPHBhdGggZD0iTTU4NS4yNjEgNDA4LjIyTDU3Ni40NzMgNDEwLjczMkw1NzYuNzU5IDQxMC4wNzhDNTc5LjE0MyA0MDQuNzMyIDU4NS4xNzEgNDAwLjI0MSA1OTAuNTMxIDM5OC4yMjdMNTkwLjExMyA0MDUuNjJDNTg5LjAyNCA0MDYuNTk3IDU4OS42MTEgNDA5LjAxMyA1ODcuNTM0IDQwOC42MTVMNTg2LjUxNCA0MDguMjIyTDU4NS4zMjYgNDA3Ljk2MUw1ODUuMjYxIDQwOC4yMloiLz4KCTxwYXRoIGQ9Ik00MDAuOTYxIDcxNy44NjZMNDAxLjA5NCA3MjUuNzgzTDQwMS4xMzQgNzI4LjAxNUM0MDIuODg4IDcyOS42MzYgNDAyLjQzNiA3MzAuOTI5IDQwMi45NjEgNzMzLjE1Mkw0MDMuNjA5IDczMi41ODFMNDA0LjU2MSA3MzMuMjA5QzQwNS4wODMgNzMzLjAzNCA0MDUuNDk5IDczMi44NjUgNDA1Ljk5NCA3MzIuNjA5QzQwNS44OTMgNzM1LjA4MiA0MDYuMzcyIDc0NiA0MDUuMDM3IDc0Ny40MjlDNDAzLjYzOSA3NDcuNzQ4IDQwMS40MTEgNzQ4LjEzNyA0MDAuMTI4IDc0Ny4zN0MzOTkuNjI4IDc0NS4zMzMgNDAwLjU0OSA3NDIuOTY0IDQwMC42MTYgNzQwLjg0MkM0MDAuODU3IDczMy4xOTUgNDAwLjQxNiA3MjUuNDk5IDQwMC45NjEgNzE3Ljg2NloiLz4KCTxwYXRoIGQ9Ik01ODUuMjYxIDQwOC4yMkw1ODUuMzI2IDQwNy45NjFMNTg2LjUxNCA0MDguMjIyTDU4Ny41MzQgNDA4LjYxNUM1ODkuNjExIDQwOS4wMTMgNTg5LjAyNCA0MDYuNTk3IDU5MC4xMTMgNDA1LjYyTDU5MC40MTUgNDMwLjc1MkM1ODkuMjAyIDQzMS42NTkgNTg3LjQ1NSA0MzEuNjggNTg1Ljk3MSA0MzEuNDQ3TDU4NS4xODEgNDMxLjNDNTg0LjQ2MSA0MjkuNjkzIDU4NC44NjggNDI2Ljk5MSA1ODQuOTE0IDQyNS4xOTlDNTg1LjA1OCA0MTkuNjM5IDU4NS42NSA0MTMuNzQ4IDU4NS4yNjEgNDA4LjIyWiIvPgoJPHBhdGggZD0iTTYxMC4yMTIgMzg4LjY2N0M2MTIuNjU5IDM4OC4wOTkgNjE0LjU0MiAzODkuMDg4IDYxNi45NDEgMzg5LjE4MkM2MjAuNjU0IDM4OS4zMjcgNjI0LjM2OSAzODkuMzAxIDYyOC4wNzIgMzg5LjAwNEM2MjguMDk2IDM5MC41MzggNjI4LjI4NyAzOTIuODk2IDYyNy43NjEgMzk0LjMxNkM2MjcuNDEzIDM5NS4yNTcgNjI2LjkxMyAzOTUuMzE5IDYyNi4wNyAzOTUuNzE0TDYyNS4zMDcgMzk1Ljg1NUM2MjEuODQ2IDM5Ni40MTcgNjE3Ljg3NCAzOTYuMTY4IDYxNC4zNCAzOTYuMjA3QzYxMi40NjggMzk2LjIyOCA2MTAuMDk4IDM5Ni41MzggNjA4LjUwNyAzOTUuNDA1QzYwNy45MzMgMzkzLjk5NSA2MDcuNzAyIDM5Mi4yOCA2MDcuOTc4IDM5MC43NjJDNjA4LjIwMiAzODkuNTMxIDYwOS4yNDQgMzg5LjIwOSA2MTAuMjEyIDM4OC42NjdaIi8+Cgk8cGF0aCBkPSJNMjIwLjU0OSAyNDMuNTZDMjIxLjYyNCAyNDMuMzU2IDIyMi41NTQgMjQzLjIwNiAyMjMuNDk3IDI0My43NUMyMjQuMDMyIDI0Ni44MDYgMjIzLjg2NSAyNDkuOTM3IDIyMy44NjggMjUzLjAyOEwyMjMuOTk5IDI2NS4yNjlDMjI0LjAzMiAyNjcuODg2IDIyNC43NjYgMjczLjI3MSAyMjMuNzUxIDI3NS40ODhDMjIyLjM2MyAyNzUuODUyIDIyMS4xMzcgMjc1LjU0OCAyMTkuNzUyIDI3NS4zMDZDMjE4Ljg1MyAyNzMuOTM5IDIxOS4yMDkgMjcyLjM0OSAyMTkuMjMxIDI3MC43MzNMMjE5LjA5OSAyNTIuMTg1QzIxOC41OSAyNTIuMDc3IDIxNy42NiAyNTIuNzY3IDIxNy4xNTcgMjUzLjAyN0MyMTUuNjUzIDI1My44MDMgMjEzLjc4MyAyNTQuNjc3IDIxMi4wODMgMjU0LjIyNEMyMTEuNjU5IDI1My4xNDkgMjExLjc3NSAyNTIuODI3IDIxMS45NDUgMjUxLjcxM0MyMTMuMjU1IDI0OS43NTYgMjE0Ljg3IDI0OC42MDIgMjE2LjU4OSAyNDcuMDU0QzIxNy45MjUgMjQ1Ljg1MSAyMTkuMDM1IDI0NC41NjQgMjIwLjU0OSAyNDMuNTZaIi8+Cgk8cGF0aCBkPSJNNDY3LjQxNCAzNzUuMzM3QzQ3MS40MzcgMzc0LjkwNSA0NzUuNTkxIDM3NS4xMyA0NzkuNjMzIDM3NS4xNTRMNDk4LjQ1NiAzNzUuNjU5QzQ5OC42MTQgMzc3LjMwOCA0OTkuMDE0IDM3OS40NjUgNDk4LjI1IDM4MC45NzdMNDk3LjEwOCAzODEuMjQxTDQ4My4yOTkgMzgxLjMyNUw0NzIuMDY2IDM4MS41NzRDNDcwLjU0NCAzODEuNTkzIDQ2OC42MTEgMzgxLjgyOSA0NjcuMTMxIDM4MS40ODlDNDY2LjA0MSAzODEuMjM4IDQ2Ni4wMDEgMzgwLjgxNCA0NjUuNDcyIDM3OS45MDdDNDY1LjM1IDM3OC40NjYgNDY1LjMyNSAzNzcuNDkgNDY1LjkzNSAzNzYuMTUyQzQ2Ni4xODggMzc1LjU5NiA0NjYuODYzIDM3NS41NDcgNDY3LjQxNCAzNzUuMzM3WiIvPgoJPHBhdGggZD0iTTQ2NS40MiAzOTAuODA1TDQ4My42MDYgMzkwLjkzNkw0OTMuNzE2IDM5MC45NDdDNDk1LjE1OSAzOTAuOTcyIDQ5Ny4wMDQgMzkwLjc5OSA0OTguMzQ3IDM5MS4zMjNDNDk4LjgwNSAzOTIuOTQ2IDQ5OC43NDMgMzk1LjA3NiA0OTguMjE4IDM5Ni42NjVMNDk3Ljg2MiAzOTYuODVDNDk2LjEzNSAzOTcuNTI1IDQ5Mi45MTkgMzk3LjI3NSA0OTEuMDI0IDM5Ny4zMTVMNDczLjUzNSAzOTcuNDAxQzQ3MS4xNzcgMzk3LjQgNDY4LjI2NSAzOTcuNzU0IDQ2Ni4wMTcgMzk3LjAwN0M0NjUuMTYyIDM5NS4xMjggNDY1LjQyMiAzOTIuODM5IDQ2NS40MiAzOTAuODA1WiIvPgoJPHBhdGggZD0iTTQwMC45NjEgNzE3Ljg2Nkw0MDEuMTQ2IDcxMy41MzFDNDAyLjg5MSA3MTIuOTY1IDQwNS42OTQgNzEzLjI3OCA0MDcuNTc3IDcxMy4yNThMNDIzLjcxNSA3MTMuMzM2TDQyMy40NiA3MTguMDIzQzQxOC4zODMgNzE3LjggNDExLjc5OSA3MTYuNzU2IDQwNi45NDIgNzE4LjE2NkM0MDUuMjg2IDcxOS45NSA0MDUuOTM1IDcyNS4wNTMgNDA1Ljk1NCA3MjcuNTA0TDQwNi40NjEgNzI3LjY4QzQwNy44NzEgNzI4LjEzNSA0MDkuODI0IDcyOC4wMDUgNDExLjMxNSA3MjguMDYzTDQyMS4xMjEgNzI4LjM5NEM0MjEuNjU4IDcyOS4zOTYgNDIxLjQ2OCA3MjkuOTQzIDQyMS4zODEgNzMxLjA2QzQyMC42ODkgNzMxLjk1MyA0MjAuNTgzIDczMi4xMzggNDE5LjQ1MyA3MzIuMzE4QzQxNS4yNjggNzMyLjk4NCA0MDkuOTU3IDczMS4wMDUgNDA1Ljk5NCA3MzIuNjA5QzQwNS40OTkgNzMyLjg2NSA0MDUuMDgzIDczMy4wMzQgNDA0LjU2MSA3MzMuMjA5TDQwMy42MDkgNzMyLjU4MUw0MDIuOTYxIDczMy4xNTJDNDAyLjQzNiA3MzAuOTI5IDQwMi44ODggNzI5LjYzNiA0MDEuMTM0IDcyOC4wMTVMNDAxLjA5NCA3MjUuNzgzTDQwMC45NjEgNzE3Ljg2NloiLz4KCTxwYXRoIGQ9Ik0xMzUuMjcgNzA1LjQ1QzEzOC41NDkgNzA1LjE1NCAxNDIuMTY5IDcwNi40MDIgMTQ0LjY2MSA3MDguNjE3QzE0Ni4yMDcgNzA5Ljk5MSAxNDYuNzg0IDcxMi4wNTkgMTQ2Ljk0MiA3MTQuMDQ4QzE0Ny40NTcgNzIwLjU0OCAxNDEuNzQxIDcyNS4xMjcgMTM3LjU1NiA3MjkuMTgyQzEzNS41MjQgNzMxLjE1MiAxMzMuNjg1IDczMy4xOTUgMTMxLjg5MiA3MzUuMzg0QzEzNi44MDkgNzM1LjY3MiAxNDIuMjMyIDczNS40MzYgMTQ3LjAwOSA3MzYuNjAxQzE0Ny42MjQgNzM3LjUxMiAxNDcuNDk1IDczNy43OTcgMTQ3LjQ1OSA3MzguODY3QzE0NS4xMDkgNzQwLjU0NiAxMzEuODczIDczOS43NDcgMTI4LjI1MiA3MzkuNzQ1QzEyNy4wNjkgNzM5LjcyNyAxMjUuNjI4IDczOS44ODkgMTI0LjYzMyA3MzkuMTlMMTI0LjQ0OCA3MzcuNzI1QzEyNC40MjQgNzM2LjQ0MSAxMjUuMTcgNzM1LjQ4IDEyNS45NDcgNzM0LjUzMUMxMjkuOTQ2IDcyOS42NDMgMTM1LjE1NyA3MjUuODA4IDEzOS40MTIgNzIxLjE1NEMxNDEuMjEzIDcxOS4xODQgMTQyLjczOSA3MTcuMDg2IDE0Mi40OTUgNzE0LjI5NEMxNDIuMzc2IDcxMi45MzUgMTQxLjk2MyA3MTEuNzkzIDE0MC44MjIgNzEwLjk3NUMxMzkuNjk5IDcxMC4xNjkgMTM4LjIgNzA5LjcyNSAxMzYuODQ2IDcwOS41MzNDMTMyLjExIDcwOC44NjIgMTMxLjQzNSA3MTQuNzUyIDEyNy4yIDcxNS4xODFDMTI2LjA4NyA3MTUuMjkzIDEyNS44NDQgNzE1LjM3MiAxMjQuOTgyIDcxNC42ODNDMTI1LjA2NCA3MTQuMjU3IDEyNS4xMjkgNzEzLjkzNCAxMjUuMzE4IDcxMy41NEMxMjcuNDA4IDcwOS4xNjcgMTMwLjg4OCA3MDcuMDMgMTM1LjI3IDcwNS40NVoiLz4KCTxwYXRoIGQ9Ik0yMTUuMjk0IDU0Ni42MzFDMjE4LjA3NiA1NDYuNDMyIDIyMi4zODkgNTQ2LjI2NiAyMjQuODE3IDU0Ny43NTdDMjI2LjE4OCA1NDguNiAyMjYuOTkyIDU0OS43OTcgMjI3LjI3OSA1NTEuMzdMMjI3LjM2MSA1NTEuODY1TDIyNy42MDkgNTUzLjUxNkMyMjguNjQzIDU2My42MzYgMjIwLjUxMyA1NjUuOTcyIDIxNS4yNTggNTcyLjYyNEMyMTQuNDY5IDU3My42MjIgMjE0LjQyNiA1NzMuNjM0IDIxNC41NTIgNTc0LjkwN0MyMTguMTQ1IDU3Ni45MTIgMjI0Ljc0NyA1NzQuMjY1IDIyOC4wMjcgNTc2LjgxMkMyMjguMDY2IDU3OC4wNDEgMjI4LjM4NiA1NzkuMTYgMjI3LjU2IDU4MC4xMTdMMjExLjMxMiA1ODAuMDE2QzIwOS43NjEgNTc5Ljg2NCAyMDguMzk2IDU3OS43MyAyMDYuOTIxIDU3OS4xNzNMMjA2Ljg0NSA1NzguNTE2QzIwNi40MjYgNTczLjI4OCAyMTUuNzU1IDU2Ni4zOCAyMTguNzk2IDU2Mi44MTdDMjIwLjQxNiA1NjAuOTE4IDIyMy41MjggNTU3Ljg3NiAyMjMuMjA1IDU1NS4zMDVDMjIyLjk5MSA1NTMuNTk0IDIyMS45NjggNTUyLjIwMiAyMjAuNTY4IDU1MS4yNTVDMjE5LjYxNSA1NTAuNjEgMjE4LjY1MiA1NTAuNTkyIDIxNy41MzMgNTUwLjY0OEMyMTYuODQ1IDU1MC42ODMgMjE1LjQxMiA1NTAuNzU5IDIxNC44MDEgNTUxLjA3NkMyMTEuODk3IDU1Mi41ODMgMjEyLjI4NyA1NTUuOTg1IDIwOC4zMjcgNTU2LjY4NEwyMDcuNjg3IDU1Ni4wNDNDMjA3LjM3MyA1NTQuMTk1IDIwNy44NTggNTUxLjM2OCAyMDguOTA4IDU0OS43NzJDMjEwLjUyOCA1NDcuMzEgMjEyLjY2MiA1NDcuMDY1IDIxNS4yOTQgNTQ2LjYzMVoiLz4KCTxwYXRoIGQ9Ik02ODguNjkxIDQwNi43NDJMNjg5LjA2MiA0MDcuMTU3QzY5MC4wMTggNDA4LjE3MiA2OTEuMSA0MDguMzk3IDY5Mi40NDggNDA4LjM3NEM2OTIuOTgyIDQwOC4zNjUgNjkzLjM4NiA0MDguMTU1IDY5My43NzQgNDA3Ljc2NEM2OTQuNTk4IDQwNi45MzMgNjk1LjMxMiA0MDUuMjEzIDY5NS44MTYgNDA0LjE1NkM2OTcuNjU5IDQwMC4yODggNzAwLjAxNSAzOTguNjU2IDcwNC4zMjEgMzk3Ljg0OEM3MDUuNzMxIDM5Ny41ODQgNzA2LjgxMiAzOTcuNTkxIDcwOC4xOTcgMzk3Ljg5OEw3MDguNzYxIDM5OC4wMThDNzEwLjU4NiAzOTguNDI1IDcxMi43MTYgMzk5LjE0NiA3MTMuODI0IDQwMC43NThDNzE1LjM3MiA0MDMuMDExIDcxNi4wOTcgNDA2LjU4NyA3MTUuNTEgNDA5LjIzM0M3MTQuMzQzIDQxNC40OTkgNzA5LjY0OCA0MTcuOTI3IDcwNi4wMDggNDIxLjUzNkM3MDQuNDQzIDQyMy4wODggNzAyLjc1NyA0MjQuODIzIDcwMi4wMzMgNDI2Ljk0M0M3MDMuNjU4IDQyOC40NDMgNzE1LjI5NSA0MjcuNzg1IDcxNS44NjMgNDI4LjYwOEM3MTUuOTY1IDQyOC43NTcgNzE2LjAyMSA0MzAuMTQ0IDcxNi4wMzcgNDMwLjM3NEM3MTYuMDg1IDQzMS4wOTcgNzE2LjEwMSA0MzAuODMxIDcxNS44MTQgNDMxLjUzMUM3MTEuNzUxIDQzMi4wMTcgNzA3LjU2MiA0MzEuODU1IDcwMy40NzMgNDMxLjg3QzcwMC42OTIgNDMxLjg4MSA2OTcuNTY5IDQzMi4xNyA2OTQuODY3IDQzMS41MTZDNjk0LjMxNSA0MzAuNDk0IDY5NC4yNjcgNDI5Ljk5MyA2OTQuNTU1IDQyOC44NDhDNjk1LjEyOCA0MjYuNTc0IDY5Ni45NTEgNDI0LjU2MSA2OTguNTE1IDQyMi44ODdDNzAyLjQyMiA0MTguNzA0IDcwOS40MTEgNDEzLjk5NCA3MTEuMjg3IDQwOC41MTZDNzExLjYyOCA0MDcuNTIyIDcxMS42OTMgNDA2Ljc2NCA3MTEuMjU3IDQwNS43ODhDNzEwLjQ4NiA0MDQuMDYxIDcwOC42NTEgNDAyLjk1NSA3MDcuMTQyIDQwMS45MzVDNzA1LjY1NSA0MDEuNjM1IDcwNC41MiA0MDEuNTc2IDcwMy4xOTEgNDAyLjQyMUM3MDAuNjQzIDQwNC4wMzkgNjk4LjU5IDQwNy4zNDcgNjk3LjA2NiA0MDkuODdDNjk2LjQ5MSA0MTAuODIxIDY5NS4yNDkgNDE0LjA1OCA2OTQuMjk2IDQxNC40MDNDNjk0LjAxNSA0MTQuNTA0IDY5My4wNTcgNDE0LjM0IDY5Mi43MTEgNDE0LjMyM0M2OTQuMDEyIDQxMy4xNzIgNjk0LjAyNCA0MTIuMzcgNjk0LjQ5IDQxMC43NTdDNjkyLjQ2MiA0MTAuMDEzIDY4OS43OTcgNDA5Ljg1MSA2ODguNDQxIDQwOC4wOTFMNjg4LjY5MSA0MDYuNzQyWiIvPgoJPHBhdGggZD0iTTM2Ni40NTYgNjc1LjA2OUwzODUuMDM0IDY3NS4xMjlMMzk2Ljg3MSA2NzUuMkMzOTkuMTkxIDY3NS4yMzQgNDAxLjcyNiA2NzUuMDU3IDQwMy45NDUgNjc1Ljc3NEM0MDQuNDE4IDY3Ny44MjQgNDA0LjE4MyA2NzkuNzY2IDQwNC4wMDEgNjgxLjgzN0wzODcuMzE1IDY4MS41MjlMMzg3LjA0NSA3MTEuOTg3TDM4Ni45MTUgNzI3LjczQzM4NS4yMTYgNzI3LjkxOSAzODIuMzk0IDcyOC4zODcgMzgwLjk2NCA3MjcuMzk4TDM4MC44NTYgNjgxLjcwNUwzNjQuMDM2IDY4MS43MzZDMzY0LjAzNCA2NzkuNjc0IDM2My44MTMgNjc3LjM3OCAzNjQuMjg2IDY3NS4zNjdMMzY2LjQ1NiA2NzUuMDY5WiIvPgoJPHBhdGggZD0iTTg4LjI5MjggNjY3LjM2NEwxMDUuOTAzIDY2Ny41MThMMTI2LjY0OCA2NjcuNTQ1QzEyNy45NDUgNjY3LjYwOCAxMjkuNTEyIDY2Ny41NSAxMzAuNTE4IDY2OC40NTZDMTMwLjg3NCA2NzAuMTI1IDEzMC45NzggNjcxLjIzNyAxMzAuNTI5IDY3Mi44OTVDMTI5LjIzMSA2NzMuOTA2IDExNS40NzkgNjczLjc2NSAxMTIuNjY5IDY3NC4xNDJMMTEyLjY4MiA3MDIuMTE0TDExMi42NzQgNzE5LjQwNEwxMDUuNTA0IDcxOS4yNUwxMDUuNzM0IDY5MC40NzRDMTA1LjggNjg0Ljk4IDEwNi4xOTkgNjc5LjI3MSAxMDUuNjE3IDY3My44MDZMODguNDQ0OCA2NzQuMDA0TDg4LjI5MjggNjY3LjM2NFoiLz4KCTxwYXRoIGQ9Ik0zMjguMDAyIDY4OC4wMjJDMzMyLjQ3IDY4Ny4zNTMgMzM2LjAyIDY5MC40ODEgMzM5LjM5OCA2OTIuODA1TDM1MS44ODEgNzAxLjY3OEMzNTMuMjI2IDcwMi42NSAzNTMuNTY1IDcwMy4xMzYgMzUzLjgyOCA3MDQuNzhMMzUzLjI1IDcwNS41NDdDMzUyLjIxNSA3MDYuNjA3IDM1MC40OTIgNzA3LjM4OCAzNDkuMjMxIDcwOC4xNjNMMzQxLjgzMiA3MTIuODQ5QzMzOC42MiA3MTQuOTI3IDMzNS4zODEgNzE3LjkzIDMzMS44OTQgNzE5LjQyQzMzMC43MzUgNzE5LjkxNSAzMjkuNTMyIDcxOS45MDQgMzI4LjI5NiA3MTkuODUxQzMyNy42IDcxOC45ODMgMzI3Ljc4NSA3MTguMDg2IDMyNy44NzMgNzE3LjAwNkMzMjguMTc3IDcxMy4yNiAzMzIuOTM5IDcxMS45NjMgMzM1LjcwOCA3MTAuMjY5QzMzNy4yNjYgNzA5LjMxNiAzMzguNjY0IDcwOC4xMzEgMzQwLjA1IDcwNi45NDdDMzM0Ljg0OCA3MDYuMjMxIDMyOS4yODEgNzA2LjQ4MiAzMjQuMDM5IDcwNi41MDVMMjk4LjMwMyA3MDYuNzUzQzI5Mi42NzYgNzA2Ljc3MSAyNjAuMTEgNzA3Ljc3NiAyNTcuOTE5IDcwNi4xMTNDMjU3LjgxIDcwNC41ODcgMjU3LjY1NyA3MDMuNDQzIDI1OC4zNSA3MDIuMDI3QzI1OS4xMjggNzAxLjI4NyAyNTkuNzk5IDcwMS4xNzkgMjYwLjgyNCA3MDEuMDYzQzI2Ny43OTUgNzAwLjI3NiAyNzUuNjAxIDcwMC45NjIgMjgyLjY1IDcwMC45ODFMMzE1LjU2MyA3MDAuOThMMzM4LjQ4MiA3MDEuMDE0QzMzNi45MzYgNjk3LjY5OCAzMzMuODQ3IDY5Ni4zNjQgMzMwLjc5NSA2OTQuNzkxQzMyOS4yMDMgNjkzLjk3IDMyOC4xMDIgNjkzLjQyOSAzMjcuNjg1IDY5MS41NjFDMzI3LjM3NyA2OTAuMTg1IDMyNy4zMjEgNjg5LjIyMyAzMjguMDAyIDY4OC4wMjJaIi8+Cgk8cGF0aCBkPSJNNDA5LjkyNSAzNTkuNjM3QzQxMS4yNzUgMzU5LjU0NCA0MTIuNDgxIDM1OS41NTggNDEzLjc5NyAzNTkuOTE2QzQxNC4xMjggMzYwLjAwNiA0MTUuMDg3IDM2MC4yNTMgNDE1LjMyIDM2MC40MjlDNDE4LjIzNiAzNjIuNjI3IDQyMi44MjggMzg1LjQ5NSA0MjMuNjY5IDM4OS44ODRDNDI0LjMwNCAzOTMuMTk2IDQyNC40MDIgMzk3Ljg5NSA0MjYuMTA0IDQwMC44MjZDNDI2LjMxOCA0MDAuNzM3IDQyNi41NjEgNDAwLjY5OCA0MjYuNzQ2IDQwMC41NkM0MjcuODk1IDM5OS43IDQzNC4xMzMgMzcxLjc3NiA0MzUuMDk0IDM2OC4wMzhDNDM1LjU5NSAzNjYuMDg4IDQzNi4wNTEgMzYyLjI5MSA0MzcuMjM3IDM2MC42NzRDNDM3Ljc5MSAzNTkuOTE4IDQzOC42MDQgMzU5LjcxNyA0MzkuNTA1IDM1OS42ODZDNDQwLjU4NiAzNTkuNjQ5IDQ0MS45MzMgMzU5LjcwNCA0NDIuNzcxIDM2MC40NDNDNDQzLjExOCAzNjMuNDkxIDQ0MS44MSAzNjYuNzA1IDQ0MS4wMjEgMzY5LjYzNUw0MzYuNTk4IDM4NS44MzNDNDM0LjM1IDM5NC4zMDQgNDMxLjk0OSA0MDIuOTg2IDQzMC42NTYgNDExLjY0NUM0MjguMzM2IDQxMS43NzQgNDI1LjI3MyA0MTIuMDcxIDQyMy4xMjEgNDExLjEzOEw0MTIuNDg2IDM2OC40ODFMNDExLjg5MyAzNjcuNDJMNDAwLjMxNSA0MTEuNjc1TDM5My4xOTggNDExLjk3MkMzOTIuMTMxIDQxMC42MjggMzkxLjgxMyA0MDYuNzE1IDM5MS4zNjYgNDA0Ljg4N0wzODUuNDY1IDM4MC4wOThMMzgyLjgzMyAzNzAuMTk1QzM4MS45MjIgMzY3LjA0MiAzODAuNzg1IDM2My45NzMgMzgwLjUxIDM2MC42NzRMMzgxLjIzNCAzNjAuMDEzQzM4My4wMzkgMzU5Ljc3OSAzODQuNDQgMzU5LjY3NiAzODYuMjUgMzYwLjEwM0MzODYuNzc1IDM2MC41MDQgMzg2Ljk4MyAzNjAuNzgzIDM4Ny4xOTQgMzYxLjQxN0MzODguMzY1IDM2NC45NDggMzg4LjkyIDM2OC44NDEgMzg5LjczMSAzNzIuNDczTDM5Ni40MzUgNDAyLjA4N0MzOTcuMzI4IDM5Ny42MTMgMzk5LjA4IDM5My4zNDkgNDAwLjE4MiAzODguOTIyTDQwMy40MzUgMzc1LjY4NEM0MDQuMzI0IDM3MS42NDkgNDA0Ljk2NiAzNjYuOTY5IDQwNi42MDQgMzYzLjE2MUM0MDcuNDE3IDM2MS4yNzIgNDA3Ljk5MSAzNjAuNDE4IDQwOS45MjUgMzU5LjYzN1oiLz4KCTxwYXRoIGQ9Ik0xNzUuOTggNTA4LjUyOUMxODAuOTk1IDUwOC4wNTggMTg1LjM2OCA1MDguMyAxOTAuMDI2IDUxMC4yODFDMTkzLjk5MyA1MTEuOTY4IDE5Ni44NDIgNTE1LjE2NyAxOTguOTk1IDUxOC44MUMyMDIuNzI2IDUyNS4xMjMgMjAzLjkzMiA1MzIuNTc5IDIwMi4yNDUgNTM5LjcyQzIwMS4yNTYgNTQzLjkxIDE5OS4zMDMgNTQ4LjE0NSAxOTcuNzI1IDU1Mi4xNjdDMTk3LjYyNiA1NTIuNDIxIDE5Ni44MzIgNTU0LjE5NSAxOTYuODY0IDU1NC4zMjlDMTk2Ljg5OCA1NTQuNDc3IDE5Ny4xMyA1NTQuNDc0IDE5Ny4yNjMgNTU0LjU0NkMxOTkuMDMgNTU1LjUwOCAyMDIuODM0IDU1Ni45OTkgMjAzLjQ0NyA1NTguOTY4QzIwMy44NzEgNTYwLjMyOCAyMDMuNzQzIDU2MS40NDcgMjAzLjEzOCA1NjIuNjc0QzIwMi42IDU2Mi45NjggMjAyLjE2MiA1NjMuMTEzIDIwMS41NDcgNTYzLjE1NkMxOTcuNzMzIDU2My40MjIgMTk0LjYwNiA1NjAuMDU3IDE5MS44MTggNTU3Ljc3OEwxOTEuMzUzIDU1Ny41MUMxOTAuMjIzIDU1Ny4wOSAxODUuMzg0IDU1OS44MTcgMTgzLjczOSA1NjAuMjMzTDE4My4xOSA1NjAuMzYxTDE4Mi43MTQgNTYwLjQ3N0MxNzcuNjcxIDU2MS41ODMgMTcxLjIzMiA1NjAuMDIgMTY2Ljk4OSA1NTcuMjE0QzE2MS4xMzMgNTUzLjM0MiAxNTcuNjcgNTQ1Ljk3OSAxNTYuNDk4IDUzOS4yNDZDMTU1LjI5OSA1MzIuMzY2IDE1Ni4zOTcgNTIzLjY2NyAxNjAuNDUxIDUxNy44NTVDMTY0LjI2MyA1MTIuMzkgMTY5LjU0MiA1MDkuNzA3IDE3NS45OCA1MDguNTI5Wk0xNzkuOTE2IDUxMy41NDVDMTc0LjU1NyA1MTQuMTM0IDE3MC4yNDcgNTE1Ljg1NCAxNjYuODA2IDUyMC4xNDZDMTYyLjc3NiA1MjUuMTczIDE2Mi4wOTggNTMyLjQ5MiAxNjIuODkyIDUzOC43MzFDMTYzLjUwOSA1NDMuNTczIDE2NS4xNDcgNTQ3LjQwMyAxNjkuMDgxIDU1MC40NzlDMTcyLjU4OCA1NTMuMjIyIDE3Ny43NTcgNTU1LjYwOCAxODIuMjcgNTU0Ljg4MkwxODMuMTExIDU1NC43MjJMMTgzLjI2OCA1NTQuMTVMMTgwLjgxNyA1NTAuOTg4QzE4MC4yMTkgNTQ5LjgwMiAxNzkuNjUxIDU0OC44MTIgMTgwLjA3NSA1NDcuNDQ1QzE4MC4zNDIgNTQ2LjU4NCAxODAuNjgyIDU0NS44OTcgMTgxLjYyOSA1NDUuNjQyQzE4Mi42OSA1NDUuMzU3IDE4My4zNTMgNTQ1LjY5IDE4NC4yMTQgNTQ2LjI4MUwxOTAuMjQ1IDU1MS4xNDZDMTk0LjUzNCA1NDMuOTAzIDE5OC4xNjkgNTM2LjU4OSAxOTUuNzY1IDUyNy44NzFMMTk1LjExNSA1MjUuOTNMMTk0LjkwOCA1MjUuMzU4QzE5Mi45ODMgNTIwLjIyNSAxODkuODg5IDUxNi45IDE4NC45MzggNTE0LjY3NkMxODMuMjAyIDUxMy44OTcgMTgxLjgzNyA1MTMuNTU1IDE3OS45MTYgNTEzLjU0NVoiLz4KCTxwYXRoIGQ9Ik02OTIuNzExIDQxNC4zMjNDNjg5Ljk0MyA0MTQuMTc2IDY4Ny40MzIgNDEyLjU0OSA2ODUuMzY0IDQxMC44MTFDNjg1LjExNCA0MTAuNjAxIDY4My4zODkgNDA4Ljk1MiA2ODMuMjU0IDQwOC45MzVDNjgyLjgyOSA0MDguODgzIDY3OC4yNzQgNDExLjcyMiA2NzcuMzQ4IDQxMi4wODRDNjc1LjY5MyA0MTIuNzMzIDY3My45NjcgNDEyLjgyNyA2NzIuMjEyIDQxMi44MzdDNjY2LjI2OCA0MTIuODcgNjYwLjg0NSA0MTEuMjQ4IDY1Ni41NSA0MDYuOTY0QzY1MC42NTUgNDAxLjA4NSA2NDguMTQ2IDM5My45NjQgNjQ4LjEyMSAzODUuNzRDNjQ4LjA5NyAzNzguMDc0IDY0OS44MDUgMzcwLjIzNCA2NTUuNjQ1IDM2NC43OTVDNjU5Ljg2MiAzNjAuODY2IDY2OC42OTYgMzU3LjYzMyA2NzQuNDkxIDM1OC4wOEM2NzkuMDgxIDM1OC40MzUgNjgzLjc1IDM2MC4zNTQgNjg2Ljc5OCAzNjMuODUyQzY5NS42MTMgMzczLjk3MiA2OTYuOTYgMzg2LjMxOCA2OTIuMDQ5IDM5OC42MjJDNjkwLjk2IDQwMS4zNTEgNjg4LjkxOSA0MDMuNzQ5IDY4OC42OTEgNDA2Ljc0Mkw2ODguNDQxIDQwOC4wOTFDNjg5Ljc5NyA0MDkuODUxIDY5Mi40NjIgNDEwLjAxMyA2OTQuNDkgNDEwLjc1N0M2OTQuMDI0IDQxMi4zNyA2OTQuMDEyIDQxMy4xNzIgNjkyLjcxMSA0MTQuMzIzWk02NjguNDk5IDM2NC45NTlDNjYzLjgyIDM2NS45NDMgNjU5LjgzNCAzNjkuMjQ1IDY1Ny4yOTkgMzczLjI0MkM2NTQuMzM3IDM3Ny45MTMgNjUzLjQxNCAzODYuMjU0IDY1NC43NzIgMzkxLjU3NUM2NTYuMDIxIDM5Ni40NzMgNjU4Ljc5OCA0MDEuMjQ1IDY2My4yNjkgNDAzLjgyNEM2NjYuNDI3IDQwNS42NDYgNjcwLjExMiA0MDcuODkzIDY3My45MiA0MDcuMDU0QzY3NC40MyA0MDYuOTQyIDY3NC43NjcgNDA2LjY2MSA2NzUuMTY2IDQwNi4zNDhDNjc1LjIyNCA0MDQuOTM5IDY3My45MTMgNDAzLjcwOCA2NzIuOTYzIDQwMi42NzZMNjcyLjY1OCA0MDIuMzU5QzY3Mi4yNDMgNDAxLjAyOCA2NzIuMTA5IDQwMC4zMTYgNjcyLjQ0MSAzOTguOTVDNjczLjMyOSAzOTguMTYgNjczLjQ5NCAzOTguMTU5IDY3NC42ODIgMzk3Ljk3OUM2NzcuNTc2IDM5OC44ODkgNjc5LjUzOCA0MDAuOTg4IDY4MS43ODMgNDAyLjk0MkM2ODIuODI2IDQwMS4zNDQgNjg0LjE1NSAzOTkuOTQgNjg1LjEzMSAzOTguMzA4QzY4OC4zOTMgMzkyLjg1IDY4OS40ODkgMzg2LjI3MSA2ODguMTk3IDM4MC4wNDlDNjg3LjI1NSAzNzUuNTE0IDY4NC40NjQgMzcwLjMzNiA2ODAuNTAyIDM2Ny43OThDNjc2LjM4MyAzNjUuMTU4IDY3My4yNjMgMzY0LjY5NSA2NjguNDk5IDM2NC45NTlaIi8+Cgk8cGF0aCBkPSJNMTk0LjIzNSAyNTQuMTE0QzE5My43MSAyNTMuODEzIDE5Mi43NDYgMjUzLjI2OSAxOTIuMTQgMjUzLjI5MUMxOTEuNzI3IDI1My4zMDYgMTkwLjg0MiAyNTMuODI0IDE5MC4zOTEgMjU0LjAwN0MxODguNjE1IDI1NC43MjcgMTg2LjgwNSAyNTUuNTU1IDE4NC45MjggMjU1Ljk1OUwxODQuMzQ5IDI1Ni4wNzRDMTgzLjE5NCAyNTYuMzEyIDE4Mi4wNSAyNTYuNTU0IDE4MC44NjUgMjU2LjU3QzE3NC45NzUgMjU2LjY1IDE2OS4wMDkgMjU1LjE3OSAxNjQuNzA1IDI1MC45ODVDMTU4LjY1MSAyNDUuMDg0IDE1Ni4xNzUgMjM3LjIxOSAxNTYuMTU1IDIyOC45MDlDMTU2LjEzNyAyMjEuODYzIDE1OC44MyAyMTQuODI0IDE2My44ODQgMjA5LjgyOEMxNjguMjY0IDIwNS40OTkgMTc1LjE2NCAyMDMuMjYgMTgxLjI4NiAyMDMuNDM5QzE4OC4yOTEgMjAzLjY0MyAxOTIuODcxIDIwNS4yODggMTk3LjcxOSAyMTAuNDI1TDE5OC41IDIxMS4yODJDMTk5LjUxOSAyMTIuNTc4IDIwMC4yMDMgMjE0LjQyOCAyMDAuODU2IDIxNS45MzdDMjA0LjA4MyAyMjMuMzk2IDIwNC45ODggMjMzLjcwMiAyMDEuODI0IDI0MS4zMjFDMjAwLjg2NSAyNDMuNjMgMTk3LjM1NSAyNDcuNzcxIDE5Ny4yODQgMjQ5Ljk5NEwxOTcuMjg3IDI1MC41ODFDMTk5LjkyMSAyNTEuMjY2IDIwMi4yIDI1Mi42MjcgMjA0LjA1MyAyNTQuNjA0QzIwNC4zODYgMjU2LjIxOCAyMDQuNDU0IDI1Ny4yMjcgMjAzLjk0NyAyNTguODA2QzIwMi45MDUgMjU5LjUxOCAyMDIuMTQyIDI1OS42MDQgMjAwLjkgMjU5LjcxNUMxOTguNTU2IDI1OC42NzggMTk2LjI3MSAyNTYuMTQ3IDE5NC4zMjIgMjU0LjQ1MUwxOTQuMjM1IDI1NC4xMTRaTTE3OC42ODUgMjA5LjU1NUMxNzMuNjYyIDIxMC42MDcgMTY4Ljk4OSAyMTMuMjMgMTY2LjE1NSAyMTcuNjc2QzE2My4wNDYgMjIyLjU1MSAxNjEuOTM0IDIzMC40NjYgMTYzLjIxNyAyMzYuMDk5QzE2My45NDMgMjM5LjI4OSAxNjYuMzcxIDI0NC40NTMgMTY5LjI0OSAyNDYuMjc2QzE3Mi41NDcgMjQ4LjM2NCAxNzYuMzg0IDI1MC40OTUgMTgwLjMzNCAyNTAuNzg2QzE4MS4yNTYgMjUwLjA4NyAxODEuNTQ4IDI1MC4wMzcgMTgxLjg1NyAyNDguODg4TDE4MC42NjQgMjQ1LjM4N0wxODAuNjQ3IDI0NS4wM0MxODAuNjA5IDI0My43NDYgMTgwLjc3NSAyNDMuMTU1IDE4MS4zOTIgMjQyLjAzNkMxODIuMTQ1IDI0MS42MjggMTgyLjUgMjQxLjIwNSAxODMuMzcgMjQxLjUxNUMxODUuNDIxIDI0Mi4yNDUgMTg3LjgxMyAyNDQuNzE1IDE4OS43MTQgMjQ2LjAwN0MxOTMuODExIDI0My4wNzkgMTk2LjExMyAyNDAuMTA4IDE5Ny4wMDYgMjM1LjAzNEMxOTguMTIgMjI4LjcxNCAxOTcuNDQzIDIyMi4zOTcgMTkzLjY0MyAyMTcuMTM2QzE5MC44MDMgMjEzLjIwMiAxODguMTE5IDIxMS4xODUgMTgzLjQ4MyAyMDkuNjgzQzE4Mi4wNTUgMjA5LjIyIDE4MC4xNzMgMjA5LjQ5IDE3OC42ODUgMjA5LjU1NVoiLz4KCTxwYXRoIGQ9Ik01NDQuNzU4IDM1OC40NThDNTQ4LjcwNiAzNTguMjcgNTUzLjc5MiAzNTguNTM5IDU1Ny4zNjcgMzYwLjM1Mkw1NTcuOTUgMzYwLjY1OUM1NjIuMjg4IDM2Mi44NzEgNTY2LjA2NSAzNjcuMjg4IDU2Ny44NzMgMzcxLjc5NEM1NzEuMTkzIDM4MC4wNyA1NzEuNjk3IDM4OS4zMjMgNTY4LjM3IDM5Ny42N0M1NjcuMzEzIDQwMC4zMjIgNTY1LjgxMiA0MDIuODIgNTY0LjY4OCA0MDUuNDY4QzU2NC45NTcgNDA2LjU0NiA1NjguNTggNDA4LjgzMyA1NjkuNjA2IDQwOS43ODVDNTcxLjE5MSA0MTEuMjU2IDU3MS41NTQgNDExLjk5MSA1NzEuNjQ3IDQxNC4xODVDNTcxLjM1MSA0MTQuNzIyIDU3MS40MTEgNDE0LjkyIDU3MC43NzggNDE1LjEwM0M1NjguOTU2IDQxNS42MjcgNTY2LjgyNCA0MTUuMTE3IDU2NS4yMTYgNDE0LjE5MkM1NjMuMDA2IDQxMi45MjEgNTYwLjk4NyA0MTEuMzEyIDU1OS4xNDggNDA5LjU1N0M1NTYuNTc2IDQxMC4wODggNTU0LjUyMSA0MTEuNTM3IDU1Mi4wNDcgNDEyLjE3OUM1NDYuOTk0IDQxMy40OTEgNTM5LjkwNSA0MTIuNjc3IDUzNS40NzcgNDA5Ljg3NEM1MjkuNTQ4IDQwNi4xMjIgNTI1LjQ1MyAzOTkuNDI4IDUyMy44OTEgMzkyLjdDNTIyLjE1IDM4NS4yIDUyMi44ODMgMzc1Ljg1NSA1MjcuMDYgMzY5LjIyNUM1MzEuMDkzIDM2Mi44MjQgNTM3LjYxMyAzNjAuMDE1IDU0NC43NTggMzU4LjQ1OFpNNTQ1LjIzMiAzNjVDNTM5Ljk1NCAzNjcuMDE3IDUzNC4yNjcgMzY5LjQ3MiA1MzEuOTQ1IDM3NS4wNjJDNTI5LjU0NyAzODAuODM1IDUyOS4wODYgMzg5LjQxOCA1MzEuNTUyIDM5NS4yMzNDNTMzLjU4IDQwMC4wMTUgNTM3LjU5OCA0MDMuODIyIDU0Mi40NDQgNDA1LjYzOEM1NDQuNDg3IDQwNi40MDQgNTQ2LjYzOCA0MDYuNjY1IDU0OC44MSA0MDYuNzAxTDU0OS42NDYgNDA2LjE4N0M1NDkuODgzIDQwNC4zMTcgNTQ5LjA1NiA0MDMuMTg1IDU0OC4wMiA0MDEuNjY4QzU0Ny43NjEgNDAwLjI5NSA1NDcuNzk3IDM5OS42NzIgNTQ4LjM0NSAzOTguMzc5QzU0OS4zMzQgMzk3LjUzIDU0OS4zNTQgMzk3LjQzMiA1NTAuNjQgMzk3LjM2NUM1NTMuMTMxIDM5OC45MTQgNTU1LjMzOCA0MDEuMDgxIDU1Ny41NTYgNDAzQzU2Mi4zMjkgMzk2LjAxOCA1NjUuMjg4IDM4OS40MTggNTYzLjY4NCAzODAuNzQxQzU2Mi43ODUgMzc1Ljg4NCA1NTkuNjU2IDM3MC4yMzEgNTU1LjQzOCAzNjcuNDc3QzU1Mi4xMzUgMzY1LjMyMSA1NDkuMTE4IDM2NC44MDcgNTQ1LjIzMiAzNjVaIi8+Cgk8cGF0aCBkPSJNMCAyNi40MDEyTDAgMEwyLjMzODc5IC0wLjEyMzA3OEw2LjU2NzMgMC4wMDAzMTM5MjhMNy4xODUzNyA5OS4wMzcyTDcuMjcxOTUgMTI1LjM0OUM3LjI5NDU0IDEzMC41MTkgNi44NzM3MSAxMzYuMjMgNy44MDc0OSAxNDEuMzA5QzguODAxNjIgMTQyLjIzMyAxMC4xMTg3IDE0Mi4zNTcgMTEuNDI1NiAxNDIuNDE2TDM3Ljg3MTkgMTQyLjY0M0wxMTMuNDggMTQyLjQ1OEwxOTAuOTc2IDE0Mi41NzFMMjI4LjQ0MSAxNDIuMzQ5TDIyOC4xMjIgLTBMMjMzLjg0OCAwQzIzNC4zMTQgMi4yNDU1MyAyMzQuMTMgNC4yMTYxNCAyMzQuMTg0IDYuNDc0NjFMMjM0LjUyMSAyMC4yNjQ3TDIzNC41NjIgNTYuNjE1NkwyMzQuNDU4IDExNS44MDhMMjM0LjM0NiAxMzQuMjExQzIzNC4yOTQgMTM4Ljc2MyAyMzQuMzMyIDE0My4zNzcgMjMzLjU5NSAxNDcuODhMMTIxLjQwNiAxNDguNTAxTDEyMS44NzIgMjMwLjI1NkMxMjMuNzM1IDIyNy4yNDcgMTI3LjM2NSAyMjAuODI4IDEzMS4wNjQgMjE5Ljk4NUMxMzEuNzQ0IDIxOS44MyAxMzIuNDMxIDIxOS45NjIgMTMzLjEwOCAyMjAuMDZDMTMzLjg2MyAyMjAuODY4IDEzMy45NzcgMjIxLjQ4MyAxMzQuMDA2IDIyMi42MTJDMTM0LjA5OCAyMjYuMzExIDEzMC41ODMgMjI5LjIxNiAxMjguNjA5IDIzMi4wMUMxMjYuODYyIDIzNC40ODQgMTI1LjA5NiAyMzcuMjQxIDEyMy43NDkgMjM5Ljk1M0MxMjIuNjczIDI0Mi4xMjEgMTIyLjE1MiAyNDQuNjM3IDEyMS42NzMgMjQ2Ljk5OUMxMjEuMjQgMjQ5LjEzOCAxMjEuNDE0IDI1MS42NjEgMTIxLjM3NSAyNTMuODQxTDEyMS4yNjUgMjY3LjA4N0wxMjEuMDg5IDMxMS43MjlDMTI1Ljc0OCAzMTIuMjg5IDEzMC4yMzkgMzEyLjY5NyAxMzQuODEyIDMxMy44MzVDMTUwLjMyNSAzMTcuNjk3IDE2NS41ODkgMzI2LjU1NCAxNzUuNTgyIDMzOS4xNTlDMTgxLjc3NyAzNDYuOTcyIDE4Ny4xMzggMzU1LjU2OCAxODkuMTg4IDM2NS40NTNDMTkwLjQ0MyAzNzEuNTAzIDE5MS4xMzIgMzc3LjMyMiAxOTIuOTM3IDM4My4yNzRDMTk1LjI1NyAzODIuMDA5IDE5Ny43MDMgMzgwLjc1NyAxOTkuNzgxIDM3OS4xMDlDMjA0LjAxNyAzNzUuNzUxIDIwNy43OTggMzcwLjU3IDIxMy44NDkgMzcwLjk4OEwyMTQuOTkyIDM3MS42MzRDMjE1LjI1OCAzNzIuODU3IDIxNS41OTUgMzczLjY0MyAyMTQuNzUzIDM3NC43NjFDMjEyLjE2IDM3OC4yMDUgMjA2LjgyNyAzNzkuNDkgMjA0LjIwNCAzODIuOTE0QzIxMC4yNTIgMzg0LjkxOCAyMTcuOTQ4IDM4NC4yMzMgMjI0LjI4MiAzODQuMjU4TDI0OC43MDQgMzg0LjI4NEwzMzAuOTAxIDM4NC4yNDJDMzQ1LjgwMSAzODQuMjIgMzYwLjk4NCAzODMuNTc1IDM3NS44MzggMzg0LjM4NUwzNzUuODMyIDM4OS42MzFMMjA1LjMwNyAzOTAuMjYzQzIwOC40MjkgMzkyLjc4MSAyMTQuOTc5IDM5Ni4wOTkgMjE1LjUyNiA0MDAuMzU2QzIxNS42MzMgNDAxLjE5MiAyMTUuNTM1IDQwMi4wNTMgMjE1LjQ0NCA0MDIuODg3TDIxNC44MDEgNDAzLjQxN0MyMTMuNTI3IDQwMy4xNjggMjEyLjEyNCA0MDIuOTQ4IDIxMC45NTMgNDAyLjM3MUMyMDUuNDM4IDM5OS42NTYgMjAxLjQ2MyAzOTQuODk0IDE5Ni4yMjggMzkxLjc4NkMxOTUuOTkgMzkxLjY0NSAxOTQuNjIyIDM5MC42MjEgMTk0LjQyNiAzOTAuNjE3QzE5NC4wMjYgMzkwLjYwOSAxOTMuNjY0IDM5MC44NjMgMTkzLjI4MyAzOTAuOTg1QzE5Mi41MzYgMzkxLjY5OSAxOTIuMDMyIDM5Mi4zMiAxOTEuNzUgMzkzLjMzNEMxOTAuOTI1IDM5Ni4zMDIgMTkwLjg3MiAzOTkuNzkzIDE5MC40MzMgNDAyLjg2MkMxOTAuMDIxIDQwNS43MzUgMTg4Ljk3NSA0MDkuMDM5IDE4Ny45NjggNDExLjc2MUMxODYuMTY3IDQxNi42MzQgMTgzLjg3MiA0MjAuNDkyIDE4MS4wOTUgNDI0LjgyQzE3Mi44OTggNDM3LjU5NiAxNjMuMTE1IDQ0Ni44NzQgMTQ5LjE5NyA0NTMuMzMzQzE0NS44MzkgNDU0Ljg5MiAxNDIuNjcxIDQ1Ni43NDkgMTM4Ljk0MSA0NTcuMTc0QzEzNi42NzIgNDU3LjQzMyAxMzQuMzYzIDQ1OC4yIDEzMi4xMDcgNDU4LjYzMUMxMjguNTk3IDQ1OS4zMDMgMTI0Ljc0NCA0NTkuNzExIDEyMS4xNjEgNDU5LjcwNUwxMjIuMTk3IDU0NC45MDlMMTI3LjY2IDUzNi4zOTZDMTI4LjM1NiA1MzUuMTAxIDEyOS4xMTkgNTM0LjAyMSAxMzAuNTggNTMzLjU3M0MxMzEuMDQxIDUzMy40MzEgMTMxLjIyOSA1MzMuMzA1IDEzMS42NjkgNTMzLjU1NkMxMzIuNzA0IDUzNC4xNDcgMTMzLjU2OSA1MzUuNDE5IDEzNC4zMzkgNTM2LjMyMkMxMzQuMzIgNTM5LjQyIDEyNi4yODYgNTQ5LjAzMyAxMjQuMTkzIDU1Mi4zMjdDMTIzLjA5MyA1NTQuMDU4IDEyMi4yMjkgNTU2LjA4NiAxMjEuNjUzIDU1OC4wNThDMTIwLjczIDU2MS4yMiAxMjEuMTkzIDU2NS40MzkgMTIxLjE4NSA1NjguNzZMMTIxLjE2MiA1ODguMzIyTDEyMS4xNTUgNjEzLjkyOUMxMjEuMTU4IDYxOS4wMjMgMTIwLjYxOSA2MjQuNjk1IDEyMS43MDUgNjI5LjY2NUMxMzEuMDkxIDYzMC40MDQgMTQwLjgzMSA2MjkuODUyIDE1MC4yNTggNjI5Ljg1NkwyMDMuNzM5IDYyOS44MjlMMjIwLjY0MiA2MjkuODE2QzIyMy44MzMgNjI5LjgyNyAyMjcuMTY1IDYyOS42NjQgMjMwLjMzIDYzMC4wMzlDMjMxLjczMSA2MzAuMjA2IDIzMy4xNiA2MzAuMzgxIDIzNC4xNTggNjMxLjQ2NUMyMzUuMTYgNjM1LjY1NCAyMzQuNTUgNjQwLjg0OSAyMzQuNTQyIDY0NS4yMDZMMjM0LjUwOSA2NzEuMDkzTDIzNC4yNzcgNzM1LjEyTDIzNC4xMTkgNzczLjMzNUMyMzQuMDY0IDc3NC42IDIzMy44NzYgNzc1LjY5MyAyMzMuMjM2IDc3Ni44MDhDMjMyLjc0MiA3NzcuNjY3IDIzMi4xMzQgNzc4LjIxMiAyMzEuMzY4IDc3OC44MjFDMjMwLjMxNCA3NzguMzI5IDIzMC4xMTIgNzc3LjY4NiAyMjkuNzQgNzc2LjU3MkMyMjkuMTc4IDc3NC44ODUgMjI5LjI0MiA3NzIuODEyIDIyOS4xODIgNzcxLjA0M0wyMjkuMDE2IDc2Mi4xNDRMMjI4LjkyNSA3MzYuNTk5TDIyOC40NzcgNjM1LjQyNEw3Ljc3MjIzIDYzNS41OTRDNi44NzQ0MiA2MzcuNDc1IDcuMjMyODEgNjQwLjg3NyA3LjIyNTQ4IDY0Mi45NzdMNy4xOTk2NiA2NTguMzk1TDcuMjE0NjUgNzQyLjg3M0w3LjIxOTY5IDc2NC43MjhDNy4yMjAwNCA3NjcuOTUzIDcuNjYxMzIgNzcxLjkxOSA3LjAzNDg2IDc3NS4wNDNDNi43NTUzNiA3NzYuNDM3IDUuNTczNzQgNzc3LjkwNiA0LjM3OTgxIDc3OC42MDdDMi40Mjg4IDc3Ny4yIDEuMjkwMjYgNzc1LjcxIDAuOTUyMTMzIDc3My4yNzhDMC4yNzk3ODYgNzY4LjQ0MiAwLjgyNzk0NiA3NjIuODYgMC44NTA1MjcgNzU3Ljk0MkwwLjkxODk2IDcyOC4yNjRMMS4xMDQ4OSA2MzcuNzk3QzEuMTQyNyA2MzYuMTI2IDEuMDc0NjcgNjM0LjUyNCAxLjgzMzY2IDYzMi45ODhMMi4wMjE1OSA2MzIuNjAyQzIuNjE4MjkgNjMxLjQ3OCAzLjc2MDMyIDYzMC43NzggNC45NzM2MyA2MzAuNDYyQzcuNTAwNjMgNjI5LjgwMyAxMS4wNzM4IDYzMC4wOTMgMTMuNzIyNyA2MzAuMDc0TDMwLjQ3MjkgNjI5Ljk3OEw4My42MzIyIDYyOS45TDExNS4xMTcgNjI5Ljg1M0wxMTUuMjk0IDU4My41MTNMMTE1LjI5OSA1NjcuMTQ1QzExNS4yOTMgNTY0LjA0OCAxMTUuNDcgNTYwLjc4NCAxMTQuOTk0IDU1Ny43MTNDMTE0LjggNTU2LjQ1OSAxMTMuODY4IDU1NS4wNjYgMTEzLjI3IDU1My45NjJDMTExLjYyMyA1NTAuOTIyIDEwOS44NDcgNTQ4LjI2NSAxMDcuNzA0IDU0NS41NDlDMTA1Ljg3MSA1NDMuMjI0IDEwMy4xOTQgNTQwLjM3OSAxMDIuMTQ3IDUzNy41ODRDMTAxLjc0MiA1MzYuNTA0IDEwMS44OTUgNTM1LjE0MiAxMDIuODYgNTM0LjM5NkMxMDMuODMyIDUzMy42NDUgMTA0LjkzMiA1MzMuNzkxIDEwNi4wNDUgNTM0LjE1NUMxMDkuNDg3IDUzNS4yODIgMTEyLjMxMSA1NDIuMTczIDExNC44MTIgNTQ0Ljg5TDExNS4xNTYgNTI2LjcyOUwxMTUuMjY2IDQ4My43MDFMMTE1LjM3MSA0NjcuMzczQzExNS40MDUgNDY1LjA1OCAxMTUuODg5IDQ2Mi4wNjYgMTE1LjQ1NyA0NTkuODI2QzExMS4xNjYgNDU5LjM4NyAxMDYuNzUgNDU5LjA4MiAxMDIuNTI0IDQ1OC4yMkM4Ny44MzQ2IDQ1NS4yMjEgNzIuNzM5OCA0NDcuODYxIDYzLjE4NSA0MzUuOTc3QzU5LjI2NDcgNDMxLjEwMiA1NC42NjM2IDQyNC44ODUgNTIuMTIwNCA0MTkuMTM2QzQzLjMzNCAzOTkuMjcyIDQyLjQwMSAzNzguNDMxIDUwLjA5ODQgMzU4LjA2M0M1Ny4wNTYzIDMzOS42NTIgNzIuODQxNCAzMjYuMjc3IDkwLjQ0MTQgMzE4LjQ5MkM5My4yODc2IDMxNy4yMzMgOTYuMjAxNiAzMTYuMzUzIDk5LjExOTQgMzE1LjNDMTA0LjI3MSAzMTMuNDQyIDEwOC41MzQgMzExLjkyNiAxMTQuMTA1IDMxMS43ODlDMTE0LjgxMSAzMDEuNTA0IDExNC4zNTYgMjkwLjk4IDExNC40MjUgMjgwLjY2TDExNC41NDIgMjU1Ljk2OUMxMTQuNTM2IDI1Mi4zMSAxMTUuMTA4IDI0Ny4zNDUgMTEzLjk3NiAyNDMuODc2QzExMS45NzMgMjM3LjczNCAxMDYuNjc3IDIzMi40NTggMTAzLjUyNCAyMjYuODU2QzEwMi4yNjYgMjI0LjYyIDEwMC45MDYgMjIyLjg4NyAxMDIuMjU5IDIyMC40MThDMTAzLjU2MyAyMTkuNzQ2IDEwNC40NTQgMjE5LjcxMiAxMDUuOTAxIDIyMC4xNDJDMTA5LjQ0IDIyMS4xOTMgMTEzLjIzNSAyMjkuNDc2IDExNS4xNyAyMzIuNjk5TDExNS4yNDggMTQ4LjVMMzkuODYwNiAxNDguNzQ0TDE4Ljg5NjggMTQ4LjYzNkMxNC42Njg4IDE0OC42MSAxMC4zMDE2IDE0OC43ODggNi4wOTM2NSAxNDguMzg2QzUuMDE0MDggMTQ4LjI4MyAzLjc3OTgyIDE0OC4yMDMgMi45NDUxIDE0Ny40NDlDMS4xODgzOCAxNDUuNjE0IDEuMTI4NDMgMTQyLjg0OCAwLjc2NTc2MiAxNDAuMzk4TDAgMTQwLjgzOEwwIDEyNC4wNDlMMCAxMDIuNzIxTDAgOTIuNDM4OUwwIDc4LjU5MDNMMCA3MC45NTI1TDAgNjIuMTg2OUwwIDUzLjU5MjFMMCA0Mi4zODg5TDAgMjYuNDAxMlpNMTA5LjEzMSAzMTguODk5QzkyLjQ3MjcgMzIwLjg5OCA3NS4xNzk4IDMzMS40NiA2NC44MjYzIDM0NC41NjJDNTQuNTU3MyAzNTcuNTU4IDQ4LjQ1ODYgMzc2LjE0NSA1MC40NCAzOTIuNzU1QzUyLjQ0OCA0MDkuNTg4IDYwLjQ1NSA0MjYuODI3IDc0LjA1ODkgNDM3LjM5OEM3OS42NDcgNDQxLjc0IDg1LjcxMiA0NDYuMDYxIDkyLjE2ODMgNDQ5LjAxOEM5My41MTAzIDQ0OS42MzIgOTUuMDM0NSA0NDkuODg5IDk2LjQyNjEgNDUwLjQwN0M5OC41NDUyIDQ1MS4xOTUgMTAwLjY2NiA0NTIuMTkgMTAyLjg1NSA0NTIuNzU0QzExMC40ODIgNDU0LjcyMSAxMTkuNTgzIDQ1NS4wMyAxMjcuMzc4IDQ1NC4xNTNDMTQ1Ljg4OSA0NTEuMzAxIDE2MS44MTQgNDQxLjUxNyAxNzIuODY2IDQyNi4zNzVDMTc2LjgyMSA0MjAuOTU2IDE3OS4zNDQgNDE1LjU0NCAxODEuNzM5IDQwOS4zNDFDMTgyLjk0NSA0MDYuMjEzIDE4NC4yMjQgNDAzLjE2OCAxODQuODMzIDM5OS44NTJDMTg1LjQ5NSAzOTYuMjQyIDE4NS42MDIgMzkyLjMzMSAxODUuNzk5IDM4OC42NjZDMTg2LjAyMyAzODQuNDgzIDE4Ni4xOTMgMzgwLjE2OCAxODUuNDk5IDM3Ni4wMjlDMTg0LjczOSAzNzEuNDk1IDE4My4yODMgMzY3LjcyNCAxODEuNDkgMzYzLjUyM0MxNzcuMTQzIDM1My4zMzQgMTcxLjgyOSAzNDUuODg3IDE2NC4xNzIgMzM3Ljg3N0MxNjEuNzYxIDMzNS4zNTQgMTU5LjM5MiAzMzIuNTk5IDE1Ni41MzEgMzMwLjU3OUMxNTMuNTcyIDMyOC40OSAxNTAuNTk0IDMyNy4xNTYgMTQ3LjM5IDMyNS41NjdDMTQyLjkzNSAzMjMuMzU4IDEzOC4zNDUgMzIxLjI1OCAxMzMuNDUzIDMyMC4xNThDMTMxLjIwMSAzMTkuNjUxIDEyOC45MiAzMTkuNjU2IDEyNi42MzQgMzE5LjQ0N0MxMjAuNzc3IDMxOC45MTMgMTE1LjAxIDMxOC40MzMgMTA5LjEzMSAzMTguODk5Wk0wIDI2LjQwMTJMMCA0Mi4zODg5TDAgNTMuNTkyMUwwIDYyLjE4NjlMMCA3MC45NTI1TDAgNzguNTkwM0wwIDkyLjQzODlMMCAxMDIuNzIxTDAgMTI0LjA0OUwwIDE0MC44MzhMMC43NjU3NjIgMTQwLjM5OEMxLjEyODQzIDE0Mi44NDggMS4xODgzOCAxNDUuNjE0IDIuOTQ1MSAxNDcuNDQ5TDIuOTM3MiAxNDcuMjg3QzEuMTUwMjcgMTQwLjYwNSAxLjkxODE5IDEzMi40NjcgMS45NDA0MyAxMjUuNTM3TDEuODkyMTcgMTAxLjY0MkwxLjc2NzMzIDI5LjY1MzhMMi4zMzg3OSAtMC4xMjMwNzhMMCAwTDAgMjYuNDAxMloiLz4KCTxwYXRoIGQ9Ik0wIDI2LjQwMTJMMCAwTDIuMzM4NzkgLTAuMTIzMDc4TDEuNzY3MzMgMjkuNjUzOEwxLjg5MjE3IDEwMS42NDJMMS45NDA0MyAxMjUuNTM3QzEuOTE4MTkgMTMyLjQ2NyAxLjE1MDI3IDE0MC42MDUgMi45MzcyIDE0Ny4yODdMMi45NDUxIDE0Ny40NDlDMS4xODgzOCAxNDUuNjE0IDEuMTI4NDMgMTQyLjg0OCAwLjc2NTc2MiAxNDAuMzk4TDAgMTQwLjgzOEwwIDEyNC4wNDlMMCAxMDIuNzIxTDAgOTIuNDM4OUwwIDc4LjU5MDNMMCA3MC45NTI1TDAgNjIuMTg2OUwwIDUzLjU5MjFMMCA0Mi4zODg5TDAgMjYuNDAxMlpNMCAyNi40MDEyTDAgNDIuMzg4OUwwIDUzLjU5MjFMMCA2Mi4xODY5TDAuMzg4OTE2IDYyLjEzNDZDMC4zODk2MDEgNjQuOTAxNiAwLjE3NDk0OSA2Ny45NTAyIDAuNzE1MTg3IDcwLjY2M0MxLjA3MDU5IDY1LjM3NDUgMS4xMTQ3NyAyOC42MTY1IDAgMjYuNDAxMlpNMCA5Mi40Mzg5TDAgMTAyLjcyMUwwIDEyNC4wNDlDMC4xNjgzNDMgMTI1LjM0NiAwLjE4NDgzMiAxMjcuMDQ2IDAuNzc1MzA2IDEyOC4yMTFMMC43MjM4MjkgMTE4Ljc1MUMxLjA2NTk3IDExNy41ODYgMC44MTkxNTQgMTE1LjQ3NCAwLjgxNTA5NyAxMTQuMjE1TDAuNzM5NzQxIDEwMi45N0MwLjEzNDYxMSA5OS41NzIyIDAuNDg4Nzk3IDk1LjkxMDQgMCA5Mi40Mzg5Wk0wIDYyLjE4NjlMMCA3MC45NTI1TDAgNzguNTkwM0wwLjMyMDUwNCA3OC41OTQzQzAuMjkxODA4IDgxLjIxNTQgMC4yNDUxNDQgODQuMDQ4MyAwLjczNzE3MiA4Ni42MjY4TDAuNzE1MTg3IDcwLjY2M0MwLjE3NDk0OSA2Ny45NTAyIDAuMzg5NjAxIDY0LjkwMTYgMC4zODg5MTYgNjIuMTM0NkwwIDYyLjE4NjlaTTAgNzguNTkwM0wwIDkyLjQzODlDMC40ODg3OTcgOTUuOTEwNCAwLjEzNDYxMSA5OS41NzIyIDAuNzM5NzQxIDEwMi45N0wwLjczNzE3MiA4Ni42MjY4QzAuMjQ1MTQ0IDg0LjA0ODMgMC4yOTE4MDggODEuMjE1NCAwLjMyMDUwNCA3OC41OTQzTDAgNzguNTkwM1pNMCAxMjQuMDQ5TDAgMTQwLjgzOEwwLjc2NTc2MiAxNDAuMzk4TDAuNzc1MzA2IDEyOC4yMTFDMC4xODQ4MzIgMTI3LjA0NiAwLjE2ODM0MyAxMjUuMzQ2IDAgMTI0LjA0OVoiLz4KCTxwYXRoIGQ9Ik0wIDEyNC4wNDlDMC4xNjgzNDMgMTI1LjM0NiAwLjE4NDgzMiAxMjcuMDQ2IDAuNzc1MzA2IDEyOC4yMTFMMC43NjU3NjIgMTQwLjM5OEwwIDE0MC44MzhMMCAxMjQuMDQ5WiIvPgoJPHBhdGggZD0iTTAgNzguNTkwM0wwLjMyMDUwNCA3OC41OTQzQzAuMjkxODA4IDgxLjIxNTQgMC4yNDUxNDQgODQuMDQ4MyAwLjczNzE3MiA4Ni42MjY4TDAuNzM5NzQxIDEwMi45N0MwLjEzNDYxMSA5OS41NzIyIDAuNDg4Nzk3IDk1LjkxMDQgMCA5Mi40Mzg5TDAgNzguNTkwM1oiLz4KCTxwYXRoIGQ9Ik0wIDYyLjE4NjlMMC4zODg5MTYgNjIuMTM0NkMwLjM4OTYwMSA2NC45MDE2IDAuMTc0OTQ5IDY3Ljk1MDIgMC43MTUxODcgNzAuNjYzTDAuNzM3MTcyIDg2LjYyNjhDMC4yNDUxNDQgODQuMDQ4MyAwLjI5MTgwOCA4MS4yMTU0IDAuMzIwNTA0IDc4LjU5NDNMMCA3OC41OTAzTDAgNzAuOTUyNUwwIDYyLjE4NjlaTTAgNzAuOTUyNUwwIDc4LjU5MDNMMC4zMjA1MDQgNzguNTk0M0MwLjQwOTc5NyA3Ni42MjIyIDAuNzI3MTYzIDcyLjcxODEgMCA3MC45NTI1WiIvPgoJPHBhdGggZD0iTTAgNzAuOTUyNUMwLjcyNzE2MyA3Mi43MTgxIDAuNDA5Nzk3IDc2LjYyMjIgMC4zMjA1MDQgNzguNTk0M0wwIDc4LjU5MDNMMCA3MC45NTI1WiIvPgoJPHBhdGggZD0iTTAgOTIuNDM4OUMwLjQ4ODc5NyA5NS45MTA0IDAuMTM0NjExIDk5LjU3MjIgMC43Mzk3NDEgMTAyLjk3TDAuODE1MDk3IDExNC4yMTVDMC44MTkxNTQgMTE1LjQ3NCAxLjA2NTk3IDExNy41ODYgMC43MjM4MjkgMTE4Ljc1MUwwLjc3NTMwNiAxMjguMjExQzAuMTg0ODMyIDEyNy4wNDYgMC4xNjgzNDMgMTI1LjM0NiAwIDEyNC4wNDlMMCAxMDIuNzIxTDAgOTIuNDM4OVpNMCA5Mi40Mzg5TDAgMTAyLjcyMUMwLjMxMjQ5NCAxMDQuNzkxIDAuMjMzMTI4IDExOC4zNiAwLjcyMzgyOSAxMTguNzUxQzEuMDY1OTcgMTE3LjU4NiAwLjgxOTE1NCAxMTUuNDc0IDAuODE1MDk3IDExNC4yMTVMMC43Mzk3NDEgMTAyLjk3QzAuMTM0NjExIDk5LjU3MjIgMC40ODg3OTcgOTUuOTEwNCAwIDkyLjQzODlaIi8+Cgk8cGF0aCBkPSJNMCA5Mi40Mzg5QzAuNDg4Nzk3IDk1LjkxMDQgMC4xMzQ2MTEgOTkuNTcyMiAwLjczOTc0MSAxMDIuOTdMMC44MTUwOTcgMTE0LjIxNUMwLjgxOTE1NCAxMTUuNDc0IDEuMDY1OTcgMTE3LjU4NiAwLjcyMzgyOSAxMTguNzUxQzAuMjMzMTI4IDExOC4zNiAwLjMxMjQ5NCAxMDQuNzkxIDAgMTAyLjcyMUwwIDkyLjQzODlaIi8+Cgk8cGF0aCBkPSJNMCAyNi40MDEyQzEuMTE0NzcgMjguNjE2NSAxLjA3MDU5IDY1LjM3NDUgMC43MTUxODcgNzAuNjYzQzAuMTc0OTQ5IDY3Ljk1MDIgMC4zODk2MDEgNjQuOTAxNiAwLjM4ODkxNiA2Mi4xMzQ2TDAgNjIuMTg2OUwwIDUzLjU5MjFMMCA0Mi4zODg5TDAgMjYuNDAxMlpNMCA0Mi4zODg5TDAgNTMuNTkyMUwwLjM1MDI3MyA1My42Mzk3TDAuMjg4NiA0Ni4wODRDMC4yODY0MTMgNDQuODg0MyAwLjQ3MTQ2MiA0My41MDMxIDAgNDIuMzg4OVpNMCA1My41OTIxTDAgNjIuMTg2OUwwLjM4ODkxNiA2Mi4xMzQ2TDAuMzUwMjczIDUzLjYzOTdMMCA1My41OTIxWiIvPgoJPHBhdGggZD0iTTAgNTMuNTkyMUwwLjM1MDI3MyA1My42Mzk3TDAuMzg4OTE2IDYyLjEzNDZMMCA2Mi4xODY5TDAgNTMuNTkyMVoiLz4KCTxwYXRoIGQ9Ik0wIDQyLjM4ODlDMC40NzE0NjIgNDMuNTAzMSAwLjI4NjQxMyA0NC44ODQzIDAuMjg4NiA0Ni4wODRMMC4zNTAyNzMgNTMuNjM5N0wwIDUzLjU5MjFMMCA0Mi4zODg5WiIvPgoJPHBhdGggZD0iTTEwNy4yODMgMzg3Ljc1NUMxMDcuNzMzIDM4OS41MDcgMTA3LjQwMyAzOTEuOTI5IDEwNy4zOTEgMzkzLjc0OUwxMDcuNTMgNDA0Ljc3NUMxMDguOTg5IDQwNS4yOTUgMTExLjcxMyA0MDQuODQxIDExMy4zNDkgNDA0LjgzMUwxMjguNDk3IDQwNC44NDVDMTMyLjQ4NSA0MDQuODc3IDEzNi4zMzEgNDA1LjM5MyAxNDAuMzI2IDQwNS4xMzlMMTQwLjExMiA0MTEuNjdMMTAzLjc4MyA0MTEuNjUyQzEwMi42NDQgNDExLjYwMyAxMDEuNTkxIDQxMS42MTIgMTAwLjgwNiA0MTAuNzU3QzEwMC4wNiA0MDYuODczIDEwMC43OTYgNDAyLjA0MyAxMDAuNzkxIDM5OC4wMjZDMTAwLjc3NCAzODUuNTc5IDEwMC4zNDQgMzczLjA1OCAxMDEuMDczIDM2MC42MjlDMTA2LjA5OCAzNjAuMTExIDExMS40NzUgMzYwLjUgMTE2LjU0MSAzNjAuNDc2QzEyNC4yNTUgMzYwLjQzOSAxMzIuMDg4IDM2MC4wNjYgMTM5Ljc4NSAzNjAuNTYyQzE0MC4zNSAzNjEuNzAxIDEzOS45MzQgMzY0LjMwNCAxMzkuODk4IDM2NS42MzhMMTA3LjU0OCAzNjYuMkwxMDcuNDkyIDM4MS4wNzFMMTA4LjAxMyAzODEuMTc5QzExMC44NDQgMzgxLjczMiAxMTMuNzM0IDM4MS42MDIgMTE2LjYwNCAzODEuNjA0TDEyOC45MiAzODEuNTU0QzEzMS4yMDIgMzgxLjUxNyAxMzQuODM2IDM4MC44NjMgMTM2LjkxNyAzODEuODI2QzEzNy41NjIgMzgzLjAzNCAxMzcuNjkyIDM4NC4wOCAxMzcuODUxIDM4NS40M0MxMzcuNDA1IDM4Ni41OTUgMTM3LjM5MiAzODYuOTQxIDEzNi4zNDUgMzg3LjY3OEwxMDcuMjgzIDM4Ny43NTVaIi8+Cgk8cGF0aCBkPSJNMTM3LjYxNCA4OS4xNDU0TDE0MC4xNTQgODUuNzI5OUMxNDEuMjM1IDg1LjMxNzggMTQyLjQ2NiA4NC45NjQxIDE0My4zOTEgODQuMjY2NEMxNDQuMDM2IDg0LjU3NTYgMTQ0LjExMiA4NC41OTExIDE0NC4zMjEgODUuMjYyNkMxNDUuMjg1IDg4LjM1NzIgMTQ0LjkzOSAxMTYuMTM0IDE0My43NzIgMTE5LjI0OEMxNDIuOTI0IDExOS45NTMgMTQxLjQwNiAxMTkuOTM0IDE0MC4zNDQgMTE5LjgzMUMxMzkuODc1IDExOS43ODYgMTM5LjUxOSAxMTkuNjAzIDEzOS4xMDMgMTE5LjM5OUwxMzguODIxIDk3LjEwOTJDMTM4LjMyNyA5Ni44MDkgMTM4LjE0MiA5Ni43MTUyIDEzNy41NTIgOTYuNjE4N0MxMzUuOTgxIDk3LjI2OTUgMTMzLjAxOSA5OC4wMDkyIDEzMS40MzMgOTcuNDQ1N0MxMzEuMjIyIDk2LjkzOTcgMTMxLjAyMyA5Ni43MTU2IDEzMS4xMTggOTYuMTYwN0MxMzEuNzQ1IDkyLjQ5NDcgMTM0LjgyNSA5MS4xMTEyIDEzNy42MTQgODkuMTQ1NFoiLz4KCTxwYXRoIGQ9Ik0xMTEuODgxIDQ2LjI3NDdMMTI1Ljk2OSA0Ni4xNjE2QzEyNy44NjEgNDYuMTYyMyAxMzAuNjQ0IDQ1Ljk0MiAxMzIuNCA0Ni41NzI0QzEzMy4yOTIgNDYuODkyOCAxMzMuMjU4IDQ3LjM1NzIgMTMzLjU2NCA0OC4xNzg3QzEzMy4xMjcgNDkuNzkxMyAxMzMuMDI3IDUxLjQ3MjggMTMyLjg1OCA1My4xMzA4TDExNS40MTYgNTMuNjE5N0wxMTUuMjY3IDk5LjUzOTRMMTA5LjA1MiA5OS44NzA3TDEwOC45NDcgNTMuNjkyM0MxMDMuNDQ2IDUzLjQyOTYgOTcuODE1NiA1NC4xNzg4IDkyLjM3MyA1My4yNzQ5TDkyLjQ0NzcgNDcuMzU0NEM5OC44MTE0IDQ1LjkyNTUgMTA1LjM5NSA0Ni4yODcgMTExLjg4MSA0Ni4yNzQ3WiIvPgo8L3N2Zz4K\" width=\"732\" height=\"779\"></p><p>Assume \\(T_{1}&gt;T_{2}\\)</p><p>\\[ \\begin{array}{l} \\mathrm{Q}_{1}=\\mathrm{c}_{\\mathrm{p}}\\left(\\mathrm{T}_{1}-\\mathrm{T}_{\\mathrm{F}}\\right) \\\\ \\mathrm{Q}_{2}=\\mathrm{c}_{\\mathrm{p}}\\left(\\mathrm{T}_{\\mathrm{F}}-\\mathrm{T}_{2}\\right) \\\\ \\therefore \\mathrm{W}=\\mathrm{Q}_{1}-\\mathrm{Q}_{2}=\\mathrm{c}_{\\mathrm{p}}\\left(\\mathrm{T}_{1}+\\mathrm{T}_{2}-2 \\mathrm{~T}_{\\mathrm{F}}\\right) \\end{array} \\]</p><p>For W to be \\(\\max , T_{F}\\) to be minimum</p><p>\\[ \\begin{array}{l} \\Delta S_{1}=\\int_{T_{1}}^{T_{F}} C_{p} \\frac{d T}{T}=C_{p} \\ln \\frac{T_{F}}{T_{1}} \\\\ \\Delta S_{2}=\\int_{T_{2}}^{T_{F}} C_{p} \\frac{d T}{T}=C_{p} \\ln \\frac{T_{F}}{T_{2}} \\end{array} \\]</p><p>As,</p><p>\\[ \\begin{array}{l} (\\Delta S)_{\\text {univ }} \\geq 0 \\quad \\therefore C_{p} \\ln \\frac{T_{F}}{T_{1}}+C_{p} \\ln \\frac{T_{F}}{T_{2}} \\geq 0 \\\\ \\therefore C_{p} \\ln \\left[\\frac{T_{F}^{2}}{T_{1} T_{2}}\\right] \\geq 0 \\end{array} \\]&nbsp;</p><p>Now,</p><p>For \\(T_{F}\\) to be minimum</p><p>\\[ \\begin{array}{l} \\ln \\frac{T_{F}^{2}}{T_{1} T_{2}}=0 \\quad \\therefore \\ln \\frac{T_{F}^{2}}{T_{1} T_{2}}=\\ln 1 \\\\ \\therefore T_{F}=\\sqrt{T_{1} T_{2}} \\end{array} \\]&nbsp;</p>",
+               "solved_by": "sai"
+            }
+         ],
+         "sources": {
+            "BOOKsource": [
+               "opti"
+            ],
+            "Examsource": [
+               "IISC"
+            ]
+         },
+         "sub_topic_name": "THE ENTROPY AND SECOND LAW OF THERMODYNAMICS",
+         "subject": "PHYSICS",
+         "topic_name": "THERMODYNAMICS",
+         "toughness": "MEDIUM"
+      }
+   ]
 }
