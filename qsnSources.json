@@ -1,27 +1,98 @@
 {
     "sources": {
-        "Exam_Source": [
-            "IIT-JAM",
-            "JEE-MAINS",
-            "JEE-ADV",
-            "CSIR-NET",
-            "CUET-PG",
-            "JEST",
-            "TIFR",
-            "GATE-PHY",
-            "DU",
-            "BHU",
-            "HCU",
-            "INPHO",
-            "IPHO","JNU","IISC","GATE-ENG"
-        ],
+        "Exam_Source": {
+            "IIT-JAM": [
+                "IIT-JAM-2005",
+                "IIT-JAM-2006",
+                "IIT-JAM-2007",
+                "IIT-JAM-2008",
+                "IIT-JAM-2009",
+                "IIT-JAM-2010",
+                "IIT-JAM-2011",
+                "IIT-JAM-2012",
+                "IIT-JAM-2013",
+                "IIT-JAM-2014",
+                "IIT-JAM-2015",
+                "IIT-JAM-2016",
+                "IIT-JAM-2017",
+                "IIT-JAM-2018",
+                "IIT-JAM-2019",
+                "IIT-JAM-2020",
+                "IIT-JAM-2021",
+                "IIT-JAM-2022",
+                "IIT-JAM-2023",
+                "IIT-JAM-2024"
+            ],
+            "JEE-MAINS": [],
+            "JEE-ADV": [],
+            "CSIR-NET": [],
+            "CUET-PG": [],
+            "JEST": [
+                "JEST-2012",
+                "JEST-2013",
+                "JEST-2014",
+                "JEST-2015",
+                "JEST-2016",
+                "JEST-2017",
+                "JEST-2018",
+                "JEST-2019",
+                "JEST-2020",
+                "JEST-2021",
+                "JEST-2022",
+                "JEST-2023",
+                "JEST-2024"
+            ],
+            "TIFR": [
+                "TIFR-2010",
+                "TIFR-2011",
+                "TIFR-2012",
+                "TIFR-2013",
+                "TIFR-2014",
+                "TIFR-2015",
+                "TIFR-2016",
+                "TIFR-2017",
+                "TIFR-2018",
+                "TIFR-2019",
+                "TIFR-2020",
+                "TIFR-2021",
+                "TIFR-2022",
+                "TIFR-2023",
+                "TIFR-2024"
+            ],
+            "GATE-PH": [
+                "GATE-PH-2010",
+                "GATE-PH-2011",
+                "GATE-PH-2012",
+                "GATE-PH-2013",
+                "GATE-PH-2014",
+                "GATE-PH-2015",
+                "GATE-PH-2016",
+                "GATE-PH-2017",
+                "GATE-PH-2018",
+                "GATE-PH-2019",
+                "GATE-PH-2020",
+                "GATE-PH-2021",
+                "GATE-PH-2022",
+                "GATE-PH-2023",
+                "GATE-PH-2024"
+            ],
+            "DU": [],
+            "BHU": [],
+            "HCU": [],
+            "INPHO": [],
+            "IPHO": [],
+            "JNU": [],
+            "IISC": [],
+            "GATE-ENG": []
+        },
         "Book_Source": [
             "IRODOV",
             "KROTOV",
             "GRIFFITH-EMT",
             "GRIFFITH-QM",
             "LIMSERIES",
-            "ce","cec",
+            "ce",
+            "cec",
             "opti",
             "asin",
             "quanta",
@@ -42,9 +113,9 @@
             "DSMATHUR",
             "A-BEISER",
             "ML-BOAS",
-            "KADLA","HAR-we-ch","gateacad"
-           
-            
+            "KADLA",
+            "HAR-we-ch",
+            "gateacad"
         ]
     },
     "TAGs": [
@@ -61,6 +132,8 @@
         "Mathematical",
         "CAN BE MULTIPLE",
         "NOT SOLVED BY ME",
-        "Veriety","Practice","TEST"
+        "Veriety",
+        "Practice",
+        "TEST"
     ]
 }
